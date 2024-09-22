@@ -28,7 +28,7 @@ This campaign takes place in *Critical Role's* world of Exandria, beginning in t
 ## Character Options
 
 - Player characters begin this adventure at level 3. Character advancement will be milestone-based. 
-- All the races, classes, and backgrounds from the [Player’s Handbook](https://www.dndbeyond.com/sources/phb) and [Explorer's Guide to Wildemount](https://www.dndbeyond.com/sources/dnd/egtw) are available for this campaign. The dominant races of Wildemount are **dwarves**, **elves**, **halflings**, and **humans**.
+- All the races, classes, and backgrounds from the [Player’s Handbook](https://www.dndbeyond.com/sources/phb) and [Explorer's Guide to Wildemount](https://www.dndbeyond.com/sources/dnd/egtw) are available for this campaign. 
 - Regardless of race, players may also give their characters the [Hollow One](https://www.dndbeyond.com/sources/dnd/egtw/character-options#HollowOne)  supernatural gift. 
 - Deities must be from the pantheon in [Explorer's Guide to Wildemount](https://www.dndbeyond.com/sources/dnd/egtw). 
 - No evil characters.
