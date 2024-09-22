@@ -5,7 +5,7 @@ permalink:
 aliases: 
 tags: 
 draft: true
-date: {{date}}
+date: 
 cssclasses:
 ---
 
