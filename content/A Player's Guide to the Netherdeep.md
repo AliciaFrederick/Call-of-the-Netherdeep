@@ -25,7 +25,7 @@ cssclasses:
 
 ## Setting
 
-This campaign takes place in *Critical Role's* world of Exandria. The characters are an established adventuring party hailing from Jigow, and have returned for the town's annual Festival of Merit. 
+This campaign takes place in *Critical Role's* world of Exandria. The characters are an established adventuring party who find themselves in [[Jigow]] during the city's annual Festival of Merit. 
 
 ## Character Options
 
