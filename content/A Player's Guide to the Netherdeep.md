@@ -26,6 +26,16 @@ cssclasses:
 
 This campaign takes place in *Critical Role's* world of Exandria, beginning in the small town of Jigow in Xorhas on the continent of Wildemount. 
 
+## Character Options
+
+The dominant races of Wildemount are **dwarves**, **elves**, **halflings**, and **humans**.
+
+All the races, classes, and backgrounds from the [Player’s Handbook](https://www.dndbeyond.com/sources/phb) and [Explorer's Guide to Wildemount](https://www.dndbeyond.com/sources/dnd/egtw) are available for this campaign.
+
+Regardless of race, players may also give their characters the [Hollow One](https://www.dndbeyond.com/sources/dnd/egtw/character-options#HollowOne)  supernatural gift. 
+
+No evil characters.
+
 ## What the Characters Know
 
 Characters begin the adventure knowing the following facts.
@@ -40,20 +50,3 @@ _**The Luxon.**_ The official deity of the Kryn Dynasty, whose symbol appears o
 
 If a follower of the Luxon who has undergone the ritual of consecution dies within 100 miles of a Luxon beacon, their soul is ensnared by it and reincarnated within the body of a random Humanoid newborn within 100 miles of the beacon.
 
-## Character Options
-
-### Races
-
-The dominant races of Wildemount are **dwarves**, **elves**, **halflings**, and **humans**.
-
-All the races,  of the [Player’s Handbook](https://www.dndbeyond.com/sources/phb) and [Explorer's Guide to Wildemount](https://www.dndbeyond.com/sources/dnd/egtw/character-options) are available for this campaign.
-
-Regardless of race, players may also give their characters the [Hollow One](https://www.dndbeyond.com/sources/dnd/egtw/character-options#HollowOne)  supernatural gift. 
-
-### Subclasses
-
-All the subclasses from the [Player's Handbook](https://www.dndbeyond.com/sources/phb) and [Explorer's Guide to Wildemount](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#Subclasses) are available for this campaign. 
-
-### Backgrounds
-
-All the backgrounds from the [Player’s Handbook](https://www.dndbeyond.com/sources/phb) and [Explorer's Guide to Wildemount](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#Backgrounds) are available for this campaign. 
