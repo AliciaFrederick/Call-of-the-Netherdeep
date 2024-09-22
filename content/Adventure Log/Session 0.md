@@ -8,4 +8,5 @@ draft: false
 date: 
 cssclasses:
 ---
-TBD 
+- Fill out the [[Player Survey]] 
+- TBD
