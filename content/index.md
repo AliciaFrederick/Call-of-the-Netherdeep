@@ -10,7 +10,7 @@ cssclasses:
 ---
 Next Session: Date TBD
 
-[[A Player's Guide to the Netherdeep]] 
+[[A Player's Guide to the Netherdeep]] <== Start here!
 
 ![[cotn-cover.jpg]] 
 
