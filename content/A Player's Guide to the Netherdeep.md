@@ -241,11 +241,11 @@ As an action, you can magically emit a powerful field of gravitational energy th
 
 Once you use this feature, you can’t do so again until you finish a long rest or until you expend a spell slot of 3rd level or higher on it.
 
-## Dunamancy Spells
+#### Dunamancy Spells
 
 This section presents a sampling of spells developed through the manipulation of dunamis. These spells are available to the wizard subclasses previously mentioned in this chapter, as well as other spellcasting classes with the Dungeon Master’s consent (see the “Dunamancy for Non-Dunamancers” sidebar).
 
-### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#DunamancySpellList)Dunamancy Spell List
+##### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#DunamancySpellList)Dunamancy Spell List
 
 **Cantrips**
 
@@ -307,11 +307,11 @@ The esoteric powers developed and harnessed through the use of dunamis are still
 
 Dunamancy spells are readily available to the wizard subclasses in this chapter and should not be simply added to the full spell lists of other spellcasting classes. However, the Dungeon Master can consider allowing other spellcasting classes opportunities throughout the campaign to learn a handful of dunamancy-themed spells as rewards. Perhaps the characters uncover a cache of magical contraband, among which is a couple of [spell scrolls](https://www.dndbeyond.com/magic-items/5418-spell-scroll), or a traveling acolyte takes some downtime with a friendly cleric character and opens their mind to some of the stranger secrets of the universe, unlocking a spell or two. There are many unique ways to bring these spells into your game without requiring any specific dunamis-wielding subclasses to be present in the adventuring party.
 
-## [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#SpellDescriptions)Spell Descriptions
+#### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#SpellDescriptions)Spell Descriptions
 
 The spells are presented in alphabetical order.
 
-### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#DarkStar)[Dark Star](https://www.dndbeyond.com/spells/416800-dark-star)
+##### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#DarkStar)[Dark Star](https://www.dndbeyond.com/spells/416800-dark-star)
 
 _8th-level evocation_
 
@@ -333,7 +333,7 @@ Any creature that enters the spell’s area for the first time on a turn or star
 
 Dark Star
 
-### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#FortunesFavor)[Fortune’s Favor](https://www.dndbeyond.com/spells/176232-fortunes-favor)
+##### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#FortunesFavor)[Fortune’s Favor](https://www.dndbeyond.com/spells/176232-fortunes-favor)
 
 _2nd-level divination_
 
@@ -351,7 +351,7 @@ If the original d20 roll has advantage or disadvantage, the creature rolls the a
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
-### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#GiftofAlacrity)[Gift of Alacrity](https://www.dndbeyond.com/spells/176233-gift-of-alacrity)
+##### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#GiftofAlacrity)[Gift of Alacrity](https://www.dndbeyond.com/spells/176233-gift-of-alacrity)
 
 _1st-level divination_
 
@@ -365,7 +365,7 @@ _1st-level divination_
 
 You touch a willing creature. For the duration, the target can add 1d8 to its initiative rolls.
 
-### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#GravityFissure)[Gravity Fissure](https://www.dndbeyond.com/spells/416801-gravity-fissure)
+##### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#GravityFissure)[Gravity Fissure](https://www.dndbeyond.com/spells/416801-gravity-fissure)
 
 _6th-level evocation_
 
@@ -383,7 +383,7 @@ Each creature within 10 feet of the line but not in it must succeed on a Constit
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 7th level or higher, the damage increases by 1d8 for each slot level above 6th.
 
-### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#GravitySinkhole)[Gravity Sinkhole](https://www.dndbeyond.com/spells/416802-gravity-sinkhole)
+##### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#GravitySinkhole)[Gravity Sinkhole](https://www.dndbeyond.com/spells/416802-gravity-sinkhole)
 
 _4th-level evocation_
 
@@ -399,7 +399,7 @@ A 20-foot-radius sphere of crushing force forms at a point you can see within ra
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d10 for each slot level above 4th.
 
-### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#ImmovableObject)[Immovable Object](https://www.dndbeyond.com/spells/416803-immovable-object)
+##### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#ImmovableObject)[Immovable Object](https://www.dndbeyond.com/spells/416803-immovable-object)
 
 _2nd-level transmutation_
 
@@ -417,7 +417,7 @@ If the object is fixed in the air, it can hold up to 4,000 pounds of weight. Mor
 
 **_At Higher Levels._** If you cast this spell using a spell slot of 4th or 5th level, the DC to move the object increases by 5, it can carry up to 8,000 pounds of weight, and the duration increases to 24 hours. If you cast this spell using a spell slot of 6th level or higher, the DC to move the object increases by 10, it can carry up to 20,000 pounds of weight, and the effect is permanent until dispelled.
 
-### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#MagnifyGravity)[Magnify Gravity](https://www.dndbeyond.com/spells/416804-magnify-gravity)
+##### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#MagnifyGravity)[Magnify Gravity](https://www.dndbeyond.com/spells/416804-magnify-gravity)
 
 _1st-level transmutation_
 
@@ -435,7 +435,7 @@ Until the start of your next turn, any object that isn’t being worn or carried
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
 
-### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#PulseWave)[Pulse Wave](https://www.dndbeyond.com/spells/416805-pulse-wave)
+##### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#PulseWave)[Pulse Wave](https://www.dndbeyond.com/spells/416805-pulse-wave)
 
 _3rd-level evocation_
 
@@ -453,7 +453,7 @@ In addition, unsecured objects that are completely within the cone are likewise 
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 and the distance pulled or pushed increases by 5 feet for each slot level above 3rd.
 
-### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#RavenousVoid)[Ravenous Void](https://www.dndbeyond.com/spells/416806-ravenous-void)
+##### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#RavenousVoid)[Ravenous Void](https://www.dndbeyond.com/spells/416806-ravenous-void)
 
 _9th-level evocation_
 
@@ -471,7 +471,7 @@ When the sphere appears and at the start of each of your turns until the spell e
 
 A creature that starts its turn within 100 feet of the sphere must succeed on a Strength saving throw or be pulled straight toward the sphere’s center, ending in an unoccupied space as close to the center as possible. A creature that enters the sphere for the first time on a turn or starts its turn there takes 5d10 force damage and is [restrained](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#RestrainedCondition) until it is no longer in the sphere. If the sphere is in the air, the [restrained](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#RestrainedCondition) creature hovers inside the sphere. A creature can use its action to make a Strength check against your spell save DC, ending this [restrained](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#RestrainedCondition) condition on itself or another creature in the sphere that it can reach. A creature reduced to 0 hit points by this spell is annihilated, along with any nonmagical items it is wearing or carrying.
 
-### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#RealityBreak)[Reality Break](https://www.dndbeyond.com/spells/416807-reality-break)
+##### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#RealityBreak)[Reality Break](https://www.dndbeyond.com/spells/416807-reality-break)
 
 _8th-level conjuration_
 
@@ -487,7 +487,7 @@ You shatter the barriers between realities and timelines, thrusting a creature i
 
 At the end of each of its turns, the affected target can repeat the Wisdom saving throw, ending the spell on itself on a success.
 
-#### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#RealityBreakEffects)Reality Break Effects
+###### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#RealityBreakEffects)Reality Break Effects
 |d10|Effect|
 |---|---|
 |1–2|**Vision of the Far Realm.** The target takes 6d12 psychic damage, and it is [stunned](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#StunnedCondition) until the end of the turn.|
@@ -499,7 +499,7 @@ At the end of each of its turns, the affected target can repeat the Wisdom savin
 
 Reality Break
 
-### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#SappingSting)[Sapping Sting](https://www.dndbeyond.com/spells/416808-sapping-sting)
+##### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#SappingSting)[Sapping Sting](https://www.dndbeyond.com/spells/416808-sapping-sting)
 
 _Necromancy cantrip_
 
@@ -515,7 +515,7 @@ You sap the vitality of one creature you can see in range. The target must succe
 
 This spell’s damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
 
-### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#TemporalShunt)[Temporal Shunt](https://www.dndbeyond.com/spells/416809-temporal-shunt)
+##### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#TemporalShunt)[Temporal Shunt](https://www.dndbeyond.com/spells/416809-temporal-shunt)
 
 _5th-level transmutation_
 
@@ -531,7 +531,7 @@ You target the triggering creature, which must succeed on a Wisdom saving throw 
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature for each slot level above 5th. All targets must be within 30 feet of each other.
 
-### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#TetherEssence)[Tether Essence](https://www.dndbeyond.com/spells/416810-tether-essence)
+##### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#TetherEssence)[Tether Essence](https://www.dndbeyond.com/spells/416810-tether-essence)
 
 _7th-level necromancy_
 
@@ -545,7 +545,7 @@ _7th-level necromancy_
 
 Two creatures you can see within range must make a Constitution saving throw, with disadvantage if they are within 30 feet of each other. Either creature can willingly fail the save. If either save succeeds, the spell has no effect. If both saves fail, the creatures are magically linked for the duration, regardless of the distance between them. When damage is dealt to one of them, the same damage is dealt to the other one. If hit points are restored to one of them, the same number of hit points are restored to the other one. If either of the tethered creatures is reduced to 0 hit points, the spell ends on both. If the spell ends on one creature, it ends on both.
 
-### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#TimeRavage)[Time Ravage](https://www.dndbeyond.com/spells/416811-time-ravage)
+##### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#TimeRavage)[Time Ravage](https://www.dndbeyond.com/spells/416811-time-ravage)
 
 _9th-level necromancy_
 
@@ -559,7 +559,7 @@ _9th-level necromancy_
 
 You target a creature you can see within range, putting its physical form through the devastation of rapid aging. The target must make a Constitution saving throw, taking 10d12 necrotic damage on a failed save, or half as much damage on a successful one. If the save fails, the target also ages to the point where it has only 30 days left before it dies of old age. In this aged state, the target has disadvantage on attack rolls, ability checks, and saving throws, and its walking speed is halved. Only the [wish](https://www.dndbeyond.com/spells/2303-wish) spell or the [greater restoration](https://www.dndbeyond.com/spells/2129-greater-restoration) cast with a 9th-level spell slot can end these effects and restore the target to its previous age.
 
-### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#Wristpocket)[Wristpocket](https://www.dndbeyond.com/spells/416812-wristpocket)
+##### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#Wristpocket)[Wristpocket](https://www.dndbeyond.com/spells/416812-wristpocket)
 
 _2nd-level conjuration (ritual)_
 
