@@ -8,4 +8,7 @@ draft: false
 date: 
 cssclasses:
 ---
-TBD 
+Characters from the campaign appear here.
+
+[[Player Characters]] 
+[[NPCs]] 

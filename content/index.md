@@ -16,7 +16,7 @@ cssclasses:
 	- [[Player Characters]] 
 	- [[NPCs]]  
 - [[Wiki]] 
-- [[+ Player Atlas|Maps]] 
+- [[Maps|Maps]] 
 
 %%
 ## DM Notes

@@ -8,7 +8,7 @@ draft: false
 date: 
 cssclasses:
 ---
-Maps provided to the party will appear here.
+Maps given to the party appear here.
 
 %% 
 - [[Jigow]] 
