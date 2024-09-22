@@ -60,7 +60,7 @@ Regardless of race, players may also give their characters the [[Hollow One]] su
 ### Subclasses
 
 This section includes three new subclass options: the [Echo Knight](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#EchoKnight) for the fighter and [Chronurgy Magic](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#ChronurgyMagic) and [Graviturgy Magic](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#GraviturgyMagic) for the wizard.
-
+%% 
 #### Dunamis and Dunamancy
 
 Dunamis is the primal magical energy of potentiality and actuality, an anticipatory arcane force that helps shape the multiverse and might very well be what holds its elements together, like an infinite web of unseen tethers. Manifesting as a translucent gray energy that shimmers and drifts like an ethereal cloud of mist when gathered, dunamis darkens as it vibrates and condenses to the moment of action or invocation, manipulating fundamental aspects of reality. Those who study to control and tap into this near-invisible power can subtly bend the flow of time and space by controlling the forces of localized gravity, peering into possible timelines to shift fate in their favor, and scattering the potential energy of their enemies to rob them of their potency.
@@ -574,29 +574,7 @@ _2nd-level conjuration (ritual)_
 You flick your wrist, causing one object in your hand to vanish. The object, which only you can be holding and can weigh no more than 5 pounds, is transported to an extradimensional space, where it remains for the duration.
 
 Until the spell ends, you can use your action to summon the object to your free hand, and you can use your action to return the object to the extradimensional space. An object still in the pocket plane when the spell ends appears in your space, at your feet.
-
+ %%
 ### Backgrounds
 
-All the backgrounds from the [Player’s Handbook](https://www.dndbeyond.com/sources/phb) fit perfectly into Wildemount. Additionally, though, a number of existing backgrounds can be adapted to represent specific factions in the campaign.
-
-#### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#AcolyteLuxonborn)Acolyte (Luxonborn)
-
-Every acolyte is a servant of some god. But you serve the Luxon, a being that you believe transcends godhood and created the cosmos. No mere priest, you are a student of potential, for the Luxon is potentiality incarnate. Your Shelter of the Faithful feature applies to all who venerate the Luxon, and to all who practice the art of dunamancy that the Luxon bestowed upon the world.
-
-#### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#CriminalMyriadOperative)Criminal (Myriad Operative)
-
-Most criminals in Wildemount are petty thieves and cutpurses who operate out of desperation. You, however, are a criminal of a higher caliber. You are a member of the Myriad, the greatest crime syndicate to ever grace the face of Exandria. You have a network of criminal contacts and allies to help you in your crimes—but you also have rivals and superiors that would gladly throw you to the wolves to save their own skins.
-
-The Myriad has bases of operation in every major city outside Eastern Wynandir, even if those bases are made up of only two or three members. Wherever you find the Myriad, you can find temporary shelter from the law—for a price.
-
-#### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#SailorRevelryPirate)Sailor (Revelry Pirate)
-
-It seems that just about everyone is a sailor on the Menagerie Coast. Plenty of pirates ply the waters of the coast as well, but none are as infamous or as organized as the mighty Revelry. If you’re a pirate of the Revelry, you serve the Plank King and return a cut of all your plunder to him on the island of Darktow.
-
-The Revelry doesn’t take kindly to traitors and deserters, so if you count yourself a former member of that crew, you’ll want to watch your back while traveling on the Menagerie Coast. Thugs might hassle you and your allies until you even the score with the Revelry, either by paying up, submitting to imprisonment, or proving that you’re too dangerous to tangle with.
-
-#### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#SageCobaltScholar)Sage (Cobalt Scholar)
-
-The Cobalt Soul is an organization of monastic scholars dedicated to preserving knowledge and recorded history, not just across Wildemount but all of Exandria. Its operations are primarily based out of the cities of Zadash and Rexxentrum in the Dwendalian Empire, and you likely studied at one of those sites.
-
-As a rank-and-file pupil of the Cobalt Soul, you adventure to help expand your mind. Alternatively (and with the DM’s permission), you might also take on a more specific role within the organization. Expositors are secret agents who gather information in the field, while archivists are the curators who ensure the well-being of the Cobalt Soul’s many Archives. Monks of the Cobalt Soul are enlightened scholars who lead expeditions into ancient and forgotten places, hoping to reclaim their lost knowledge and history.
+All the backgrounds from the [Player’s Handbook](https://www.dndbeyond.com/sources/phb) and [Explorer's Guide to Wildemount]() are available for this campaign. 
