@@ -11,9 +11,9 @@ cssclasses:
 ## Basic Campaign Details
 
 - System: D&D 5e 
-- [Join the campaign](https://www.dndbeyond.com/campaigns/join/5938581356242320) for access to source material, including player options
-- VTT: [Owlbear Rodeo](https://www.owlbear.rodeo/room/BaGN2KPVM902/TheHomeyLeaf) 
+- [Join the campaign](https://www.dndbeyond.com/campaigns/join/5938581356242320) for access to source material on D&D Beyond
 - [[Player Survey]] 
+- VTT: [Owlbear Rodeo](https://www.owlbear.rodeo/room/BaGN2KPVM902/TheHomeyLeaf) 
 - ...
 
 ## Themes
