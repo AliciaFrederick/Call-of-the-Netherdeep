@@ -10,10 +10,9 @@ cssclasses:
 ---
 ## Basic Campaign Details
 
-- [Join the campaign](https://www.dndbeyond.com/campaigns/join/5938581356242320) for access to source material / player options
 - System: D&D 5e (2014)
+- [Join the campaign](https://www.dndbeyond.com/campaigns/join/5938581356242320) for access to source material, including player options
 - VTT: [Owlbear Rodeo](https://www.owlbear.rodeo/room/BaGN2KPVM902/TheHomeyLeaf) 
-- 
 - ...
 
 ## Themes
@@ -22,6 +21,10 @@ cssclasses:
 - Underwater exploration 
 - Rescue mission 
 - Faction politics 
+
+## Setting
+
+This campaign takes place in *Critical Role's* world of Exandria, beginning in the small town of Jigow in Xorhas on the continent of Wildemount. 
 
 ## What the Characters Know
 
@@ -43,7 +46,7 @@ If a follower of the Luxon who has undergone the ritual of consecution dies with
 
 The dominant races of Wildemount are **dwarves**, **elves**, **halflings**, and **humans**.
 
-All the races of the [Player’s Handbook](https://www.dndbeyond.com/sources/phb) and [Explorer's Guide to Wildemount](https://www.dndbeyond.com/sources/dnd/egtw/character-options) are available for this campaign.
+All the races,  of the [Player’s Handbook](https://www.dndbeyond.com/sources/phb) and [Explorer's Guide to Wildemount](https://www.dndbeyond.com/sources/dnd/egtw/character-options) are available for this campaign.
 
 Regardless of race, players may also give their characters the [Hollow One](https://www.dndbeyond.com/sources/dnd/egtw/character-options#HollowOne)  supernatural gift. 
 
