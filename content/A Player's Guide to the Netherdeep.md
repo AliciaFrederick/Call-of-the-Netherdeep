@@ -10,10 +10,17 @@ cssclasses:
 ---
 ## Basic Campaign Details
 
+- [Join the campaign](https://www.dndbeyond.com/campaigns/join/5938581356242320) for access to source material / player options
 - System: D&D 5e (2014)
-- VTT: Owlbear Rodeo
+- VTT: [Owlbear Rodeo](https://www.owlbear.rodeo/room/BaGN2KPVM902/TheHomeyLeaf) 
 - 
 - ...
+
+## Themes
+
+- Friendly rivalry
+- Underwater exploration 
+- Emotional anguish 
 
 ## What the Characters Know
 
