@@ -1,4 +1,14 @@
-
+---
+title: Maps
+description: 
+permalink: 
+aliases: 
+tags: 
+draft: false
+date: 
+cssclasses:
+---
+Maps provided to the party will appear here.
 
 %% 
 - [[Jigow]] 

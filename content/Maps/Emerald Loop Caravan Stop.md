@@ -1,3 +1,14 @@
+---
+title: 
+description: 
+permalink: 
+aliases: 
+tags: 
+draft: true
+date: 
+cssclasses:
+---
+
 ![[map-2.2-Emerald-Loop-Caravan-Stop-player.jpg]] 
 
 %%

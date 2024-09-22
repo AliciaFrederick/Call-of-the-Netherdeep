@@ -1,3 +1,13 @@
+---
+title: 
+description: 
+permalink: 
+aliases: 
+tags: 
+draft: true
+date: 
+cssclasses:
+---
 
 ![[map-1.1-Jigow.jpg]] 
 ![[map-1.2-Emerald-Grotto.jpg]] 
