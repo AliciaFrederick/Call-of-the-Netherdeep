@@ -12,13 +12,7 @@ Next Session: Date TBD
 
 ![[cotn-cover.jpg]] 
 
-- [[A Player's Guide to the Netherdeep]] 
-- [[Adventure Log|Adventure Log]]   
-- [[Characters]] 
-	- [[Player Characters]] 
-	- [[NPCs]]  
-- [[Maps|Maps]] 
-- [[Wiki]] 
+
 
 %%
 ## DM Notes
