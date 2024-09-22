@@ -8,9 +8,9 @@ draft: false
 date: 2024-09-21
 cssclasses:
 ---
-Next Session: Date TBD
-
 [[A Player's Guide to the Netherdeep]] 
+
+Next Session: Date TBD
 
 ![[cotn-cover.jpg]] 
 
