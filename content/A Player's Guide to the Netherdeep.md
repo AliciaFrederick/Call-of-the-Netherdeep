@@ -36,7 +36,7 @@ This campaign takes place in *Critical Role's* world of Exandria. The characters
 	- 1 common magic item
 	- 50 gp
 - All the races, classes, and backgrounds from the source material are available for this campaign. 
-- Characters with any divine aspects (cleric, paladin, etc.) must use the pantheon in [Explorer's Guide to Wildemount](https://www.dndbeyond.com/sources/dnd/egtw). 
+- Characters with any divine aspects (cleric, paladin, etc.) must use the [Pantheon of Exandria](https://www.dndbeyond.com/sources/dnd/egtw/story-of-wildemount#PantheonofExandria). 
 - Regardless of race, players may also give their characters the [Hollow One](https://www.dndbeyond.com/sources/dnd/egtw/character-options#HollowOne)  supernatural gift. 
 - No evil characters.
 
