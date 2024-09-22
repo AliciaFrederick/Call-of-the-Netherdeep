@@ -17,10 +17,8 @@ cssclasses:
 
 ## Themes
 
-- Friendly rivalry
+- Friendly rivalry and competition
 - Underwater exploration 
-- Rescue mission 
-- Faction politics 
 
 ## Setting
 
