@@ -53,5 +53,5 @@ In addition to the races of the [Player’s Handbook](https://www.dndbeyond.com
 
 Even more additional race options appear in [Monsters of the Multiverse](https://www.dndbeyond.com/sources/motm "Monsters of the Multiverse"), with **bugbear**, **duergar**, **goblin**, **hobgoblin**, **kobold**, **lizardfolk**, **minotaur**, and **orc** being appropriate choices for players who want their characters to come from cultures or societies with roots in Xhorhas.
 
-Regardless of race, players may also give their characters the [[Hollow One]] supernatural gif. 
+Regardless of race, players may also give their characters the [[Hollow One]] supernatural gift. 
 
