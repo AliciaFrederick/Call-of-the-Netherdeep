@@ -20,7 +20,8 @@ cssclasses:
 
 - Friendly rivalry
 - Underwater exploration 
-- Emotional anguish 
+- Rescue mission 
+- Faction politics 
 
 ## What the Characters Know
 
