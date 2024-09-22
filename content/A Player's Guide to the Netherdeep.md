@@ -13,6 +13,7 @@ cssclasses:
 - System: D&D 5e (2014)
 - [Join the campaign](https://www.dndbeyond.com/campaigns/join/5938581356242320) for access to source material, including player options
 - VTT: [Owlbear Rodeo](https://www.owlbear.rodeo/room/BaGN2KPVM902/TheHomeyLeaf) 
+- [[Player Survey]] 
 - ...
 
 ## Themes
@@ -24,7 +25,7 @@ cssclasses:
 
 ## Setting
 
-This campaign takes place in *Critical Role's* world of Exandria, beginning in the small town of Jigow in Xorhas on the continent of Wildemount. The characters are an established adventuring party who 
+This campaign takes place in *Critical Role's* world of Exandria. The characters are an established adventuring party hailing from Jigow, and have returned for the town's annual [[Festival of Merit]]. 
 
 ## Character Options
 
