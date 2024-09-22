@@ -301,11 +301,11 @@ _[time ravage](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subc
 
 ** graviturgy spell
 
-DUNAMANCY FOR NON-DUNAMANCERS
-
-The esoteric powers developed and harnessed through the use of dunamis are still very much a rare and carefully guarded feature of the Kryn Dynasty in Wildemount. However, such arcana is hard to keep hidden, especially in times of war. Spies and defectors have long smuggled out the secrets of this obscure magical practice, and even now it slowly disseminates beyond Xhorhas.
-
-Dunamancy spells are readily available to the wizard subclasses in this chapter and should not be simply added to the full spell lists of other spellcasting classes. However, the Dungeon Master can consider allowing other spellcasting classes opportunities throughout the campaign to learn a handful of dunamancy-themed spells as rewards. Perhaps the characters uncover a cache of magical contraband, among which is a couple of [spell scrolls](https://www.dndbeyond.com/magic-items/5418-spell-scroll), or a traveling acolyte takes some downtime with a friendly cleric character and opens their mind to some of the stranger secrets of the universe, unlocking a spell or two. There are many unique ways to bring these spells into your game without requiring any specific dunamis-wielding subclasses to be present in the adventuring party.
+> [!INFO] DUNAMANCY FOR NON-DUNAMANCERS
+> 
+> The esoteric powers developed and harnessed through the use of dunamis are still very much a rare and carefully guarded feature of the Kryn Dynasty in Wildemount. However, such arcana is hard to keep hidden, especially in times of war. Spies and defectors have long smuggled out the secrets of this obscure magical practice, and even now it slowly disseminates beyond Xhorhas.
+> 
+> Dunamancy spells are readily available to the wizard subclasses in this chapter and should not be simply added to the full spell lists of other spellcasting classes. However, the Dungeon Master can consider allowing other spellcasting classes opportunities throughout the campaign to learn a handful of dunamancy-themed spells as rewards. Perhaps the characters uncover a cache of magical contraband, among which is a couple of [spell scrolls](https://www.dndbeyond.com/magic-items/5418-spell-scroll), or a traveling acolyte takes some downtime with a friendly cleric character and opens their mind to some of the stranger secrets of the universe, unlocking a spell or two. There are many unique ways to bring these spells into your game without requiring any specific dunamis-wielding subclasses to be present in the adventuring party.
 
 #### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#SpellDescriptions)Spell Descriptions
 
@@ -574,3 +574,29 @@ _2nd-level conjuration (ritual)_
 You flick your wrist, causing one object in your hand to vanish. The object, which only you can be holding and can weigh no more than 5 pounds, is transported to an extradimensional space, where it remains for the duration.
 
 Until the spell ends, you can use your action to summon the object to your free hand, and you can use your action to return the object to the extradimensional space. An object still in the pocket plane when the spell ends appears in your space, at your feet.
+
+### Backgrounds
+
+All the backgrounds from the [Player’s Handbook](https://www.dndbeyond.com/sources/phb) fit perfectly into Wildemount. Additionally, though, a number of existing backgrounds can be adapted to represent specific factions in the campaign.
+
+#### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#AcolyteLuxonborn)Acolyte (Luxonborn)
+
+Every acolyte is a servant of some god. But you serve the Luxon, a being that you believe transcends godhood and created the cosmos. No mere priest, you are a student of potential, for the Luxon is potentiality incarnate. Your Shelter of the Faithful feature applies to all who venerate the Luxon, and to all who practice the art of dunamancy that the Luxon bestowed upon the world.
+
+#### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#CriminalMyriadOperative)Criminal (Myriad Operative)
+
+Most criminals in Wildemount are petty thieves and cutpurses who operate out of desperation. You, however, are a criminal of a higher caliber. You are a member of the Myriad, the greatest crime syndicate to ever grace the face of Exandria. You have a network of criminal contacts and allies to help you in your crimes—but you also have rivals and superiors that would gladly throw you to the wolves to save their own skins.
+
+The Myriad has bases of operation in every major city outside Eastern Wynandir, even if those bases are made up of only two or three members. Wherever you find the Myriad, you can find temporary shelter from the law—for a price.
+
+#### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#SailorRevelryPirate)Sailor (Revelry Pirate)
+
+It seems that just about everyone is a sailor on the Menagerie Coast. Plenty of pirates ply the waters of the coast as well, but none are as infamous or as organized as the mighty Revelry. If you’re a pirate of the Revelry, you serve the Plank King and return a cut of all your plunder to him on the island of Darktow.
+
+The Revelry doesn’t take kindly to traitors and deserters, so if you count yourself a former member of that crew, you’ll want to watch your back while traveling on the Menagerie Coast. Thugs might hassle you and your allies until you even the score with the Revelry, either by paying up, submitting to imprisonment, or proving that you’re too dangerous to tangle with.
+
+#### [](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#SageCobaltScholar)Sage (Cobalt Scholar)
+
+The Cobalt Soul is an organization of monastic scholars dedicated to preserving knowledge and recorded history, not just across Wildemount but all of Exandria. Its operations are primarily based out of the cities of Zadash and Rexxentrum in the Dwendalian Empire, and you likely studied at one of those sites.
+
+As a rank-and-file pupil of the Cobalt Soul, you adventure to help expand your mind. Alternatively (and with the DM’s permission), you might also take on a more specific role within the organization. Expositors are secret agents who gather information in the field, while archivists are the curators who ensure the well-being of the Cobalt Soul’s many Archives. Monks of the Cobalt Soul are enlightened scholars who lead expeditions into ancient and forgotten places, hoping to reclaim their lost knowledge and history.
