@@ -29,14 +29,14 @@ This campaign takes place in *Critical Role's* world of Exandria. The characters
 
 ## Character Options
 
-- Sourcebooks for this adventure are the [Player’s Handbook](https://www.dndbeyond.com/sources/phb) (PHB) and [Explorer's Guide to Wildemount](https://www.dndbeyond.com/sources/dnd/egtw). Additional sources may be used at the DM's discretion.  
+- Sourcebooks for this adventure are the [Player’s Handbook](https://www.dndbeyond.com/sources/phb) (PHB) and [Explorer's Guide to Wildemount](https://www.dndbeyond.com/sources/dnd/egtw) (EGW). Additional sources may be used at the DM's discretion.  
 - Player characters begin this adventure at level 3. Character advancement is milestone-based and will end at level 13. 
-- All the races, classes, and backgrounds from the source material are available for this campaign. Players are encouraged to use the Heroic Chronicle
-- Characters with any divine aspects (cleric, paladin, etc.) must use the [Pantheon of Exandria](https://www.dndbeyond.com/sources/dnd/egtw/story-of-wildemount#PantheonofExandria). 
-- Regardless of race, players may also give their characters the [Hollow One](https://www.dndbeyond.com/sources/dnd/egtw/character-options#HollowOne)  supernatural gift. 
+- All the races, classes, and backgrounds from the source material are available for this campaign. 
+- Players are encouraged to use the [Heroic Chronicle](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#HeroicChronicle) from EGW to ground their character in the world and establish their relationships among its people.
+- Characters with any divine aspects (cleric, paladin, etc.) must use the [Pantheon of Exandria](https://www.dndbeyond.com/sources/dnd/egtw/story-of-wildemount#PantheonofExandria) from EGW. 
 - In addition to standard level 1 starting equipment, each character may include in their inventory: 
 	- 1 healing potion 
-	- 1 common magic item
+	- 1 common magic item from either PHB or EGW
 	- 50 gp
 - No evil characters.
 
