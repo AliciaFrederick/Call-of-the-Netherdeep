@@ -10,5 +10,5 @@ cssclasses:
 ---
 Characters from the campaign appear here.
 
-[[Player Characters]] 
-[[NPCs]] 
+- [[Player Characters]] 
+- [[NPCs]] 
