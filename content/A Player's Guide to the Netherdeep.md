@@ -31,3 +31,22 @@ If a follower of the Luxon who has undergone the ritual of consecution dies with
 
 ## Character Options
 
+In addition to the races of the [Player’s Handbook](https://www.dndbeyond.com/sources/phb), Wildemount is home to many other races, including the following:
+
+**[Aarakocra](https://www.dndbeyond.com/sources/dnd/egtw/character-options#Aarakocra)**, bird-like humanoids who roost on isolated mountaintops
+
+**[Aasimar](https://www.dndbeyond.com/sources/dnd/egtw/character-options#Aasimar)**, beings who gain supernatural power from the angelic spark in their souls
+
+**[Firbolgs](https://www.dndbeyond.com/sources/dnd/egtw/character-options#Firbolgs)**, forest guardians who engage in peaceful methods to protect their homes
+
+**[Genasi](https://www.dndbeyond.com/sources/dnd/egtw/character-options#Genasi)**, humanoids imbued with elemental power as a result of their birth
+
+**[Goblins](https://www.dndbeyond.com/sources/dnd/egtw/character-options#Goblinkin)**, outcast scavengers descended from the experiments of a dark god
+
+**[Goliaths](https://www.dndbeyond.com/sources/dnd/egtw/character-options#Goliaths)**, hulking wanderers who dwell atop the highest mountains
+
+**[Kenku](https://www.dndbeyond.com/sources/dnd/egtw/character-options#Kenku)**, accursed corvine humanoids who can speak only using mimicry
+
+**[Tortles](https://www.dndbeyond.com/sources/dnd/egtw/character-options#Tortles)**, tortoise-like humanoids with an innate connection to the sea
+
+You may also take the [[Hollow One]]
