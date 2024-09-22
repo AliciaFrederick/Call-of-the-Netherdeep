@@ -24,7 +24,7 @@ cssclasses:
 
 ## Setting
 
-This campaign takes place in *Critical Role's* world of Exandria, beginning in the small town of Jigow in Xorhas on the continent of Wildemount. 
+This campaign takes place in *Critical Role's* world of Exandria, beginning in the small town of Jigow in Xorhas on the continent of Wildemount. The characters are an established adventuring party who 
 
 ## Character Options
 
