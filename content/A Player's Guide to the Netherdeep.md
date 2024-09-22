@@ -35,7 +35,9 @@ If a follower of the Luxon who has undergone the ritual of consecution dies with
 
 The dominant races of Wildemount are **dwarves**, **elves**, **halflings**, and **humans**.
 
-In addition to the races of the [Player’s Handbook](https://www.dndbeyond.com/sources/phb), Wildemount is home to many other races, including the following:
+In addition to the races of the [Player’s Handbook](https://www.dndbeyond.com/sources/phb) and [Explorer's Guide to Wildemount](https://www.dndbeyond.com/sources/dnd/egtw/character-options), players may choose  **bugbear**, **duergar**, **goblin**, **hobgoblin**, **kobold**, **lizardfolk**, **minotaur**, or **orc** from  being appropriate choices for players who want their characters to come from cultures or societies with roots in Xhorhas. 
+
+Wildemount is home to many other races, including the following:
 
 **[Aarakocra](https://www.dndbeyond.com/sources/dnd/egtw/character-options#Aarakocra)**, bird-like humanoids who roost on isolated mountaintops
 
@@ -59,7 +61,7 @@ Regardless of race, players may also give their characters the [[Hollow One]] su
 
 ### Subclasses
 
-All the subclasses from the [Player's Handbook](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#Subclasses) and , players may choose the [Echo Knight](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#EchoKnight) for a fighter or [Chronurgy Magic](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#ChronurgyMagic) or [Graviturgy Magic](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#GraviturgyMagic) for a wizard.
+All the subclasses from the [Player's Handbook](https://www.dndbeyond.com/sources/phb) and [Explorer's Guide to Wildemount](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#Subclasses) are available for this campaign. 
 
 ### Backgrounds
 
