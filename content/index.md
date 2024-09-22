@@ -8,6 +8,8 @@ draft: false
 date: 2024-09-21
 cssclasses:
 ---
+An epic *Critical Role* campaign for the world's greatest roleplaying game.
+
 [[A Player's Guide to the Netherdeep]] 
 
 Next Session: Date TBD
