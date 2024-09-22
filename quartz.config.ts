@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "AliciaFrederick.github.io/Call-of-the-Netherdeep",
-    ignorePatterns: ["private", "templates", ".obsidian", "DM Only", "Uncategorized", "Extras"],
+    ignorePatterns: ["private", "templates", ".obsidian", "DM Only", "Uncategorized"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",

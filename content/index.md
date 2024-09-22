@@ -8,15 +8,16 @@ draft: false
 date: 2024-09-21
 cssclasses:
 ---
+Next Session: Date TBD
 
 ![[cotn-cover.jpg]] 
 
 - [[Adventure Log|Adventure Log]]   
-- Characters
+- [[Characters]] 
 	- [[Player Characters]] 
 	- [[NPCs]]  
-- [[Wiki]] 
 - [[Maps|Maps]] 
+- [[Wiki]] 
 
 %%
 ## DM Notes
