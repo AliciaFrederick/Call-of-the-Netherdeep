@@ -1,6 +1,6 @@
 ---
 title: Welcome to the Campaign!
-description: 
+description: An epic *Critical Role* campaign for the world’s greatest roleplaying game.
 permalink: 
 aliases: 
 tags: 
