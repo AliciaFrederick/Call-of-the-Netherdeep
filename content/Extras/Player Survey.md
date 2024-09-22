@@ -23,3 +23,8 @@ cssclasses:
 3. What does each character like most about every other member of the adventuring party?
 4. Does the group have a patron?
 
+## Character Creation
+
+1. What’s one small heroic deed you’ve already accomplished?
+2. Do you give your trust easily, or do people have to earn your trust?
+3. What’s one thing you want more than anything else? How will being an adventurer help you achieve it?
