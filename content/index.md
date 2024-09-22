@@ -9,6 +9,7 @@ date: 2024-09-21
 cssclasses:
 ---
 Next Session: Date TBD
+System: D&D 5e
 
 ![[cotn-cover.jpg]] 
 
