@@ -297,7 +297,7 @@ _[ravenous void](https://www.dndbeyond.com/sources/dnd/egtw/character-options-su
 
 _[time ravage](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#TimeRavage)_* (necromancy)
 
-* chronurgy spell
+\* chronurgy spell
 
 ** graviturgy spell
 
