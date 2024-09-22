@@ -31,7 +31,7 @@ If a follower of the Luxon who has undergone the ritual of consecution dies with
 
 ## Character Options
 
-The dominant races of Wildemount are dwarves, elves, halflings, and humans.
+The dominant races of Wildemount are **dwarves**, **elves**, **halflings**, and **humans**.
 
 In addition to the races of the [Player’s Handbook](https://www.dndbeyond.com/sources/phb), Wildemount is home to many other races, including the following:
 
@@ -51,6 +51,7 @@ In addition to the races of the [Player’s Handbook](https://www.dndbeyond.com
 
 **[Tortles](https://www.dndbeyond.com/sources/dnd/egtw/character-options#Tortles)**, tortoise-like humanoids with an innate connection to the sea
 
-You may also take the [[Hollow One]] supernatural gift.
+Even more additional race options appear in [Monsters of the Multiverse](https://www.dndbeyond.com/sources/motm "Monsters of the Multiverse"), with **bugbear**, **duergar**, **goblin**, **hobgoblin**, **kobold**, **lizardfolk**, **minotaur**, and **orc** being appropriate choices for players who want their characters to come from cultures or societies with roots in Xhorhas.
 
-Additional race options appear in [Monsters of the Multiverse](https://www.dndbeyond.com/sources/motm "Monsters of the Multiverse"), with **bugbear**, **duergar**, **goblin**, hobgoblin, **kobold**, **lizardfolk**, **minotaur**, and **orc** being appropriate choices for players who want their characters to come from cultures or societies with roots in Xhorhas.
+Regardless of race, players may also give their characters the [[Hollow One]] supernatural gif. 
+

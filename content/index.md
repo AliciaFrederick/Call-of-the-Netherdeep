@@ -23,6 +23,8 @@ Next Session: Date TBD
 %%
 ## DM Notes
 
+https://aliciafrederick.github.io/Call-of-the-Netherdeep/ 
+
 `npx quartz sync`
 
 [[Ch 1 - A Fateful Competition]] 
