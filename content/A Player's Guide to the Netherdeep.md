@@ -35,29 +35,9 @@ If a follower of the Luxon who has undergone the ritual of consecution dies with
 
 The dominant races of Wildemount are **dwarves**, **elves**, **halflings**, and **humans**.
 
-In addition to the races of the [Player’s Handbook](https://www.dndbeyond.com/sources/phb) and [Explorer's Guide to Wildemount](https://www.dndbeyond.com/sources/dnd/egtw/character-options), players may choose  **bugbear**, **duergar**, **goblin**, **hobgoblin**, **kobold**, **lizardfolk**, **minotaur**, or **orc** from  being appropriate choices for players who want their characters to come from cultures or societies with roots in Xhorhas. 
+All the races of the [Player’s Handbook](https://www.dndbeyond.com/sources/phb) and [Explorer's Guide to Wildemount](https://www.dndbeyond.com/sources/dnd/egtw/character-options) are available for this campaign.
 
-Wildemount is home to many other races, including the following:
-
-**[Aarakocra](https://www.dndbeyond.com/sources/dnd/egtw/character-options#Aarakocra)**, bird-like humanoids who roost on isolated mountaintops
-
-**[Aasimar](https://www.dndbeyond.com/sources/dnd/egtw/character-options#Aasimar)**, beings who gain supernatural power from the angelic spark in their souls
-
-**[Firbolgs](https://www.dndbeyond.com/sources/dnd/egtw/character-options#Firbolgs)**, forest guardians who engage in peaceful methods to protect their homes
-
-**[Genasi](https://www.dndbeyond.com/sources/dnd/egtw/character-options#Genasi)**, humanoids imbued with elemental power as a result of their birth
-
-**[Goblins](https://www.dndbeyond.com/sources/dnd/egtw/character-options#Goblinkin)**, outcast scavengers descended from the experiments of a dark god
-
-**[Goliaths](https://www.dndbeyond.com/sources/dnd/egtw/character-options#Goliaths)**, hulking wanderers who dwell atop the highest mountains
-
-**[Kenku](https://www.dndbeyond.com/sources/dnd/egtw/character-options#Kenku)**, accursed corvine humanoids who can speak only using mimicry
-
-**[Tortles](https://www.dndbeyond.com/sources/dnd/egtw/character-options#Tortles)**, tortoise-like humanoids with an innate connection to the sea
-
-Even more race options appear in [Monsters of the Multiverse](https://www.dndbeyond.com/sources/motm "Monsters of the Multiverse"), with **bugbear**, **duergar**, **goblin**, **hobgoblin**, **kobold**, **lizardfolk**, **minotaur**, and **orc** being appropriate choices for players who want their characters to come from cultures or societies with roots in Xhorhas.
-
-Regardless of race, players may also give their characters the [[Hollow One]] supernatural gift. 
+Regardless of race, players may also give their characters the [Hollow One](https://www.dndbeyond.com/sources/dnd/egtw/character-options#HollowOne)  supernatural gift. 
 
 ### Subclasses
 
