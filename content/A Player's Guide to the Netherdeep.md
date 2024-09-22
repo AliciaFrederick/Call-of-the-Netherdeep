@@ -27,14 +27,15 @@ This campaign takes place in *Critical Role's* world of Exandria, beginning in t
 
 ## Character Options
 
-- Player characters begin this adventure at level 3. Character advancement will be milestone-based. 
+- Sourcebooks for this adventure are the [Player’s Handbook](https://www.dndbeyond.com/sources/phb) and [Explorer's Guide to Wildemount](https://www.dndbeyond.com/sources/dnd/egtw). Additional sources may be used at the DM's discretion.  
+- Player characters begin this adventure at level 3. Character advancement is milestone-based. 
 - In addition to standard level 1 starting equipment, each character may include in their inventory: 
 	- 1 healing potion 
 	- 1 common magic item
 	- 50 gp
-- All the races, classes, and backgrounds from the [Player’s Handbook](https://www.dndbeyond.com/sources/phb) and [Explorer's Guide to Wildemount](https://www.dndbeyond.com/sources/dnd/egtw) are available for this campaign. 
+- All the races, classes, and backgrounds from the source material are available for this campaign. 
+- Characters with any divine features (cleric, paladin, etc.) must use the pantheon in [Explorer's Guide to Wildemount](https://www.dndbeyond.com/sources/dnd/egtw). 
 - Regardless of race, players may also give their characters the [Hollow One](https://www.dndbeyond.com/sources/dnd/egtw/character-options#HollowOne)  supernatural gift. 
-- Deities must be from the pantheon in [Explorer's Guide to Wildemount](https://www.dndbeyond.com/sources/dnd/egtw). 
 - No evil characters.
 
 ## What the Characters Know
