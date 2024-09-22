@@ -10,9 +10,9 @@ cssclasses:
 ---
 ## Basic Campaign Details
 
-- System: D&D 5e 
-- [Join the campaign](https://www.dndbeyond.com/campaigns/join/5938581356242320) for access to source material on D&D Beyond
 - [[Player Survey]] 
+- [Join the campaign](https://www.dndbeyond.com/campaigns/join/5938581356242320) for access to source material on D&D Beyond
+- System: D&D 5e 
 - VTT: [Owlbear Rodeo](https://www.owlbear.rodeo/room/BaGN2KPVM902/TheHomeyLeaf) 
 - ...
 
@@ -25,19 +25,19 @@ cssclasses:
 
 ## Setting
 
-This campaign takes place in *Critical Role's* world of Exandria. The characters are an established adventuring party hailing from Jigow, and have returned for the town's annual [[Festival of Merit]]. 
+This campaign takes place in *Critical Role's* world of Exandria. The characters are an established adventuring party hailing from Jigow, and have returned for the town's annual Festival of Merit. 
 
 ## Character Options
 
 - Sourcebooks for this adventure are the [Player’s Handbook](https://www.dndbeyond.com/sources/phb) and [Explorer's Guide to Wildemount](https://www.dndbeyond.com/sources/dnd/egtw). Additional sources may be used at the DM's discretion.  
 - Player characters begin this adventure at level 3. Character advancement is milestone-based. 
+- All the races, classes, and backgrounds from the source material are available for this campaign. 
+- Characters with any divine aspects (cleric, paladin, etc.) must use the [Pantheon of Exandria](https://www.dndbeyond.com/sources/dnd/egtw/story-of-wildemount#PantheonofExandria). 
+- Regardless of race, players may also give their characters the [Hollow One](https://www.dndbeyond.com/sources/dnd/egtw/character-options#HollowOne)  supernatural gift. 
 - In addition to standard level 1 starting equipment, each character may include in their inventory: 
 	- 1 healing potion 
 	- 1 common magic item
 	- 50 gp
-- All the races, classes, and backgrounds from the source material are available for this campaign. 
-- Characters with any divine aspects (cleric, paladin, etc.) must use the [Pantheon of Exandria](https://www.dndbeyond.com/sources/dnd/egtw/story-of-wildemount#PantheonofExandria). 
-- Regardless of race, players may also give their characters the [Hollow One](https://www.dndbeyond.com/sources/dnd/egtw/character-options#HollowOne)  supernatural gift. 
 - No evil characters.
 
 ## What the Characters Know
