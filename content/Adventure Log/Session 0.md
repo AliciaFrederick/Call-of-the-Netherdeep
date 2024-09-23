@@ -10,4 +10,4 @@ cssclasses:
 ---
 - Review [[A Player's Guide to the Netherdeep]] 
 - Discuss the [[Player Survey]] 
-- Create your characters
+- Create your characters using the [Hero Chronicle] 
