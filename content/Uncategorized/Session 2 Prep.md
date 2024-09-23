@@ -34,7 +34,9 @@ cssclasses:
 
 ##  Define secrets and clues
 
-- [ ] Alyxian is imprisoned
+- [ ] Alyxian is imprisoned, lost in darkness
+- [ ] Long ago, he prayed to the Change Bringer in the heart of a temple of evil
+- [ ] He asks the party to take his jewel and save him
 
 ##  Develop fantastic locations
 
