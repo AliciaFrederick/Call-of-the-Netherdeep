@@ -10,7 +10,7 @@ cssclasses:
 ---
 ##  Review the characters
 
-- [ ] [[Player Characters]] 
+- [ ] [[Joe]] 
 
 ##  Create a strong start
 
