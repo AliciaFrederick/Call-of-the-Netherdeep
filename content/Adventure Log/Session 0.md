@@ -23,8 +23,12 @@ cssclasses:
 	- [ ] https://open.spotify.com/album/30CxXNLekWVQzo7xhowwkg
 	- [ ] mp3 - https://www.patreon.com/mabmusicttrpg 
 - [ ] Lighting
+	- [ ] Jigow
+	- [ ] The Emerald Grotto
 - [ ] Handouts
 	- [ ] Medals
-	- [ ] 
+	- [ ] Other treasure
+	- [ ] Emerald Eye
+	- [ ] [Jewel of Three Prayers](https://www.dndbeyond.com/magic-items/4698481-jewel-of-three-prayers) 
 
 %%
