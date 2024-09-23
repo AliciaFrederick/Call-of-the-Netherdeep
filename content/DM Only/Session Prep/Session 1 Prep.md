@@ -26,6 +26,8 @@ All around you, colorful signs and banners point toward festival booths surround
 
 ##  Outline potential scenes
 
+See [[Ch 1 Canvas.canvas|Ch 1 Canvas]] 
+
 - [ ] **J1: [Best Pies in the Jumble](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J1BestPiesintheJumble).** The Unbroken Tusk inn boasts the best meat pies east of the Ashkeeper Peaks. Its owner has offered a prize to the person who can eat the most pies.
 - [ ] **J2: [One-Shot Solution](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J2OneShotSolution).** A maze has been constructed in the Jumble. Competitors win a prize if they navigate the maze in one try without coming upon a dead end.
 - [ ] **J3: [The Ifolon Plunge](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J3TheIfolonPlunge).** Some distance offshore in the Ifolon River, a rusted spear is lodged into a weathered piece of a pier that has long since rotted away. It is a popular spot for Jigow’s most talented swimmers to test their speed and skill.
@@ -33,10 +35,8 @@ All around you, colorful signs and banners point toward festival booths surround
 - [ ] **J5: [Wetwalks Paddywhack](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J5WetwalksPaddywhack).** Members of the Gakthash and Uvuroh goblin clans time their rice paddy harvests to coincide with the Festival of Merit every year. This event turns the mundane act of harvesting into a spirited competition.
 - [ ] **J6: [Herding the Horizonbacks](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J6HerdingtheHorizonbacks).** This year’s brood of young horizonback tortoises must be relocated from the Wetwalks to the Jumble.
 - [ ] **J7: [Riddles and Rhymes](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J7RiddlesandRhymes).** One of Jigow’s elders is fond of making up riddles. He has come up with several new ones for the festival this year.
-- [ ] [Final Con]
-- [ ] .
-- [ ] .
-- [ ] .
+- [ ] [Final Contest](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#FinalContest) 
+- [ ] Next time - [The Emerald Grotto](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#TheEmeraldGrotto) 
 
 ##  Define secrets and clues
 
