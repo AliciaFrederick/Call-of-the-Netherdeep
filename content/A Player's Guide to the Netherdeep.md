@@ -18,14 +18,16 @@ cssclasses:
 
 ## Setting and Tone
 
-This campaign takes place in *Critical Role's* world of Exandria. The characters are an established adventuring party who find themselves in [[Jigow]] during the city's annual Festival of Merit. 
+This campaign takes place in *Critical Role's* world of Exandria. 
 
-This adventure walks a line between optimistic heroism and morally ambiguous character dilemmas. Heroic and equivocal choices are contrasted with moments of supernatural evil. Although this adventure is not a horror tale, it does involve elements of fear, suspense, and the grotesque.
+The adventure walks a line between optimistic heroism and morally ambiguous character dilemmas. Heroic and equivocal choices are contrasted with moments of supernatural evil. Although this adventure is not a horror tale, it does involve elements of fear, suspense, and the grotesque.
 
 > [!WARNING] Disclaimer
 > The Netherdeep contains magical elements known to cause life-changing discoveries of ancient artifacts, red crystals growing out of your skin, long swims in dark places, aberrant fish, and enemies-to-friends-to-enemies plots. Consult a cleric or Matthew Mercer to see if the path to the Netherdeep is right for you.
 
 ## Character Options
+
+The characters are an established adventuring party who find themselves in [[Jigow]] during the city's annual Festival of Merit. 
 
 - Sourcebooks for this adventure are the [Player’s Handbook](https://www.dndbeyond.com/sources/phb) (PHB) and [Explorer's Guide to Wildemount](https://www.dndbeyond.com/sources/dnd/egtw) (EGW). Additional sources may be used at the DM's discretion.  
 - Player characters begin this adventure at level 3. Character advancement is milestone-based and will end at level 13. 

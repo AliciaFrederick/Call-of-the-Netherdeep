@@ -19,7 +19,6 @@ Next Session: Date TBD
 
 
 %%
-## DM Notes
 
 https://aliciafrederick.github.io/Call-of-the-Netherdeep/ 
 
