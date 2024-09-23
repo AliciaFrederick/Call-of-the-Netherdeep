@@ -33,7 +33,7 @@ All around you, colorful signs and banners point toward festival booths surround
 - [ ] **J5: [Wetwalks Paddywhack](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J5WetwalksPaddywhack).** Members of the Gakthash and Uvuroh goblin clans time their rice paddy harvests to coincide with the Festival of Merit every year. This event turns the mundane act of harvesting into a spirited competition.
 - [ ] **J6: [Herding the Horizonbacks](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J6HerdingtheHorizonbacks).** This year’s brood of young horizonback tortoises must be relocated from the Wetwalks to the Jumble.
 - [ ] **J7: [Riddles and Rhymes](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J7RiddlesandRhymes).** One of Jigow’s elders is fond of making up riddles. He has come up with several new ones for the festival this year.
-- [ ] .
+- [ ] [Final Con]
 - [ ] .
 - [ ] .
 - [ ] .
@@ -82,5 +82,12 @@ All around you, colorful signs and banners point toward festival booths surround
 
 ##  Select magic item rewards
 
+- [ ] [[Medal of the Meat Pie]] 
+- [ ] [[Medal of Muscle]] 
+- [ ] [[Medal of the Maze]] 
+- [ ] [[Medal of the Conch]] 
+- [ ] [[Medal of the Wetlands]] 
+- [ ] [[Medal of the Horizonback]] 
+- [ ] [[Medal of Wit]] 
 - [ ] Emerald Eye
 - [ ] Jewel of Three Prayers
