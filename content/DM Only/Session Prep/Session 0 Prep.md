@@ -60,7 +60,7 @@ All around you, colorful signs and banners point toward festival booths surround
 
 ##  Choose relevant monsters
 
-- [ ] Monster 1
+- [ ] [Horizonback Tortoise](https://www.dndbeyond.com/sources/dnd/egtw/wildemount-bestiary#HorizonbackTortoise) 
 - [ ] .
 - [ ] .
 
