@@ -23,7 +23,10 @@
 		{"id":"2d2098e9e4e7481c","x":740,"y":440,"width":400,"height":400,"color":"5","type":"file","file":"DM Only/Notes/Ayo Jabe.md"},
 		{"id":"8895bd08de962816","x":1680,"y":440,"width":400,"height":400,"type":"file","file":"Uncategorized/Medal of the Horizonback.md"},
 		{"id":"c86b88eaea6aeea6","x":320,"y":751,"width":400,"height":400,"color":"1","type":"file","file":"DM Only/Notes/Galsariad Ardyth.md"},
-		{"id":"afa919e49573d4c2","x":960,"y":920,"width":250,"height":60,"type":"text","text":"The Box Riddle"}
+		{"id":"afa919e49573d4c2","x":1280,"y":880,"width":250,"height":60,"type":"text","text":"The Box's Riddle"},
+		{"id":"ed896b820ae55671","x":1280,"y":960,"width":250,"height":60,"type":"text","text":"The Star Map's Riddle"},
+		{"id":"9d63bddf4b3adc8d","x":1280,"y":1040,"width":250,"height":60,"type":"text","text":"The Bottles' Riddle"},
+		{"id":"5edceda8be7f6065","x":2160,"y":720,"width":400,"height":400,"type":"file","file":"Uncategorized/Medal of Wit.md"}
 	],
 	"edges":[
 		{"id":"0addccd18c3de13c","fromNode":"f90304ee5758dc3c","fromSide":"right","toNode":"4593cd745a4844f3","toSide":"left"},
@@ -49,6 +52,11 @@
 		{"id":"81c11d3e0e2bbe26","fromNode":"398779dd7a01a03b","fromSide":"right","toNode":"d6c126a038959566","toSide":"left"},
 		{"id":"347ffa49778d740a","fromNode":"d6c126a038959566","fromSide":"right","toNode":"b10298f5de50a2d8","toSide":"left"},
 		{"id":"1144f706a0e171af","fromNode":"f2142216f6407ba8","fromSide":"right","toNode":"c86b88eaea6aeea6","toSide":"left"},
-		{"id":"1ad9bba675430027","fromNode":"c86b88eaea6aeea6","fromSide":"right","toNode":"afa919e49573d4c2","toSide":"left"}
+		{"id":"1ad9bba675430027","fromNode":"c86b88eaea6aeea6","fromSide":"right","toNode":"afa919e49573d4c2","toSide":"left"},
+		{"id":"dfb8393edbcb99cc","fromNode":"c86b88eaea6aeea6","fromSide":"right","toNode":"ed896b820ae55671","toSide":"left"},
+		{"id":"839a20c87f239399","fromNode":"c86b88eaea6aeea6","fromSide":"right","toNode":"9d63bddf4b3adc8d","toSide":"left"},
+		{"id":"1a637bbd1fb92bd1","fromNode":"afa919e49573d4c2","fromSide":"right","toNode":"5edceda8be7f6065","toSide":"left"},
+		{"id":"783a3c8486546d5b","fromNode":"ed896b820ae55671","fromSide":"right","toNode":"5edceda8be7f6065","toSide":"left"},
+		{"id":"fd45ece2f767ef34","fromNode":"9d63bddf4b3adc8d","fromSide":"right","toNode":"5edceda8be7f6065","toSide":"left"}
 	]
 }
