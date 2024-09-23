@@ -62,9 +62,3 @@ The characters are an established adventuring party who find themselves in [[Jig
 	- 50 gp
 - No evil characters.
 
-## Party Formation
-
-1. Are any of the characters related to each other?
-2. What keeps the characters together as a party?
-3. What does each character like most about every other member of the adventuring party?
-4. Does the group have a patron?
