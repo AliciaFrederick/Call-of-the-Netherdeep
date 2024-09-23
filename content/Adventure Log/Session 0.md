@@ -17,5 +17,6 @@ cssclasses:
 - [ ] Set up a tracker for the rivals' attitudes towards the party members
 - [ ] Practice voices for the rivals and Alyxian
 - [ ] Review the rivals' goals and personalities
+- [ ] Review the Heroic Chronicle for gold and magic items
 
 %%
