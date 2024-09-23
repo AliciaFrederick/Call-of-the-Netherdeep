@@ -10,4 +10,11 @@ cssclasses:
 ---
 - Review [[A Player's Guide to the Netherdeep]] 
 - Discuss the [[Player Survey]] 
-- Create your characters using the [Hero Chronicle] 
+- Create characters using the [Heroic Chronicle](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#HeroicChronicle) 
+
+%%
+
+- [ ] Set up a tracker for the rivals' attitudes towards the party members
+- [ ] Practice voices for the rivals and Alyxian
+
+%%
