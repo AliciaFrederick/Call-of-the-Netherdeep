@@ -1,3 +1,19 @@
+---
+title: 
+description: 
+permalink: 
+aliases: 
+tags: 
+draft: true
+date: 
+cssclasses:
+---
+%% DM Notes
+
+
+
+%%
+
 << [[Ch 2 - The Leave-Taking]] | [[Ch 4 - The Jewel of Hope]] >> 
 
 ![[03-001.intro-splash.jpg]] 
