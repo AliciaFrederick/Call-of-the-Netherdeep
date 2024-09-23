@@ -28,7 +28,7 @@
 		{"id":"9d63bddf4b3adc8d","x":1280,"y":1040,"width":250,"height":60,"type":"text","text":"The Bottles' Riddle"},
 		{"id":"5edceda8be7f6065","x":2160,"y":720,"width":400,"height":400,"type":"file","file":"Uncategorized/Medal of Wit.md"},
 		{"id":"32ce035c326f4ddf","x":3050,"y":-59,"width":250,"height":60,"type":"text","text":"[Final Contest](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#FinalContest) "},
-		{"id":"dc0f047559e00a9d","x":-480,"y":1680,"width":250,"height":60,"type":"text","text":"[The Emerald Grotto](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#TheEmeraldGrotto) "}
+		{"id":"dc0f047559e00a9d","x":3040,"y":400,"width":250,"height":60,"type":"text","text":"[The Emerald Grotto](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#TheEmeraldGrotto) "}
 	],
 	"edges":[
 		{"id":"0addccd18c3de13c","fromNode":"f90304ee5758dc3c","fromSide":"right","toNode":"4593cd745a4844f3","toSide":"left"},
