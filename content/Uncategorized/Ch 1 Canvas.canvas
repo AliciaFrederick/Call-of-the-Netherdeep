@@ -1,13 +1,13 @@
 {
 	"nodes":[
 		{"id":"f90304ee5758dc3c","x":-460,"y":-320,"width":250,"height":60,"type":"text","text":"[[Session 0 Prep#Create a strong start|START]] "},
-		{"id":"4593cd745a4844f3","x":-72,"y":-321,"width":250,"height":60,"type":"text","text":"Best Pies in the Jumble"},
-		{"id":"ffa4ad463f622724","x":-78,"y":-241,"width":250,"height":60,"type":"text","text":"One-Shot Solution"},
-		{"id":"924fb897e3f094fd","x":-72,"y":-160,"width":238,"height":65,"type":"text","text":"The Ifolon Plunge "},
-		{"id":"923ee63d27bdd847","x":-81,"y":-80,"width":250,"height":60,"type":"text","text":"Call to Arms"},
-		{"id":"9119df12acad6290","x":-80,"y":0,"width":250,"height":60,"type":"text","text":"Wetwalks Paddywhack"},
-		{"id":"10ac8300acc9f6d4","x":-81,"y":80,"width":250,"height":60,"type":"text","text":"Herding the Horizonbacks"},
-		{"id":"f2142216f6407ba8","x":-84,"y":160,"width":250,"height":60,"type":"text","text":"Riddles and Rhymes"},
+		{"id":"4593cd745a4844f3","x":-72,"y":-321,"width":250,"height":60,"color":"1","type":"text","text":"Best Pies in the Jumble"},
+		{"id":"ffa4ad463f622724","x":-78,"y":-241,"width":250,"height":60,"color":"2","type":"text","text":"One-Shot Solution"},
+		{"id":"924fb897e3f094fd","x":-72,"y":-160,"width":238,"height":65,"color":"3","type":"text","text":"The Ifolon Plunge "},
+		{"id":"923ee63d27bdd847","x":-81,"y":-80,"width":250,"height":60,"color":"4","type":"text","text":"Call to Arms"},
+		{"id":"9119df12acad6290","x":-80,"y":0,"width":250,"height":60,"color":"5","type":"text","text":"Wetwalks Paddywhack"},
+		{"id":"10ac8300acc9f6d4","x":-81,"y":80,"width":250,"height":60,"color":"6","type":"text","text":"Herding the Horizonbacks"},
+		{"id":"f2142216f6407ba8","x":-84,"y":160,"width":250,"height":60,"color":"#295cf5","type":"text","text":"Riddles and Rhymes"},
 		{"id":"e6cf19d8bd4d29fc","x":240,"y":-295,"width":400,"height":400,"type":"file","file":"DM Only/Notes/Ayo Jabe.md"}
 	],
 	"edges":[
