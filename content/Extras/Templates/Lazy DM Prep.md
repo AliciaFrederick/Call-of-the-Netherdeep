@@ -10,10 +10,7 @@ cssclasses:
 ---
 ##  Review the characters
 
-- [ ] Joe - 
-- [ ] Amy - 
-- [ ] Brenna - 
-- [ ] Brownie - 
+- [ ] [[Player Characters]] 
 
 ##  Create a strong start
 

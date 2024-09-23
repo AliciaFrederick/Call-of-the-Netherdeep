@@ -10,10 +10,7 @@ cssclasses:
 ---
 ##  Review the characters
 
-- [ ] Joe - 
-- [ ] Amy - 
-- [ ] Brenna - 
-- [ ] Brownie - 
+- [ ] [[Player Characters]] 
 
 ##  Create a strong start
 
@@ -37,18 +34,10 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 - [ ] **J7: [Riddles and Rhymes](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J7RiddlesandRhymes).** One of Jigow’s elders is fond of making up riddles. He has come up with several new ones for the festival this year.
 - [ ] [Final Contest](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#FinalContest) 
 - [ ] [The Emerald Grotto](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#TheEmeraldGrotto) 
+	- [ ] Cliffhanger - right before Elder Ushuru's readaloud text to begin the race
 
 ##  Define secrets and clues
 
-- [ ] Secret 1
-- [ ] .
-- [ ] .
-- [ ] .
-- [ ] .
-- [ ] .
-- [ ] .
-- [ ] .
-- [ ] .
 - [ ] .
 
 ##  Develop fantastic locations
