@@ -22,6 +22,20 @@ cssclasses:
 	- [ ] https://www.youtube.com/watch?v=SFHiD4hG1AU&list=PLGvEMtY18bM0mMSDSRZEd_fqA6Ll4wmtP 
 	- [ ] https://open.spotify.com/album/30CxXNLekWVQzo7xhowwkg
 	- [ ] mp3 - https://www.patreon.com/mabmusicttrpg 
+	- [ ] Lazy DM suggestions
+		- [ ] Conan the Barbarian 
+		- [ ] The Witcher 3: Wild Hunt 
+		- [ ] The Elder Scrolls V: Skyrim and the rest of the Elder Scrolls series 
+		- [ ] Lord of the Rings 
+		- [ ] Pillars of Eternity 
+		- [ ] Dragon Age 
+		- [ ] Diablo 
+		- [ ] Stranger Things 
+		- [ ] Pirates of the Caribbean 
+		- [ ] Final Fantasy series 
+		- [ ] Darkest Dungeon 
+		- [ ] Midnight Syndicate 
+		- [ ] Two Steps From Hell
 - [ ] Lighting
 	- [ ] Jigow
 	- [ ] The Emerald Grotto
