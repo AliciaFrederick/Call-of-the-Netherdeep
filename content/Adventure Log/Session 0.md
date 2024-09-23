@@ -18,7 +18,10 @@ cssclasses:
 - [ ] Practice voices for the rivals and Alyxian
 - [ ] Review the rivals' goals and personalities
 - [ ] Review the Heroic Chronicle for gold and magic items
-- [ ] Music - https://www.youtube.com/watch?v=SFHiD4hG1AU&list=PLGvEMtY18bM0mMSDSRZEd_fqA6Ll4wmtP 
+- [ ] Music - 
+	- [ ] https://www.youtube.com/watch?v=SFHiD4hG1AU&list=PLGvEMtY18bM0mMSDSRZEd_fqA6Ll4wmtP 
+	- [ ] https://open.spotify.com/album/30CxXNLekWVQzo7xhowwkg
+	- [ ] mp3 - https://www.patreon.com/mabmusicttrpg 
 - [ ] Lighting
 - [ ] Handouts
 
