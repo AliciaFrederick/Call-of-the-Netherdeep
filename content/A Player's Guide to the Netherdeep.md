@@ -15,7 +15,11 @@ Video - https://www.youtube.com/watch?v=thwe8XG9pUI
 
 Long ago, a war between gods of good and evil scoured the surface of the world of Exandria. Both the noble Prime Deities and the selfish Betrayer Gods imbued their mortal champions with supernatural gifts that granted them strength enough to challenge their divine foes. The greatest of these champions was Alyxian the Apotheon, who received the blessings of three Prime Deities to save the world from the apocalyptic power of the Betrayer Gods.
 
-Centuries later, all knowledge of this godlike hero has been lost to time, and two groups of adventurers are called upon to retrace this mythic hero’s steps and free him from his timeless prison. The tale begins in the war-scarred wastes of Xhorhas and the glimmering oasis city of Ank’Harel—but ultimately stretches beyond the Material Plane to a realm of lightless despair known as the Netherdeep.
+Centuries later, all knowledge of this godlike hero has been lost to time, and two groups of adventurers are called upon to retrace this mythic hero’s steps and free him from his timeless prison. 
+
+## World of Exandria
+
+This adventure is set in Exandria, the world of _Critical Role_. Its continents include Tal’Dorei, Wildemount, Marquet, and Issylra. The adventure begins in a region of Wildemount called Xhorhas and transitions to the great Marquesian oasis city of Ank’Harel. More information about Exandria can be found in [Explorer’s Guide to Wildemount](https://www.dndbeyond.com/sources/egtw "Explorer’s Guide to Wildemount")
 
 ## What the Characters Know
 
@@ -47,7 +51,9 @@ Not all people fear Ruidus, but superstitions about it are widespread across Exa
 
 Characters in this campaign **begin at 3rd level**. 
 
-For this campaign you can select options from the [Player’s Handbook](https://www.dndbeyond.com/sources/phb) (PHB), [Explorer's Guide to Wildemount](https://www.dndbeyond.com/sources/dnd/egtw) (EGW), [Tasha's Cauldron of Everything](https://www.dndbeyond.com/sources/dnd/tcoe) (TCE), and [Xanathar's Guide to Everything](https://www.dndbeyond.com/sources/dnd/xgte) (XGE). Additional sources may be used at the DM's discretion. Players are encouraged to establish their backgrounds using the [Heroic Chronicle](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#HeroicChronicle) from EGW to ground their character in the world. Characters with divine aspects (cleric, paladin, etc.) must use the [Pantheon of Exandria](https://www.dndbeyond.com/sources/dnd/egtw/story-of-wildemount#PantheonofExandria) from EGW. 
+For this campaign you can select options from the [Player’s Handbook](https://www.dndbeyond.com/sources/phb) (PHB), [Explorer's Guide to Wildemount](https://www.dndbeyond.com/sources/dnd/egtw) (EGW), [Tasha's Cauldron of Everything](https://www.dndbeyond.com/sources/dnd/tcoe) (TCE), and [Xanathar's Guide to Everything](https://www.dndbeyond.com/sources/dnd/xgte) (XGE). 
+
+Players are encouraged to establish their backgrounds using the [Heroic Chronicle](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#HeroicChronicle) from EGW to ground their character in the world. Characters with divine aspects (cleric, paladin, etc.) must use the [Pantheon of Exandria](https://www.dndbeyond.com/sources/dnd/egtw/story-of-wildemount#PantheonofExandria) from EGW. 
 
 **Your character is a member of an established adventuring party, arriving in Jigow to compete in the annual Festival of Merit.** 
 
