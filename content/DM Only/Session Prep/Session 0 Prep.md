@@ -26,7 +26,7 @@ All around you, colorful signs and banners point toward festival booths surround
 
 ##  Outline potential scenes
 
-- [ ] **J1: Best Pies in the Jumble.** The Unbroken Tusk inn boasts the best meat pies east of the Ashkeeper Peaks. Its owner has offered a prize to the person who can eat the most pies.
+- [ ] **J1: [Best Pies in the Jumble](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J1BestPiesintheJumble).** The Unbroken Tusk inn boasts the best meat pies east of the Ashkeeper Peaks. Its owner has offered a prize to the person who can eat the most pies.
 - [ ] **J2: One-Shot Solution.** A maze has been constructed in the Jumble. Competitors win a prize if they navigate the maze in one try without coming upon a dead end.
 - [ ] **J3: The Ifolon Plunge.** Some distance offshore in the Ifolon River, a rusted spear is lodged into a weathered piece of a pier that has long since rotted away. It is a popular spot for Jigow’s most talented swimmers to test their speed and skill.
 - [ ] **J4: Call to Arms.** One of the Aurora Watch soldiers stationed in Jigow has challenged anyone and everyone to best her in an arm-wrestling contest. So far, she remains undefeated.
