@@ -26,11 +26,37 @@ All around you, colorful signs and banners point toward festival booths surround
 
 ##  Outline potential scenes
 
+- [ ] Scene 1
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+
 ##  Define secrets and clues
+
+- [ ] Secret 1
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
 
 ##  Develop fantastic locations
 
+- [ ] [[Jigow]] 
+- [ ] [[Emerald Grotto]] 
+
 ##  Outline important NPCs
+
+- Ayo Jabe
+- Dermot Wurder
+- Galsariad Ardyth
+- Irvan Wastewalker
+- Maggie Keeneyes
 
 ##  Choose relevant monsters
 
