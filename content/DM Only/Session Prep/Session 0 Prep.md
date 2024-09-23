@@ -26,7 +26,13 @@ All around you, colorful signs and banners point toward festival booths surround
 
 ##  Outline potential scenes
 
-- [ ] Scene 1
+- [ ] **J1: Best Pies in the Jumble.** The Unbroken Tusk inn boasts the best meat pies east of the Ashkeeper Peaks. Its owner has offered a prize to the person who can eat the most pies.
+- [ ] **J2: One-Shot Solution.** A maze has been constructed in the Jumble. Competitors win a prize if they navigate the maze in one try without coming upon a dead end.
+- [ ] **J3: The Ifolon Plunge.** Some distance offshore in the Ifolon River, a rusted spear is lodged into a weathered piece of a pier that has long since rotted away. It is a popular spot for Jigow’s most talented swimmers to test their speed and skill.
+- [ ] **J4: Call to Arms.** One of the Aurora Watch soldiers stationed in Jigow has challenged anyone and everyone to best her in an arm-wrestling contest. So far, she remains undefeated.
+- [ ] **J5: Wetwalks Paddywhack.** Members of the Gakthash and Uvuroh goblin clans time their rice paddy harvests to coincide with the Festival of Merit every year. This event turns the mundane act of harvesting into a spirited competition.
+- [ ] **J6: Herding the Horizonbacks.** This year’s brood of young horizonback tortoises must be relocated from the Wetwalks to the Jumble.
+- [ ] **J7: Riddles and Rhymes.** One of Jigow’s elders is fond of making up riddles. He has come up with several new ones for the festival this year.
 - [ ] .
 - [ ] .
 - [ ] .
