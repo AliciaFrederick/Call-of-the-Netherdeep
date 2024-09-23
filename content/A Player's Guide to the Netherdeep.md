@@ -8,6 +8,11 @@ draft: false
 date: 2024-09-22
 cssclasses:
 ---
+%% 
+Arti
+Example campaign guide - https://slyflourish_content.s3.us-east-1.amazonaws.com/frostmaiden_one_page_campaign_guide.pdf 
+
+%%
 ## Basic Campaign Details
 
 - [Join the campaign](https://www.dndbeyond.com/campaigns/join/5938581356242320) for access to source material on D&D Beyond
