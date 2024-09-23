@@ -31,6 +31,18 @@ _**The Luxon.**_ The official deity of the Kryn Dynasty, whose symbol appears o
 
 If a follower of the Luxon who has undergone the ritual of consecution dies within 100 miles of a Luxon beacon, their soul is ensnared by it and reincarnated within the body of a random Humanoid newborn within 100 miles of the beacon.
 
+***Ruidus.*** Two moons hang in the sky of Exandria. One is Catha, a large, pale orb that cycles through its phases once per month. The other is Ruidus, a ghostly vermilion satellite that circles Exandria once every six months.
+
+Catha’s brightness is constant, its phases predictable. Conversely, Ruidus exhibits strange behavior, seeming to glow more brightly at times or suddenly casting off its shadow to appear full. The vermilion moon often disappears from the night sky entirely, while at other times it unexpectedly flares with bright, ruddy light.
+
+Not all people fear Ruidus, but superstitions about it are widespread across Exandria. Some of the more well-known superstitions include the following:
+
+**Harbinger.** Those who are born on a night when Ruidus is full are destined to bring suffering to others or to experience great tragedy in their own lives.
+
+**Malice.** Those who study Ruidus and become obsessed with its secrets are compelled to cause misfortune and woe.
+
+**Misadventure.** Plans made or set in motion when Ruidus is full are doomed to failure, often due to betrayal or miscommunication.
+
 ## Your Character in the World
 
 Characters in this campaign **begin at 3rd level**. 
