@@ -57,19 +57,22 @@ cssclasses:
 
 ##  Choose relevant monsters
 
-- [ ] Monster 1
+- [ ] swarm of quippers
+- [ ] giant octopus
+- [ ] 
 - [ ] .
 - [ ] .
 
 ##  Select magic item rewards
 
+- [ ] potion of water breathing
 - [ ] potion of healing
 - [ ] scroll of thunderwave
 - [ ] dust of dryness
-- [ ] 
+- [ ] 3 potions of healing
+- [ ] Sehanine's spear
 - [ ] Emerald Eye
 - [ ] Jewel of Three Prayers
-- [ ] .
 
 
 %% DM Notes
