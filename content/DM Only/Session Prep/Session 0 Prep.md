@@ -66,17 +66,17 @@ All around you, colorful signs and banners point toward festival booths surround
 
 ##  Choose relevant monsters
 
-- [ ] [Ifolon Striped Sharks](https://www.dndbeyond.com/monsters/16994-reef-shark) 
-- [ ] [Horizonback Tortoise](https://www.dndbeyond.com/sources/dnd/egtw/wildemount-bestiary#HorizonbackTortoise) 
-- [ ] gladiator
+- [ ] aarakocra
 - [ ] commoner
+- [ ] drow
+- [ ] gladiator
+- [ ] goblin
+- [ ] [Horizonback Tortoise](https://www.dndbeyond.com/sources/dnd/egtw/wildemount-bestiary#HorizonbackTortoise) 
+- [ ] [Ifolon Striped Sharks](https://www.dndbeyond.com/monsters/16994-reef-shark) 
+- [ ] orc
 - [ ] veteran
 - [ ] scout
 - [ ] thug
-- [ ] goblin
-- [ ] aarakocra
-- [ ] orc
-- [ ] drow
 - [ ] 
 
 ##  Select magic item rewards
