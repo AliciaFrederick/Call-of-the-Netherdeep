@@ -21,7 +21,9 @@
 		{"id":"ba73641cb8859b74","x":1200,"y":120,"width":400,"height":400,"color":"2","type":"file","file":"DM Only/Notes/Irvan Wastewalker.md"},
 		{"id":"b0b0f496cf723792","x":2140,"y":120,"width":400,"height":400,"type":"file","file":"Uncategorized/Medal of the Wetlands.md"},
 		{"id":"2d2098e9e4e7481c","x":740,"y":440,"width":400,"height":400,"color":"5","type":"file","file":"DM Only/Notes/Ayo Jabe.md"},
-		{"id":"8895bd08de962816","x":1680,"y":440,"width":400,"height":400,"type":"file","file":"Uncategorized/Medal of the Horizonback.md"}
+		{"id":"8895bd08de962816","x":1680,"y":440,"width":400,"height":400,"type":"file","file":"Uncategorized/Medal of the Horizonback.md"},
+		{"id":"c86b88eaea6aeea6","x":320,"y":751,"width":400,"height":400,"color":"1","type":"file","file":"DM Only/Notes/Galsariad Ardyth.md"},
+		{"id":"afa919e49573d4c2","x":960,"y":920,"width":250,"height":60,"type":"text","text":"The Box Riddle"}
 	],
 	"edges":[
 		{"id":"0addccd18c3de13c","fromNode":"f90304ee5758dc3c","fromSide":"right","toNode":"4593cd745a4844f3","toSide":"left"},
@@ -45,6 +47,8 @@
 		{"id":"cb862f4f81113d8c","fromNode":"2d2098e9e4e7481c","fromSide":"right","toNode":"8895bd08de962816","toSide":"left"},
 		{"id":"b1e17c62812fe7c3","fromNode":"ffa4ad463f622724","fromSide":"right","toNode":"398779dd7a01a03b","toSide":"left"},
 		{"id":"81c11d3e0e2bbe26","fromNode":"398779dd7a01a03b","fromSide":"right","toNode":"d6c126a038959566","toSide":"left"},
-		{"id":"347ffa49778d740a","fromNode":"d6c126a038959566","fromSide":"right","toNode":"b10298f5de50a2d8","toSide":"left"}
+		{"id":"347ffa49778d740a","fromNode":"d6c126a038959566","fromSide":"right","toNode":"b10298f5de50a2d8","toSide":"left"},
+		{"id":"1144f706a0e171af","fromNode":"f2142216f6407ba8","fromSide":"right","toNode":"c86b88eaea6aeea6","toSide":"left"},
+		{"id":"1ad9bba675430027","fromNode":"c86b88eaea6aeea6","fromSide":"right","toNode":"afa919e49573d4c2","toSide":"left"}
 	]
 }

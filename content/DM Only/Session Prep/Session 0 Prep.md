@@ -77,6 +77,7 @@ All around you, colorful signs and banners point toward festival booths surround
 - [ ] veteran
 - [ ] scout
 - [ ] thug
+- [ ] priest
 - [ ] 
 
 ##  Select magic item rewards
