@@ -52,12 +52,14 @@ All around you, colorful signs and banners point toward festival booths surround
 
 ##  Outline important NPCs
 
-- Ayo Jabe
-- Dermot Wurder
-- Galsariad Ardyth
-- Irvan Wastewalker
-- Maggie Keeneyes
+- [[Ayo Jabe]] 
+- [[Dermot Wurder]] 
+- [[Galsariad Ardyth]] 
+- [[Irvan Wastewalker]] 
+- [[Maggie Keeneyes]] 
 
 ##  Choose relevant monsters
+
+
 
 ##  Select magic item rewards
