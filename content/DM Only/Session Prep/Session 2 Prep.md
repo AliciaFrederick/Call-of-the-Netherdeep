@@ -43,6 +43,7 @@ cssclasses:
 - [ ] [The Emerald Grotto](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#TheEmeraldGrotto) 
 ##  Outline important NPCs
 
+- [Alyxian](https://www.dndbeyond.com/sources/dnd/cotn/answering-the-call#RoleplayingtheApotheon) 
 - [[Ayo Jabe]] 
 - [[Dermot Wurder]] 
 - [[Galsariad Ardyth]] 
