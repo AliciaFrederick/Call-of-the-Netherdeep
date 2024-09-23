@@ -43,18 +43,18 @@ cssclasses:
 
 ##  Develop fantastic locations
 
-- [ ] E1
-- [ ] E2
-- [ ] E3
-- [ ] E4
-	- [ ] E5
-	- [ ] E6
-- [ ] E7
-	- [ ] E8
-	- [ ] E9
-- [ ] E10
-- [ ] E11
-- [ ] E12
+- [ ] E1 - [Grotto Entrance](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#E1GrottoEntrance) 
+- [ ] E2 - [Kelp Tangle](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#E2KelpTangle) 
+- [ ] E3 - [Cavern Fork](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#E3CavernFork) 
+- [ ] E4 - [Ghostgrass Patch](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#E4GhostgrassPatch) 
+	- [ ] E5 - [Landslide](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#E5Landslide) 
+	- [ ] E6 - [Quipper Den](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#E6QuipperDen) 
+- [ ] E7 - [Octopus's Garden](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#E7OctopussGarden) 
+	- [ ] E8 - [Riptide Tunnel](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#E8RiptideTunnel) 
+	- [ ] E9 - [Dead End?](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#E9DeadEnd) 
+- [ ] E10 - [Moonshark Lair](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#E10MoonsharkLair) 
+- [ ] E11 - [Moonweaver's Gateway](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#E11MoonWeaversGateway) 
+- [ ] E12 - [Prayer Site of Sehanine](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#E12PrayerSiteofSehanine) 
 
 ##  Outline important NPCs
 
