@@ -9,9 +9,9 @@ date: 2024-09-22
 cssclasses:
 ---
 %% 
-Arti
 Example campaign guide - https://slyflourish_content.s3.us-east-1.amazonaws.com/frostmaiden_one_page_campaign_guide.pdf 
-
+Article - https://slyflourish.com/one_page_campaign_guide.html
+Video - https://www.youtube.com/watch?v=thwe8XG9pUI
 %%
 ## Basic Campaign Details
 
