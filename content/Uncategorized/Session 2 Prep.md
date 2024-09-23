@@ -43,9 +43,18 @@ cssclasses:
 
 ##  Develop fantastic locations
 
-- [ ] Location 1
-- [ ] .
-- [ ] .
+- [ ] E1
+- [ ] E2
+- [ ] E3
+- [ ] E4
+	- [ ] E5
+	- [ ] E6
+- [ ] E7
+	- [ ] E8
+	- [ ] E9
+- [ ] E10
+- [ ] E11
+- [ ] E12
 
 ##  Outline important NPCs
 
@@ -57,11 +66,9 @@ cssclasses:
 
 ##  Choose relevant monsters
 
-- [ ] swarm of quippers
-- [ ] giant octopus
-- [ ] 
-- [ ] .
-- [ ] .
+- [ ] [swarm of quippers](https://www.dndbeyond.com/monsters/17031-swarm-of-quippers) 
+- [ ] [giant octopus](https://www.dndbeyond.com/monsters/16888-giant-octopus) 
+- [ ] [moonshark](https://www.dndbeyond.com/monsters/2407555-moonshark) 
 
 ##  Select magic item rewards
 
