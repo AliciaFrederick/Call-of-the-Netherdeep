@@ -16,16 +16,12 @@ cssclasses:
 - VTT: [Owlbear Rodeo](https://www.owlbear.rodeo/room/BaGN2KPVM902/TheHomeyLeaf) 
 - ...
 
-## Themes
-
-- Friendly rivalry and competition
-- Underwater exploration 
-- Political intrigue
-- Rescue mission
-
 ## Setting
 
 This campaign takes place in *Critical Role's* world of Exandria. The characters are an established adventuring party who find themselves in [[Jigow]] during the city's annual Festival of Merit. 
+
+> [!WARNING] Disclaimer
+> The Netherdeep contains magical elements known to cause life-changing discoveries of ancient artifacts, red crystals growing out of your skin, long swims in dark places, aberrant fish, and enemies-to-friends-to-enemies plots. Consult a cleric or Matthew Mercer to see if the path to the Netherdeep is right for you.
 
 ## Character Options
 
