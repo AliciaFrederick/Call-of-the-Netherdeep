@@ -1,18 +1,19 @@
 {
 	"nodes":[
-		{"id":"b10298f5de50a2d8","x":1818,"y":-684,"width":400,"height":400,"type":"file","file":"Uncategorized/Medal of the Maze.md"},
 		{"id":"f90304ee5758dc3c","x":-460,"y":-320,"width":250,"height":60,"type":"text","text":"[[Session 0 Prep#Create a strong start|START]] "},
 		{"id":"4593cd745a4844f3","x":-72,"y":-801,"width":250,"height":60,"color":"1","type":"text","text":"[Best Pies in the Jumble](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J1BestPiesintheJumble) "},
-		{"id":"ffa4ad463f622724","x":-78,"y":-521,"width":250,"height":60,"color":"2","type":"text","text":"One-Shot Solution"},
-		{"id":"924fb897e3f094fd","x":-72,"y":-280,"width":238,"height":65,"color":"3","type":"text","text":"The Ifolon Plunge "},
+		{"id":"ffa4ad463f622724","x":-78,"y":-521,"width":250,"height":60,"color":"2","type":"text","text":"[One-Shot Solution](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J2OneShotSolution) "},
+		{"id":"924fb897e3f094fd","x":-72,"y":-280,"width":238,"height":65,"color":"3","type":"text","text":"[The Ifolon Plunge](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J3TheIfolonPlunge)  "},
 		{"id":"923ee63d27bdd847","x":-81,"y":-40,"width":250,"height":60,"color":"4","type":"text","text":"Call to Arms"},
 		{"id":"9119df12acad6290","x":-80,"y":160,"width":250,"height":60,"color":"5","type":"text","text":"Wetwalks Paddywhack"},
 		{"id":"10ac8300acc9f6d4","x":-81,"y":360,"width":250,"height":60,"color":"6","type":"text","text":"Herding the Horizonbacks"},
 		{"id":"f2142216f6407ba8","x":-84,"y":560,"width":250,"height":60,"color":"#295cf5","type":"text","text":"Riddles and Rhymes"},
 		{"id":"e6cf19d8bd4d29fc","x":280,"y":-455,"width":400,"height":400,"type":"file","file":"DM Only/Notes/Ayo Jabe.md"},
-		{"id":"ba91c90cf6844b89","x":270,"y":-963,"width":400,"height":400,"type":"file","file":"DM Only/Notes/Irvan Wastewalker.md"},
-		{"id":"d6c126a038959566","x":727,"y":-694,"width":400,"height":400,"type":"file","file":"DM Only/Notes/Maggie Keeneyes.md"},
-		{"id":"398779dd7a01a03b","x":1210,"y":-690,"width":400,"height":400,"type":"file","file":"DM Only/Notes/Dermot Wurder.md"}
+		{"id":"ba91c90cf6844b89","x":270,"y":-1363,"width":400,"height":400,"type":"file","file":"DM Only/Notes/Irvan Wastewalker.md"},
+		{"id":"d6c126a038959566","x":440,"y":-894,"width":400,"height":400,"type":"file","file":"DM Only/Notes/Maggie Keeneyes.md"},
+		{"id":"398779dd7a01a03b","x":920,"y":-890,"width":400,"height":400,"type":"file","file":"DM Only/Notes/Dermot Wurder.md"},
+		{"id":"b10298f5de50a2d8","x":1818,"y":-684,"width":382,"height":484,"type":"file","file":"Uncategorized/Medal of the Maze.md"},
+		{"id":"9d09aa51e563be4b","x":983,"y":-1349,"width":400,"height":400,"type":"file","file":"Uncategorized/Medal of the Meat Pie.md"}
 	],
 	"edges":[
 		{"id":"0addccd18c3de13c","fromNode":"f90304ee5758dc3c","fromSide":"right","toNode":"4593cd745a4844f3","toSide":"left"},
@@ -27,6 +28,7 @@
 		{"id":"7695813bc2fe2841","fromNode":"ffa4ad463f622724","fromSide":"right","toNode":"d6c126a038959566","toSide":"left"},
 		{"id":"27002978609890cf","fromNode":"d6c126a038959566","fromSide":"right","toNode":"398779dd7a01a03b","toSide":"left"},
 		{"id":"07f8794bea0695ee","fromNode":"398779dd7a01a03b","fromSide":"bottom","toNode":"e6cf19d8bd4d29fc","toSide":"right"},
-		{"id":"2880ebe64e93d349","fromNode":"398779dd7a01a03b","fromSide":"right","toNode":"b10298f5de50a2d8","toSide":"left"}
+		{"id":"2880ebe64e93d349","fromNode":"398779dd7a01a03b","fromSide":"right","toNode":"b10298f5de50a2d8","toSide":"left"},
+		{"id":"1f5251bd516a8e35","fromNode":"ba91c90cf6844b89","fromSide":"right","toNode":"9d09aa51e563be4b","toSide":"left"}
 	]
 }
