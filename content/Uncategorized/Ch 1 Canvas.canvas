@@ -1,6 +1,15 @@
 {
 	"nodes":[
-		{"id":"f90304ee5758dc3c","x":-460,"y":-320,"width":250,"height":60,"type":"text","text":"[[Session 0 Prep#Create a strong start|START]] "}
+		{"id":"f90304ee5758dc3c","x":-460,"y":-320,"width":250,"height":60,"type":"text","text":"[[Session 0 Prep#Create a strong start|START]] "},
+		{"id":"4593cd745a4844f3","x":-92,"y":-321,"width":250,"height":60,"type":"text","text":"Best Pies in the Jumble"},
+		{"id":"ffa4ad463f622724","x":-98,"y":-201,"width":250,"height":60,"type":"text","text":"One-Shot Solution"},
+		{"id":"924fb897e3f094fd","x":-92,"y":-89,"width":243,"height":149,"type":"text","text":"The Ifolon Plunge\n![[00-003.ayo-jabe.png]] "},
+		{"id":"923ee63d27bdd847","x":-101,"y":147,"width":250,"height":60,"type":"text","text":"Call to Arms"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"0addccd18c3de13c","fromNode":"f90304ee5758dc3c","fromSide":"right","toNode":"4593cd745a4844f3","toSide":"left"},
+		{"id":"d064c251c2e19b89","fromNode":"f90304ee5758dc3c","fromSide":"right","toNode":"ffa4ad463f622724","toSide":"left"},
+		{"id":"dc0982dae3f33388","fromNode":"f90304ee5758dc3c","fromSide":"right","toNode":"924fb897e3f094fd","toSide":"left"},
+		{"id":"676a89a5d75da4f2","fromNode":"f90304ee5758dc3c","fromSide":"right","toNode":"923ee63d27bdd847","toSide":"left"}
+	]
 }
