@@ -1,24 +1,25 @@
 {
 	"nodes":[
 		{"id":"f90304ee5758dc3c","x":-460,"y":-320,"width":250,"height":60,"type":"text","text":"[[Session 0 Prep#Create a strong start|START]] "},
-		{"id":"4593cd745a4844f3","x":-72,"y":-801,"width":250,"height":60,"color":"1","type":"text","text":"[Best Pies in the Jumble](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J1BestPiesintheJumble) "},
-		{"id":"ffa4ad463f622724","x":-78,"y":-521,"width":250,"height":60,"color":"2","type":"text","text":"[One-Shot Solution](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J2OneShotSolution) "},
-		{"id":"924fb897e3f094fd","x":-72,"y":-280,"width":238,"height":65,"color":"3","type":"text","text":"[The Ifolon Plunge](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J3TheIfolonPlunge)  "},
-		{"id":"923ee63d27bdd847","x":-81,"y":-40,"width":250,"height":60,"color":"4","type":"text","text":"[Call to Arms](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J4CalltoArms) "},
+		{"id":"4593cd745a4844f3","x":-72,"y":-1041,"width":250,"height":60,"color":"1","type":"text","text":"[Best Pies in the Jumble](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J1BestPiesintheJumble) "},
+		{"id":"ffa4ad463f622724","x":-78,"y":-761,"width":250,"height":60,"color":"2","type":"text","text":"[One-Shot Solution](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J2OneShotSolution) "},
+		{"id":"924fb897e3f094fd","x":-72,"y":-240,"width":238,"height":65,"color":"3","type":"text","text":"[The Ifolon Plunge](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J3TheIfolonPlunge)  "},
+		{"id":"923ee63d27bdd847","x":-81,"y":40,"width":250,"height":60,"color":"4","type":"text","text":"[Call to Arms](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J4CalltoArms) "},
 		{"id":"9119df12acad6290","x":-80,"y":160,"width":250,"height":60,"color":"5","type":"text","text":"Wetwalks Paddywhack"},
 		{"id":"10ac8300acc9f6d4","x":-81,"y":360,"width":250,"height":60,"color":"6","type":"text","text":"Herding the Horizonbacks"},
 		{"id":"f2142216f6407ba8","x":-84,"y":560,"width":250,"height":60,"color":"#295cf5","type":"text","text":"Riddles and Rhymes"},
-		{"id":"e6cf19d8bd4d29fc","x":360,"y":-375,"width":400,"height":400,"type":"file","file":"DM Only/Notes/Ayo Jabe.md"},
-		{"id":"ba91c90cf6844b89","x":270,"y":-1363,"width":400,"height":400,"type":"file","file":"DM Only/Notes/Irvan Wastewalker.md"},
-		{"id":"d6c126a038959566","x":440,"y":-894,"width":400,"height":400,"type":"file","file":"DM Only/Notes/Maggie Keeneyes.md"},
-		{"id":"398779dd7a01a03b","x":920,"y":-890,"width":400,"height":400,"type":"file","file":"DM Only/Notes/Dermot Wurder.md"},
-		{"id":"b10298f5de50a2d8","x":1480,"y":-924,"width":382,"height":484,"type":"file","file":"Uncategorized/Medal of the Maze.md"},
-		{"id":"9d09aa51e563be4b","x":983,"y":-1349,"width":400,"height":400,"type":"file","file":"Uncategorized/Medal of the Meat Pie.md"},
-		{"id":"4629456b1935817d","x":840,"y":-378,"width":400,"height":400,"type":"file","file":"DM Only/Notes/Galsariad Ardyth.md"},
-		{"id":"00535f75708c7cff","x":1443,"y":-381,"width":400,"height":400,"type":"file","file":"Uncategorized/Medal of the Conch.md"},
-		{"id":"189b6ada400c29e4","x":600,"y":80,"width":400,"height":400,"type":"file","file":"DM Only/Notes/Maggie Keeneyes.md"},
-		{"id":"a039997bbe329d16","x":1267,"y":80,"width":400,"height":400,"type":"file","file":"Uncategorized/Medal of Muscle.md"},
-		{"id":"ba73641cb8859b74","x":400,"y":520,"width":400,"height":400,"type":"file","file":"DM Only/Notes/Irvan Wastewalker.md"}
+		{"id":"e6cf19d8bd4d29fc","x":280,"y":-415,"width":400,"height":400,"type":"file","file":"DM Only/Notes/Ayo Jabe.md"},
+		{"id":"ba91c90cf6844b89","x":1280,"y":-1203,"width":400,"height":400,"type":"file","file":"DM Only/Notes/Irvan Wastewalker.md"},
+		{"id":"d6c126a038959566","x":360,"y":-934,"width":400,"height":400,"type":"file","file":"DM Only/Notes/Maggie Keeneyes.md"},
+		{"id":"398779dd7a01a03b","x":840,"y":-930,"width":400,"height":400,"type":"file","file":"DM Only/Notes/Dermot Wurder.md"},
+		{"id":"b10298f5de50a2d8","x":1680,"y":-804,"width":382,"height":484,"type":"file","file":"Uncategorized/Medal of the Maze.md"},
+		{"id":"9d09aa51e563be4b","x":2120,"y":-1069,"width":400,"height":400,"type":"file","file":"Uncategorized/Medal of the Meat Pie.md"},
+		{"id":"4629456b1935817d","x":1200,"y":-418,"width":400,"height":400,"type":"file","file":"DM Only/Notes/Galsariad Ardyth.md"},
+		{"id":"00535f75708c7cff","x":2120,"y":-421,"width":400,"height":400,"type":"file","file":"Uncategorized/Medal of the Conch.md"},
+		{"id":"189b6ada400c29e4","x":760,"y":-120,"width":400,"height":400,"type":"file","file":"DM Only/Notes/Maggie Keeneyes.md"},
+		{"id":"a039997bbe329d16","x":1680,"y":-120,"width":400,"height":400,"type":"file","file":"Uncategorized/Medal of Muscle.md"},
+		{"id":"ba73641cb8859b74","x":320,"y":120,"width":400,"height":400,"type":"file","file":"DM Only/Notes/Irvan Wastewalker.md"},
+		{"id":"b0b0f496cf723792","x":1240,"y":120,"width":400,"height":400,"type":"file","file":"Uncategorized/Medal of the Wetlands.md"}
 	],
 	"edges":[
 		{"id":"0addccd18c3de13c","fromNode":"f90304ee5758dc3c","fromSide":"right","toNode":"4593cd745a4844f3","toSide":"left"},
@@ -39,6 +40,7 @@
 		{"id":"aec28dd71ae57e5c","fromNode":"4629456b1935817d","fromSide":"right","toNode":"00535f75708c7cff","toSide":"left"},
 		{"id":"2fdd358ea739bcc9","fromNode":"923ee63d27bdd847","fromSide":"right","toNode":"189b6ada400c29e4","toSide":"left"},
 		{"id":"c7c9b5e4e15e15e7","fromNode":"189b6ada400c29e4","fromSide":"right","toNode":"a039997bbe329d16","toSide":"left"},
-		{"id":"67197a7ddb3bbf31","fromNode":"9119df12acad6290","fromSide":"right","toNode":"ba73641cb8859b74","toSide":"left"}
+		{"id":"67197a7ddb3bbf31","fromNode":"9119df12acad6290","fromSide":"right","toNode":"ba73641cb8859b74","toSide":"left"},
+		{"id":"75c34519e0aecb2f","fromNode":"ba73641cb8859b74","fromSide":"right","toNode":"b0b0f496cf723792","toSide":"left"}
 	]
 }
