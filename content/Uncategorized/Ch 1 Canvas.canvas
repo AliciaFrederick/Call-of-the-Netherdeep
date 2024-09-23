@@ -16,8 +16,8 @@
 		{"id":"9d09aa51e563be4b","x":1680,"y":-736,"width":400,"height":400,"type":"file","file":"Uncategorized/Medal of the Meat Pie.md"},
 		{"id":"4629456b1935817d","x":1220,"y":-418,"width":400,"height":400,"color":"1","type":"file","file":"DM Only/Notes/Galsariad Ardyth.md"},
 		{"id":"00535f75708c7cff","x":2120,"y":-421,"width":400,"height":400,"type":"file","file":"Uncategorized/Medal of the Conch.md"},
-		{"id":"189b6ada400c29e4","x":1680,"y":-120,"width":400,"height":400,"color":"6","type":"file","file":"DM Only/Notes/Maggie Keeneyes.md"},
-		{"id":"a039997bbe329d16","x":2620,"y":-120,"width":400,"height":400,"type":"file","file":"Uncategorized/Medal of Muscle.md"},
+		{"id":"189b6ada400c29e4","x":720,"y":-120,"width":400,"height":400,"color":"6","type":"file","file":"DM Only/Notes/Maggie Keeneyes.md"},
+		{"id":"a039997bbe329d16","x":1660,"y":-120,"width":400,"height":400,"type":"file","file":"Uncategorized/Medal of Muscle.md"},
 		{"id":"ba73641cb8859b74","x":1200,"y":120,"width":400,"height":400,"color":"2","type":"file","file":"DM Only/Notes/Irvan Wastewalker.md"},
 		{"id":"b0b0f496cf723792","x":2140,"y":120,"width":400,"height":400,"type":"file","file":"Uncategorized/Medal of the Wetlands.md"},
 		{"id":"2d2098e9e4e7481c","x":740,"y":440,"width":400,"height":400,"color":"5","type":"file","file":"DM Only/Notes/Ayo Jabe.md"},
@@ -27,7 +27,8 @@
 		{"id":"ed896b820ae55671","x":1280,"y":960,"width":250,"height":60,"type":"text","text":"The Star Map's Riddle"},
 		{"id":"9d63bddf4b3adc8d","x":1280,"y":1040,"width":250,"height":60,"type":"text","text":"The Bottles' Riddle"},
 		{"id":"5edceda8be7f6065","x":2160,"y":720,"width":400,"height":400,"type":"file","file":"Uncategorized/Medal of Wit.md"},
-		{"id":"32ce035c326f4ddf","x":3453,"y":-699,"width":250,"height":60,"type":"text","text":"Final Contest"}
+		{"id":"32ce035c326f4ddf","x":3050,"y":-59,"width":250,"height":60,"type":"text","text":"[Final Contest](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#FinalContest) "},
+		{"id":"dc0f047559e00a9d","x":-480,"y":1680,"width":250,"height":60,"type":"text","text":"[The Emerald Grotto](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#TheEmeraldGrotto) "}
 	],
 	"edges":[
 		{"id":"0addccd18c3de13c","fromNode":"f90304ee5758dc3c","fromSide":"right","toNode":"4593cd745a4844f3","toSide":"left"},
@@ -58,6 +59,14 @@
 		{"id":"839a20c87f239399","fromNode":"c86b88eaea6aeea6","fromSide":"right","toNode":"9d63bddf4b3adc8d","toSide":"left"},
 		{"id":"1a637bbd1fb92bd1","fromNode":"afa919e49573d4c2","fromSide":"right","toNode":"5edceda8be7f6065","toSide":"left"},
 		{"id":"783a3c8486546d5b","fromNode":"ed896b820ae55671","fromSide":"right","toNode":"5edceda8be7f6065","toSide":"left"},
-		{"id":"fd45ece2f767ef34","fromNode":"9d63bddf4b3adc8d","fromSide":"right","toNode":"5edceda8be7f6065","toSide":"left"}
+		{"id":"fd45ece2f767ef34","fromNode":"9d63bddf4b3adc8d","fromSide":"right","toNode":"5edceda8be7f6065","toSide":"left"},
+		{"id":"1565bfcf0970ec0e","fromNode":"b10298f5de50a2d8","fromSide":"right","toNode":"32ce035c326f4ddf","toSide":"left"},
+		{"id":"22b6cb6292b0eb58","fromNode":"00535f75708c7cff","fromSide":"right","toNode":"32ce035c326f4ddf","toSide":"left"},
+		{"id":"ff20b1797c3e178b","fromNode":"a039997bbe329d16","fromSide":"right","toNode":"32ce035c326f4ddf","toSide":"left"},
+		{"id":"b6efa4d61a926701","fromNode":"b0b0f496cf723792","fromSide":"right","toNode":"32ce035c326f4ddf","toSide":"left"},
+		{"id":"f666518884b78644","fromNode":"5edceda8be7f6065","fromSide":"right","toNode":"32ce035c326f4ddf","toSide":"left"},
+		{"id":"3a86ec389050425b","fromNode":"8895bd08de962816","fromSide":"right","toNode":"32ce035c326f4ddf","toSide":"left"},
+		{"id":"283902527a648763","fromNode":"9d09aa51e563be4b","fromSide":"right","toNode":"32ce035c326f4ddf","toSide":"left"},
+		{"id":"0430c5038cc6e999","fromNode":"32ce035c326f4ddf","fromSide":"bottom","toNode":"dc0f047559e00a9d","toSide":"top"}
 	]
 }
