@@ -31,11 +31,19 @@ _**The Luxon.**_ The official deity of the Kryn Dynasty, whose symbol appears o
 
 If a follower of the Luxon who has undergone the ritual of consecution dies within 100 miles of a Luxon beacon, their soul is ensnared by it and reincarnated within the body of a random Humanoid newborn within 100 miles of the beacon.
 
-
 ## Factions or Patrons
-## Character Creation Guidelines 
+## Your Character in the World
+
+Characters in this campaign **begin at 3rd level**. 
+
+For this c
+
 ## House Rules
 ## Safety Tools and Themes
+
+The adventure walks a line between optimistic heroism and morally ambiguous character dilemmas. Heroic and equivocal choices are contrasted with moments of supernatural evil. Although this adventure is not a horror tale, it does involve elements of fear, suspense, and the grotesque.
+
+If at any time you don’t feel comfortable with the content or direction of the game, say **“pause for a second”** and we will stop the game and address your concerns.
 
 %%
 ## Basic Campaign Details
