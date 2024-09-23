@@ -78,9 +78,9 @@ All around you, colorful signs and banners point toward festival booths surround
 - [ ] scout
 - [ ] thug
 - [ ] priest
-- [ ] [Drow Elite Warrior](https://www.dndbeyond.com/monsters/17134-drow-elite-warrior) 
+- [ ] Durth Mirimm - [Drow Elite Warrior](https://www.dndbeyond.com/monsters/17134-drow-elite-warrior) 
 
 ##  Select magic item rewards
 
-- [ ] McGuffin
-- [ ] Amulet
+- [ ] Emerald Eye
+- [ ] Jewel of Three Prayers
