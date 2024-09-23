@@ -31,16 +31,14 @@ _**The Luxon.**_ The official deity of the Kryn Dynasty, whose symbol appears o
 
 If a follower of the Luxon who has undergone the ritual of consecution dies within 100 miles of a Luxon beacon, their soul is ensnared by it and reincarnated within the body of a random Humanoid newborn within 100 miles of the beacon.
 
-## Factions or Patrons
 ## Your Character in the World
 
 Characters in this campaign **begin at 3rd level**. 
 
 For this campaign you can select options from the [Player’s Handbook](https://www.dndbeyond.com/sources/phb) (PHB), [Explorer's Guide to Wildemount](https://www.dndbeyond.com/sources/dnd/egtw) (EGW), [Tasha's Cauldron of Everything](https://www.dndbeyond.com/sources/dnd/tcoe) (TCE), and [Xanathar's Guide to Everything](https://www.dndbeyond.com/sources/dnd/xgte) (XGE). Additional sources may be used at the DM's discretion. Players are encouraged to establish their backgrounds using the [Heroic Chronicle](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#HeroicChronicle) from EGW to ground their character in the world. Characters with divine aspects (cleric, paladin, etc.) must use the [Pantheon of Exandria](https://www.dndbeyond.com/sources/dnd/egtw/story-of-wildemount#PantheonofExandria) from EGW. 
 
+**Your character is a member of an established adventuring party, arriving in Jigow to compete in the annual Festival of Merit.** 
 
-
-## House Rules
 ## Safety Tools and Themes
 
 The adventure walks a line between optimistic heroism and morally ambiguous character dilemmas. Heroic and equivocal choices are contrasted with moments of supernatural evil. Although this adventure is not a horror tale, it does involve elements of fear, suspense, and the grotesque.
