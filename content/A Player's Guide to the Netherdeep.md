@@ -14,7 +14,10 @@ Article - https://slyflourish.com/one_page_campaign_guide.html
 Video - https://www.youtube.com/watch?v=thwe8XG9pUI
 
 - [ ] Hook
-- [ ] 
+- [ ] Truths
+- [ ] Factions or Patrons
+- [ ] Character Creation Guidelines and House Rules
+- [ ] Safety Tools and Themes
 %%
 ## Basic Campaign Details
 
