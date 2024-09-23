@@ -24,5 +24,7 @@ cssclasses:
 	- [ ] mp3 - https://www.patreon.com/mabmusicttrpg 
 - [ ] Lighting
 - [ ] Handouts
+	- [ ] Medals
+	- [ ] 
 
 %%
