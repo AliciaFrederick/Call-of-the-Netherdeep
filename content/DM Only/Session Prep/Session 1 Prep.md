@@ -36,7 +36,7 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 - [ ] **J6: [Herding the Horizonbacks](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J6HerdingtheHorizonbacks).** This year’s brood of young horizonback tortoises must be relocated from the Wetwalks to the Jumble.
 - [ ] **J7: [Riddles and Rhymes](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J7RiddlesandRhymes).** One of Jigow’s elders is fond of making up riddles. He has come up with several new ones for the festival this year.
 - [ ] [Final Contest](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#FinalContest) 
-- [ ] Next time - [The Emerald Grotto](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#TheEmeraldGrotto) 
+- [ ] [The Emerald Grotto](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#TheEmeraldGrotto) 
 
 ##  Define secrets and clues
 
@@ -89,5 +89,3 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 - [ ] [[Medal of the Wetlands]] 
 - [ ] [[Medal of the Horizonback]] 
 - [ ] [[Medal of Wit]] 
-- [ ] Emerald Eye
-- [ ] Jewel of Three Prayers

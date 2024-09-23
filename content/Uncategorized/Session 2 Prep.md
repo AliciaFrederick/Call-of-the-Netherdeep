@@ -18,30 +18,9 @@ cssclasses:
 ##  Create a strong start
 
 > [!QUOTE] Strong start
-> TBD
+> Elder Ushru stands before the mouth of a cave and addresses you and your opponents. “You brave and valiant individuals have triumphed in many challenges this day; now, the final Test of Merit awaits you!” He pulls a palm-sized gold-and-emerald amulet from his robes, holds it aloft, and declares: “This medal’s twin has been placed in the deepest cavern of the Emerald Grotto. Be the first to claim the Emerald Eye and return it to this place to be declared Jigow’s Champions of Merit! Begin now!” 
 
 ##  Outline potential scenes
-
-- [ ] Scene 1
-- [ ] .
-- [ ] .
-- [ ] .
-- [ ] .
-
-##  Define secrets and clues
-
-- [ ] Secret 1
-- [ ] .
-- [ ] .
-- [ ] .
-- [ ] .
-- [ ] .
-- [ ] .
-- [ ] .
-- [ ] .
-- [ ] .
-
-##  Develop fantastic locations
 
 - [ ] E1 - [Grotto Entrance](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#E1GrottoEntrance) 
 - [ ] E2 - [Kelp Tangle](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#E2KelpTangle) 
@@ -56,6 +35,13 @@ cssclasses:
 - [ ] E11 - [Moonweaver's Gateway](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#E11MoonWeaversGateway) 
 - [ ] E12 - [Prayer Site of Sehanine](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#E12PrayerSiteofSehanine) 
 
+##  Define secrets and clues
+
+- [ ] .
+
+##  Develop fantastic locations
+
+- [ ] [The Emerald Grotto](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#TheEmeraldGrotto) 
 ##  Outline important NPCs
 
 - [[Ayo Jabe]] 
@@ -79,7 +65,7 @@ cssclasses:
 - [ ] 3 potions of healing
 - [ ] Sehanine's spear
 - [ ] Emerald Eye
-- [ ] Jewel of Three Prayers
+- [ ] [Jewel of Three Prayers](https://www.dndbeyond.com/magic-items/4698481-jewel-of-three-prayers) 
 
 
 %% DM Notes
