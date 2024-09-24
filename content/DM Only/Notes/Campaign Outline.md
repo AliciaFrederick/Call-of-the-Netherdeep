@@ -36,15 +36,15 @@ cssclasses:
 
 ### Faction Missions
 
-- [[Allegiance of Allsight]] - Capitalist University Administrators
-	- 1 - Deliver the Figurine
-	- 2 - Search the Life Dome
-	- 3 - Proxies of Prolix
+- [[Allegiance of Allsight]] - Deep Sea Mining Professors
+	- 1 - Deliver the Figurine - The characters must retrieve a figurine from the Bone Garden, a shop in the Suncut Bazaar, and deliver it safely to the Crystal Chateau.
+	- 2 - Search the Life Dome - The characters must travel to the River District and search the Life Dome for a possible secret entrance into Cael Morrow.
+	- 3 - Proxies of Prolix - The characters must help Prolix Yusaf clear his name by finding a spy in the Allegiance of Allsight.
 - [[Consortium of the Vermilion Dream]] - Ruidus Crystal Witches
-	- 1 - A Ghost in our Midst
-	- 2 - When Luck Runs Out
+	- 1 - A Ghost in our Midst - The characters must visit the Shrine of the Wild Mother at night to find evidence of a ghost, then attempt to befriend it.
+	- 2 - When Luck Runs Out - The characters must take on a job guarding the Luck’s Run casino from a small gang of would-be thieves.
 	- 3 - Elephant in the Room
-- [[Library of the Cobalt Soul]] - Indiana Jones Monks
+- [[Library of the Cobalt Soul]] - James Bond Librarians
 	- 1 - The Cultist of Zehir
 	- 2 - Half-Baked Scheme
 	- 3 - Elephant Uproar
@@ -59,8 +59,8 @@ cssclasses:
 ### Faction Missions
 
 - Allegiance of Allsight
-	- 4 - The Double Agent
-	- 5 - Scout the Rift
+	- 4 - The Double Agent - The characters descend into Cael Morrow to capture or kill a Consortium spy whose identity is unknown to them.
+	- 5 - Scout the Rift - The characters must return to Cael Morrow, enter the Netherdeep, and confirm the existence of ruidium on the other side.
 - Consortium of the Vermilion Dream
 	- 4 - Key to the Netherdeep
 	- 5 - Slay the Aboleth
@@ -80,7 +80,7 @@ cssclasses:
 ### Faction Missions
 
 - Allegiance of Allsight
-	- 6 - Secure the Netherdeep (doomed to fail)
+	- 6 - Secure the Netherdeep (doomed to fail) - The characters must help the Allegiance control the flow of ruidium by cementing an alliance with the true power of the Netherdeep.
 - Consortium of the Vermilion Dream
 	- 6 - Ruidium Monopoly (doomed to fail)
 - Library of the Cobalt Soul

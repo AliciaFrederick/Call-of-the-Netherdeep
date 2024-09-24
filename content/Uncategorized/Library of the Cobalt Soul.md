@@ -1,6 +1,6 @@
 ---
 title: 
-description: 
+description: James Bond Librarians
 permalink: 
 aliases: 
 tags: 
@@ -8,10 +8,10 @@ draft: true
 date: 
 cssclasses:
 ---
-Vibe: James Bond Librarians
 
 
 %% DM Notes
+Vibe: James Bond Librarians
 
 
 
