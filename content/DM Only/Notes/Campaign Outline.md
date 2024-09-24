@@ -50,15 +50,15 @@ cssclasses:
 
 ### Faction Missions
 
-- [[Allegiance of Allsight]] - Capitalist Archaeology Professors
+- [[Allegiance of Allsight]] - Ivy League Indiana Jones
 	- 1 - Deliver the Figurine - The characters must retrieve a figurine from the Bone Garden, a shop in the Suncut Bazaar, and deliver it safely to the Crystal Chateau.
 	- 2 - Search the Life Dome - The characters must travel to the River District and search the Life Dome for a possible secret entrance into Cael Morrow.
 	- 3 - Proxies of Prolix - The characters must help Prolix Yusaf clear his name by finding a spy in the Allegiance of Allsight.
-- [[Consortium of the Vermilion Dream]] - Ruidus Crystal Witches
+- [[Consortium of the Vermilion Dream]] - Capitalist Halliwell sisters from Charmed
 	- 1 - A Ghost in our Midst - The characters must visit the Shrine of the Wild Mother at night to find evidence of a ghost, then attempt to befriend it.
 	- 2 - When Luck Runs Out - The characters must take on a job guarding the Luck’s Run casino from a small gang of would-be thieves.
 	- 3 - Elephant in the Room - The characters must steal a [figurine of wondrous power](https://www.dndbeyond.com/magic-items/4834-figurine-of-wondrous-power-marble-elephant) from the Allegiance of Allsight and deliver it to Aradrine the Owl.
-- [[Library of the Cobalt Soul]] - James Bond Librarians
+- [[Library of the Cobalt Soul]] - Evelyn from The Mummy
 	- 1 - The Cultist of Zehir - The characters must follow a suspicious scholar and ascertain his intentions toward Ank’Harel and the Library of the Cobalt Soul.
 	- 2 - Half-Baked Scheme - The characters must investigate a local baker who might be selling dangerous magic items to Ank’Harel’s worst elements.
 	- 3 - Elephant Uproar - The characters must battle magical elephants, then make their way to the headquarters of the Consortium of the Vermilion Dream.
