@@ -11,9 +11,10 @@ cssclasses:
 ---
 A monastic order dedicated to gathering and preserving knowledge, with library branches all across Exandria
 
-%% DM Notes
 - Vibe: James Bond Librarians
 
+%% DM Notes
+- https://www.dndbeyond.com/sources/dnd/cotn/the-jewel-of-hope#LibraryoftheCobaltSoul
 
 
 %%
