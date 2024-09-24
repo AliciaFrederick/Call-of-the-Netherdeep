@@ -8,7 +8,7 @@ draft: true
 date: 
 cssclasses:
 ---
-A monastic order in pursuit of knowledge, with library branches all across Exandria
+A monastic order dedicated to gathering and preserving knowledge, with library branches all across Exandria
 
 %% DM Notes
 Vibe: James Bond Librarians
