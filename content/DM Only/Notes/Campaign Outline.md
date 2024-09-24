@@ -40,7 +40,7 @@ cssclasses:
 	- 1 - Deliver the Figurine
 	- 2 - Search the Life Dome
 	- 3 - Proxies of Prolix
-- [[Consortium of the Vermilion Dream]] - Crystal Ruidus Witches
+- [[Consortium of the Vermilion Dream]] - Ruidus Crystal Witches
 	- 1 - A Ghost in our Midst
 	- 2 - When Luck Runs Out
 	- 3 - Elephant in the Room
