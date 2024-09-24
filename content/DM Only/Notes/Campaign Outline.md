@@ -71,6 +71,11 @@ cssclasses:
 ## Act 5: The Netherdeep (Chapter 6 & 7)
 
 - The characters enter the Netherdeep and obtain at least 3 Fragments of Suffering
+- LEVEL 11
+- The characters enter the Heart of Despair
+- LEVEL 12
+- The characters defeat or redeem Alyxian
+- LEVEL 13
 
 ### Faction Missions
 
