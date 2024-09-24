@@ -20,15 +20,19 @@ cssclasses:
 
 ## Act 2: Awakening the Jewel (Chapter 2 & 3)
 
-- Elder Ushru sends the characters on a journey to Bazzoxan to learn more about the Jewel
-- The characters explore the streets and people of Bazzoxan, defeating a pair of Gloomstalkers
+- The characters journey to Bazzoxan to learn more about the Jewel
+- LEVEL 5
+- The characters explore Bazzoxan, defeating a pair of gloomstalkers as they arrive at Betrayer's Rise
+- LEVEL 6
 - The characters work their way through Betrayer's Rise to find the Prayer Site of Avandra
+- LEVEL 7
 
 ## Act 3: Ank'Harel (Chapter 4)
 
 - The characters arrive in Ank'Harel and explore the city
-- The characters choose a faction and complete missions to earn full membership into the group
-- The characters learn about the corrupting element ruidium, the existence of the Drowned City of Cael Morrow, and the existence of the Netherdeep.
+- The characters choose a faction and complete at least 2 missions to earn full membership into the group
+- LEVEL 8
+- The characters complete a third mission to learn about the corrupting element ruidium, the existence of the Drowned City of Cael Morrow, and the existence of the Netherdeep.
 
 ### Faction Missions
 
