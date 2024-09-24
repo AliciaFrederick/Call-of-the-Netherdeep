@@ -11,8 +11,9 @@ cssclasses:
 ---
 An influential group of academics
 
-%% DM Notes
 - Vibe: Capitalist Indiana Jones
+
+%% DM Notes
 - https://www.dndbeyond.com/sources/dnd/cotn/the-jewel-of-hope#AllegianceofAllsight 
 
 

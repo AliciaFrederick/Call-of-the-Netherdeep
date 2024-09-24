@@ -11,8 +11,9 @@ cssclasses:
 ---
 A secret occult society obsessed with the magic of the Moon of Ill Omen, Ruidus
 
+- Vibe: Ruidus Wiccans
+
 %% DM Notes
-- Vibe: Ruidus Crystal Witches
 - https://www.dndbeyond.com/sources/dnd/cotn/the-jewel-of-hope#ConsortiumoftheVermilionDream
 - Discovered the rift to the Netherdeep
 
