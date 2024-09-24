@@ -8,9 +8,10 @@ draft: true
 date: 
 cssclasses:
 ---
-## Act 1: The Festival (Chapter 1)
+## Act 1: Jigow (Chapter 1)
 
-
+- The characters compete in the Festival of Merit
+- The characters race the rivals to find the Emerald Eye (and the Jewel of Three Prayers) 
 
 ## Act 2: Learning about the Jewel (Chapter 2, 3 & 4)
 
