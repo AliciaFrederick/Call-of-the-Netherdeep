@@ -11,7 +11,7 @@ cssclasses:
 ---
 An influential group of academics
 
-- Vibe: Ivy League Archaeologists
+- Vibe: Ivy League Indiana Jones
 
 %% DM Notes
 - https://www.dndbeyond.com/sources/dnd/cotn/the-jewel-of-hope#AllegianceofAllsight 

@@ -11,7 +11,7 @@ cssclasses:
 ---
 A secret occult society obsessed with the magic of the Moon of Ill Omen, Ruidus
 
-- Vibe: Capitalist Wiccans
+- Vibe: Capitalist Halliwell sisters from Charmed 
 
 %% DM Notes
 - https://www.dndbeyond.com/sources/dnd/cotn/the-jewel-of-hope#ConsortiumoftheVermilionDream
