@@ -27,14 +27,14 @@ cssclasses:
 		- 1 - Deliver the Figurine
 		- 2 - Search the Life Dome
 		- 3 - Proxies of Prolix
+	- Consortium of the Vermilion Dream
+		- 1 - A Ghost in our Midst
+		- 2 - When Luck Runs Out
+		- 3 - Elephant in the Room
 	- Library of the Cobalt Soul
-		- 1 - 
-		- 2 - 
-		- 3 - 
-	- Consortium of the Vermillion Dream
-		- 1 - 
-		- 2 - 
-		- 3 - 
+		- 1 - The Cultist of Zehir
+		- 2 - Half-Baked Scheme
+		- 3 - Elephant Uproar
 
 ## Act 4: Cael Morrow (Chapter 5 & 6)
 
@@ -42,10 +42,10 @@ cssclasses:
 	- Allegiance of Allsight
 		- 4 - The Double Agent
 		- 5 - Scout the Rift
-	- Library if the Cobalt Soul
-		- 4 - 
-		- 5 - 
-	- Consortium of the Vermillion Dream
+	- Consortium of the Vermilion Dream
+		- 4 - Key to the Netherdeep
+		- 5 - Slay the Aboleth
+	- Library of the Cobalt Soul
 		- 4 - 
 		- 5 - 
 
@@ -54,9 +54,9 @@ cssclasses:
 - Faction missions
 	- Allegiance of Allsight
 		- 6 - Secure the Netherdeep
-	- Library if the Cobalt Soul
-		- 6 - 
-	- Consortium of the Vermillion Dream
+	- Consortium of the Vermilion Dream
+		- 6 - Ruidium Monopoly
+	- Library of the Cobalt Soul
 		- 6 - 
 
 %% DM Notes
