@@ -20,11 +20,15 @@ cssclasses:
 
 ### [[Consortium of the Vermilion Dream]] 
 
-- **Goal**: Control the source o
+- **Goal**: Control the source of Ruidium
 
 ### [[Library of the Cobalt Soul]] 
 
-- **Goal**: 
+- **Goal**: Destroy the source of Ruidium
+
+### [[Rivals - Tier 1]] 
+
+- **Goals**: See page for details
 
 ## Act 1: Jigow (Chapter 1)
 
