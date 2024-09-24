@@ -56,9 +56,9 @@ cssclasses:
 	- Allegiance of Allsight
 		- 6 - Secure the Netherdeep
 	- Consortium of the Vermilion Dream
-		- 6 - Ruidium Monopoly
+		- 6 - Ruidium Monopoly (doomed to fail)
 	- Library of the Cobalt Soul
-		- 6 - Destroy the Netherdeep
+		- 6 - Destroy the Netherdeep (slay or redeem Alyxian)
 
 %% DM Notes
 
