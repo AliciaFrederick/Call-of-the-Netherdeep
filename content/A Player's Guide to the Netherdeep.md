@@ -22,6 +22,7 @@ Centuries later, all knowledge of this godlike hero has been lost to time, and t
 
 This adventure is set in Exandria, the world of _Critical Role_. Its continents include Tal’Dorei, Wildemount, Marquet, and Issylra. The adventure begins in a region of Wildemount called Xhorhas and transitions to the great Marquesian oasis city of Ank’Harel. More information about Exandria can be found in [Explorer’s Guide to Wildemount](https://www.dndbeyond.com/sources/egtw "Explorer’s Guide to Wildemount")
 
+![[no-spoilers-map-of-exandria-time-zones-v0-dikyed442axa1.webp]] 
 ## What the Characters Know
 
 Characters begin the adventure knowing the following facts.
