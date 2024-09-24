@@ -51,7 +51,10 @@ cssclasses:
 
 ## Act 4: Cael Morrow (Chapter 5)
 
-- The characters delve into the drowned city and find the entrance to the Netherdeep
+- The characters delve into the drowned city and find the Key to the Netherdeep
+- LEVEL 9
+- The characters advance the Jewel of Three Prayers to its Exalted state
+- LEVEL 10
 
 ### Faction Missions
 
@@ -67,7 +70,7 @@ cssclasses:
 
 ## Act 5: The Netherdeep (Chapter 6 & 7)
 
-- The characters enter the Netherdeep and encounter a corrupted Alyxian
+- The characters enter the Netherdeep and obtain at least 3 Fragments of Suffering
 
 ### Faction Missions
 
