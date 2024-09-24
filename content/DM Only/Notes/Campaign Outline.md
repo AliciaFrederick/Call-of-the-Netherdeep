@@ -10,17 +10,18 @@ cssclasses:
 ---
 ## Front: Alyxian the Apotheon
 
-- **Goal**: To escape his self-inflicted prison by any means necessary.
+- **Goal**: To escape his self-inflicted torment by any means necessary.
 
 ## Act 1: Jigow (Chapter 1)
 
 - The characters compete in the Festival of Merit
 - The characters race the rivals to find the Emerald Eye (and the Jewel of Three Prayers) at the Prayer Site of Sehanine
+- LEVEL 4
 
 ## Act 2: Awakening the Jewel (Chapter 2 & 3)
 
 - Elder Ushru sends the characters on a journey to Bazzoxan to learn more about the Jewel
-- The characters explore the streets and people of Bazzoxan 
+- The characters explore the streets and people of Bazzoxan, defeating a pair of Gloomstalkers
 - The characters work their way through Betrayer's Rise to find the Prayer Site of Avandra
 
 ## Act 3: Ank'Harel (Chapter 4)
@@ -31,11 +32,11 @@ cssclasses:
 
 ### Faction Missions
 
-- [[Allegiance of Allsight]] - Capitalism
+- [[Allegiance of Allsight]] - Capitalists
 	- 1 - Deliver the Figurine
 	- 2 - Search the Life Dome
 	- 3 - Proxies of Prolix
-- [[Consortium of the Vermilion Dream]] - Crystal Moon Witches
+- [[Consortium of the Vermilion Dream]] - Crystal Ruidus Witches
 	- 1 - A Ghost in our Midst
 	- 2 - When Luck Runs Out
 	- 3 - Elephant in the Room
