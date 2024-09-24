@@ -16,11 +16,11 @@ cssclasses:
 
 ### [[Allegiance of Allsight]] 
 
-- **Goal**: 
+- **Goal**: Control the source of Ruidium
 
 ### [[Consortium of the Vermilion Dream]] 
 
-- **Goal**: 
+- **Goal**: Control the source o
 
 ### [[Library of the Cobalt Soul]] 
 
