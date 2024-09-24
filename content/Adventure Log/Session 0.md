@@ -9,6 +9,7 @@ date:
 cssclasses:
 ---
 - Review and discuss [[A Player's Guide to the Netherdeep]] 
+- Discuss lines and veils
 - Create characters using the [Heroic Chronicle](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#HeroicChronicle) 
 
 %%
