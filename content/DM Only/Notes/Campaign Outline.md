@@ -15,9 +15,9 @@ cssclasses:
 
 ## Act 2: Learning about the Jewel (Chapter 2, 3 & 4)
 
-- Elder Ushru sends the characters to Bazzoxan to learn more about the Jewel
-- The characters explore Bazzoxan 
-- 
+- Elder Ushru sends the characters on a journey to Bazzoxan to learn more about the Jewel
+- The characters explore the streets and people of Bazzoxan 
+- The characters work their way through Betrayer's Rise to find the Prayer Site of Avandra
 
 ## Act 3: Cael Morrow (Chapter 5, 6 & 7)
 
