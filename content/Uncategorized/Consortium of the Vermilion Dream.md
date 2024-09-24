@@ -11,7 +11,7 @@ cssclasses:
 ---
 A secret occult society obsessed with the magic of the Moon of Ill Omen, Ruidus
 
-- Vibe: Hermetic Order of the Golden Dawn
+- Vibe: Capitalist Wiccans
 
 %% DM Notes
 - https://www.dndbeyond.com/sources/dnd/cotn/the-jewel-of-hope#ConsortiumoftheVermilionDream
