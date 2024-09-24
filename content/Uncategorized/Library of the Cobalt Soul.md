@@ -2,7 +2,8 @@
 title: 
 description: James Bond Librarians
 permalink: 
-aliases: 
+aliases:
+  - Cobalt Soul
 tags: 
 draft: true
 date: 

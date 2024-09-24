@@ -2,7 +2,8 @@
 title: 
 description: an influential group of academics
 permalink: 
-aliases: 
+aliases:
+  - Allegiance
 tags: 
 draft: true
 date: 
