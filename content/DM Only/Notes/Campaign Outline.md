@@ -23,6 +23,7 @@ cssclasses:
 
 - The characters arrive in Ank'Harel and explore the city
 - The characters choose a faction, complete missions, and learn about the corrupting element ruidium, the existence of the Drowned City of Cael Morrow, and the existence of the Netherdeep.
+- Faction Missions
 	- Allegiance of Allsight
 		- 1 - Deliver the Figurine
 		- 2 - Search the Life Dome
@@ -38,7 +39,7 @@ cssclasses:
 
 ## Act 4: Cael Morrow (Chapter 5 & 6)
 
-- Faction missions
+- Faction Missions
 	- Allegiance of Allsight
 		- 4 - The Double Agent
 		- 5 - Scout the Rift
@@ -46,18 +47,18 @@ cssclasses:
 		- 4 - Key to the Netherdeep
 		- 5 - Slay the Aboleth
 	- Library of the Cobalt Soul
-		- 4 - 
-		- 5 - 
+		- 4 - Allegiance Alliance
+		- 5 - Enemy of Our Enemies
 
 ## Act 5: The Netherdeep (Chapter 7)
 
-- Faction missions
+- Faction Missions
 	- Allegiance of Allsight
 		- 6 - Secure the Netherdeep
 	- Consortium of the Vermilion Dream
 		- 6 - Ruidium Monopoly
 	- Library of the Cobalt Soul
-		- 6 - 
+		- 6 - Destroy the Netherdeep
 
 %% DM Notes
 
