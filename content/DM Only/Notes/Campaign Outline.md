@@ -36,7 +36,7 @@ cssclasses:
 
 ### Faction Missions
 
-- [[Allegiance of Allsight]] - Capitalists
+- [[Allegiance of Allsight]] - Capitalist University Administrators
 	- 1 - Deliver the Figurine
 	- 2 - Search the Life Dome
 	- 3 - Proxies of Prolix
