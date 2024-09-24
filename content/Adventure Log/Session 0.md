@@ -8,8 +8,7 @@ draft: false
 date: 
 cssclasses:
 ---
-- Review [[A Player's Guide to the Netherdeep]] 
-- Discuss the [[Player Survey]] 
+- Review and discuss [[A Player's Guide to the Netherdeep]] 
 - Create characters using the [Heroic Chronicle](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#HeroicChronicle) 
 
 %%

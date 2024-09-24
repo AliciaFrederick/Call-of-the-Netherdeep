@@ -13,19 +13,14 @@ Example campaign guide - https://slyflourish_content.s3.us-east-1.amazonaws.com/
 Article - https://slyflourish.com/one_page_campaign_guide.html
 Video - https://www.youtube.com/watch?v=thwe8XG9pUI 
 %%
-## Basic Campaign Details
 
-- [Join the campaign](https://www.dndbeyond.com/campaigns/join/5938581356242320) for access to source material on D&D Beyond
-- VTT: [Owlbear Rodeo](https://www.owlbear.rodeo/room/BaGN2KPVM902/TheHomeyLeaf) 
+Long ago, a war between gods of good and evil scoured the surface of the world of Exandria. Both the noble Prime Deities and the selfish Betrayer Gods imbued their mortal champions with supernatural gifts that granted them strength enough to challenge their divine foes. The greatest of these champions was Alyxian the Apotheon, who received the blessings of three Prime Deities to save the world from the apocalyptic power of the Betrayer Gods.
 
-## Setting and Tone
+Centuries later, all knowledge of this godlike hero has been lost to time, and two groups of adventurers are called upon to retrace this mythic hero’s steps and free him from his timeless prison. 
 
-This campaign takes place in *Critical Role's* world of Exandria. 
+## World of Exandria
 
-The adventure walks a line between optimistic heroism and morally ambiguous character dilemmas. Heroic and equivocal choices are contrasted with moments of supernatural evil. Although this adventure is not a horror tale, it does involve elements of fear, suspense, and the grotesque.
-
-> [!WARNING] Disclaimer
-> The Netherdeep contains magical elements known to cause life-changing discoveries of ancient artifacts, red crystals growing out of your skin, long swims in dark places, aberrant fish, and enemies-to-friends-to-enemies plots. Consult a cleric or Matthew Mercer to see if the path to the Netherdeep is right for you.
+This adventure is set in Exandria, the world of _Critical Role_. Its continents include Tal’Dorei, Wildemount, Marquet, and Issylra. The adventure begins in a region of Wildemount called Xhorhas and transitions to the great Marquesian oasis city of Ank’Harel. More information about Exandria can be found in [Explorer’s Guide to Wildemount](https://www.dndbeyond.com/sources/egtw "Explorer’s Guide to Wildemount")
 
 ## What the Characters Know
 
@@ -41,24 +36,20 @@ _**The Luxon.**_ The official deity of the Kryn Dynasty, whose symbol appears o
 
 If a follower of the Luxon who has undergone the ritual of consecution dies within 100 miles of a Luxon beacon, their soul is ensnared by it and reincarnated within the body of a random Humanoid newborn within 100 miles of the beacon.
 
-## Character Options
+## Your Character in the World
 
-The characters are an established adventuring party who find themselves in [[Jigow]] during the city's annual Festival of Merit. 
+Characters in this campaign **begin at 3rd level**. 
 
-- Sourcebooks for this adventure are the [Player’s Handbook](https://www.dndbeyond.com/sources/phb) (PHB) and [Explorer's Guide to Wildemount](https://www.dndbeyond.com/sources/dnd/egtw) (EGW). Additional sources may be used at the DM's discretion.  
-- Player characters begin this adventure at level 3. Character advancement is milestone-based and will end at level 13. 
-- All the races, classes, and backgrounds from the source material are available for this campaign. 
-- Players are encouraged to use the [Heroic Chronicle](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#HeroicChronicle) from EGW to ground their character in the world and establish their relationships among its people.
-- Characters with any divine aspects (cleric, paladin, etc.) must use the [Pantheon of Exandria](https://www.dndbeyond.com/sources/dnd/egtw/story-of-wildemount#PantheonofExandria) from EGW. 
-- In addition to standard level 1 starting equipment, each character may include in their inventory: 
-	- 1 healing potion 
-	- 1 common magic item from either PHB or EGW
-	- 50 gp
-- No evil characters.
+For this campaign you can select options from the [Player’s Handbook](https://www.dndbeyond.com/sources/phb) (PHB), [Explorer's Guide to Wildemount](https://www.dndbeyond.com/sources/dnd/egtw) (EGW), [Tasha's Cauldron of Everything](https://www.dndbeyond.com/sources/dnd/tcoe) (TCE), and [Xanathar's Guide to Everything](https://www.dndbeyond.com/sources/dnd/xgte) (XGE). [Join the campaign](https://www.dndbeyond.com/campaigns/join/5938581356242320) for access to source material on D&D Beyond. 
 
-## Party Formation
+Players are encouraged to establish their backgrounds using the [Heroic Chronicle](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#HeroicChronicle) from EGW to ground their character in the world. Characters with divine aspects (cleric, paladin, etc.) must use the [Pantheon of Exandria](https://www.dndbeyond.com/sources/dnd/egtw/story-of-wildemount#PantheonofExandria) from EGW. 
 
-1. Are any of the characters related to each other?
-2. What keeps the characters together as a party?
-3. What does each character like most about every other member of the adventuring party?
-4. Does the group have a patron?
+**Your character is a member of an established adventuring party, arriving in Jigow to compete in the annual Festival of Merit.** 
+
+## Safety Tools and Themes
+
+The adventure walks a line between optimistic heroism and morally ambiguous character dilemmas. Heroic and equivocal choices are contrasted with moments of supernatural evil. Although this adventure is not a horror tale, it does involve elements of fear, suspense, and the grotesque.
+
+If at any time you don’t feel comfortable with the content or direction of the game, say **“pause for a second”** and we will stop the game and address your concerns.
+
+

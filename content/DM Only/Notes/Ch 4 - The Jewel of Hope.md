@@ -1,3 +1,19 @@
+---
+title: 
+description: 
+permalink: 
+aliases: 
+tags: 
+draft: true
+date: 
+cssclasses:
+---
+%% DM Notes
+
+
+
+%%
+
 << [[Ch 3 - Bazzoxan]] | [[Ch 5 - The Drowned City]] >>
 
 ![[04-001.intro-splash.jpg]] 
