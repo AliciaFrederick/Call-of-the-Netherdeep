@@ -12,7 +12,7 @@ cssclasses:
 An influential group of academics
 
 %% DM Notes
-Vibe: Deep Sea Mining Professors
+Vibe: Underwater Archaeologists
 https://www.dndbeyond.com/sources/dnd/cotn/the-jewel-of-hope#AllegianceofAllsight 
 
 
