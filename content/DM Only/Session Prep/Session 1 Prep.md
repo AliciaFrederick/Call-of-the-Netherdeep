@@ -11,6 +11,9 @@ cssclasses:
 ##  Review the characters
 
 - [ ] [[Joe]] 
+- [ ] [[Amy]] 
+- [ ] [[Brenna]] 
+- [ ] [[Brownie]] 
 
 ##  Create a strong start
 
