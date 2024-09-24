@@ -8,7 +8,7 @@ draft: true
 date: 
 cssclasses:
 ---
-Vibe: Capitalist University Administrators
+Vibe: James Bond Librarians
 
 
 %% DM Notes

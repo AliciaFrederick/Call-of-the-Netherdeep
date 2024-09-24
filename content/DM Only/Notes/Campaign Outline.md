@@ -44,7 +44,7 @@ cssclasses:
 	- 1 - A Ghost in our Midst
 	- 2 - When Luck Runs Out
 	- 3 - Elephant in the Room
-- [[Library of the Cobalt Soul]] - Monk Indiana Jones
+- [[Library of the Cobalt Soul]] - Indiana Jones Monks
 	- 1 - The Cultist of Zehir
 	- 2 - Half-Baked Scheme
 	- 3 - Elephant Uproar
