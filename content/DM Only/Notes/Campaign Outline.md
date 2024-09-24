@@ -15,7 +15,7 @@ cssclasses:
 ## Act 1: Jigow (Chapter 1)
 
 - The characters compete in the Festival of Merit
-- The characters race the rivals to find the Emerald Eye (and the Jewel of Three Prayers) at the Prayer Site of Sehanine
+- The characters race the rivals to find the Emerald Eye (and the dormant Jewel of Three Prayers) at the Prayer Site of Sehanine
 - LEVEL 4
 
 ## Act 2: Awakening the Jewel (Chapter 2 & 3)
@@ -30,9 +30,9 @@ cssclasses:
 ## Act 3: Ank'Harel (Chapter 4)
 
 - The characters arrive in Ank'Harel and explore the city
-- The characters choose a faction and complete at least 2 missions to earn full membership into the group
+- The characters choose a faction and complete 2 missions to earn full membership into the group
+- The characters complete a 3rd mission to learn about the corrupting element ruidium, the existence of the Drowned City of Cael Morrow, and the existence of the Netherdeep.
 - LEVEL 8
-- The characters complete a third mission to learn about the corrupting element ruidium, the existence of the Drowned City of Cael Morrow, and the existence of the Netherdeep.
 
 ### Faction Missions
 
