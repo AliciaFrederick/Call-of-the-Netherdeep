@@ -10,9 +10,21 @@ cssclasses:
 ---
 ## Fronts 
 
-Alyxian the Apotheon
+### [[Alyxian]] the Apotheon
 
 - **Goal**: To escape his self-inflicted torment by any means necessary.
+
+### [[Allegiance of Allsight]] 
+
+- **Goal**: 
+
+### [[Consortium of the Vermilion Dream]] 
+
+- **Goal**: 
+
+### [[Library of the Cobalt Soul]] 
+
+- **Goal**: 
 
 ## Act 1: Jigow (Chapter 1)
 
