@@ -8,6 +8,10 @@ draft: true
 date: 
 cssclasses:
 ---
+## Front: Alyxian the Apotheon
+
+- **Goal**: To escape his self-inflicted prison by any means necessary.
+
 ## Act 1: Jigow (Chapter 1)
 
 - The characters compete in the Festival of Merit
