@@ -31,15 +31,15 @@ cssclasses:
 
 ### Faction Missions
 
-- Allegiance of Allsight
+- [[Allegiance of Allsight]] - Capitalism
 	- 1 - Deliver the Figurine
 	- 2 - Search the Life Dome
 	- 3 - Proxies of Prolix
-- Consortium of the Vermilion Dream
+- [[Consortium of the Vermilion Dream]] - Crystal Moon Witches
 	- 1 - A Ghost in our Midst
 	- 2 - When Luck Runs Out
 	- 3 - Elephant in the Room
-- Library of the Cobalt Soul
+- [[Library of the Cobalt Soul]] - Monk Indiana Jones
 	- 1 - The Cultist of Zehir
 	- 2 - Half-Baked Scheme
 	- 3 - Elephant Uproar
