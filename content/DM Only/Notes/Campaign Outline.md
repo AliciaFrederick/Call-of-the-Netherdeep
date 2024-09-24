@@ -50,7 +50,7 @@ cssclasses:
 
 ### Faction Missions
 
-- [[Allegiance of Allsight]] - Capi Professors
+- [[Allegiance of Allsight]] - Capitalist Archaeology Professors
 	- 1 - Deliver the Figurine - The characters must retrieve a figurine from the Bone Garden, a shop in the Suncut Bazaar, and deliver it safely to the Crystal Chateau.
 	- 2 - Search the Life Dome - The characters must travel to the River District and search the Life Dome for a possible secret entrance into Cael Morrow.
 	- 3 - Proxies of Prolix - The characters must help Prolix Yusaf clear his name by finding a spy in the Allegiance of Allsight.

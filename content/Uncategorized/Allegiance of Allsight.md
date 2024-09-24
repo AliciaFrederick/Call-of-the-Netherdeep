@@ -12,8 +12,8 @@ cssclasses:
 An influential group of academics
 
 %% DM Notes
-Vibe: Underwater Archaeologists
-https://www.dndbeyond.com/sources/dnd/cotn/the-jewel-of-hope#AllegianceofAllsight 
+- Vibe: Capitalist Indiana Jones
+- https://www.dndbeyond.com/sources/dnd/cotn/the-jewel-of-hope#AllegianceofAllsight 
 
 
 %%
