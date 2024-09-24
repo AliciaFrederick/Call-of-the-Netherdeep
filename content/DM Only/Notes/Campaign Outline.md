@@ -11,7 +11,7 @@ cssclasses:
 ## Act 1: Jigow (Chapter 1)
 
 - The characters compete in the Festival of Merit
-- The characters race the rivals to find the Emerald Eye (and the Jewel of Three Prayers)
+- The characters race the rivals to find the Emerald Eye (and the Jewel of Three Prayers) at the Prayer Site of Sehanine
 
 ## Act 2: Awakening the Jewel (Chapter 2 & 3)
 
@@ -37,7 +37,7 @@ cssclasses:
 		- 2 - Half-Baked Scheme
 		- 3 - Elephant Uproar
 
-## Act 4: Cael Morrow (Chapter 5 & 6)
+## Act 4: Cael Morrow (Chapter 5)
 
 - Faction Missions
 	- Allegiance of Allsight
@@ -50,11 +50,11 @@ cssclasses:
 		- 4 - Allegiance Alliance
 		- 5 - Enemy of Our Enemies
 
-## Act 5: The Netherdeep (Chapter 7)
+## Act 5: The Netherdeep (Chapter 6 & 7)
 
 - Faction Missions
 	- Allegiance of Allsight
-		- 6 - Secure the Netherdeep
+		- 6 - Secure the Netherdeep (doomed to fail)
 	- Consortium of the Vermilion Dream
 		- 6 - Ruidium Monopoly (doomed to fail)
 	- Library of the Cobalt Soul
