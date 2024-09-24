@@ -25,7 +25,8 @@ cssclasses:
 - The characters choose a faction and complete missions to earn full membership into the group
 - The characters learn about the corrupting element ruidium, the existence of the Drowned City of Cael Morrow, and the existence of the Netherdeep.
 
-Faction Missions
+### Faction Missions
+
 - Allegiance of Allsight
 	- 1 - Deliver the Figurine
 	- 2 - Search the Life Dome
@@ -41,7 +42,10 @@ Faction Missions
 
 ## Act 4: Cael Morrow (Chapter 5)
 
-Faction Missions
+- The characters delve into the drowned city and find the entrance to the Netherdeep
+
+### Faction Missions
+
 - Allegiance of Allsight
 	- 4 - The Double Agent
 	- 5 - Scout the Rift
@@ -54,7 +58,10 @@ Faction Missions
 
 ## Act 5: The Netherdeep (Chapter 6 & 7)
 
-Faction Missions
+- The characters enter the Netherdeep and encounter a corrupted Alyxian
+
+### Faction Missions
+
 - Allegiance of Allsight
 	- 6 - Secure the Netherdeep (doomed to fail)
 - Consortium of the Vermilion Dream
