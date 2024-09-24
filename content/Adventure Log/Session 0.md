@@ -35,9 +35,6 @@ cssclasses:
 		- [ ] Darkest Dungeon 
 		- [ ] Midnight Syndicate 
 		- [ ] Two Steps From Hell
-- [ ] Lighting
-	- [ ] Jigow
-	- [ ] The Emerald Grotto
 - [ ] Handouts
 	- [ ] Medals
 	- [ ] Other treasure
