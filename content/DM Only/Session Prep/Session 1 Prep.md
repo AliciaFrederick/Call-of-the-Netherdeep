@@ -10,7 +10,7 @@ cssclasses:
 ---
 ##  Review the characters
 
-- [ ] [[Joe]] 
+- [ ] [[Perjeon Beachgift]] 
 - [ ] [[Amy]] 
 - [ ] [[Brenna]] 
 - [ ] [[Brownie]] 
