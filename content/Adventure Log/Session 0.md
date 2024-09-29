@@ -11,7 +11,8 @@ cssclasses:
 - Review and discuss [[A Player's Guide to the Netherdeep]] 
 - Discuss lines and veils
 	- gaslighting, sexual violence
-- Wa
+- Wants
+	- RP, politics, short combat, more puzzles
 - Create characters using the [Heroic Chronicle](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#HeroicChronicle) 
 - Connect to [Owlbear Rodeo](https://www.owlbear.rodeo/room/BaGN2KPVM902/TheHomeyLeaf) 
 
