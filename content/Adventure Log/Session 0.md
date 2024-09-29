@@ -43,7 +43,6 @@ BRENNA - Thrast Summittrod (mountain dwarf wereraven cleric of the Raven Queen)
 - Cat spying on village elder
 - Provoked dragon's wrath - stole treasure
 
-
 - [ ] Set up a tracker for the rivals' attitudes towards the party members
 - [ ] Practice voices for the rivals and Alyxian
 - [ ] Review the rivals' goals and personalities
