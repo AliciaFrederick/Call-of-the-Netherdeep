@@ -22,7 +22,7 @@ JOE - Perjeon Beachgift (half-elf fighter echo knight pirate of the Revelry)
 - Princess Suria Dwendal
 
 AMY - tiefling wizard
-- Cobalt Soul
+- Hall of Erudition in Zadash
 
 BRENNA - Thrast Summittrod (mountain dwarf wereraven cleric of the Raven Queen)
 - Cobalt Soul 
