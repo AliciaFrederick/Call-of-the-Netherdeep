@@ -64,7 +64,7 @@ cssclasses:
 - [ ] [[Potion of Healing]] 
 - [ ] [[Spell Scroll]] of [[Thunderwave]] 
 - [ ] [[Dust of Dryness]] 
-- [ ] 3 x [[Potion of Healing]] 
+- [ ] 3 x [[DM Only/Reference/Treasure/Potion of Healing]] 
 - [ ] Sehanine's spear
 - [ ] Emerald Eye
 - [ ] [Jewel of Three Prayers](https://www.dndbeyond.com/magic-items/4698481-jewel-of-three-prayers) 
