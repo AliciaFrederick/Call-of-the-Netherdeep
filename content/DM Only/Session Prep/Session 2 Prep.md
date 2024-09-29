@@ -60,7 +60,7 @@ cssclasses:
 
 ##  Select magic item rewards
 
-- [ ] potion of water breathing
+- [ ] [potion of water breathing](https://www.dndbeyond.com/magic-items/4715-potion-of-water-breathing) [[DM Only/Reference/Treasure/Potion of Water Breathing]] 
 - [ ] potion of healing
 - [ ] scroll of thunderwave
 - [ ] dust of dryness
