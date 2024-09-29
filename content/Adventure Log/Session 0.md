@@ -14,6 +14,11 @@ cssclasses:
 - Connect to [Owlbear Rodeo](https://www.owlbear.rodeo/room/BaGN2KPVM902/TheHomeyLeaf) 
 
 %%
+JOE
+- Spy rival (former shipmate)
+- Sailor ally (father)
+
+
 
 - [ ] Set up a tracker for the rivals' attitudes towards the party members
 - [ ] Practice voices for the rivals and Alyxian
