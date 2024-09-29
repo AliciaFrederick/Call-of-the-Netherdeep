@@ -10,8 +10,9 @@ draft: false
 date: 2024-09-23
 cssclasses:
 ---
-https://www.dndbeyond.com/characters/133013620 
+https://www.dndbeyond.com/characters/133482772 
 
+![[Aza Dirali.png]] 
 
 %% DM Notes
 
