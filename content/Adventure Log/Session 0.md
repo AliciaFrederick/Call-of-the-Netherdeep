@@ -21,15 +21,17 @@ JOE - Perjeon Beachgift (half-elf fighter echo knight pirate of the Revelry)
 - Treasure map
 - Princess Suria Dwendal
 
-AMY - tiefling wizard
+AMY - tiefling wizard sage of the Cobalt Soul
 - Hall of Erudition in Zadash
 - Rival - sore loser - bandit
 - Ally - telepathic connection within 1 mile
 - Prof - thieves' tools, stealth
 - "The time is soon" - rival - doesn't remember
+- Steal holy relic of Kryn Dyn
 
 BRENNA - Thrast Summittrod (mountain dwarf wereraven cleric of the Raven Queen)
-- Cobalt Soul 
+- Cobalt Soul in Zadash 
+- Ally - telepathic connection within 1 mile
 
 
 - [ ] Set up a tracker for the rivals' attitudes towards the party members
