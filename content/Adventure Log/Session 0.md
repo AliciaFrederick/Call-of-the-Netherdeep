@@ -14,12 +14,14 @@ cssclasses:
 - Connect to [Owlbear Rodeo](https://www.owlbear.rodeo/room/BaGN2KPVM902/TheHomeyLeaf) 
 
 %%
-JOE
+JOE - Perjeon Beachgift (half-elf fighter echo knight pirate)
 - Spy rival (former shipmate)
 - Sailor ally (father)
 - Treasure map
-- Suria Dwendal
+- Princess Suria Dwendal
 
+AMY - tiefling wizard
+- Soltryce Academy
 
 
 - [ ] Set up a tracker for the rivals' attitudes towards the party members
