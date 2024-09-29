@@ -23,6 +23,9 @@ JOE - Perjeon Beachgift (half-elf fighter echo knight pirate of the Revelry)
 
 AMY - tiefling wizard
 - Hall of Erudition in Zadash
+- Rival - sore loser - bandit
+- Ally - telepathic connection within 1 mile
+- Prof - thieves' tools, stealth
 
 BRENNA - Thrast Summittrod (mountain dwarf wereraven cleric of the Raven Queen)
 - Cobalt Soul 
