@@ -21,7 +21,10 @@ JOE - Perjeon Beachgift (half-elf fighter echo knight pirate)
 - Princess Suria Dwendal
 
 AMY - tiefling wizard
-- Soltryce Academy
+- Cobalt Soul
+
+BRENNA - Thrast Summittrod (mountain dwarf wereraven cleric of the Raven Queen)
+- Cobalt Soul 
 
 
 - [ ] Set up a tracker for the rivals' attitudes towards the party members
