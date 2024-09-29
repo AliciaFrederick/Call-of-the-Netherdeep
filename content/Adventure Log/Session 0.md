@@ -17,6 +17,7 @@ cssclasses:
 JOE
 - Spy rival (former shipmate)
 - Sailor ally (father)
+- Treasure map
 
 
 
