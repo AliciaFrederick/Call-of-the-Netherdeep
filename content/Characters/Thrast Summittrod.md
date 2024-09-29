@@ -21,5 +21,7 @@ BRENNA - Thrast Summittrod (mountain dwarf wereraven cleric of the Raven Queen)
 - Lost in jungle, saved by wereraven, gifted with lycanthropy
 - Cat spying on village elder
 - Provoked dragon's wrath - stole treasure (something shiny with knowledge) 
+	- stole a book from the Cobalt Soul - swapped with Tusk Love
+	- dragon was a librarian 
 
 %%
