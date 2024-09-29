@@ -19,6 +19,7 @@ JOE - Perjeon Beachgift (half-elf fighter echo knight pirate of the Revelry)
 - Spy rival (former shipmate)
 - Sailor ally (father)
 - Treasure map
+- Queen's water
 - Princess Suria Dwendal
 
 AMY - Aza Dirali (tiefling wizard sage of the Cobalt Soul)
@@ -27,12 +28,16 @@ AMY - Aza Dirali (tiefling wizard sage of the Cobalt Soul)
 - Ally - telepathic connection within 1 mile
 - Prof - thieves' tools, stealth
 - "The time is soon" - rival - doesn't remember
+- dampfnudel
 - Steal holy relic of Kryn Dyn
 
 BRENNA - Thrast Summittrod (mountain dwarf wereraven cleric of the Raven Queen)
 - Cobalt Soul in Zadash 
 - Ally - telepathic connection within 1 mile
 - Rival - murdered their sibling - cultist
+- Lost in jungle, saved by wereraven, gifted with lycanthropy
+- Cat spying on village elder
+- Provoked dragon's wrath - stole treasure
 
 
 - [ ] Set up a tracker for the rivals' attitudes towards the party members
