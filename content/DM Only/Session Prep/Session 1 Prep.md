@@ -57,17 +57,17 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 
 ##  Choose relevant monsters
 
-- [ ] aarakocra
-- [ ] commoner
-- [ ] drow
-- [ ] gladiator
-- [ ] goblin
+- [ ] [[aarakocra]] 
+- [ ] [[Commoner (NPC)]] 
+- [ ] [[Elf, Drow]] 
+- [ ] [[Gladiator (NPC)]]
+- [ ] [[Goblin]] 
 - [ ] [Horizonback Tortoise](https://www.dndbeyond.com/sources/dnd/egtw/wildemount-bestiary#HorizonbackTortoise) 
 - [ ] [Ifolon Striped Sharks](https://www.dndbeyond.com/monsters/16994-reef-shark) 
-- [ ] orc
-- [ ] veteran
-- [ ] scout
-- [ ] thug
+- [ ] [[Orc]] 
+- [ ] [[Veteran (NPC)]] 
+- [ ] [[scou]]
+- [ ] [[Thug (NPC)]] 
 - [ ] priest
 - [ ] Durth Mirimm - [Drow Elite Warrior](https://www.dndbeyond.com/monsters/17134-drow-elite-warrior) 
 
