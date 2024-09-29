@@ -32,6 +32,7 @@ AMY - Aza Dirali (tiefling wizard sage of the Cobalt Soul)
 BRENNA - Thrast Summittrod (mountain dwarf wereraven cleric of the Raven Queen)
 - Cobalt Soul in Zadash 
 - Ally - telepathic connection within 1 mile
+- Rival - murdered their sibling - cultist
 
 
 - [ ] Set up a tracker for the rivals' attitudes towards the party members
