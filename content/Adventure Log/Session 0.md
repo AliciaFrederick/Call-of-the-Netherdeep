@@ -14,7 +14,8 @@ cssclasses:
 - Connect to [Owlbear Rodeo](https://www.owlbear.rodeo/room/BaGN2KPVM902/TheHomeyLeaf) 
 
 %%
-JOE - Perjeon Beachgift (half-elf fighter echo knight pirate)
+JOE - Perjeon Beachgift (half-elf fighter echo knight pirate of the Revelry) 
+- Revelry pirate
 - Spy rival (former shipmate)
 - Sailor ally (father)
 - Treasure map
