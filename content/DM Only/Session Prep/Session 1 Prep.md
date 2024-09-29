@@ -57,7 +57,7 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 
 ##  Choose relevant monsters
 
-- [ ] [[aarakocra]] 
+- [ ] [Aarakocra (NPC)](https://www.dndbeyond.com/monsters/17100-aarakocra)  
 - [ ] [[Commoner (NPC)]] 
 - [ ] [[Elf, Drow]] 
 - [ ] [[Gladiator (NPC)]]
@@ -66,10 +66,10 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 - [ ] [Ifolon Striped Sharks](https://www.dndbeyond.com/monsters/16994-reef-shark) 
 - [ ] [[Orc]] 
 - [ ] [[Veteran (NPC)]] 
-- [ ] [[scou]]
+- [ ] [[Scout (NPC)]] 
 - [ ] [[Thug (NPC)]] 
-- [ ] priest
-- [ ] Durth Mirimm - [Drow Elite Warrior](https://www.dndbeyond.com/monsters/17134-drow-elite-warrior) 
+- [ ] [[Priest (NPC)]] 
+- [ ] Durth Mirimm - [Drow Elite Warrior (NPC)](https://www.dndbeyond.com/monsters/17134-drow-elite-warrior) 
 
 ##  Select magic item rewards
 
