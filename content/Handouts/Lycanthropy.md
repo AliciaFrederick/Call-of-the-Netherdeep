@@ -12,29 +12,28 @@ A lycanthrope can either resist its curse or embrace it. By resisting the curse,
 
 Some individuals see little point in fighting the curse and accept what they are. With time and experience, they learn to master their shapechanging ability and can assume beast form or hybrid form at will. Most lycanthropes that embrace their bestial natures succumb to bloodlust, becoming evil, opportunistic creatures that prey on the weak.
 
-PLAYER CHARACTERS AS LYCANTHROPES
-
-A character who becomes a lycanthrope retains his or her statistics except as specified by lycanthrope type. The character gains the lycanthrope’s speeds in nonhumanoid form, damage immunities, traits, and actions that don’t involve equipment. The character is proficient with the lycanthrope’s natural attacks, such as its bite or claws, which deal damage as shown in the lycanthrope’s statistics. The character can’t speak while in animal form.
-
-A non-lycanthrope humanoid hit by an attack that carries the curse of lycanthropy must succeed on a Constitution saving throw (DC 8 + the lycanthrope’s proficiency bonus + the lycanthrope’s Constitution modifier) or be cursed. If the character embraces the curse, his or her alignment becomes the one defined for the lycanthrope. The DM is free to decide that a change in alignment places the character under DM control until the curse of lycanthropy is removed.
-
-The following information applies to specific lycanthropes.
-
-_**Werebear.**_ The character gains a Strength of 19 if his or her score isn’t already higher, and a +1 bonus to AC while in bear or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
-
-_**Wereboar.**_ The character gains a Strength of 17 if his or her score isn’t already higher, and a +1 bonus to AC while in boar or hybrid form (from natural armor). Attack and damage rolls for the tusks are based on Strength. For the Charge trait, the DC is 8 + the character’s proficiency bonus + Strength modifier.
-
-_**Wererat.**_ The character gains a Dexterity of 15 if his or her score isn’t already higher. Attack and damage rolls for the bite are based on whichever is higher of the character’s Strength and Dexterity.
-
-_**Weretiger.**_ The character gains a Strength of 17 if his or her score isn’t already higher. Attack and damage rolls for the natural weapons are based on Strength. For the Pounce trait, the DC is 8 + the character’s proficiency bonus + Strength modifier.
-
-_**Werewolf.**_ The character gains a Strength of 15 if his or her score isn’t already higher, and a +1 bonus to AC while in wolf or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
+> [!NOTE] PLAYER CHARACTERS AS LYCANTHROPES
+> 
+> A character who becomes a lycanthrope retains his or her statistics except as specified by lycanthrope type. The character gains the lycanthrope’s speeds in nonhumanoid form, damage immunities, traits, and actions that don’t involve equipment. The character is proficient with the lycanthrope’s natural attacks, such as its bite or claws, which deal damage as shown in the lycanthrope’s statistics. The character can’t speak while in animal form.
+> 
+> A non-lycanthrope humanoid hit by an attack that carries the curse of lycanthropy must succeed on a Constitution saving throw (DC 8 + the lycanthrope’s proficiency bonus + the lycanthrope’s Constitution modifier) or be cursed. If the character embraces the curse, his or her alignment becomes the one defined for the lycanthrope. The DM is free to decide that a change in alignment places the character under DM control until the curse of lycanthropy is removed.
+> 
+> The following information applies to specific lycanthropes.
+> 
+> _**Werebear.**_ The character gains a Strength of 19 if his or her score isn’t already higher, and a +1 bonus to AC while in bear or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
+> 
+> _**Wereboar.**_ The character gains a Strength of 17 if his or her score isn’t already higher, and a +1 bonus to AC while in boar or hybrid form (from natural armor). Attack and damage rolls for the tusks are based on Strength. For the Charge trait, the DC is 8 + the character’s proficiency bonus + Strength modifier.
+> 
+> _**Wererat.**_ The character gains a Dexterity of 15 if his or her score isn’t already higher. Attack and damage rolls for the bite are based on whichever is higher of the character’s Strength and Dexterity.
+> 
+> _**Weretiger.**_ The character gains a Strength of 17 if his or her score isn’t already higher. Attack and damage rolls for the natural weapons are based on Strength. For the Pounce trait, the DC is 8 + the character’s proficiency bonus + Strength modifier.
+> 
+> _**Werewolf.**_ The character gains a Strength of 15 if his or her score isn’t already higher, and a +1 bonus to AC while in wolf or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
+> 
 
 ### Wereraven
 
 Wereravens are secretive and wary of strangers. They keep mostly to themselves, respect local laws, and strive to do good whenever possible. They are reluctant to attack with their beaks in raven or hybrid form for fear of spreading their curse to those who don’t deserve it or would abuse it.
-
-A character cursed with wereraven lycanthropy gains a Dexterity of 15 if their score isn’t already higher. Attack and damage rolls for the wereraven’s beak are based on whichever is higher of the character’s Strength and Dexterity. The peck of a wereraven deals 1 piercing damage in raven form (no ability modifier applies to this damage), or 1d4 piercing damage in hybrid form (the character’s ability modifier applies to this damage). This attack carries the curse of wereraven lycanthropy.
 
 _**Mimicry.**_ The wereraven can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chattering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom ([Insight](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check.
 
@@ -53,3 +52,6 @@ _**A Kindness of Wereravens.**_ Wereravens refer to their tightly knit groups a
 _**Charitable Collectors.**_ Wereravens collect shiny trinkets and precious baubles. They are fond of sharing their wealth with those in need and, in their humanoid forms, modestly give money to charity. They take steps to keep magic items out of evil hands by stashing them in secret hiding places.
 
 _**Wereraven Lycanthropy.**_ The [lycanthropes](https://www.dndbeyond.com/sources/mm/monsters-l#Lycanthropes) entry in the [Monster Manual](https://www.dndbeyond.com/sources/mm) has rules for characters afflicted with different forms of lycanthropy. The following text applies to wereraven characters specifically.
+
+> [!NOTE] Wereraven characters
+> A character cursed with wereraven lycanthropy gains a Dexterity of 15 if their score isn’t already higher. Attack and damage rolls for the wereraven’s beak are based on whichever is higher of the character’s Strength and Dexterity. The peck of a wereraven deals 1 piercing damage in raven form (no ability modifier applies to this damage), or 1d4 piercing damage in hybrid form (the character’s ability modifier applies to this damage). This attack carries the curse of wereraven lycanthropy.
