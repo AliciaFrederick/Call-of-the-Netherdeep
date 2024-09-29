@@ -12,7 +12,6 @@ cssclasses:
 ---
 https://www.dndbeyond.com/characters/133013573 
 
-
 %% DM Notes
 
 BRENNA - Thrast Summittrod (mountain dwarf wereraven cleric of the Raven Queen)
