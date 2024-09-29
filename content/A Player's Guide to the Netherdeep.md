@@ -49,7 +49,7 @@ Players are encouraged to establish their backgrounds using the [Heroic Chronicl
 
 ## Safety Tools and Themes
 
-The adventure walks a line between optimistic heroism and morally ambiguous character dilemmas. Heroic and equivocal choices are contrasted with moments of supernatural evil. Although this adventure is not a horror tale, it does involve elements of fear, suspense, and the grotesque.
+The adventure walks a line between optimistic heroism and morally ambiguous character dilemmas. Heroic and equivocal choices are contrasted with moments of supernatural evil. Although this adventure is not a horror tale, it does involve elements of fear, suspense, and the grotesque. 
 
 If at any time you don’t feel comfortable with the content or direction of the game, say **“pause for a second”** and we will stop the game and address your concerns.
 
