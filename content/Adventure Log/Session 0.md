@@ -26,6 +26,7 @@ AMY - tiefling wizard
 - Rival - sore loser - bandit
 - Ally - telepathic connection within 1 mile
 - Prof - thieves' tools, stealth
+- "The time is soon" - rival - doesn't remember
 
 BRENNA - Thrast Summittrod (mountain dwarf wereraven cleric of the Raven Queen)
 - Cobalt Soul 
