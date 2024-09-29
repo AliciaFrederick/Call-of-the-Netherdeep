@@ -21,7 +21,7 @@ JOE - Perjeon Beachgift (half-elf fighter echo knight pirate of the Revelry)
 - Treasure map
 - Princess Suria Dwendal
 
-AMY - tiefling wizard sage of the Cobalt Soul
+AMY - Aza Dirali (tiefling wizard sage of the Cobalt Soul)
 - Hall of Erudition in Zadash
 - Rival - sore loser - bandit
 - Ally - telepathic connection within 1 mile
