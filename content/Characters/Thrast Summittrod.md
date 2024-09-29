@@ -12,7 +12,8 @@ cssclasses:
 ---
 https://www.dndbeyond.com/characters/133013573 
 
-![[th]]
+![[Thrast Summittrod (portrait).jpg]] 
+![[Thrast Summittrod.png]] 
 
 %% DM Notes
 
