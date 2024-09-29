@@ -11,6 +11,8 @@ cssclasses:
 ##  Review the characters
 
 - [ ] [[Perjeon Beachgift]] 
+- [ ] [[Aza Dirali]] 
+- [ ] [[Thrast Summittrod]] 
 
 ##  Create a strong start
 
