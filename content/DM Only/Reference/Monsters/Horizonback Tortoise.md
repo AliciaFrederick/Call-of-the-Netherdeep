@@ -12,29 +12,9 @@ Gargantuan monstrosity, unaligned
 
 **Speed** 20 ft.
 
-| STR | DEX | CON | INT | WIS | CHA |
-| --- | --- | --- | --- | --- | --- | 
-| 28 (+9) |  |  |  |  |  |
-
-DEX
-
-3 (–4)
-
-CON
-
-25 (+7)
-
-INT
-
-4 (–3)
-
-WIS
-
-10 (+0)
-
-CHA
-
-5 (–3)
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+| ------- | ------ | ------- | ------ | ------- | ------ |
+| 28 (+9) | 3 (–4) | 25 (+7) | 4 (–3) | 10 (+0) | 5 (–3) |
 
 **Saving Throws** Str +12, Con +10
 
