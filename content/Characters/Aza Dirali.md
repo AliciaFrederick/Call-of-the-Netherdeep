@@ -12,8 +12,12 @@ cssclasses:
 ---
 https://www.dndbeyond.com/characters/133482772 
 
-![[Aza Dirali (portrait).png]]  
 ![[Aza Dirali.png]] 
+
+| Homeland | Background |
+| -------- | ---------- |
+| Marrow   |            |
+
 %% DM Notes
 
 AMY - Aza Dirali (tiefling wizard sage of the Cobalt Soul)

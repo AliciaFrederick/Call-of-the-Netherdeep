@@ -12,7 +12,6 @@ cssclasses:
 ---
 https://www.dndbeyond.com/characters/133013496 
 
-![[Perjeon Beachgift (portrait).png]]  
 ![[Perjeon Beachgift.png]] 
 
 %% DM Notes
