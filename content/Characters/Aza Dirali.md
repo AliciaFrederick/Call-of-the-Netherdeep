@@ -14,10 +14,11 @@ https://www.dndbeyond.com/characters/133482772
 
 ![[Aza Dirali.png]] 
 
-| Homeland                    | Marrow Valley (Dwendalian Empire)                                                                                                                                                                                                                                                   |
+| Description                 | Tiefling Wizard (studied at Hall of Erudition / Soltryce Academy)                                                                                                                                                                                                                   |
 | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Homeland                    | Marrow Valley (Dwendalian Empire)                                                                                                                                                                                                                                                   |
 | Background                  | [Sage (Cobalt Scholar)](https://www.dndbeyond.com/backgrounds/sage-cobalt-scholar)                                                                                                                                                                                                  |
-| Settlement                  | [Zadash](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-marrow-valley#Zadash)                                                                                                                                                                                          |
+| Home Settlement             | [Zadash](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-marrow-valley#Zadash)                                                                                                                                                                                          |
 | Family                      | 0 parents, 0 siblings                                                                                                                                                                                                                                                               |
 | Family Relationship / Rival | You have always been better than this family member at a particular activity. They grew jealous and abandoned you, so that they could return and best you one day. You gain one rival.                                                                                              |
 | Ally                        | You and this person were affected by powerful magic, and now you both share a telepathic connection that functions while you are within 1 mile of each other.                                                                                                                       |
@@ -28,14 +29,6 @@ https://www.dndbeyond.com/characters/133482772
 
 %% DM Notes
 
-AMY - Aza Dirali (tiefling wizard sage of the Cobalt Soul)
-- Hall of Erudition in Zadash (branch of Rexxentrum's Soltryce Academy)
-- 0 parents, 0 siblings
 - Rival - sore loser - [bandit](https://www.dndbeyond.com/monsters/16798-bandit) 
-- Ally - telepathic connection within 1 mile
-- Prof - thieves' tools, stealth
-- "The time is soon" - rival - doesn't remember
-- dampfnudel
-- Steal holy relic of Kryn Dyn
 
 %%
