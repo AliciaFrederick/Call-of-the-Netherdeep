@@ -9,29 +9,9 @@ Hit Points 13 (3d8)
 
 Speed 20 ft., fly 50 ft.
 
-STR
-
-10 (+0)
-
-DEX
-
-14 (+2)
-
-CON
-
-10 (+0)
-
-INT
-
-11 (+0)
-
-WIS
-
-12 (+1)
-
-CHA
-
-11 (+0)
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 10 (+0) | 14 (+2) | 10 (+0) | 11 (+0) | 12 (+1) | 11 (+0) |
 
 Skills [Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +5
 
