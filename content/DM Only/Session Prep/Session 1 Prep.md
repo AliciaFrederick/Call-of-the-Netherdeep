@@ -69,7 +69,7 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 - [ ] [[Scout (NPC)]] 
 - [ ] [[Thug (NPC)]] 
 - [ ] [[Priest (NPC)]] 
-- [ ] Durth Mirimm - [Drow Elite Warrior (NPC)](https://www.dndbeyond.com/monsters/17134-drow-elite-warrior) 
+- [ ] [[Durth Mirimm]] - [Drow Elite Warrior (NPC)](https://www.dndbeyond.com/monsters/17134-drow-elite-warrior) 
 
 ##  Select magic item rewards
 
