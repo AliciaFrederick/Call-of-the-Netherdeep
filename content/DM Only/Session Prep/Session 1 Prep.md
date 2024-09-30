@@ -57,13 +57,13 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 
 ##  Choose relevant monsters
 
-- [ ] [Aarakocra (NPC)](https://www.dndbeyond.com/monsters/17100-aarakocra)  [[Aarakocra (NPC)]] 
+- [ ] [[Aarakocra (NPC)]] 
 - [ ] [[Commoner (NPC)]] 
 - [ ] [[Elf, Drow]] 
 - [ ] [[Gladiator (NPC)]]
 - [ ] [[Goblin]] 
-- [ ] [Horizonback Tortoise](https://www.dndbeyond.com/sources/dnd/egtw/wildemount-bestiary#HorizonbackTortoise) [[Horizonback Tortoise]] 
-- [ ] 2x [Ifolon Striped Sharks](https://www.dndbeyond.com/monsters/16994-reef-shark) [[Ifolon Striped Shark]] 
+- [ ] [[Horizonback Tortoise]] 
+- [ ] 2x [[Ifolon Striped Shark]] 
 - [ ] [[Orc]] 
 - [ ] [[Veteran (NPC)]] 
 - [ ] [[Scout (NPC)]] 
