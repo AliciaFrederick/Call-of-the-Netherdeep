@@ -17,8 +17,9 @@ https://www.dndbeyond.com/characters/133013573
 
 %% DM Notes
 
-BRENNA - Thrast Summittrod (mountain dwarf wereraven cleric of the Raven Queen)
+BRENNA - Thrast Summittrod (hill dwarf wereraven cleric of the Raven Queen)
 - Cobalt Soul in Zadash 
+- 2 parents, 5 siblings
 - Ally - telepathic connection within 1 mile
 - Rival - murdered their sibling - cultist
 - Lost in jungle, saved by wereraven, gifted with lycanthropy

@@ -17,7 +17,8 @@ https://www.dndbeyond.com/characters/133482772
 %% DM Notes
 
 AMY - Aza Dirali (tiefling wizard sage of the Cobalt Soul)
-- Hall of Erudition in Zadash
+- Hall of Erudition in Zadash (branch of Rexxentrum's Soltryce Academy)
+- 0 parents, 0 siblings
 - Rival - sore loser - bandit
 - Ally - telepathic connection within 1 mile
 - Prof - thieves' tools, stealth
