@@ -53,4 +53,6 @@ The adventure walks a line between optimistic heroism and morally ambiguous char
 
 If at any time you don’t feel comfortable with the content or direction of the game, say **“pause for a second”** and we will stop the game and address your concerns.
 
+## References
 
+[Character Sheet - Form Fillable PDF](https://media.wizards.com/2022/dnd/downloads/DnD_5E_CharacterSheet_FormFillable.pdf) 
