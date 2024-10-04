@@ -29,10 +29,10 @@ All around you, colorful signs and banners point toward festival booths surround
 
 See [[Ch 1 Canvas.canvas|Ch 1 Canvas]] 
 
-- [ ] **J1: [Best Pies in the Jumble](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J1BestPiesintheJumble).** The Unbroken Tusk inn boasts the best meat pies east of the Ashkeeper Peaks. Its owner has offered a prize to the person who can eat the most pies.
+- [ ] **J1: [Best Pies in the Jumble](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J1BestPiesintheJumble).** (1-3 PCs) The Unbroken Tusk inn boasts the best meat pies east of the Ashkeeper Peaks. Its owner has offered a prize to the person who can eat the most pies.
 - [ ] **J2: [One-Shot Solution](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J2OneShotSolution).** A maze has been constructed in the Jumble. Competitors win a prize if they navigate the maze in one try without coming upon a dead end.
       ![[Pasted image 20241003210254.png]] 
-- [ ] **J3: [The Ifolon Plunge](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J3TheIfolonPlunge).** Some distance offshore in the Ifolon River, a rusted spear is lodged into a weathered piece of a pier that has long since rotted away. It is a popular spot for Jigow’s most talented swimmers to test their speed and skill.
+- [ ] **J3: [The Ifolon Plunge](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J3TheIfolonPlunge).** (1 PC) Some distance offshore in the Ifolon River, a rusted spear is lodged into a weathered piece of a pier that has long since rotted away. It is a popular spot for Jigow’s most talented swimmers to test their speed and skill.
 - [ ] **J4: [Call to Arms](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J4CalltoArms).** One of the Aurora Watch soldiers stationed in Jigow has challenged anyone and everyone to best her in an arm-wrestling contest. So far, she remains undefeated.
 - [ ] **J5: [Wetwalks Paddywhack](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J5WetwalksPaddywhack).** Members of the Gakthash and Uvuroh goblin clans time their rice paddy harvests to coincide with the Festival of Merit every year. This event turns the mundane act of harvesting into a spirited competition.
 - [ ] **J6: [Herding the Horizonbacks](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J6HerdingtheHorizonbacks).** This year’s brood of young horizonback tortoises must be relocated from the Wetwalks to the Jumble.
