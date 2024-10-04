@@ -70,8 +70,8 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 - [x] [[Veteran (NPC)]] 
 - [x] [[Scout (NPC)]] 
 - [x] [[Thug (NPC)]] 
-- [ ] [[Priest (NPC)]] 
-- [ ] [[Durth Mirimm]] - [[Drow Elite Warrior (NPC)]]  
+- [x] [[Priest (NPC)]] 
+- [x] [[Durth Mirimm]] - [[Drow Elite Warrior (NPC)]]  
 
 ##  Select magic item rewards
 
