@@ -19,6 +19,8 @@ cssclasses:
 > [!QUOTE] Strong start
 > Elder Ushru stands before the mouth of a cave and addresses you and your opponents. “You brave and valiant individuals have triumphed in many challenges this day; now, the final Test of Merit awaits you!” He pulls a palm-sized gold-and-emerald amulet from his robes, holds it aloft, and declares: “This medal’s twin has been placed in the deepest cavern of the Emerald Grotto. Be the first to claim the Emerald Eye and return it to this place to be declared Jigow’s Champions of Merit! Begin now!” 
 
+Owlbear rodeo [scene](https://www.owlbear.rodeo/room/BaGN2KPVM902/TheHomeyLeaf) 
+Underwater ambience: [video](https://youtu.be/_dJDFGvkc1Y?si=8aoqPP4ptvpWexlu)  
 ##  Outline potential scenes
 
 - [ ] E1 - [Grotto Entrance](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#E1GrottoEntrance) 
