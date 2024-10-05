@@ -14,19 +14,19 @@ https://www.dndbeyond.com/characters/133013573
 
 ![[Thrast Summittrod.png]] ![[token-raven.png]] ![[token-wereraven.png]] 
 
-| Label                       | Detail                            |
-| --------------------------- | --------------------------------- |
-| Description                 | Hill Dwarf Cleric (wereraven)     |
-| Homeland                    | Marrow Valley (Dwendalian Empire) |
-| Background                  |                                   |
-| Home Settlement             |                                   |
-| Family                      |                                   |
-| Family Relationship / Rival |                                   |
-| Ally                        |                                   |
-| Fateful Moment              |                                   |
-| Favorite Food               |                                   |
-| Mysterious Secret           |                                   |
-| Prophecy                    |                                   |
+| Label                       | Detail                                                                                     |
+| --------------------------- | ------------------------------------------------------------------------------------------ |
+| Description                 | Hill Dwarf Cleric of the Raven Queen  (wereraven)                                          |
+| Homeland                    | Marrow Valley (Dwendalian Empire)                                                          |
+| Background                  | [Sage (Cobalt Scholar)](https://www.dndbeyond.com/backgrounds/sage-cobalt-scholar)         |
+| Home Settlement             | [Zadash](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-marrow-valley#Zadash) |
+| Family                      | 2 parents, 5 siblings                                                                      |
+| Family Relationship / Rival |                                                                                            |
+| Ally                        |                                                                                            |
+| Fateful Moment              |                                                                                            |
+| Favorite Food               |                                                                                            |
+| Mysterious Secret           |                                                                                            |
+| Prophecy                    |                                                                                            |
 
 %% DM Notes
 
