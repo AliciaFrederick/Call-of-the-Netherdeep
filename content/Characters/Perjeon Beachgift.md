@@ -32,7 +32,9 @@ https://www.dndbeyond.com/characters/133013496
 
 %% DM Notes
 
-Jewelery guild shop - Beachgift's Benevolent Boons
+Dad's Jewelry guild shop - Beachgift's Benevolent Boons
+
+Impress dad - money, fame
 
 #### Prophecy Rewards
 
