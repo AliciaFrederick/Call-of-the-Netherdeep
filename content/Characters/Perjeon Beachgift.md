@@ -16,6 +16,7 @@ https://www.dndbeyond.com/characters/133013496
 
 | Description                 |     |
 | --------------------------- | --- |
+|                             |     |
 | Homeland                    |     |
 | Background                  |     |
 | Home Settlement             |     |
