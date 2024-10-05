@@ -30,6 +30,7 @@ cssclasses:
 
 - [ ] Before
 	- [ ] Identify Secrets and Clues
+		- [ ] Where does Perjeon's treasure map lead?
 	- [ ] Prep riddle handouts
 	- [ ] Choose magic items for each player
 		- [ ] Amy - infinite coffee mug
