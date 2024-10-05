@@ -33,8 +33,11 @@ cssclasses:
 		- [ ] Where does Perjeon's treasure map lead?
 		- [ ] Where is the beacon that Aza needs to find?
 		- [ ] Who is the dragon that Thrast will speak with?
+			- The head of the Cobalt Soul is a dragon who hordes books and knowledge? 
+			- The dragon has a horde containing a Luxon beacon, which Aza steals and Perjeon presents to the Dwendalian 
 		- [ ] Who is Aza's bandit rival?
 		- [ ] How will Perjeon's former shipmate spy rival come into play?
+		- [ ] How will Perjeon end up in front of a Princess? 
 		- [ ] Who is out for Thrast's blood?
 	- [ ] Prep riddle handouts
 	- [x] Choose magic items for each player
@@ -93,7 +96,6 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 - [ ] Those who are born on a night when Ruidus is full are destined to bring suffering to others or to experience great tragedy in their own lives.
 - [ ] Those who study Ruidus and become obsessed with its secrets are compelled to cause misfortune and woe.
 - [ ] Plans made or set in motion when Ruidus is full are doomed to failure, often due to betrayal or miscommunication.
-- [ ] The head of the Cobalt Soul is a dragon who hordes books and knowledge?
 - [ ] The goblin and orc clans of Jigow feel the Luxon religion of the Kryn Dynasty is wiping out their own cultures. 
 - [ ] .
 - [ ] .
