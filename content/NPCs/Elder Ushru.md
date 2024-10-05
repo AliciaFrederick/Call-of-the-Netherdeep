@@ -1,0 +1,1 @@
+A neutral good orc [priest](https://www.dndbeyond.com/monsters/16985-priest) 

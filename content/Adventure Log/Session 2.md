@@ -49,6 +49,7 @@ Underwater ambience: [video](https://youtu.be/_dJDFGvkc1Y?si=8aoqPP4ptvpWexlu)
 ##  Develop fantastic locations
 
 - [ ] [The Emerald Grotto](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#TheEmeraldGrotto) 
+	- [ ] [[Emerald Grotto]] 
 ##  Outline important NPCs
 
 - [Alyxian](https://www.dndbeyond.com/sources/dnd/cotn/answering-the-call#RoleplayingtheApotheon) 

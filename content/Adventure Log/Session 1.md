@@ -56,7 +56,6 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 ##  Develop fantastic locations
 
 - [ ] [[Jigow]] 
-- [ ] [[Emerald Grotto]] 
 
 ##  Outline important NPCs
 
