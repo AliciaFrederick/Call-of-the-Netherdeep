@@ -22,8 +22,8 @@ cssclasses:
 %%
 
 - [x] Set up a tracker for the rivals' attitudes towards the party members
-- [x] Practice voices for the rivals and Alyxian
-- [x] Review the rivals' goals and personalities
+- [>] Practice voices for the rivals and Alyxian
+- [>] Review the rivals' goals and personalities
 - [x] Music 
 	- [x] https://www.youtube.com/watch?v=SFHiD4hG1AU&list=PLGvEMtY18bM0mMSDSRZEd_fqA6Ll4wmtP 
 	- [x] https://open.spotify.com/album/30CxXNLekWVQzo7xhowwkg

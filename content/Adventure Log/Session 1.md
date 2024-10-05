@@ -8,6 +8,8 @@ draft: true
 date: 
 cssclasses:
 ---
+[Owlbear Rodeo](https://www.owlbear.rodeo/room/BaGN2KPVM902/TheHomeyLeaf)  
+
 ## Log
 
 - 
@@ -106,7 +108,7 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 - [ ] [[Scout (NPC)]] 
 - [ ] [[Thug (NPC)]] 
 - [ ] [[Priest (NPC)]] 
-- [ ] [[Durth Mirimm]] - [[Drow Elite Warrior (NPC)]]  
+- [ ] [[Drow Elite Warrior (NPC)]]  
 
 ##  Select magic item rewards
 
