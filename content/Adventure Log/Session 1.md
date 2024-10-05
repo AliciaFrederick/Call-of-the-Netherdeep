@@ -33,11 +33,14 @@ cssclasses:
 		- [ ] Where does Perjeon's treasure map lead?
 		- [ ] Where is the beacon that Aza needs to find?
 		- [ ] Who is the dragon that Thrast will speak with?
+		- [ ] Who is Aza's bandit rival?
+		- [ ] How will Perjeon's former shipmate spy rival come into play?
+		- [ ] Who is out for Thrast's blood?
 	- [ ] Prep riddle handouts
-	- [ ] Choose magic items for each player
-		- [ ] Amy - infinite coffee mug
-		- [ ] Brenna - 
-		- [ ] Joe - 
+	- [x] Choose magic items for each player
+		- [x] Amy - bottle of boundless coffee
+		- [x] Brenna - armor of gleaming
+		- [x] Joe - earring of message
 	- [ ] Review the [rivals](https://www.dndbeyond.com/sources/dnd/cotn/answering-the-call#Rivals) - goals and personalities
 	- [ ] Practice voices for the rivals and elders
 	- [ ] Music 
