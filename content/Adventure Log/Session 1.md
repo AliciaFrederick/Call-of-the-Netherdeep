@@ -49,9 +49,8 @@ You hear snippets of conversations as people pass by: a goblin mother telling he
 >
 All around you, colorful signs and banners point toward festival booths surrounded by cheering people. On this street alone, you can see a meat-pie eating contest near a shop mounted on the back of a massive tortoise, and on the other side of the road, a banner emblazoned with the words “Riddles and Rhymes: Unbeatable Riddles!” That banner points toward a three-story temple in the center of the Jumble. The town is yours to explore—where do you want to go?
  
-Start the [music](https://open.spotify.com/track/0gb2snwbCPeeS0w8gBgIqy) - Jigow
-
-Owlbear rodeo [scene](https://www.owlbear.rodeo/room/BaGN2KPVM902/TheHomeyLeaf) 
+- [ ] Start the [music](https://open.spotify.com/track/0gb2snwbCPeeS0w8gBgIqy) - Jigow
+- [ ] Owlbear rodeo [scene](https://www.owlbear.rodeo/room/BaGN2KPVM902/TheHomeyLeaf) 
 
 ##  Outline potential scenes
 
