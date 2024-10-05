@@ -4,15 +4,16 @@ description:
 permalink: 
 aliases: 
 tags: 
-draft: true
+draft: false
 date: 
 cssclasses:
 ---
-%%
+
 [Owlbear Rodeo](https://www.owlbear.rodeo/room/BaGN2KPVM902/TheHomeyLeaf)  
 
 ## Log
 
+- The adventure begins...
 - 
 
 ## Cooldown
@@ -20,6 +21,8 @@ cssclasses:
 - [ ] Star - What is one thing you liked about the session?
 - [ ] Wish - What is something you want for future sessions?
 - [ ] Schedule next session
+
+%%
 
 ---
 
@@ -44,7 +47,7 @@ cssclasses:
 	- [ ] Uncheck draft
 	- [ ] Update [[index]] with next session date
 	- [ ] Git sync
-%%
+
 ##  Review the characters
 
 - [ ] [[Perjeon Beachgift]] 
@@ -133,3 +136,4 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 - [ ] [[Medal of Wit]] 
 - [ ] [[Potion of Water Breathing]] 
 
+%%
