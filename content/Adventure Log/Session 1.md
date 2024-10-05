@@ -47,8 +47,8 @@ cssclasses:
 - [ ] Before
 	- [ ] Identify Secrets and Clues
 		- [ ] Where does Perjeon's treasure map lead?
-		- [ ] How will Perjeon end up in front of a Princess? 
-		- [ ] Where is the beacon that Aza needs to find?
+		- [x] How will Perjeon end up in front of a Princess? 
+		- [x] Where is the beacon that Aza needs to find?
 		- [ ] Who and where is the dragon that Thrast will speak with?
 			- A leader of the Cobalt Soul is a dragon 
 				- Who hordes books and knowledge? 
