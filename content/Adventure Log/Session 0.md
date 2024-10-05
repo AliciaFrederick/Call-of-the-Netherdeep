@@ -35,7 +35,7 @@ AMY - Aza Dirali (tiefling wizard sage of the Cobalt Soul)
 - dampfnudel
 - Steal holy relic of Kryn Dyn
 
-BRENNA - Thrast Summittrod (mountain dwarf wereraven cleric of the Raven Queen)
+BRENNA - Thrast Summittrod (hill dwarf wereraven cleric of the Raven Queen)
 - Cobalt Soul in Zadash 
 - Ally - telepathic connection within 1 mile
 - Rival - murdered their sibling - cultist

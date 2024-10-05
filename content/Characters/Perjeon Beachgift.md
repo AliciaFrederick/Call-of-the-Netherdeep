@@ -14,19 +14,19 @@ https://www.dndbeyond.com/characters/133013496
 
 ![[Perjeon Beachgift.png]] 
 
-| Description                 |     |
-| --------------------------- | --- |
-|                             |     |
-| Homeland                    |     |
-| Background                  |     |
-| Home Settlement             |     |
-| Family                      |     |
-| Family Relationship / Rival |     |
-| Ally                        |     |
-| Fateful Moment              |     |
-| Favorite Food               |     |
-| Mysterious Secret           |     |
-| Prophecy                    |     |
+| Label                       | Detail |
+| --------------------------- | ------ |
+| Description                 |        |
+| Homeland                    |        |
+| Background                  |        |
+| Home Settlement             |        |
+| Family                      |        |
+| Family Relationship / Rival |        |
+| Ally                        |        |
+| Fateful Moment              |        |
+| Favorite Food               |        |
+| Mysterious Secret           |        |
+| Prophecy                    |        |
 
 %% DM Notes
 
