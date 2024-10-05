@@ -47,7 +47,10 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 
 ##  Define secrets and clues
 
-- [ ] .
+- [ ] Those who are born on a night when Ruidus is full are destined to bring suffering to others or to experience great tragedy in their own lives.
+- [ ] Those who study Ruidus and become obsessed with its secrets are compelled to cause misfortune and woe.
+- [ ] Plans made or set in motion when Ruidus is full are doomed to failure, often due to betrayal or miscommunication.
+- [ ] 
 
 ##  Develop fantastic locations
 
@@ -90,8 +93,9 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 - [ ] [[Medal of Wit]] 
 - [ ] [[Potion of Water Breathing]] 
 
-## Setting the Scene
+## TODO
 
+- [ ] Identify Secrets and Clues
 - [ ] Review the rivals' goals and personalities
 - [ ] Practice voices for the rivals and elders
 - [ ] Music 
