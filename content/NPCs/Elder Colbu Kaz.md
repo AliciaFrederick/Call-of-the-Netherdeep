@@ -8,7 +8,7 @@ draft: true
 date: 
 cssclasses:
 ---
-An elderly goblin who enjoys frustrating the Kryn representatives
+An elderly goblin who enjoys frustrating the Kryn representatives.
 
 
 

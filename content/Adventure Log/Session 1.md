@@ -51,7 +51,7 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 - [ ] Those who study Ruidus and become obsessed with its secrets are compelled to cause misfortune and woe.
 - [ ] Plans made or set in motion when Ruidus is full are doomed to failure, often due to betrayal or miscommunication.
 - [ ] The head of the Cobalt Soul is a dragon who hordes books and knowledge?
-- [ ] 
+- [ ] The goblins and orcs feel the Luxon 
 
 ##  Develop fantastic locations
 
@@ -64,7 +64,9 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 - [[Galsariad Ardyth]] 
 - [[Irvan Wastewalker]] 
 - [[Maggie Keeneyes]] 
-- Elders
+- [[Elder Ushru]] 
+- [[Elder Colbu Kaz]] 
+- [[Durth Mirimm]] 
 
 ##  Choose relevant monsters
 

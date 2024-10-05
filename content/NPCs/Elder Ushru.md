@@ -8,7 +8,7 @@ draft: true
 date: 
 cssclasses:
 ---
-A neutral good orc [priest](https://www.dndbeyond.com/monsters/16985-priest) 
+An aging orc [priest](https://www.dndbeyond.com/monsters/16985-priest) eager to maintain the cultural heritage of his people.
 
 
 
