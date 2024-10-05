@@ -31,6 +31,8 @@ cssclasses:
 - [ ] Before
 	- [ ] Identify Secrets and Clues
 		- [ ] Where does Perjeon's treasure map lead?
+		- [ ] Where is the beacon that Aza needs to find?
+		- [ ] Who is the dragon that Thrast will speak with?
 	- [ ] Prep riddle handouts
 	- [ ] Choose magic items for each player
 		- [ ] Amy - infinite coffee mug
