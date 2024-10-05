@@ -35,7 +35,10 @@ https://www.dndbeyond.com/characters/133013496
 Dad - Captain Gloomraid - John Beachgift
 Dad's Jewelry guild shop - Beachgift's Benevolent Boons
 
-Impress dad - money, fame 
+Mom - Mallory Beachgift (Archer's mom)
+Drinks in the morning, hires people to do her dirty work
+
+Goal: Impress dad - money, fame 
 
 #### Prophecy Rewards
 
