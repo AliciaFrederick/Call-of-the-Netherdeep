@@ -11,6 +11,18 @@ cssclasses:
 - 
 
 
+## TODO
+
+- [ ] Before
+	- [ ] Identify Secrets and Clues
+	- [ ] Review the rivals' goals and personalities
+	- [ ] Practice voices for the rivals and elders
+	- [ ] Music 
+	- [ ] Lighting
+- [ ] After
+	- [ ] Comment out prep notes
+	- [ ] Clean up log
+
 ##  Review the characters
 
 - [ ] [[Perjeon Beachgift]] 
@@ -51,7 +63,8 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 - [ ] Those who study Ruidus and become obsessed with its secrets are compelled to cause misfortune and woe.
 - [ ] Plans made or set in motion when Ruidus is full are doomed to failure, often due to betrayal or miscommunication.
 - [ ] The head of the Cobalt Soul is a dragon who hordes books and knowledge?
-- [ ] The goblins and orcs feel the Luxon 
+- [ ] The goblin and orc clans of Jigow feel the Luxon religion of the Kryn Dynasty is wiping out their own cultures. 
+- [ ] 
 
 ##  Develop fantastic locations
 
@@ -64,7 +77,7 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 - [[Galsariad Ardyth]] 
 - [[Irvan Wastewalker]] 
 - [[Maggie Keeneyes]] 
-- [[Elder Ushru]] 
+- [[Elder Ushru]] - George Takei
 - [[Elder Colbu Kaz]] 
 - [[Durth Mirimm]] 
 
@@ -94,13 +107,4 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 - [ ] [[Medal of the Horizonback]] 
 - [ ] [[Medal of Wit]] 
 - [ ] [[Potion of Water Breathing]] 
-
-## TODO
-
-- [ ] Identify Secrets and Clues
-- [ ] Review the rivals' goals and personalities
-- [ ] Practice voices for the rivals and elders
-- [ ] Music 
-- [ ] Lighting
-
 
