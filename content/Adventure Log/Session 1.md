@@ -10,6 +10,7 @@ cssclasses:
 ---
 
 [Owlbear Rodeo](https://www.owlbear.rodeo/room/BaGN2KPVM902/TheHomeyLeaf)  
+
 %%
 - [ ] Starting
 	- [ ] Spotify [music](https://open.spotify.com/track/0gb2snwbCPeeS0w8gBgIqy) - Jigow
@@ -17,7 +18,7 @@ cssclasses:
 	- [ ] [D&D Beyond](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#FestivalofMerit) adventure
 	- [ ] [Discord](https://discord.com/channels/@me/1289679259560050811) chat
 	- [ ] [Campaign](https://aliciafrederick.github.io/Call-of-the-Netherdeep/) website
-
+%%
 
 ## Log
 
