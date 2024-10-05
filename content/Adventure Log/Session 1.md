@@ -45,18 +45,18 @@ cssclasses:
 ## TODO
 
 - [ ] Before
-	- [ ] Identify Secrets and Clues
-		- [ ] Where does Perjeon's treasure map lead?
+	- [x] Identify Secrets and Clues
+		- [x] Where does Perjeon's treasure map lead?
 		- [x] How will Perjeon end up in front of a Princess? 
 		- [x] Where is the beacon that Aza needs to find?
-		- [ ] Who and where is the dragon that Thrast will speak with?
+		- [x] Who and where is the dragon that Thrast will speak with?
 			- A leader of the Cobalt Soul is a dragon 
 				- Who hordes books and knowledge? 
 				- Who uses the Cobalt Soul to locate and obtain rare magical artifacts for her horde? 
 			- Perjeon's treasure map leads to a dragon's horde, which contains a long lost Luxon beacon. Thrast engages the dragon in conversation while Aza steals the beacon. After narrowly escaping with their lives, Perjeon presents the beacon to the Dwendalian princess.
-		- [ ] Who is Aza's bandit rival?
-		- [ ] How will Perjeon's former shipmate spy rival come into play?
-		- [ ] Who is out for Thrast's blood?
+		- [x] Who is Aza's bandit rival?
+		- [x] How will Perjeon's former shipmate spy rival come into play?
+		- [x] Who is out for Thrast's blood?
 	- [ ] Prep riddle handouts
 	- [x] Choose magic items for each player
 		- [x] Amy - bottle of boundless coffee
@@ -64,7 +64,7 @@ cssclasses:
 		- [x] Joe - earring of message
 	- [ ] Review the [rivals](https://www.dndbeyond.com/sources/dnd/cotn/answering-the-call#Rivals) - goals and personalities
 	- [ ] Practice voices for the rivals and elders
-	- [ ] Music 
+	- [x] Music 
 	- [ ] Lighting
 
 ##  Review the characters
