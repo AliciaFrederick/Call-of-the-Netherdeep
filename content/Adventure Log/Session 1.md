@@ -24,7 +24,7 @@ cssclasses:
 
 - [ ] Before
 	- [ ] Identify Secrets and Clues
-	- [ ] Review the rivals' goals and personalities
+	- [ ] Review the [rivals](https://www.dndbeyond.com/sources/dnd/cotn/answering-the-call#Rivals) - goals and personalities
 	- [ ] Practice voices for the rivals and elders
 	- [ ] Music 
 	- [ ] Lighting
