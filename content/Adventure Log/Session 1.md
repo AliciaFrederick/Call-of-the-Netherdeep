@@ -33,9 +33,11 @@ cssclasses:
 		- [ ] Where does Perjeon's treasure map lead?
 		- [ ] How will Perjeon end up in front of a Princess? 
 		- [ ] Where is the beacon that Aza needs to find?
-		- [ ] Who is the dragon that Thrast will speak with?
-			- A leader of the Cobalt Soul is a dragon who hordes books and knowledge? Who uses the Cobalt Soul to locate and obtain rare magical artifacts for her horde? 
-			- Perjeon's treasure map leads to a dragon's horde, which contains a Luxon beacon. Thrast engages the dragon in conversation while Aza steals the beacon, then Perjeon presents it to the Dwendalian princess.
+		- [ ] Who and where is the dragon that Thrast will speak with?
+			- A leader of the Cobalt Soul is a dragon 
+				- Who hordes books and knowledge? 
+				- Who uses the Cobalt Soul to locate and obtain rare magical artifacts for her horde? 
+			- Perjeon's treasure map leads to a dragon's horde, which contains a long lost Luxon beacon. Thrast engages the dragon in conversation while Aza steals the beacon. After narrowly escaping with their lives, Perjeon presents the beacon to the Dwendalian princess.
 		- [ ] Who is Aza's bandit rival?
 		- [ ] How will Perjeon's former shipmate spy rival come into play?
 		- [ ] Who is out for Thrast's blood?
