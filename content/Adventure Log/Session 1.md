@@ -8,8 +8,17 @@ draft: true
 date: 
 cssclasses:
 ---
+## Log
+
 - 
 
+## Cooldown
+
+- [ ] Star - What is one thing you liked about the session?
+- [ ] Wish - What is something you want for future sessions?
+- [ ] Schedule next session
+
+---
 
 ## TODO
 
@@ -20,8 +29,10 @@ cssclasses:
 	- [ ] Music 
 	- [ ] Lighting
 - [ ] After
-	- [ ] Comment out prep notes
 	- [ ] Clean up log
+	- [ ] Comment out prep notes
+	- [ ] Uncheck draft
+	- [ ] Git sync
 
 ##  Review the characters
 
