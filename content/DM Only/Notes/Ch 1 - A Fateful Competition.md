@@ -11,8 +11,8 @@ cssclasses:
 %% DM Notes
 
 - [[Ch 1 Canvas.canvas|Ch 1 Canvas]] 
-- [[Session 1 Prep]] 
-- [[Session 2 Prep]] 
+- [[Session 1]] 
+- [[Session 2]] 
 
 %%
 

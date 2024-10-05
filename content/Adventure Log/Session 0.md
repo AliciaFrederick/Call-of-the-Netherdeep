@@ -22,13 +22,13 @@ cssclasses:
 %%
 
 - [x] Set up a tracker for the rivals' attitudes towards the party members
-- [ ] Practice voices for the rivals and Alyxian
-- [ ] Review the rivals' goals and personalities
-- [ ] Music 
-	- [ ] https://www.youtube.com/watch?v=SFHiD4hG1AU&list=PLGvEMtY18bM0mMSDSRZEd_fqA6Ll4wmtP 
-	- [ ] https://open.spotify.com/album/30CxXNLekWVQzo7xhowwkg
-	- [ ] mp3 - https://www.patreon.com/mabmusicttrpg 
-	- [ ] Lazy DM suggestions
+- [x] Practice voices for the rivals and Alyxian
+- [x] Review the rivals' goals and personalities
+- [x] Music 
+	- [x] https://www.youtube.com/watch?v=SFHiD4hG1AU&list=PLGvEMtY18bM0mMSDSRZEd_fqA6Ll4wmtP 
+	- [x] https://open.spotify.com/album/30CxXNLekWVQzo7xhowwkg
+	- [x] mp3 - https://www.patreon.com/mabmusicttrpg 
+	- [x] Lazy DM suggestions
 		- Conan the Barbarian 
 		- The Witcher 3: Wild Hunt 
 		- The Elder Scrolls V: Skyrim and the rest of the Elder Scrolls series 

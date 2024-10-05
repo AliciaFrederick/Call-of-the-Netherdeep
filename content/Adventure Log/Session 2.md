@@ -8,6 +8,9 @@ draft: true
 date: 
 cssclasses:
 ---
+- 
+
+
 ##  Review the characters
 
 - [ ] [[Perjeon Beachgift]] 
@@ -73,8 +76,4 @@ Underwater ambience: [video](https://youtu.be/_dJDFGvkc1Y?si=8aoqPP4ptvpWexlu)
 - [ ] [Jewel of Three Prayers](https://www.dndbeyond.com/magic-items/4698481-jewel-of-three-prayers) 
 
 
-%% DM Notes
 
-
-
-%%

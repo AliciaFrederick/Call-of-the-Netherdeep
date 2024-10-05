@@ -8,6 +8,9 @@ draft: true
 date: 
 cssclasses:
 ---
+- 
+
+
 ##  Review the characters
 
 - [ ] [[Perjeon Beachgift]] 
@@ -92,3 +95,5 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 - [ ] Practice voices for the rivals and Alyxian
 - [ ] Music 
 - [ ] Lighting
+
+
