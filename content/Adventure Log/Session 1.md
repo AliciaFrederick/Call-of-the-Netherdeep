@@ -61,6 +61,7 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 - [[Galsariad Ardyth]] 
 - [[Irvan Wastewalker]] 
 - [[Maggie Keeneyes]] 
+- Elders
 
 ##  Choose relevant monsters
 
@@ -92,7 +93,7 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 ## Setting the Scene
 
 - [ ] Review the rivals' goals and personalities
-- [ ] Practice voices for the rivals and Alyxian
+- [ ] Practice voices for the rivals and elders
 - [ ] Music 
 - [ ] Lighting
 
