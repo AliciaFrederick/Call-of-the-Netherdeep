@@ -19,10 +19,10 @@ https://www.dndbeyond.com/characters/133013496
 | Label                       | Detail                                                                                                                                                   |
 | --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Description                 | Half-Elf Fighter Echo Knight                                                                                                                             |
-| Homeland                    |                                                                                                                                                          |
-| Background                  |                                                                                                                                                          |
-| Home Settlement             |                                                                                                                                                          |
-| Family                      |                                                                                                                                                          |
+| Homeland                    | Menagerie Coast                                                                                                                                          |
+| Background                  | [Sailor (Revelry Pirate)](https://www.dndbeyond.com/backgrounds/102352-sailor-revelry-pirate)                                                            |
+| Home Settlement             | [Port Zoon](https://www.dndbeyond.com/sources/dnd/egtw/wildemount-gazetteer-menagerie-coast#PortZoon)                                                    |
+| Family                      | 2 parents, 0 siblings                                                                                                                                    |
 | Family Relationship / Rival |                                                                                                                                                          |
 | Ally                        |                                                                                                                                                          |
 | Fateful Moment              | While reading through a mysterious tome once owned by your parent, you found a treasure map that points toward a place in Wildemount of the DM’s choice. |
