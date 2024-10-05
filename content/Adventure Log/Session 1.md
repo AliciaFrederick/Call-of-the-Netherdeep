@@ -8,6 +8,7 @@ draft: true
 date: 
 cssclasses:
 ---
+%%
 [Owlbear Rodeo](https://www.owlbear.rodeo/room/BaGN2KPVM902/TheHomeyLeaf)  
 
 ## Log
@@ -43,7 +44,7 @@ cssclasses:
 	- [ ] Uncheck draft
 	- [ ] Update [[index]] with next session date
 	- [ ] Git sync
-
+%%
 ##  Review the characters
 
 - [ ] [[Perjeon Beachgift]] 
@@ -90,9 +91,9 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 ##  Develop fantastic locations
 
 - [ ] [[Jigow]] 
-- [ ] J8: [The Temple of the Luxon](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J8TempleoftheLuxon) 
-- [ ] J9: [Helter Skelter](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J9HelterSkelter) 
-- [ ] J10: [Black Islands](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J10BlackIslands) 
+- [ ] J8: [The Temple of the Luxon](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J8TempleoftheLuxon) - The temple is maintained by [[Belana Zolaed]], a neutral good drow [priest](https://www.dndbeyond.com/monsters/16985-priest) who also conducts worship ceremonies.
+- [ ] J9: [Helter Skelter](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J9HelterSkelter) - Dynasty Outpost - Aurora Watch barracks and residence of [[Durth Mirimm]] 
+- [ ] J10: [Black Islands](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J10BlackIslands) - Hangout and entrance to the [[Emerald Grotto]]. 
 
 ##  Outline important NPCs
 
@@ -107,19 +108,19 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 
 ##  Choose relevant monsters
 
+- [ ] 2x [[Ifolon Striped Shark]] 
+- [ ] [[Horizonback Tortoise]] 
+- [ ] [[Drow Elite Warrior (NPC)]]  
 - [ ] [[Aarakocra (NPC)]] 
 - [ ] [[Commoner (NPC)]] 
 - [ ] [[Elf, Drow]] 
 - [ ] [[Gladiator (NPC)]]
 - [ ] [[Goblin]] 
-- [ ] [[Horizonback Tortoise]] 
-- [ ] 2x [[Ifolon Striped Shark]] 
 - [ ] [[Orc]] 
 - [ ] [[Veteran (NPC)]] 
 - [ ] [[Scout (NPC)]] 
 - [ ] [[Thug (NPC)]] 
 - [ ] [[Priest (NPC)]] 
-- [ ] [[Drow Elite Warrior (NPC)]]  
 
 ##  Select magic item rewards
 
