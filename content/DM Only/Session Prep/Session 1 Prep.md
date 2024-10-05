@@ -61,19 +61,19 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 
 ##  Choose relevant monsters
 
-- [x] [[Aarakocra (NPC)]] 
-- [x] [[Commoner (NPC)]] 
-- [x] [[Elf, Drow]] 
-- [x] [[Gladiator (NPC)]]
-- [x] [[Goblin]] 
-- [x] [[Horizonback Tortoise]] 
-- [x] 2x [[Ifolon Striped Shark]] 
-- [x] [[Orc]] 
-- [x] [[Veteran (NPC)]] 
-- [x] [[Scout (NPC)]] 
-- [x] [[Thug (NPC)]] 
-- [x] [[Priest (NPC)]] 
-- [x] [[Durth Mirimm]] - [[Drow Elite Warrior (NPC)]]  
+- [ ] [[Aarakocra (NPC)]] 
+- [ ] [[Commoner (NPC)]] 
+- [ ] [[Elf, Drow]] 
+- [ ] [[Gladiator (NPC)]]
+- [ ] [[Goblin]] 
+- [ ] [[Horizonback Tortoise]] 
+- [ ] 2x [[Ifolon Striped Shark]] 
+- [ ] [[Orc]] 
+- [ ] [[Veteran (NPC)]] 
+- [ ] [[Scout (NPC)]] 
+- [ ] [[Thug (NPC)]] 
+- [ ] [[Priest (NPC)]] 
+- [ ] [[Durth Mirimm]] - [[Drow Elite Warrior (NPC)]]  
 
 ##  Select magic item rewards
 
@@ -85,3 +85,10 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 - [ ] [[Medal of the Horizonback]] 
 - [ ] [[Medal of Wit]] 
 - [ ] [[Potion of Water Breathing]] 
+
+## Setting the Scene
+
+- [ ] Review the rivals' goals and personalities
+- [ ] Practice voices for the rivals and Alyxian
+- [ ] Music 
+- [ ] Lighting
