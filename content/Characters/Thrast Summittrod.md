@@ -12,7 +12,7 @@ cssclasses:
 ---
 https://www.dndbeyond.com/characters/133013573 
 
-![[Thrast Summittrod.png]]  
+![[Thrast Summittrod.png]] ![[token-raven.png]] ![[token-wereraven.png]] 
 
 | Label                       | Detail                        |
 | --------------------------- | ----------------------------- |
