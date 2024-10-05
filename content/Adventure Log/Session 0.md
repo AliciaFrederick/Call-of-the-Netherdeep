@@ -16,7 +16,7 @@ cssclasses:
 - Create characters using the [Heroic Chronicle](https://www.dndbeyond.com/sources/dnd/egtw/character-options-subclasses#HeroicChronicle) 
 	- [[Aza Dirali|Aza]] 
 	- [[Perjeon Beachgift|Perjeon]] 
-	- 
+	- [[Thrast Summittrod|Thrast]] 
 - Connect to [Owlbear Rodeo](https://www.owlbear.rodeo/room/BaGN2KPVM902/TheHomeyLeaf) 
 
 %%

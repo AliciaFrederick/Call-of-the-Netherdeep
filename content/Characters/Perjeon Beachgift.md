@@ -14,9 +14,11 @@ https://www.dndbeyond.com/characters/133013496
 
 ![[Perjeon Beachgift.png]] 
 
+%% Rival: [Spy](https://www.dndbeyond.com/monsters/17021-spy) %%
+
 | Label                       | Detail                                                                                                                                                   |
 | --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Description                 |                                                                                                                                                          |
+| Description                 | Half-Elf Fighter Echo Knight                                                                                                                             |
 | Homeland                    |                                                                                                                                                          |
 | Background                  |                                                                                                                                                          |
 | Home Settlement             |                                                                                                                                                          |
