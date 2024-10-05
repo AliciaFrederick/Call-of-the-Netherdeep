@@ -5,7 +5,7 @@ permalink:
 aliases: 
 tags: 
 draft: false
-date: 
+date: 2024-10-06
 cssclasses:
 ---
 
