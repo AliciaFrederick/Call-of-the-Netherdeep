@@ -34,7 +34,7 @@ cssclasses:
 		- [ ] Where is the beacon that Aza needs to find?
 		- [ ] Who is the dragon that Thrast will speak with?
 			- The head of the Cobalt Soul is a dragon who hordes books and knowledge? 
-			- The dragon has a horde containing a Luxon beacon, which Aza steals and Perjeon presents to the Dwendalian 
+			- The dragon has a horde containing a Luxon beacon, which Aza steals and Perjeon presents to the Dwendalian princess
 		- [ ] Who is Aza's bandit rival?
 		- [ ] How will Perjeon's former shipmate spy rival come into play?
 		- [ ] How will Perjeon end up in front of a Princess? 
