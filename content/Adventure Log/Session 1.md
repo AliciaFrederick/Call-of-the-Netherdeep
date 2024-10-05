@@ -31,6 +31,12 @@ cssclasses:
 	- [ ] Practice voices for the rivals and elders
 	- [ ] Music 
 	- [ ] Lighting
+- [ ] Starting
+	- [ ] Spotify [music](https://open.spotify.com/track/0gb2snwbCPeeS0w8gBgIqy) - Jigow
+	- [ ] Owlbear rodeo [scene](https://www.owlbear.rodeo/room/EiCy8X2dzjxe/TheDinkyBoat) 
+	- [ ] [D&D Beyond](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#FestivalofMerit) adventure
+	- [ ] [Discord](https://discord.com/channels/@me/1289679259560050811) chat
+	- [ ] [Campaign](https://aliciafrederick.github.io/Call-of-the-Netherdeep/) website
 - [ ] After
 	- [ ] Clean up log
 	- [ ] Comment out prep notes
@@ -53,12 +59,6 @@ You hear snippets of conversations as people pass by: a goblin mother telling he
 >
 All around you, colorful signs and banners point toward festival booths surrounded by cheering people. On this street alone, you can see a meat-pie eating contest near a shop mounted on the back of a massive tortoise, and on the other side of the road, a banner emblazoned with the words “Riddles and Rhymes: Unbeatable Riddles!” That banner points toward a three-story temple in the center of the Jumble. The town is yours to explore—where do you want to go?
  
-- [ ] Spotify [music](https://open.spotify.com/track/0gb2snwbCPeeS0w8gBgIqy) - Jigow
-- [ ] Owlbear rodeo [scene](https://www.owlbear.rodeo/room/EiCy8X2dzjxe/TheDinkyBoat) 
-- [ ] [D&D Beyond](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#FestivalofMerit) adventure
-- [ ] [Discord](https://discord.com/channels/@me/1289679259560050811) chat
-- [ ] [Campaign](https://aliciafrederick.github.io/Call-of-the-Netherdeep/) website
-
 ##  Outline potential scenes
 
 See [[Ch 1 Canvas.canvas|Ch 1 Canvas]] 
@@ -81,11 +81,18 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 - [ ] Plans made or set in motion when Ruidus is full are doomed to failure, often due to betrayal or miscommunication.
 - [ ] The head of the Cobalt Soul is a dragon who hordes books and knowledge?
 - [ ] The goblin and orc clans of Jigow feel the Luxon religion of the Kryn Dynasty is wiping out their own cultures. 
-- [ ] 
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
 
 ##  Develop fantastic locations
 
 - [ ] [[Jigow]] 
+- [ ] J8: [The Temple of the Luxon](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J8TempleoftheLuxon) 
+- [ ] J9: [Helter Skelter](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J9HelterSkelter) 
+- [ ] J10: [Black Islands](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J10BlackIslands) 
 
 ##  Outline important NPCs
 
