@@ -14,19 +14,19 @@ https://www.dndbeyond.com/characters/133013573
 
 ![[Thrast Summittrod.png]] ![[token-raven.png]] ![[token-wereraven.png]] 
 
-| Label                       | Detail                        |
-| --------------------------- | ----------------------------- |
-| Description                 | Hill Dwarf Cleric (wereraven) |
-| Homeland                    |                               |
-| Background                  |                               |
-| Home Settlement             |                               |
-| Family                      |                               |
-| Family Relationship / Rival |                               |
-| Ally                        |                               |
-| Fateful Moment              |                               |
-| Favorite Food               |                               |
-| Mysterious Secret           |                               |
-| Prophecy                    |                               |
+| Label                       | Detail                            |
+| --------------------------- | --------------------------------- |
+| Description                 | Hill Dwarf Cleric (wereraven)     |
+| Homeland                    | Marrow Valley (Dwendalian Empire) |
+| Background                  |                                   |
+| Home Settlement             |                                   |
+| Family                      |                                   |
+| Family Relationship / Rival |                                   |
+| Ally                        |                                   |
+| Fateful Moment              |                                   |
+| Favorite Food               |                                   |
+| Mysterious Secret           |                                   |
+| Prophecy                    |                                   |
 
 %% DM Notes
 
