@@ -50,6 +50,7 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 - [ ] Those who are born on a night when Ruidus is full are destined to bring suffering to others or to experience great tragedy in their own lives.
 - [ ] Those who study Ruidus and become obsessed with its secrets are compelled to cause misfortune and woe.
 - [ ] Plans made or set in motion when Ruidus is full are doomed to failure, often due to betrayal or miscommunication.
+- [ ] The head of the Cobalt Soul is a dragon who hordes books and knowledge?
 - [ ] 
 
 ##  Develop fantastic locations

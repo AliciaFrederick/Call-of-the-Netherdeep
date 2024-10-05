@@ -12,7 +12,7 @@ cssclasses:
 ---
 https://www.dndbeyond.com/characters/133013573 
 
-![[Thrast Summittrod.png]] ![[token-raven.png]] ![[token-wereraven.png]] 
+![[Thrast Summittrod.png]] ![[token-wereraven.png]] ![[token-raven.png]]  
 
 %% Rival: [Cultist](https://www.dndbeyond.com/monsters/16835-cultist) %%
 
