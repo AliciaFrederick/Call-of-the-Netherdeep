@@ -32,9 +32,10 @@ https://www.dndbeyond.com/characters/133013496
 
 %% DM Notes
 
+Dad - Captain Gloomraid - John Beachgift
 Dad's Jewelry guild shop - Beachgift's Benevolent Boons
 
-Impress dad - money, fame
+Impress dad - money, fame 
 
 #### Prophecy Rewards
 
