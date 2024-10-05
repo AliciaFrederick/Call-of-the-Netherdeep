@@ -14,19 +14,19 @@ https://www.dndbeyond.com/characters/133013496
 
 ![[Perjeon Beachgift.png]] 
 
-| Label                       | Detail |
-| --------------------------- | ------ |
-| Description                 |        |
-| Homeland                    |        |
-| Background                  |        |
-| Home Settlement             |        |
-| Family                      |        |
-| Family Relationship / Rival |        |
-| Ally                        |        |
-| Fateful Moment              |        |
-| Favorite Food               |        |
-| Mysterious Secret           |        |
-| Prophecy                    |        |
+| Label                       | Detail                                                                                                                                                   |
+| --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Description                 |                                                                                                                                                          |
+| Homeland                    |                                                                                                                                                          |
+| Background                  |                                                                                                                                                          |
+| Home Settlement             |                                                                                                                                                          |
+| Family                      |                                                                                                                                                          |
+| Family Relationship / Rival |                                                                                                                                                          |
+| Ally                        |                                                                                                                                                          |
+| Fateful Moment              | While reading through a mysterious tome once owned by your parent, you found a treasure map that points toward a place in Wildemount of the DM’s choice. |
+| Favorite Food               |                                                                                                                                                          |
+| Mysterious Secret           |                                                                                                                                                          |
+| Prophecy                    |                                                                                                                                                          |
 
 %% DM Notes
 
