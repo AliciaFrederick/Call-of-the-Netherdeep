@@ -19,7 +19,7 @@ https://www.dndbeyond.com/characters/133013496
 | Label             | Detail                                                                                                                                                          |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Description       | Half-Elf Fighter Echo Knight                                                                                                                                    |
-| Homeland          | Menagerie Coast                                                                                                                                                 |
+| Homeland          | [Menagerie Coast](https://www.dndbeyond.com/sources/dnd/egtw/wildemount-gazetteer-menagerie-coast#MenagerieCoast)                                               |
 | Background        | [Sailor (Revelry Pirate)](https://www.dndbeyond.com/backgrounds/102352-sailor-revelry-pirate)                                                                   |
 | Home Settlement   | [Port Zoon](https://www.dndbeyond.com/sources/dnd/egtw/wildemount-gazetteer-menagerie-coast#PortZoon)                                                           |
 | Family            | 2 parents, 0 siblings                                                                                                                                           |
