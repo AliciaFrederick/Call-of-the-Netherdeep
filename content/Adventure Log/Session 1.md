@@ -101,7 +101,7 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 ##  Choose relevant monsters
 
 - [x] 2x [[Ifolon Striped Shark]] 
-- [ ] [[Horizonback Tortoise]] 
+- [x] [[Horizonback Tortoise]] 
 - [ ] [[Drow Elite Warrior (NPC)]]  
 - [x] [[Aarakocra (NPC)]] 
 - [ ] [[Commoner (NPC)]] 
@@ -117,12 +117,12 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 ##  Select magic item rewards
 
 - [-] [[Medal of the Meat Pie]] 
-- [ ] [[Medal of Muscle]] 
+- [x] [[Medal of Muscle]] 
 - [x] [[Medal of the Maze]] 
 - [x] [[Medal of the Conch]] 
 - [x] [[Medal of the Wetlands]] 
 - [x] [[Medal of the Horizonback]] 
 - [x] [[Medal of Wit]] 
-- [ ] [[Potion of Water Breathing]] 
+- [x] [[Potion of Water Breathing]] 
 
 %%
