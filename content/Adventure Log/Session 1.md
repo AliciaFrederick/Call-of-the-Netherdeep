@@ -13,7 +13,7 @@ cssclasses:
 
 %%
 - [ ] Starting
-	- [ ] Spotify [music](https://open.spotify.com/track/0gb2snwbCPeeS0w8gBgIqy) - Jigow
+	- [ ] Spotify [music](https://open.spotify.com/album/30CxXNLekWVQzo7xhowwkg) 
 	- [ ] Owlbear rodeo [scene](https://www.owlbear.rodeo/room/EiCy8X2dzjxe/TheDinkyBoat) 
 	- [ ] [D&D Beyond](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#FestivalofMerit) adventure
 	- [ ] [Discord](https://discord.com/channels/@me/1289679259560050811) chat
@@ -37,7 +37,7 @@ cssclasses:
 
 - [ ] After
 	- [ ] Clean up log
-	- [ ] Comment out prep notes
+	- [x] Comment out prep notes
 	- [ ] Uncheck draft
 	- [ ] Update [[index]] with next session date
 	- [ ] Git sync

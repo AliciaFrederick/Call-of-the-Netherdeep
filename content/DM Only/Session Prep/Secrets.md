@@ -4,7 +4,7 @@
 - [ ] Perjeon's treasure map leads to a dragon's horde which contains a long lost Luxon beacon, among other things
 	- Scene: Thrast engages the dragon in conversation while Aza steals the beacon.
 	- Scene: The party narrowly escapes with their lives
-	- Scene: Perjeon and Aza present the beacon to the Dwendalian princess.
+	- Scene: Perjeon presents one of their spoils to the Dwendalian princess.
 
 ## Questions
 
