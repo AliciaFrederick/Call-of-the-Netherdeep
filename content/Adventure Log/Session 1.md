@@ -35,12 +35,12 @@ cssclasses:
 
 ## Cooldown
 
-- [x] Star - What is one thing you liked about the session?
+- Star - What is one thing you liked about the session?
 	- Games, rewards, not combat, variety
 	- Roleplay
-- [x] Wish - What is something you want for future sessions?
+- Wish - What is something you want for future sessions?
 	- NA
-- [x] Schedule next session
+- Schedule next session
 
 %%
 
