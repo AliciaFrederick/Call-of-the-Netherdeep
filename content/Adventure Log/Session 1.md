@@ -20,6 +20,8 @@ cssclasses:
 	- [x] [Campaign](https://aliciafrederick.github.io/Call-of-the-Netherdeep/) website
 %%
 
+![[01-001.intro-splash.jpg]] 
+
 ## Log
 
 - The adventure begins...
