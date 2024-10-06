@@ -9,12 +9,13 @@ draft: true
 date: 
 cssclasses:
 ---
-An influential group of academics
+An influential group of academics.
+([link](https://www.dndbeyond.com/sources/dnd/cotn/the-jewel-of-hope#AllegianceofAllsight)) 
 
-- Vibe: Ivy League Indiana Jones
 
 %% DM Notes
-- https://www.dndbeyond.com/sources/dnd/cotn/the-jewel-of-hope#AllegianceofAllsight 
+
+- Vibe: Ivy League Indiana Jones
 
 
 %%

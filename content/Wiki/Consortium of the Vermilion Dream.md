@@ -9,13 +9,13 @@ draft: true
 date: 
 cssclasses:
 ---
-A secret occult society obsessed with the magic of the Moon of Ill Omen, Ruidus
+A secret occult society obsessed with the magic of the Moon of Ill Omen, Ruidus.
+([link](https://www.dndbeyond.com/sources/dnd/cotn/the-jewel-of-hope#ConsortiumoftheVermilionDream))
 
-- Vibe: Capitalist Halliwell sisters from Charmed 
 
 %% DM Notes
-- https://www.dndbeyond.com/sources/dnd/cotn/the-jewel-of-hope#ConsortiumoftheVermilionDream
-- Discovered the rift to the Netherdeep
 
+- Vibe: Capitalist Halliwell sisters from Charmed 
+- Discovered the rift to the Netherdeep
 
 %%
