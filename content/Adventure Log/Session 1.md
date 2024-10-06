@@ -93,7 +93,7 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 - [x] [[Dermot Wurder]] 
 - [x] [[Galsariad Ardyth]] 
 - [x] [[Irvan Wastewalker]] 
-- [ ] [[Maggie Keeneyes]] 
+- [-] [[Maggie Keeneyes]] 
 - [ ] [[Elder Ushru]] - George Takei
 - [ ] [[Elder Colbu Kaz]] 
 - [ ] [[Durth Mirimm]] 
