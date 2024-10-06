@@ -31,7 +31,7 @@ cssclasses:
 - [ ] Wish - What is something you want for future sessions?
 - [ ] Schedule next session
 
-%%
+%%  %%
 
 - [ ] After
 	- [ ] Clean up log
@@ -80,5 +80,5 @@ cssclasses:
 
 - [ ] 
 
-
+%%  %%
 

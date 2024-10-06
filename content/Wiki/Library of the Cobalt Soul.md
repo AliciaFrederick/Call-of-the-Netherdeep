@@ -5,16 +5,16 @@ permalink:
 aliases:
   - Cobalt Soul
 tags: 
-draft: true
+draft: false
 date: 
 cssclasses:
 ---
 A monastic order dedicated to gathering and preserving knowledge, with library branches all across Exandria
 
-- Vibe: Evelyn from The Mummy
 
 %% DM Notes
-- https://www.dndbeyond.com/sources/dnd/cotn/the-jewel-of-hope#LibraryoftheCobaltSoul
 
+- https://www.dndbeyond.com/sources/dnd/cotn/the-jewel-of-hope#LibraryoftheCobaltSoul
+- Vibe: Evelyn from The Mummy
 
 %%
