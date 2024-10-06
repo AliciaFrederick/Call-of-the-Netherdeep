@@ -66,7 +66,7 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 - [x] **J2: [One-Shot Solution](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J2OneShotSolution).** (1-3 PCs) A maze has been constructed in the Jumble. Competitors win a prize if they navigate the maze in one try without coming upon a dead end.
 - [x] **J3: [The Ifolon Plunge](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J3TheIfolonPlunge).** (1 PC) Some distance offshore in the Ifolon River, a rusted spear is lodged into a weathered piece of a pier that has long since rotted away. It is a popular spot for Jigow’s most talented swimmers to test their speed and skill.
 - [ ] **J4: [Call to Arms](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J4CalltoArms).** (1-3 PCs) One of the Aurora Watch soldiers stationed in Jigow has challenged anyone and everyone to best her in an arm-wrestling contest. So far, she remains undefeated.
-- [ ] **J5: [Wetwalks Paddywhack](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J5WetwalksPaddywhack).** (2 PCs) Members of the Gakthash and Uvuroh goblin clans time their rice paddy harvests to coincide with the Festival of Merit every year. This event turns the mundane act of harvesting into a spirited competition.
+- [x] **J5: [Wetwalks Paddywhack](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J5WetwalksPaddywhack).** (2 PCs) Members of the Gakthash and Uvuroh goblin clans time their rice paddy harvests to coincide with the Festival of Merit every year. This event turns the mundane act of harvesting into a spirited competition.
 - [x] **J6: [Herding the Horizonbacks](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J6HerdingtheHorizonbacks).** (1-3 PCs) This year’s brood of young horizonback tortoises must be relocated from the Wetwalks to the Jumble.
 - [x] **J7: [Riddles and Rhymes](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#J7RiddlesandRhymes).** (1-3 PCs) One of Jigow’s elders is fond of making up riddles. He has come up with several new ones for the festival this year.
 - [ ] [Final Contest](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#FinalContest) 
@@ -90,7 +90,7 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 ##  Outline important NPCs
 
 - [x] [[Ayo Jabe]] 
-- [ ] [[Dermot Wurder]] 
+- [x] [[Dermot Wurder]] 
 - [x] [[Galsariad Ardyth]] 
 - [x] [[Irvan Wastewalker]] 
 - [ ] [[Maggie Keeneyes]] 
@@ -120,7 +120,7 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 - [ ] [[Medal of Muscle]] 
 - [x] [[Medal of the Maze]] 
 - [x] [[Medal of the Conch]] 
-- [ ] [[Medal of the Wetlands]] 
+- [x] [[Medal of the Wetlands]] 
 - [x] [[Medal of the Horizonback]] 
 - [x] [[Medal of Wit]] 
 - [ ] [[Potion of Water Breathing]] 
