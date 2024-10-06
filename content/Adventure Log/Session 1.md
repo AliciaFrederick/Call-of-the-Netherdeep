@@ -42,36 +42,12 @@ cssclasses:
 
 ---
 
-## TODO
-
-- [ ] Before
-	- [x] Identify Secrets and Clues
-		- [x] Where does Perjeon's treasure map lead?
-		- [x] How will Perjeon end up in front of a Princess? 
-		- [x] Where is the beacon that Aza needs to find?
-		- [x] Who and where is the dragon that Thrast will speak with?
-			- A leader of the Cobalt Soul is a dragon 
-				- Who hordes books and knowledge? 
-				- Who uses the Cobalt Soul to locate and obtain rare magical artifacts for her horde? 
-			- Perjeon's treasure map leads to a dragon's horde, which contains a long lost Luxon beacon. Thrast engages the dragon in conversation while Aza steals the beacon. After narrowly escaping with their lives, Perjeon presents the beacon to the Dwendalian princess.
-		- [x] Who is Aza's bandit rival?
-		- [x] How will Perjeon's former shipmate spy rival come into play?
-		- [x] Who is out for Thrast's blood?
-	- [ ] Prep riddle handouts
-	- [x] Choose magic items for each player
-		- [x] Amy - bottle of boundless coffee
-		- [x] Brenna - armor of gleaming
-		- [x] Joe - earring of message
-	- [ ] Review the [rivals](https://www.dndbeyond.com/sources/dnd/cotn/answering-the-call#Rivals) - goals and personalities
-	- [ ] Practice voices for the rivals and elders
-	- [x] Music 
-	- [ ] Lighting
-
 ##  Review the characters
 
 - [ ] [[Perjeon Beachgift]] 
 - [ ] [[Aza Dirali]] 
 - [ ] [[Thrast Summittrod]] 
+- [ ] [[Rivals - Tier 1]] - [rivals](https://www.dndbeyond.com/sources/dnd/cotn/answering-the-call#Rivals) 
 
 ##  Create a strong start
 
@@ -103,11 +79,6 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 - [ ] Those who study Ruidus and become obsessed with its secrets are compelled to cause misfortune and woe.
 - [ ] Plans made or set in motion when Ruidus is full are doomed to failure, often due to betrayal or miscommunication.
 - [ ] The goblin and orc clans of Jigow feel the Luxon religion of the Kryn Dynasty is wiping out their own cultures. 
-- [ ] .
-- [ ] .
-- [ ] .
-- [ ] .
-- [ ] .
 
 ##  Develop fantastic locations
 
