@@ -89,14 +89,14 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 
 ##  Outline important NPCs
 
-- [[Ayo Jabe]] 
-- [[Dermot Wurder]] 
-- [[Galsariad Ardyth]] 
-- [[Irvan Wastewalker]] 
-- [[Maggie Keeneyes]] 
-- [[Elder Ushru]] - George Takei
-- [[Elder Colbu Kaz]] 
-- [[Durth Mirimm]] 
+- [x] [[Ayo Jabe]] 
+- [ ] [[Dermot Wurder]] 
+- [x] [[Galsariad Ardyth]] 
+- [x] [[Irvan Wastewalker]] 
+- [ ] [[Maggie Keeneyes]] 
+- [ ] [[Elder Ushru]] - George Takei
+- [ ] [[Elder Colbu Kaz]] 
+- [ ] [[Durth Mirimm]] 
 
 ##  Choose relevant monsters
 
