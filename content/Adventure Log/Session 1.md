@@ -23,7 +23,10 @@ cssclasses:
 ## Log
 
 - The adventure begins...
-- 
+- Thrast won the [[Medal of Muscle]] 
+- Perjeon
+- Thrast and Perjeon won the [[Medal of the Wetlands]] 
+- The party and Ayo's group were chosen to compete for the championship 
 
 ## Cooldown
 
