@@ -2,7 +2,8 @@
 title: 
 description: 
 permalink: 
-aliases: 
+aliases:
+  - Irvan
 tags: 
 draft: false
 date: 

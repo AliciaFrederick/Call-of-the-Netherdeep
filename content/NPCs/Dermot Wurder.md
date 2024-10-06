@@ -2,7 +2,8 @@
 title: 
 description: 
 permalink: 
-aliases: 
+aliases:
+  - Dermot
 tags: 
 draft: false
 date: 

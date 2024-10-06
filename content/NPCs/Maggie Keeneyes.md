@@ -2,7 +2,8 @@
 title: 
 description: 
 permalink: 
-aliases: 
+aliases:
+  - Maggie
 tags: 
 draft: true
 date: 

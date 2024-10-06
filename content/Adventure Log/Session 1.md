@@ -12,12 +12,12 @@ cssclasses:
 [Owlbear Rodeo](https://www.owlbear.rodeo/room/BaGN2KPVM902/TheHomeyLeaf)  
 
 %%
-- [ ] Starting
-	- [ ] Spotify [music](https://open.spotify.com/album/30CxXNLekWVQzo7xhowwkg) 
-	- [ ] Owlbear rodeo [scene](https://www.owlbear.rodeo/room/EiCy8X2dzjxe/TheDinkyBoat) 
-	- [ ] [D&D Beyond](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#FestivalofMerit) adventure
-	- [ ] [Discord](https://discord.com/channels/@me/1289679259560050811) chat
-	- [ ] [Campaign](https://aliciafrederick.github.io/Call-of-the-Netherdeep/) website
+- [x] Starting
+	- [x] Spotify [music](https://open.spotify.com/album/30CxXNLekWVQzo7xhowwkg) 
+	- [x] Owlbear rodeo [scene](https://www.owlbear.rodeo/room/EiCy8X2dzjxe/TheDinkyBoat) 
+	- [x] [D&D Beyond](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#FestivalofMerit) adventure
+	- [x] [Discord](https://discord.com/channels/@me/1289679259560050811) chat
+	- [x] [Campaign](https://aliciafrederick.github.io/Call-of-the-Netherdeep/) website
 %%
 
 ## Log
@@ -27,17 +27,18 @@ cssclasses:
 - Perjeon failed to win the [[Medal of the Meat Pie]] and met [[Irvan Wastewalker]] 
 - Aza and Perjeon won the [[Medal of the Maze]] 
 - Perjeon won the [[Medal of the Conch]] and the party met [[Ayo Jabe]] 
-- Perjeon and Thrast won the [[Medal of the Horizonback]] while Aza watched with [[Galsariad Ardyth]] and [[Ayo Jabe]] 
-- Thrast and Perjeon won the [[Medal of the Wetlands]] and the party met [[Dermot Wurder]] as he finished healing [[Irvan Wastewalker]]'s nausea
+- Perjeon and Thrast won the [[Medal of the Horizonback]] while Aza watched with [[Galsariad Ardyth|Galsariad]] and [[Ayo Jabe|Ayo]] 
+- Thrast and Perjeon won the [[Medal of the Wetlands]] and the party met [[Dermot Wurder]] as he finished healing [[Irvan Wastewalker|Irvan]]'s nausea
 - Thrast won the [[Medal of Muscle]] while both parties watched
 - The party and Ayo's group were chosen to compete for the championship 
 
 ## Cooldown
 
 - [x] Star - What is one thing you liked about the session?
-	- games, rewards, not combat, variety
-	- roleplay
+	- Games, rewards, not combat, variety
+	- Roleplay
 - [x] Wish - What is something you want for future sessions?
+	- NA
 - [x] Schedule next session
 
 %%

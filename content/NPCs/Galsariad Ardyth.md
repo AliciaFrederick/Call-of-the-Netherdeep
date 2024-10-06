@@ -2,7 +2,8 @@
 title: 
 description: 
 permalink: 
-aliases: 
+aliases:
+  - Galsariad
 tags: 
 draft: false
 date: 
