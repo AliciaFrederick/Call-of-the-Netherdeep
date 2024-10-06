@@ -23,9 +23,13 @@ cssclasses:
 ## Log
 
 - The adventure begins...
-- Thrast won the [[Medal of Muscle]] 
-- Perjeon
+- Aza and Thrast won the [[Medal of Wit]] 
+- Perjeon failed to win the [[Medal of the Meat Pie]] 
+- Aza and Perjeon won the [[Medal of the Maze]] 
+- Perjeon won the [[Medal of the Conch]] 
+- Perjeon and Thrast won the [[Medal of the Horizonback]] 
 - Thrast and Perjeon won the [[Medal of the Wetlands]] 
+- Thrast won the [[Medal of Muscle]] 
 - The party and Ayo's group were chosen to compete for the championship 
 
 ## Cooldown
