@@ -23,13 +23,13 @@ cssclasses:
 ## Log
 
 - The adventure begins...
-- Aza and Thrast won the [[Medal of Wit]] 
-- Perjeon failed to win the [[Medal of the Meat Pie]] 
+- Aza and Thrast won the [[Medal of Wit]] and met [[Galsariad Ardyth]] 
+- Perjeon failed to win the [[Medal of the Meat Pie]] and met [[Irvan Wastewalker]] 
 - Aza and Perjeon won the [[Medal of the Maze]] 
-- Perjeon won the [[Medal of the Conch]] 
-- Perjeon and Thrast won the [[Medal of the Horizonback]] 
-- Thrast and Perjeon won the [[Medal of the Wetlands]] 
-- Thrast won the [[Medal of Muscle]] 
+- Perjeon won the [[Medal of the Conch]] and the party met [[Ayo Jabe]] 
+- Perjeon and Thrast won the [[Medal of the Horizonback]] while Aza watched with [[Galsariad Ardyth]] and [[Ayo Jabe]] 
+- Thrast and Perjeon won the [[Medal of the Wetlands]] and the party met [[Dermot Wurder]] as he finished healing [[Irvan Wastewalker]]'s nausea
+- Thrast won the [[Medal of Muscle]] while both parties watched
 - The party and Ayo's group were chosen to compete for the championship 
 
 ## Cooldown

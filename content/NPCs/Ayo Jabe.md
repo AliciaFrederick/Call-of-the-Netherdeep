@@ -2,7 +2,8 @@
 title: 
 description: 
 permalink: 
-aliases: 
+aliases:
+  - Ayo
 tags: 
 draft: false
 date: 
