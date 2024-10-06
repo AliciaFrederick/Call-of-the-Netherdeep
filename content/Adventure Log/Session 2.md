@@ -22,7 +22,7 @@ cssclasses:
 
 ## Log
 
-- Previously...
+- [[Session 1|Previously]]...
 - 
 
 ## Cooldown
