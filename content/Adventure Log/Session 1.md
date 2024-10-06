@@ -28,6 +28,8 @@ cssclasses:
 ## Cooldown
 
 - [ ] Star - What is one thing you liked about the session?
+	- games, rewards, not combat, variety
+	- roleplay
 - [ ] Wish - What is something you want for future sessions?
 - [ ] Schedule next session
 
@@ -94,8 +96,8 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 - [x] [[Galsariad Ardyth]] 
 - [x] [[Irvan Wastewalker]] 
 - [-] [[Maggie Keeneyes]] 
-- [ ] [[Elder Ushru]] - George Takei
-- [ ] [[Elder Colbu Kaz]] 
+- [x] [[Elder Ushru]] - George Takei
+- [x] [[Elder Colbu Kaz]] 
 - [ ] [[Durth Mirimm]] 
 
 ##  Choose relevant monsters
