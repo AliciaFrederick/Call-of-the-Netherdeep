@@ -9,7 +9,7 @@ date:
 cssclasses:
 ---
 
-![[map-2.1-The-Emerald-Gulch-player.jpg]]
+![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/3.8-wastes-of-xhorhas.jpg) 
 
 %% 
 ![[map-2.1-The-Emerald-Gulch.jpg]] 
