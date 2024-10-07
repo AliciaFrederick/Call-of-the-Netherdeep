@@ -12,7 +12,7 @@ An epic *Critical Role* campaign for the world's greatest roleplaying game.
 
 [[A Player's Guide to the Netherdeep]] 
 
-Next Session: Sunday, October 6 2024
+Next Session: Sunday, November 3 2024
 
 ![[cotn-cover.jpg]] 
 
