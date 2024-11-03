@@ -36,7 +36,7 @@ Spell names are wikilinked for use in a a PKM application, like [Obsidian](https
 - [[Silent Image]]
 - [[Sleep]]
 - [[Speak with Animals]]
-- [[DM Only/Reference/Spells/Thunderwave]]
+- [[DM Only/Reference/D&D SRD 5.1/Spells/Thunderwave]]
 - [[Unseen Servant]]
 
 #### 2nd Level
@@ -312,7 +312,7 @@ Spell names are wikilinked for use in a a PKM application, like [Obsidian](https
 - [[Longstrider]]
 - [[Purify Food and Drink]]
 - [[Speak with Animals]]
-- [[DM Only/Reference/Spells/Thunderwave]]
+- [[DM Only/Reference/D&D SRD 5.1/Spells/Thunderwave]]
 
 #### 2nd Level
 
@@ -559,7 +559,7 @@ Spell names are wikilinked for use in a a PKM application, like [Obsidian](https
 - [[Shield]]
 - [[Silent Image]]
 - [[Sleep]]
-- [[DM Only/Reference/Spells/Thunderwave]]
+- [[DM Only/Reference/D&D SRD 5.1/Spells/Thunderwave]]
 
 #### 2nd Level
 
@@ -815,7 +815,7 @@ Spell names are wikilinked for use in a a PKM application, like [Obsidian](https
 - [[Shield]]
 - [[Silent Image]]
 - [[Sleep]]
-- [[DM Only/Reference/Spells/Thunderwave]]
+- [[DM Only/Reference/D&D SRD 5.1/Spells/Thunderwave]]
 - [[Unseen Servant]]
 
 #### 2nd Level

@@ -98,11 +98,11 @@ Underwater ambience: [video](https://youtu.be/_dJDFGvkc1Y?si=8aoqPP4ptvpWexlu)
 
 ##  Select magic item rewards
 
-- [ ] [[Potion of Water Breathing]] 
-- [ ] [[Potion of Healing]] 
-- [ ] [[Spell Scroll]] of [[Thunderwave]] 
-- [ ] [[Dust of Dryness]] 
-- [ ] 3 x [[Potion of Healing]] 
+- [ ] [[Handouts/Potion of Water Breathing]] 
+- [ ] [[Handouts/Potion of Healing]] 
+- [ ] [[Spell Scroll]] of [[Handouts/Thunderwave]] 
+- [ ] [[Handouts/Dust of Dryness]] 
+- [ ] 3 x [[Handouts/Potion of Healing]] 
 - [ ] Sehanine's spear
 - [ ] Emerald Eye
 - [ ] [Jewel of Three Prayers](https://www.dndbeyond.com/magic-items/4698481-jewel-of-three-prayers) 

@@ -136,6 +136,6 @@ See [[Ch 1 Canvas.canvas|Ch 1 Canvas]]
 - [x] [[Medal of the Wetlands]] 
 - [x] [[Medal of the Horizonback]] 
 - [x] [[Medal of Wit]] 
-- [x] [[Potion of Water Breathing]] 
+- [x] [[Handouts/Potion of Water Breathing]] 
 
 %%
