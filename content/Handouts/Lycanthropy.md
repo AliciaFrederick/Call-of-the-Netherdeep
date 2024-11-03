@@ -1,3 +1,13 @@
+---
+title: 
+description: 
+permalink: 
+aliases: 
+tags: 
+draft: false
+date: 
+cssclasses:
+---
 ### Wereraven
 
 Wereravens are secretive and wary of strangers. They keep mostly to themselves, respect local laws, and strive to do good whenever possible. They are reluctant to attack with their beaks in raven or hybrid form for fear of spreading their curse to those who don’t deserve it or would abuse it.
@@ -54,3 +64,11 @@ Some individuals see little point in fighting the curse and accept what they are
 > _**Werewolf.**_ The character gains a Strength of 15 if his or her score isn’t already higher, and a +1 bonus to AC while in wolf or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
 > 
 
+
+
+
+%% DM Notes
+
+
+
+%%
