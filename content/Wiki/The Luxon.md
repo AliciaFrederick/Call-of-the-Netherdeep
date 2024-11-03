@@ -11,6 +11,8 @@ cssclasses:
 The Luxon is the central deity of the Kryn Dynasty and their way of life, but study of the Luxon beyond the borders of Xhorhas has only recently begun. 
 ([link](https://www.dndbeyond.com/sources/dnd/egtw/story-of-wildemount#TheLuxontheFirstRadiance)) 
 
+![Luxon Beacon](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/06-05.png)
+
 %% DM Notes
 
 
