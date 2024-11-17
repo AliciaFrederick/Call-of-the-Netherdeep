@@ -44,9 +44,9 @@ cssclasses:
 
 ##  Review the characters
 
-- [ ] [[Perjeon Beachgift]] 
-- [ ] [[Aza Dirali]] 
-- [ ] [[Thrast Summittrod]] 
+- [x] [[Perjeon Beachgift]] 
+- [x] [[Aza Dirali]] 
+- [x] [[Thrast Summittrod]] 
 
 ##  Create a strong start
 
@@ -68,8 +68,8 @@ Underwater ambience: [video](https://youtu.be/_dJDFGvkc1Y?si=8aoqPP4ptvpWexlu)
 		- [ ] E8 - [Riptide Tunnel](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#E8RiptideTunnel) 
 		- [ ] E9 - [Dead End?](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#E9DeadEnd) 
 - [x] E10 - [Moonshark Lair](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#E10MoonsharkLair) 
-- [ ] E11 - [Moonweaver's Gateway](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#E11MoonWeaversGateway) 
-- [ ] E12 - [Prayer Site of Sehanine](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#E12PrayerSiteofSehanine) 
+- [x] E11 - [Moonweaver's Gateway](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#E11MoonWeaversGateway) 
+- [x] E12 - [Prayer Site of Sehanine](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#E12PrayerSiteofSehanine) 
 
 ##  Define secrets and clues
 
