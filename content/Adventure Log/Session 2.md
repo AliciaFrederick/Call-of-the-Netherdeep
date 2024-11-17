@@ -73,9 +73,9 @@ Underwater ambience: [video](https://youtu.be/_dJDFGvkc1Y?si=8aoqPP4ptvpWexlu)
 
 ##  Define secrets and clues
 
-- [ ] Alyxian is imprisoned, lost in darkness
-- [ ] Long ago, he prayed to the Change Bringer in the heart of a temple of evil
-- [ ] He asks the party to take his jewel and save him
+- [x] Alyxian is imprisoned, lost in darkness
+- [x] Long ago, he prayed to the Change Bringer in the heart of a temple of evil
+- [x] He asks the party to take his jewel and save him
 
 ##  Develop fantastic locations
 
