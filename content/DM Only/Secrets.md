@@ -1,10 +1,9 @@
 ## Secrets and Clues
 
-- [ ] A leader of the Cobalt Soul is a dragon who uses the Cobalt Soul to locate and obtain rare magical artifacts for her horde
+- [ ] A leader of the Cobalt Soul is a dragon (??) who uses the Cobalt Soul to locate and obtain rare magical artifacts for her horde
 - [ ] Perjeon's treasure map leads to a dragon's horde which contains a long lost Luxon beacon, among other things
-	- Scene: Thrast engages the dragon in conversation while Aza steals the beacon.
-	- Scene: The party narrowly escapes with their lives
-	- Scene: Perjeon presents one of their spoils to the Dwendalian princess.
+	- Scene: Thrast engages the dragon in conversation while Aza steals the beacon. The party narrowly escapes with their lives.
+	- Scene: Perjeon presents one of their spoils to the Dwendalian (??) princess.
 
 ## Questions
 
