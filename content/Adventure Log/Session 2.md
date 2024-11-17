@@ -88,23 +88,23 @@ Underwater ambience: [video](https://youtu.be/_dJDFGvkc1Y?si=8aoqPP4ptvpWexlu)
 - [[Dermot Wurder]] 
 - [[Galsariad Ardyth]] 
 - [[Irvan Wastewalker]] 
-- [[Maggie Keeneyes]] 
+- ~~[[Maggie Keeneyes]]~~ 
 
 ##  Choose relevant monsters
 
-- [ ] [swarm of quippers](https://www.dndbeyond.com/monsters/17031-swarm-of-quippers) 
-- [ ] [giant octopus](https://www.dndbeyond.com/monsters/16888-giant-octopus) 
-- [ ] [moonshark](https://www.dndbeyond.com/monsters/2407555-moonshark) 
+- [x] [swarm of quippers](https://www.dndbeyond.com/monsters/17031-swarm-of-quippers) 
+- [x] [giant octopus](https://www.dndbeyond.com/monsters/16888-giant-octopus) 
+- [x] [moonshark](https://www.dndbeyond.com/monsters/2407555-moonshark) 
 
 ##  Select magic item rewards
 
-- [ ] 3x [[Handouts/Potion of Water Breathing]] 
-- [ ] [[Handouts/Potion of Healing]] 
-- [ ] [[Spell Scroll]] of [[Handouts/Thunderwave]] 
-- [ ] [[Handouts/Dust of Dryness]] 
-- [ ] 3 x [[Handouts/Potion of Healing]] 
-- [ ] Sehanine's spear
-- [ ] Emerald Eye
-- [ ] [Jewel of Three Prayers](https://www.dndbeyond.com/magic-items/4698481-jewel-of-three-prayers) 
+- [x] 3x [[Handouts/Potion of Water Breathing]] 
+- [x] [[Handouts/Potion of Healing]] 
+- [x] [[Spell Scroll]] of [[Handouts/Thunderwave]] 
+- [x] [[Handouts/Dust of Dryness]] 
+- [x] 3 x [[Handouts/Potion of Healing]] 
+- [x] Sehanine's spear
+- [x] Emerald Eye
+- [x] [Jewel of Three Prayers](https://www.dndbeyond.com/magic-items/4698481-jewel-of-three-prayers) 
 
 %%  %%
