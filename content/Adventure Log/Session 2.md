@@ -67,7 +67,7 @@ Underwater ambience: [video](https://youtu.be/_dJDFGvkc1Y?si=8aoqPP4ptvpWexlu)
 	- [ ] E7 - [Octopus's Garden](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#E7OctopussGarden) 
 		- [ ] E8 - [Riptide Tunnel](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#E8RiptideTunnel) 
 		- [ ] E9 - [Dead End?](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#E9DeadEnd) 
-- [ ] E10 - [Moonshark Lair](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#E10MoonsharkLair) 
+- [x] E10 - [Moonshark Lair](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#E10MoonsharkLair) 
 - [ ] E11 - [Moonweaver's Gateway](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#E11MoonWeaversGateway) 
 - [ ] E12 - [Prayer Site of Sehanine](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#E12PrayerSiteofSehanine) 
 
