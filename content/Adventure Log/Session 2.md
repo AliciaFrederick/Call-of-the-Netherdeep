@@ -98,7 +98,7 @@ Underwater ambience: [video](https://youtu.be/_dJDFGvkc1Y?si=8aoqPP4ptvpWexlu)
 
 ##  Select magic item rewards
 
-- [ ] [[Handouts/Potion of Water Breathing]] 
+- [ ] 3x [[Handouts/Potion of Water Breathing]] 
 - [ ] [[Handouts/Potion of Healing]] 
 - [ ] [[Spell Scroll]] of [[Handouts/Thunderwave]] 
 - [ ] [[Handouts/Dust of Dryness]] 
