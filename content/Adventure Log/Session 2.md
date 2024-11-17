@@ -29,7 +29,7 @@ cssclasses:
 
 - [ ] Star - What is one thing you liked about the session?
 - [ ] Wish - What is something you want for future sessions?
-- [ ] Schedule next session
+- [x] Schedule next session
 
 %%  %%
 
