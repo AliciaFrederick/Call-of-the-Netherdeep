@@ -123,14 +123,14 @@ cssclasses:
 
 ##  Select magic item rewards
 
-- [ ] 1d10 temp HP (24 hrs starting next morning) from the Aurora Watch cook's food
-- [ ] 1d10 temp HP (24 hrs starting next morning) from the mastodon kor’rundl 
 - [ ] Irvan's ring from near the gloomstalker corpse - silver with a small sapphire, worth 250 gp
-- [ ] [Charm of Heroism](https://www.dndbeyond.com/sources/dnd/dmg-2014/other-rewards#CharmOfHeroism) for killing all will-o'-wisps
-- [ ] A locked iron box containing 50 gp
-- [ ] A [potion of giant strength (hill)](https://www.dndbeyond.com/magic-items/4706-potion-of-hill-giant-strength) 
-- [ ] A [+1 dagger](https://www.dndbeyond.com/magic-items/5225-dagger-1) inscribed with the name Kierchaly Wastewalker
+- [ ] 1d10 temp HP (24 hrs starting next morning) from the Aurora Watch cook's food
+- [ ] A [Charm of Heroism](https://www.dndbeyond.com/sources/dnd/dmg-2014/other-rewards#CharmOfHeroism) for killing all will-o'-wisps
+- [ ] A locked iron box containing 50 gp from the crashed wagon
+- [ ] A [potion of giant strength (hill)](https://www.dndbeyond.com/magic-items/4706-potion-of-hill-giant-strength)  from the crashed wagon 
+- [ ] A [+1 dagger](https://www.dndbeyond.com/magic-items/5225-dagger-1) from the udaak corpse - inscribed with the name Kierchaly Wastewalker
 - [ ] Curse - Wrath of Ruidus (disadvantage on ability checks and saving throws for 24 hours)
+- [ ] 1d10 temp HP (24 hrs starting next morning) from the mastodon kor’rundl 
 - [ ] [+1 battleaxe](https://www.dndbeyond.com/magic-items/4801-battleaxe-1) 
 - [ ] [goggles of night](https://www.dndbeyond.com/magic-items/4648-goggles-of-night) 
 - [ ] [Merchants' Wares](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#MerchantsWares) 
