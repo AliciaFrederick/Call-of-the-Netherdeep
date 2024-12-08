@@ -92,13 +92,20 @@ cssclasses:
 
 ##  Choose relevant monsters
 
+- [ ] [Gloomstalker](https://www.dndbeyond.com/monsters/744314-gloomstalker) 
 - [ ] [Hezrou](https://www.dndbeyond.com/monsters/16922-hezrou) 
 - [ ] [Shadow Demon](https://www.dndbeyond.com/monsters/17131-shadow-demon) 
+- [ ] [Quasit](https://www.dndbeyond.com/monsters/16988-quasit) 
+- [ ] [Will-o'-Wisp](https://www.dndbeyond.com/monsters/17060-will-o-wisp) 
+- [ ] [Vrock](https://www.dndbeyond.com/monsters/17047-vrock) 
 
 ##  Select magic item rewards
 
 - [ ] Irvan's ring - silver with a small sapphire, worth 250 gp
-- [ ] 
+- [ ] 10 temp HP
+- [ ] [Charm of Heroism](https://www.dndbeyond.com/sources/dnd/dmg-2014/other-rewards#CharmOfHeroism) 
+- [ ] A locked iron box containing 50 gp
+- [ ] [potion of giant strength (hill)](https://www.dndbeyond.com/magic-items/4706-potion-of-hill-giant-strength) 
 
 %%  %%
 
