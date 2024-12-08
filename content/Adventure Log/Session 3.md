@@ -120,7 +120,6 @@ cssclasses:
 - [ ] [Vrock](https://www.dndbeyond.com/monsters/17047-vrock) 
 - [ ] [Will-o'-Wisp](https://www.dndbeyond.com/monsters/17060-will-o-wisp) 
 - [ ] [Warhorse](https://www.dndbeyond.com/monsters/17049-warhorse) 
-- [ ] 
 
 ##  Select magic item rewards
 
