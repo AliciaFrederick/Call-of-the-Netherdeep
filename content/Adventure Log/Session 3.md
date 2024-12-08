@@ -90,20 +90,25 @@ cssclasses:
 - [ ] Aurora Watch patrol
 	- [ ] 6 drow, human, and orc [veteran](https://www.dndbeyond.com/monsters/17045-veteran) soldiers
 	- [ ] 1 drow [scout](https://www.dndbeyond.com/monsters/17007-scout) cook
-- [ ] Justice (tiefling) - caravan [scout](https://www.dndbeyond.com/monsters/17007-scout) with his [moorbounder]((https://www.dndbeyond.com/monsters/744323-moorbounder)  Rice Pudding
+- [ ] Justice - tiefling caravan [scout](https://www.dndbeyond.com/monsters/17007-scout) with their [moorbounder]((https://www.dndbeyond.com/monsters/744323-moorbounder) Rice Pudding
 
 ##  Choose relevant monsters
 
+- [ ] [Bandit Captain](https://www.dndbeyond.com/monsters/16799-bandit-captain) 
+- [ ] [Bandit](https://www.dndbeyond.com/monsters/16798-bandit) 
+- [ ] [Bristled Moorbounder](https://www.dndbeyond.com/monsters/744304-bristled-moorbounder) 
 - [ ] [Gloomstalker](https://www.dndbeyond.com/monsters/744314-gloomstalker) 
 - [ ] [Hezrou](https://www.dndbeyond.com/monsters/16922-hezrou) 
 - [ ] [Mammoth](https://www.dndbeyond.com/monsters/16950-mammoth) 
 - [ ] [Moorbounder](https://www.dndbeyond.com/monsters/744323-moorbounder) 
-- [ ] [Bristled Moorbounder](https://www.dndbeyond.com/monsters/744304-bristled-moorbounder) 
 - [ ] [Quasit](https://www.dndbeyond.com/monsters/16988-quasit) 
+- [ ] [Riding Horse](https://www.dndbeyond.com/monsters/16997-riding-horse) 
 - [ ] [Shadow Demon](https://www.dndbeyond.com/monsters/17131-shadow-demon) 
 - [ ] [Skeleton](https://www.dndbeyond.com/monsters/17015-skeleton) 
 - [ ] [Vrock](https://www.dndbeyond.com/monsters/17047-vrock) 
 - [ ] [Will-o'-Wisp](https://www.dndbeyond.com/monsters/17060-will-o-wisp) 
+- [ ] [Warhorse](https://www.dndbeyond.com/monsters/17049-warhorse) 
+- [ ] 
 
 ##  Select magic item rewards
 
