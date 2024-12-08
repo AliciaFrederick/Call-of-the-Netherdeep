@@ -55,9 +55,19 @@ cssclasses:
 
 ##  Outline potential scenes
 
-- [ ] [Heroic Quest](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#HeroicQuest) 
-- [ ] [A Lucky Break](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#HeroicQuest) 
-- [ ] 
+- [ ] [After the Festival](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#HeroicQuest) 
+- [ ] Random Encounters
+	- [ ] [A Lucky Break](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#ALuckyBreak) 
+	- [ ] [Aurora Watch Patrol](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#AuroraWatchPatrol) 
+		- [ ] Rest
+		- [ ] Battle
+		- [ ] Lost
+	- [ ] [Crashed Wagon](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#CrashedWagon) 
+	- [ ] [Demonic Carrion](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#DemonicCarrion) 
+	- [ ] [Feast for the Eyes](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#FeastfortheEyes) 
+	- [ ] [Ill Omen]() 
+	- [ ] [Moorbounder Mayhem]() 
+	- [ ] [Roadside Raiders]() 
 
 ##  Define secrets and clues
 
