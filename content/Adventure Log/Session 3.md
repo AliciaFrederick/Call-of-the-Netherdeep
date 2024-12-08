@@ -87,11 +87,10 @@ cssclasses:
 - [ ] [[Dermot Wurder|Dermot]] is concerned for the PCs' well-being
 - [ ] [[Galsariad Ardyth|Galsariad]] wants to learn magical secrets
 - [ ] [[Irvan Wastewalker|Irvan]] is interested in the power of the jewel 
-- [ ] Aurora Watch [veteran](https://www.dndbeyond.com/monsters/17045-veteran) soldiers
-	- [ ] 6 drow, humans, and orcs per patrol
-- [ ] Aurora Watch [scout](https://www.dndbeyond.com/monsters/17007-scout) soldiers
-	- [ ] Cook (drow)
-	- [ ] Justice (tiefling)
+- [ ] Aurora Watch patrol
+	- [ ] 6 drow, human, and orc [veteran](https://www.dndbeyond.com/monsters/17045-veteran) soldiers
+	- [ ] 1 drow [scout](https://www.dndbeyond.com/monsters/17007-scout) cook
+- [ ] Justice (tiefling) - caravan [scout](https://www.dndbeyond.com/monsters/17007-scout) with his [moorbounder]((https://www.dndbeyond.com/monsters/744323-moorbounder)  Rice Pudding
 
 ##  Choose relevant monsters
 
