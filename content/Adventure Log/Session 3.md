@@ -74,20 +74,19 @@ cssclasses:
 
 ##  Define secrets and clues
 
-- [ ] The Jewel of Three Prayers is a Vestige of Divergence
-- [ ] Elder Ushru had a vision about the Jewel 
-- [ ] 
+- [ ] Elder Ushru had a vision about the golden amulet
+- [ ] The Jewel of Three Prayers is a Vestige of Divergence, an enchanted relic from the time of the Calamity
+- [ ] There is no place in Xhorhas where the memory of the Calamity lingers more strongly than in Bazzoxan
 
 ##  Develop fantastic locations
 
 - [ ] 
 ##  Outline important NPCs
 
-- [ ] [Alyxian](https://www.dndbeyond.com/sources/dnd/cotn/answering-the-call#RoleplayingtheApotheon) 
-- [ ] [[Ayo Jabe]] 
-- [ ] [[Dermot Wurder]] 
-- [ ] [[Galsariad Ardyth]] 
-- [ ] [[Irvan Wastewalker]] 
+- [ ] [[Ayo Jabe|Ayo]] wants to be part of a grand adventure
+- [ ] [[Dermot Wurder|Dermot]] is concerned for the PCs' well-being
+- [ ] [[Galsariad Ardyth|Galsariad]] wants to learn magical secrets
+- [ ] [[Irvan Wastewalker|Irvan]] is interested in the power of the jewel 
 
 ##  Choose relevant monsters
 
