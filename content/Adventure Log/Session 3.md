@@ -57,9 +57,9 @@ cssclasses:
 
 - [ ] [After the Festival](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#HeroicQuest) 
 - [ ] Random Encounters
-	- [ ] 1. [A Lucky Break](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#ALuckyBreak) 
+	- [x] 1. [A Lucky Break](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#ALuckyBreak) 
 	- [ ] 2. [Aurora Watch Patrol](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#AuroraWatchPatrol) 
-		- [ ] Rest
+		- [x] Rest
 		- [ ] Battle
 		- [ ] Lost
 	- [ ] 3. [Crashed Wagon](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#CrashedWagon) 
