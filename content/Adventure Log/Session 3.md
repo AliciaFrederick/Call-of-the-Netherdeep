@@ -91,6 +91,15 @@ cssclasses:
 	- [ ] 6 drow, human, and orc [veteran](https://www.dndbeyond.com/monsters/17045-veteran) soldiers
 	- [ ] 1 drow [scout](https://www.dndbeyond.com/monsters/17007-scout) cook
 - [ ] Justice - tiefling caravan [scout](https://www.dndbeyond.com/monsters/17007-scout) with their [moorbounder]((https://www.dndbeyond.com/monsters/744323-moorbounder) Rice Pudding
+- [ ] Kruzkrenner goblin family
+	- [ ] Big Yuyo ([horizonback tortoise](https://www.dndbeyond.com/monsters/744315-horizonback-tortoise)) 
+	- [ ] **Papa Drazagorr** (lawful neutral, goblin [veteran](https://www.dndbeyond.com/monsters/17045-veteran)) 
+	- [ ] **Pops Kelbadurn** (neutral good, goblin [guard](https://www.dndbeyond.com/monsters/16915-guard)) 
+	- [ ] **Auntie Jaller** (chaotic neutral, hobgoblin [druid](https://www.dndbeyond.com/monsters/16848-druid)) 
+	- [ ] **Little Gothby** (lawful neutral, goblin noncombatant)
+	- [ ] **Little Chespa** (chaotic good, goblin noncombatant)
+- [ ] Gaeya Iliera, a neutral good, drow [scout](https://www.dndbeyond.com/monsters/17007-scout) 
+- [ ] 
 
 ##  Choose relevant monsters
 
