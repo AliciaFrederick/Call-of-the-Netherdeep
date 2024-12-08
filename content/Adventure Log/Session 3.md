@@ -87,14 +87,19 @@ cssclasses:
 - [ ] [[Dermot Wurder|Dermot]] is concerned for the PCs' well-being
 - [ ] [[Galsariad Ardyth|Galsariad]] wants to learn magical secrets
 - [ ] [[Irvan Wastewalker|Irvan]] is interested in the power of the jewel 
-- [ ] Aurora Watch [veterans](https://www.dndbeyond.com/monsters/17045-veteran) 
-- [ ] Aurora Watch [scouts](https://www.dndbeyond.com/monsters/17007-scout)
+- [ ] Aurora Watch [veteran](https://www.dndbeyond.com/monsters/17045-veteran) soldiers
+	- [ ] 6 drow, humans, and orcs per patrol
+- [ ] Aurora Watch [scout](https://www.dndbeyond.com/monsters/17007-scout) soldiers
+	- [ ] Cook (drow)
+	- [ ] Justice (tiefling)
 
 ##  Choose relevant monsters
 
 - [ ] [Gloomstalker](https://www.dndbeyond.com/monsters/744314-gloomstalker) 
 - [ ] [Hezrou](https://www.dndbeyond.com/monsters/16922-hezrou) 
 - [ ] [Mammoth](https://www.dndbeyond.com/monsters/16950-mammoth) 
+- [ ] [Moorbounder](https://www.dndbeyond.com/monsters/744323-moorbounder) 
+- [ ] [Bristled Moorbounder](https://www.dndbeyond.com/monsters/744304-bristled-moorbounder) 
 - [ ] [Quasit](https://www.dndbeyond.com/monsters/16988-quasit) 
 - [ ] [Shadow Demon](https://www.dndbeyond.com/monsters/17131-shadow-demon) 
 - [ ] [Skeleton](https://www.dndbeyond.com/monsters/17015-skeleton) 
@@ -109,7 +114,7 @@ cssclasses:
 - [ ] A locked iron box containing 50 gp
 - [ ] A [potion of giant strength (hill)](https://www.dndbeyond.com/magic-items/4706-potion-of-hill-giant-strength) 
 - [ ] A [+1 dagger](https://www.dndbeyond.com/magic-items/5225-dagger-1) inscribed with the name Kierchaly Wastewalker
-- [ ] Curse of the Moon of Ill Omen (disadvantage on ability checks and saving throws for 24 hours)
+- [ ] Curse - Wrath of Ruidus (disadvantage on ability checks and saving throws for 24 hours)
 - [ ] 
 
 %%  %%
