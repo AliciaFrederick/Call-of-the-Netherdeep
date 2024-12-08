@@ -99,7 +99,9 @@ cssclasses:
 	- [ ] **Little Gothby** (lawful neutral, goblin noncombatant)
 	- [ ] **Little Chespa** (chaotic good, goblin noncombatant)
 - [ ] Gaeya Iliera, a neutral good, drow [scout](https://www.dndbeyond.com/monsters/17007-scout) 
-- [ ] 
+- [ ] Tyvak and Moghra Wastewalker (chaotic good, human [berserkers](https://www.dndbeyond.com/monsters/16805-berserker)) 
+- [ ] The Acorn Sisters, Lanata and Robur, are [dryads](https://www.dndbeyond.com/monsters/16849-dryad) 
+- [ ] Two neutral [bugbear chiefs](https://www.dndbeyond.com/monsters/17119-bugbear-chief) guard the wagons 
 
 ##  Choose relevant monsters
 
@@ -128,7 +130,10 @@ cssclasses:
 - [ ] A [potion of giant strength (hill)](https://www.dndbeyond.com/magic-items/4706-potion-of-hill-giant-strength) 
 - [ ] A [+1 dagger](https://www.dndbeyond.com/magic-items/5225-dagger-1) inscribed with the name Kierchaly Wastewalker
 - [ ] Curse - Wrath of Ruidus (disadvantage on ability checks and saving throws for 24 hours)
-- [ ] 
+- [ ] Mastodon kor’rundl - A character who partakes of this food awakens the next morning with 1d10 [temporary hit points](https://www.dndbeyond.com/compendium/rules/basic-rules/combat#TemporaryHitPoints) that last for the next 24 hours 
+- [ ] [+1 battleaxe](https://www.dndbeyond.com/magic-items/4801-battleaxe-1) 
+- [ ] [goggles of night](https://www.dndbeyond.com/magic-items/4648-goggles-of-night) 
+- [ ] [Merchants' Wares](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#MerchantsWares) 
 
 %%  %%
 
