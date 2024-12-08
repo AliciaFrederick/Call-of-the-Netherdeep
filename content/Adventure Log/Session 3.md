@@ -58,14 +58,14 @@ cssclasses:
 - [ ] [After the Festival](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#HeroicQuest) 
 - [ ] Random Encounters
 	- [x] 1. [A Lucky Break](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#ALuckyBreak) 
-	- [ ] 2. [Aurora Watch Patrol](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#AuroraWatchPatrol) 
+	- [x] 2. [Aurora Watch Patrol](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#AuroraWatchPatrol) 
 		- [x] Rest
-		- [ ] Battle
-		- [ ] Lost
-	- [ ] 3. [Crashed Wagon](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#CrashedWagon) 
-	- [ ] 4. [Demonic Carrion](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#DemonicCarrion) 
+		- [x] Battle
+		- [x] Lost
+	- [x] 3. [Crashed Wagon](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#CrashedWagon) 
+	- [x] 4. [Demonic Carrion](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#DemonicCarrion) 
 	- [ ] 5. [Feast for the Eyes](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#FeastfortheEyes) 
-	- [ ] 6. [Ill Omen](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#IllOmen) 
+	- [x] 6. [Ill Omen](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#IllOmen) 
 	- [ ] 7. [Moorbounder Mayhem](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#MoorbounderMayhem) 
 	- [ ] 8. [Roadside Raiders](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#RoadsideRaiders) 
 - [ ] [Rival Roleplay](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#FriendlyorIndifferentRivals) 
