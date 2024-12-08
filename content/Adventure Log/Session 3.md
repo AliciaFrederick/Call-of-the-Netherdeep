@@ -57,23 +57,25 @@ cssclasses:
 
 - [ ] [After the Festival](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#HeroicQuest) 
 - [ ] Random Encounters
-	- [ ] [A Lucky Break](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#ALuckyBreak) 
-	- [ ] [Aurora Watch Patrol](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#AuroraWatchPatrol) 
+	- [ ] 1. [A Lucky Break](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#ALuckyBreak) 
+	- [ ] 2. [Aurora Watch Patrol](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#AuroraWatchPatrol) 
 		- [ ] Rest
 		- [ ] Battle
 		- [ ] Lost
-	- [ ] [Crashed Wagon](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#CrashedWagon) 
-	- [ ] [Demonic Carrion](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#DemonicCarrion) 
-	- [ ] [Feast for the Eyes](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#FeastfortheEyes) 
-	- [ ] [Ill Omen](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#IllOmen) 
-	- [ ] [Moorbounder Mayhem](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#MoorbounderMayhem) 
-	- [ ] [Roadside Raiders](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#RoadsideRaiders) 
+	- [ ] 3. [Crashed Wagon](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#CrashedWagon) 
+	- [ ] 4. [Demonic Carrion](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#DemonicCarrion) 
+	- [ ] 5. [Feast for the Eyes](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#FeastfortheEyes) 
+	- [ ] 6. [Ill Omen](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#IllOmen) 
+	- [ ] 7. [Moorbounder Mayhem](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#MoorbounderMayhem) 
+	- [ ] 8. [Roadside Raiders](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#RoadsideRaiders) 
 - [ ] [Rival Roleplay](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#FriendlyorIndifferentRivals) 
 - [ ] [Emerald Loop Caravan Stop](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#EmeraldLoopCaravanStop) 
-- [ ] [Arrival at Bazzoxan]()
+- [ ] [Arrival at Bazzoxan](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#ArrivalatBazzoxan) 
 
 ##  Define secrets and clues
 
+- [ ] The Jewel of Three Prayers is a Vestige of Divergence
+- [ ] Elder Ushru had a vision about the Jewel 
 - [ ] 
 
 ##  Develop fantastic locations
