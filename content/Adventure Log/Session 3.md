@@ -87,13 +87,17 @@ cssclasses:
 - [ ] [[Dermot Wurder|Dermot]] is concerned for the PCs' well-being
 - [ ] [[Galsariad Ardyth|Galsariad]] wants to learn magical secrets
 - [ ] [[Irvan Wastewalker|Irvan]] is interested in the power of the jewel 
+- [ ] Aurora Watch [veterans](https://www.dndbeyond.com/monsters/17045-veteran) 
+- [ ] Aurora Watch [scouts](https://www.dndbeyond.com/monsters/17007-scout)
 
 ##  Choose relevant monsters
 
-- [ ] 
+- [ ] [Hezrou](https://www.dndbeyond.com/monsters/16922-hezrou) 
+- [ ] [Shadow Demon](https://www.dndbeyond.com/monsters/17131-shadow-demon) 
 
 ##  Select magic item rewards
 
+- [ ] Irvan's ring - silver with a small sapphire, worth 250 gp
 - [ ] 
 
 %%  %%
