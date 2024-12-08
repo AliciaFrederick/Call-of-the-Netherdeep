@@ -12,6 +12,8 @@ cssclasses:
 [Owlbear Rodeo](https://www.owlbear.rodeo/room/BaGN2KPVM902/TheHomeyLeaf)  
 
 %%
+- [ ] TODO
+	- [ ] Ritual for the Luxon service
 - [ ] Starting
 	- [ ] Spotify [music](https://open.spotify.com/album/30CxXNLekWVQzo7xhowwkg) 
 	- [ ] Owlbear rodeo [scene](https://www.owlbear.rodeo/room/EiCy8X2dzjxe/TheDinkyBoat) 
@@ -78,7 +80,8 @@ cssclasses:
 
 ##  Develop fantastic locations
 
-- [ ] [Road to Bazzoxan](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#RoadtoBazzoxan) 
+- [x] [Road to Bazzoxan](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#RoadtoBazzoxan) 
+
 ##  Outline important NPCs
 
 - [ ] [[Ayo Jabe|Ayo]] wants to be part of a grand adventure
