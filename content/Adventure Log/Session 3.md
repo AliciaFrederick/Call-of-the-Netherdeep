@@ -94,10 +94,12 @@ cssclasses:
 
 - [ ] [Gloomstalker](https://www.dndbeyond.com/monsters/744314-gloomstalker) 
 - [ ] [Hezrou](https://www.dndbeyond.com/monsters/16922-hezrou) 
-- [ ] [Shadow Demon](https://www.dndbeyond.com/monsters/17131-shadow-demon) 
+- [ ] [Mammoth](https://www.dndbeyond.com/monsters/16950-mammoth) 
 - [ ] [Quasit](https://www.dndbeyond.com/monsters/16988-quasit) 
-- [ ] [Will-o'-Wisp](https://www.dndbeyond.com/monsters/17060-will-o-wisp) 
+- [ ] [Shadow Demon](https://www.dndbeyond.com/monsters/17131-shadow-demon) 
+- [ ] [Skeleton](https://www.dndbeyond.com/monsters/17015-skeleton) 
 - [ ] [Vrock](https://www.dndbeyond.com/monsters/17047-vrock) 
+- [ ] [Will-o'-Wisp](https://www.dndbeyond.com/monsters/17060-will-o-wisp) 
 
 ##  Select magic item rewards
 
@@ -105,7 +107,10 @@ cssclasses:
 - [ ] 10 temp HP
 - [ ] [Charm of Heroism](https://www.dndbeyond.com/sources/dnd/dmg-2014/other-rewards#CharmOfHeroism) 
 - [ ] A locked iron box containing 50 gp
-- [ ] [potion of giant strength (hill)](https://www.dndbeyond.com/magic-items/4706-potion-of-hill-giant-strength) 
+- [ ] A [potion of giant strength (hill)](https://www.dndbeyond.com/magic-items/4706-potion-of-hill-giant-strength) 
+- [ ] A [+1 dagger](https://www.dndbeyond.com/magic-items/5225-dagger-1) inscribed with the name Kierchaly Wastewalker
+- [ ] Curse of the Moon of Ill Omen (disadvantage on ability checks and saving throws for 24 hours)
+- [ ] 
 
 %%  %%
 
