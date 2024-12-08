@@ -51,7 +51,7 @@ cssclasses:
 ##  Create a strong start
 
 > [!QUOTE] Strong start
-> TBD
+> Daybreak comes with a knock on the door of your room. The voice of Elder Ushru comes through the door. “Travelers? I wish to tell you something of grave import. Will you have a morning meal with me?” He pauses, and then sheepishly adds, “I do have the right room, don’t I?”
 
 ##  Outline potential scenes
 
@@ -80,7 +80,7 @@ cssclasses:
 
 ##  Develop fantastic locations
 
-- [ ] 
+- [ ] [Road to Bazzoxan](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#RoadtoBazzoxan) 
 ##  Outline important NPCs
 
 - [ ] [[Ayo Jabe|Ayo]] wants to be part of a grand adventure
