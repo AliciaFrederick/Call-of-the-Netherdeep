@@ -32,6 +32,9 @@ cssclasses:
 ## Cooldown
 
 - [ ] Star - What is one thing you liked about the session?
+	- Improv with characters
+	- Bell during Luxon ceremony
+	- Combat
 - [ ] Wish - What is something you want for future sessions?
 - [ ] Schedule next session
 
@@ -92,7 +95,7 @@ cssclasses:
 - [x] [[Ayo Jabe|Ayo]] wants to be part of a grand adventure
 - [x] [[Dermot Wurder|Dermot]] is concerned for the PCs' well-being
 - [x] [[Galsariad Ardyth|Galsariad]] wants to learn magical secrets
-- [ ] [[Irvan Wastewalker|Irvan]] is interested in the power of the jewel 
+- [-] [[Irvan Wastewalker|Irvan]] is interested in the power of the jewel 
 - [ ] Aurora Watch patrol
 	- [ ] 6 drow, human, and orc [veteran](https://www.dndbeyond.com/monsters/17045-veteran) soldiers
 	- [ ] 1 drow [scout](https://www.dndbeyond.com/monsters/17007-scout) cook
