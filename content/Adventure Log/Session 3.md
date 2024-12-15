@@ -79,9 +79,9 @@ cssclasses:
 
 ##  Define secrets and clues
 
-- [ ] Elder Ushru had a vision about the golden amulet
-- [ ] The Jewel of Three Prayers is a Vestige of Divergence, an enchanted relic from the time of the Calamity
-- [ ] There is no place in Xhorhas where the memory of the Calamity lingers more strongly than in Bazzoxan
+- [x] Elder Ushru had a vision about the golden amulet
+- [x] The Jewel of Three Prayers is a Vestige of Divergence, an enchanted relic from the time of the Calamity
+- [x] There is no place in Xhorhas where the memory of the Calamity lingers more strongly than in Bazzoxan
 
 ##  Develop fantastic locations
 
