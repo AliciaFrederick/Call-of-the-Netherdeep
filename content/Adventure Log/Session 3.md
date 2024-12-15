@@ -59,9 +59,10 @@ cssclasses:
 
 ##  Outline potential scenes
 
-- ["] [After the Festival](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#HeroicQuest) 
-- [ ] Temple of the Luxon - Sunrise service ([Music](https://open.spotify.com/track/0CciEmtEhsonZQsSvnkEoM?si=26dc19900a8849d6)) 
-- [!] R2c. [Aurora Watch Patrol](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#AuroraWatchPatrol) - Lost
+- ["] [After the Festival](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#HeroicQuest)  ([Music](https://open.spotify.com/track/0A6ZCAv9N2sjqVBJdilH41?si=f446a945776141ac)) 
+- [ ] Temple of the Luxon - Sunrise service ([Music](https://open.spotify.com/track/0pJqL2QSmybnABaFFTJtCs?si=e2f2fc83d24b4e2f))
+- [ ] On the road ([Music](https://open.spotify.com/track/1RUvr6NQlBV6Tz6sRAGt37?si=27c3621a03164aa8)) 
+- [!] R2c. [Aurora Watch Patrol](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#AuroraWatchPatrol) - Lost ([Music](https://open.spotify.com/track/0CciEmtEhsonZQsSvnkEoM?si=26dc19900a8849d6)) 
 - ["] R7. [Moorbounder Mayhem](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#MoorbounderMayhem) 
 - ["] R2a. [Aurora Watch Patrol](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#AuroraWatchPatrol) - Rest ([Music](https://open.spotify.com/track/0ggw2MNONhaQ8VAfEq7n2R?si=0bf584713fce4c95)) 
 - ["] R8. [Roadside Raiders](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#RoadsideRaiders) 
