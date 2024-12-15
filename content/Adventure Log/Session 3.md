@@ -14,7 +14,7 @@ cssclasses:
 %%
 - [ ] TODO
 	- [x] Print monster stat blocks
-	- [ ] Print magic item rewards
+	- [-] Print magic item rewards
 	- [ ] Ritual for the Luxon service
 - [ ] Starting
 	- [ ] Spotify [music](https://open.spotify.com/album/30CxXNLekWVQzo7xhowwkg) 
