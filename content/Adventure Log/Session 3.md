@@ -108,18 +108,18 @@ cssclasses:
 
 ##  Choose relevant monsters
 
-- [ ] Friendly
-	- [ ] [berserkers](https://www.dndbeyond.com/monsters/16805-berserker) 
-	- [ ] [druid](https://www.dndbeyond.com/monsters/16848-druid) 
-	- [ ] [dryads](https://www.dndbeyond.com/monsters/16849-dryad) 
-	- [ ] [bugbear chiefs](https://www.dndbeyond.com/monsters/17119-bugbear-chief) 
-	- [ ] [guard](https://www.dndbeyond.com/monsters/16915-guard) 
-	- [ ] [scout](https://www.dndbeyond.com/monsters/17007-scout) 
-	- [ ] [Veteran](https://www.dndbeyond.com/monsters/17045-veteran) 
-- [ ] Neutral
-	- [ ] [Riding Horse](https://www.dndbeyond.com/monsters/16997-riding-horse) 
-	- [ ] [Warhorse](https://www.dndbeyond.com/monsters/17049-warhorse) 
-- [ ] Hostile
+- [x] Friendly
+	- [x] [berserkers](https://www.dndbeyond.com/monsters/16805-berserker) 
+	- [x] [druid](https://www.dndbeyond.com/monsters/16848-druid) 
+	- [x] [dryads](https://www.dndbeyond.com/monsters/16849-dryad) 
+	- [x] [bugbear chiefs](https://www.dndbeyond.com/monsters/17119-bugbear-chief) 
+	- [x] [guard](https://www.dndbeyond.com/monsters/16915-guard) 
+	- [x] [scout](https://www.dndbeyond.com/monsters/17007-scout) 
+	- [x] [Veteran](https://www.dndbeyond.com/monsters/17045-veteran) 
+- [x] Neutral
+	- [x] [Riding Horse](https://www.dndbeyond.com/monsters/16997-riding-horse) 
+	- [x] [Warhorse](https://www.dndbeyond.com/monsters/17049-warhorse) 
+- [x] Hostile
 	- [x] [Bandit Captain](https://www.dndbeyond.com/monsters/16799-bandit-captain) 
 	- [x] [Bandit](https://www.dndbeyond.com/monsters/16798-bandit) 
 	- [x] [Bristled Moorbounder](https://www.dndbeyond.com/monsters/744304-bristled-moorbounder) 
