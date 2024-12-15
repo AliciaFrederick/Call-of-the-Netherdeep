@@ -72,7 +72,7 @@ cssclasses:
 - [!] R5. [Feast for the Eyes](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#FeastfortheEyes) 
 - [!] R4. [Demonic Carrion](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#DemonicCarrion) 
 - ["] [Rival Roleplay](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#FriendlyorIndifferentRivals) 
-- ["] [Emerald Loop Caravan Stop](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#EmeraldLoopCaravanStop) 
+- ["] [Emerald Loop Caravan Stop](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#EmeraldLoopCaravanStop) ([Music](https://open.spotify.com/track/0A6ZCAv9N2sjqVBJdilH41?si=f446a945776141ac)) 
 - ["] [Arrival at Bazzoxan](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#ArrivalatBazzoxan) ([Music](https://open.spotify.com/track/64m16hoCayvjoz8xhELkli?si=fef6dfd648a942c3))
 
 ##  Define secrets and clues
