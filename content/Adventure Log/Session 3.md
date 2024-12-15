@@ -116,6 +116,9 @@ cssclasses:
 	- [ ] [guard](https://www.dndbeyond.com/monsters/16915-guard) 
 	- [ ] [scout](https://www.dndbeyond.com/monsters/17007-scout) 
 	- [ ] [Veteran](https://www.dndbeyond.com/monsters/17045-veteran) 
+- [ ] Neutral
+	- [ ] [Riding Horse](https://www.dndbeyond.com/monsters/16997-riding-horse) 
+	- [ ] [Warhorse](https://www.dndbeyond.com/monsters/17049-warhorse) 
 - [ ] Hostile
 	- [ ] [Bandit Captain](https://www.dndbeyond.com/monsters/16799-bandit-captain) 
 	- [ ] [Bandit](https://www.dndbeyond.com/monsters/16798-bandit) 
@@ -125,12 +128,10 @@ cssclasses:
 	- [ ] [Mammoth](https://www.dndbeyond.com/monsters/16950-mammoth) 
 	- [ ] [Moorbounder](https://www.dndbeyond.com/monsters/744323-moorbounder) 
 	- [ ] [Quasit](https://www.dndbeyond.com/monsters/16988-quasit) 
-	- [ ] [Riding Horse](https://www.dndbeyond.com/monsters/16997-riding-horse) 
 	- [ ] [Shadow Demon](https://www.dndbeyond.com/monsters/17131-shadow-demon) 
 	- [ ] [Skeleton](https://www.dndbeyond.com/monsters/17015-skeleton) 
 	- [ ] [Vrock](https://www.dndbeyond.com/monsters/17047-vrock) 
 	- [ ] [Will-o'-Wisp](https://www.dndbeyond.com/monsters/17060-will-o-wisp) 
-	- [ ] [Warhorse](https://www.dndbeyond.com/monsters/17049-warhorse) 
 
 ##  Select magic item rewards
 
