@@ -17,7 +17,7 @@ cssclasses:
 	- [-] Print magic item rewards
 	- [ ] Ritual for the Luxon service
 - [ ] Starting
-	- [ ] Spotify [music](https://open.spotify.com/album/30CxXNLekWVQzo7xhowwkg) 
+	- [ ] Spotify [Chapter 2 playlist](https://open.spotify.com/playlist/6HnWPpY8A8eMEbswmY6XD9?si=3U0I1KN9Q86a8mGRhJdj4g) 
 	- [ ] Owlbear rodeo [scene](https://www.owlbear.rodeo/room/EiCy8X2dzjxe/TheDinkyBoat) 
 	- [ ] [D&D Beyond](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#FestivalofMerit) adventure
 	- [ ] [Discord](https://discord.com/channels/@me/1289679259560050811) chat
