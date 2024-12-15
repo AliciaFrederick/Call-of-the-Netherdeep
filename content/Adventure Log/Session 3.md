@@ -13,7 +13,7 @@ cssclasses:
 
 %%
 - [ ] TODO
-	- [ ] Print monster stat blocks
+	- [x] Print monster stat blocks
 	- [ ] Print magic item rewards
 	- [ ] Ritual for the Luxon service
 - [ ] Starting
