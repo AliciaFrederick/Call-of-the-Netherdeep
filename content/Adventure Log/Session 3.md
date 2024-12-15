@@ -124,14 +124,14 @@ cssclasses:
 	- [ ] [Bandit](https://www.dndbeyond.com/monsters/16798-bandit) 
 	- [ ] [Bristled Moorbounder](https://www.dndbeyond.com/monsters/744304-bristled-moorbounder) 
 	- [ ] [Gloomstalker](https://www.dndbeyond.com/monsters/744314-gloomstalker) 
-	- [ ] [Hezrou](https://www.dndbeyond.com/monsters/16922-hezrou) 
+	- [x] [Hezrou](https://www.dndbeyond.com/monsters/16922-hezrou) 
 	- [ ] [Mammoth](https://www.dndbeyond.com/monsters/16950-mammoth) 
 	- [ ] [Moorbounder](https://www.dndbeyond.com/monsters/744323-moorbounder) 
-	- [ ] [Quasit](https://www.dndbeyond.com/monsters/16988-quasit) 
-	- [ ] [Shadow Demon](https://www.dndbeyond.com/monsters/17131-shadow-demon) 
-	- [ ] [Skeleton](https://www.dndbeyond.com/monsters/17015-skeleton) 
-	- [ ] [Vrock](https://www.dndbeyond.com/monsters/17047-vrock) 
-	- [ ] [Will-o'-Wisp](https://www.dndbeyond.com/monsters/17060-will-o-wisp) 
+	- [x] [Quasit](https://www.dndbeyond.com/monsters/16988-quasit) 
+	- [x] [Shadow Demon](https://www.dndbeyond.com/monsters/17131-shadow-demon) 
+	- [x] [Skeleton](https://www.dndbeyond.com/monsters/17015-skeleton) 
+	- [x] [Vrock](https://www.dndbeyond.com/monsters/17047-vrock) 
+	- [x] [Will-o'-Wisp](https://www.dndbeyond.com/monsters/17060-will-o-wisp) 
 
 ##  Select magic item rewards
 
