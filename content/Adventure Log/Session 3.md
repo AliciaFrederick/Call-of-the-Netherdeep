@@ -62,9 +62,9 @@ cssclasses:
 - [x] [After the Festival](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#HeroicQuest) ([The Hills of Attika](https://open.spotify.com/track/0A6ZCAv9N2sjqVBJdilH41?si=f446a945776141ac)) 
 - [x] Temple of the Luxon - Sunrise service ([Astral Distance](https://open.spotify.com/track/0pJqL2QSmybnABaFFTJtCs?si=e2f2fc83d24b4e2f))
 - [x] On the road ([Travelling the Road to Bazzoxan](https://open.spotify.com/track/1RUvr6NQlBV6Tz6sRAGt37?si=27c3621a03164aa8)) 
-- [ ] Night watch alone ([Night on Arakkis](https://open.spotify.com/track/0ggw2MNONhaQ8VAfEq7n2R?si=0bf584713fce4c95) or [Align the Stars](https://open.spotify.com/track/7gLlmDDvaQySzQULZTezjm?si=5cc77900c618400e)) 
-- ["] [Rival Roleplay](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#FriendlyorIndifferentRivals) ([Giza Port](https://open.spotify.com/track/5kO7SqxzNdeP1Nz1jHtjy7?si=bcf6732dff26445a)) 
-- [!] R2c. [Aurora Watch Patrol](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#AuroraWatchPatrol) - Lost ([The Luxon](https://open.spotify.com/track/0CciEmtEhsonZQsSvnkEoM?si=26dc19900a8849d6)) 
+- [x] Night watch ([Night on Arakkis](https://open.spotify.com/track/0ggw2MNONhaQ8VAfEq7n2R?si=0bf584713fce4c95) or [Align the Stars](https://open.spotify.com/track/7gLlmDDvaQySzQULZTezjm?si=5cc77900c618400e)) 
+- [x] [Rival Roleplay](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#FriendlyorIndifferentRivals) ([Giza Port](https://open.spotify.com/track/5kO7SqxzNdeP1Nz1jHtjy7?si=bcf6732dff26445a)) 
+- [x] R2c. [Aurora Watch Patrol](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#AuroraWatchPatrol) - Lost ([The Luxon](https://open.spotify.com/track/0CciEmtEhsonZQsSvnkEoM?si=26dc19900a8849d6)) 
 - ["] R7. [Moorbounder Mayhem](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#MoorbounderMayhem) ([Trouble at the Docks](https://open.spotify.com/track/1V2kQgbkaUakExHNuVrFD4?si=330567368a2b4195)) 
 - ["] R2a. [Aurora Watch Patrol](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#AuroraWatchPatrol) - Rest ([The Hills of Attika](https://open.spotify.com/track/0A6ZCAv9N2sjqVBJdilH41?si=f446a945776141ac)) 
 - ["] R8. [Roadside Raiders](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#RoadsideRaiders) ([Harvester Attack](https://open.spotify.com/track/11B6dTrdv0oHCJNkvNLYRp?si=c37b829c34384720)) 
@@ -89,9 +89,9 @@ cssclasses:
 
 ##  Outline important NPCs
 
-- [ ] [[Ayo Jabe|Ayo]] wants to be part of a grand adventure
-- [ ] [[Dermot Wurder|Dermot]] is concerned for the PCs' well-being
-- [ ] [[Galsariad Ardyth|Galsariad]] wants to learn magical secrets
+- [x] [[Ayo Jabe|Ayo]] wants to be part of a grand adventure
+- [x] [[Dermot Wurder|Dermot]] is concerned for the PCs' well-being
+- [x] [[Galsariad Ardyth|Galsariad]] wants to learn magical secrets
 - [ ] [[Irvan Wastewalker|Irvan]] is interested in the power of the jewel 
 - [ ] Aurora Watch patrol
 	- [ ] 6 drow, human, and orc [veteran](https://www.dndbeyond.com/monsters/17045-veteran) soldiers
