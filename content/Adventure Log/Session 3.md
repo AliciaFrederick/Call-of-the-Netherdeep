@@ -62,7 +62,7 @@ cssclasses:
 - ["] [After the Festival](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#HeroicQuest) ([The Hills of Attika](https://open.spotify.com/track/0A6ZCAv9N2sjqVBJdilH41?si=f446a945776141ac)) 
 - [ ] Temple of the Luxon - Sunrise service ([Astral Distance](https://open.spotify.com/track/0pJqL2QSmybnABaFFTJtCs?si=e2f2fc83d24b4e2f))
 - [ ] On the road ([Travelling the Road to Bazzoxan](https://open.spotify.com/track/1RUvr6NQlBV6Tz6sRAGt37?si=27c3621a03164aa8)) 
-- [ ] Night watch alone ([Night on Arakkis](https://open.spotify.com/track/0ggw2MNONhaQ8VAfEq7n2R?si=0bf584713fce4c95)) 
+- [ ] Night watch alone ([Night on Arakkis](https://open.spotify.com/track/0ggw2MNONhaQ8VAfEq7n2R?si=0bf584713fce4c95) or [Align the Stars](https://open.spotify.com/track/7gLlmDDvaQySzQULZTezjm?si=5cc77900c618400e)) 
 - [!] R2c. [Aurora Watch Patrol](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#AuroraWatchPatrol) - Lost ([The Luxon](https://open.spotify.com/track/0CciEmtEhsonZQsSvnkEoM?si=26dc19900a8849d6)) 
 - ["] R7. [Moorbounder Mayhem](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#MoorbounderMayhem) ([Trouble at the Docks](https://open.spotify.com/track/1V2kQgbkaUakExHNuVrFD4?si=330567368a2b4195)) 
 - ["] R2a. [Aurora Watch Patrol](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#AuroraWatchPatrol) - Rest ([The Hills of Attika](https://open.spotify.com/track/0A6ZCAv9N2sjqVBJdilH41?si=f446a945776141ac)) 
