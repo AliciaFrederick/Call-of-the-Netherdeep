@@ -61,19 +61,19 @@ cssclasses:
 
 - ["] [After the Festival](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#HeroicQuest) 
 - [ ] Temple of the Luxon - Sunrise service ([Music](https://open.spotify.com/track/0CciEmtEhsonZQsSvnkEoM?si=26dc19900a8849d6)) 
-- [?] R1. [A Lucky Break](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#ALuckyBreak) 
-- ["] R2a. [Aurora Watch Patrol](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#AuroraWatchPatrol) - Rest
-- [!] R2b. [Aurora Watch Patrol](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#AuroraWatchPatrol) - Battle ([Music](https://open.spotify.com/track/7liDahqqNPsgzMyz1zFWgw?si=7e832d900c3247ab)) 
 - [!] R2c. [Aurora Watch Patrol](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#AuroraWatchPatrol) - Lost
-- [!] R3. [Crashed Wagon](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#CrashedWagon) 
-- [!] R4. [Demonic Carrion](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#DemonicCarrion) 
-- [!] R5. [Feast for the Eyes](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#FeastfortheEyes) 
-- [?] R6. [Ill Omen](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#IllOmen) 
 - ["] R7. [Moorbounder Mayhem](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#MoorbounderMayhem) 
+- ["] R2a. [Aurora Watch Patrol](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#AuroraWatchPatrol) - Rest
 - ["] R8. [Roadside Raiders](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#RoadsideRaiders) 
+- [!] R2b. [Aurora Watch Patrol](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#AuroraWatchPatrol) - Battle ([Music](https://open.spotify.com/track/7liDahqqNPsgzMyz1zFWgw?si=7e832d900c3247ab)) 
+- [?] R6. [Ill Omen](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#IllOmen) 
+- [?] R1. [A Lucky Break](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#ALuckyBreak) 
+- [!] R3. [Crashed Wagon](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#CrashedWagon) 
+- [!] R5. [Feast for the Eyes](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#FeastfortheEyes) 
+- [!] R4. [Demonic Carrion](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#DemonicCarrion) 
 - ["] [Rival Roleplay](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#FriendlyorIndifferentRivals) 
 - ["] [Emerald Loop Caravan Stop](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#EmeraldLoopCaravanStop) 
-- ["] [Arrival at Bazzoxan](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#ArrivalatBazzoxan) 
+- ["] [Arrival at Bazzoxan](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#ArrivalatBazzoxan) ([Music](https://open.spotify.com/track/64m16hoCayvjoz8xhELkli?si=fef6dfd648a942c3))
 
 ##  Define secrets and clues
 
