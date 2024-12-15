@@ -14,6 +14,7 @@ cssclasses:
 %%
 - [ ] TODO
 	- [ ] Print monster stat blocks
+	- [ ] Print magic item rewards
 	- [ ] Ritual for the Luxon service
 - [ ] Starting
 	- [ ] Spotify [music](https://open.spotify.com/album/30CxXNLekWVQzo7xhowwkg) 
@@ -107,27 +108,29 @@ cssclasses:
 
 ##  Choose relevant monsters
 
-- [ ] [Bandit Captain](https://www.dndbeyond.com/monsters/16799-bandit-captain) 
-- [ ] [Bandit](https://www.dndbeyond.com/monsters/16798-bandit) 
-- [ ] [berserkers](https://www.dndbeyond.com/monsters/16805-berserker) 
-- [ ] [Bristled Moorbounder](https://www.dndbeyond.com/monsters/744304-bristled-moorbounder) 
-- [ ] [druid](https://www.dndbeyond.com/monsters/16848-druid) 
-- [ ] [dryads](https://www.dndbeyond.com/monsters/16849-dryad) 
-- [ ] [bugbear chiefs](https://www.dndbeyond.com/monsters/17119-bugbear-chief) 
-- [ ] [Gloomstalker](https://www.dndbeyond.com/monsters/744314-gloomstalker) 
-- [ ] [guard](https://www.dndbeyond.com/monsters/16915-guard) 
-- [ ] [Hezrou](https://www.dndbeyond.com/monsters/16922-hezrou) 
-- [ ] [Mammoth](https://www.dndbeyond.com/monsters/16950-mammoth) 
-- [ ] [Moorbounder](https://www.dndbeyond.com/monsters/744323-moorbounder) 
-- [ ] [Quasit](https://www.dndbeyond.com/monsters/16988-quasit) 
-- [ ] [Riding Horse](https://www.dndbeyond.com/monsters/16997-riding-horse) 
-- [ ] [scout](https://www.dndbeyond.com/monsters/17007-scout) 
-- [ ] [Shadow Demon](https://www.dndbeyond.com/monsters/17131-shadow-demon) 
-- [ ] [Skeleton](https://www.dndbeyond.com/monsters/17015-skeleton) 
-- [ ] [Veteran](https://www.dndbeyond.com/monsters/17045-veteran) 
-- [ ] [Vrock](https://www.dndbeyond.com/monsters/17047-vrock) 
-- [ ] [Will-o'-Wisp](https://www.dndbeyond.com/monsters/17060-will-o-wisp) 
-- [ ] [Warhorse](https://www.dndbeyond.com/monsters/17049-warhorse) 
+- [ ] Friendly
+	- [ ] [berserkers](https://www.dndbeyond.com/monsters/16805-berserker) 
+	- [ ] [druid](https://www.dndbeyond.com/monsters/16848-druid) 
+	- [ ] [dryads](https://www.dndbeyond.com/monsters/16849-dryad) 
+	- [ ] [bugbear chiefs](https://www.dndbeyond.com/monsters/17119-bugbear-chief) 
+	- [ ] [guard](https://www.dndbeyond.com/monsters/16915-guard) 
+	- [ ] [scout](https://www.dndbeyond.com/monsters/17007-scout) 
+	- [ ] [Veteran](https://www.dndbeyond.com/monsters/17045-veteran) 
+- [ ] Hostile
+	- [ ] [Bandit Captain](https://www.dndbeyond.com/monsters/16799-bandit-captain) 
+	- [ ] [Bandit](https://www.dndbeyond.com/monsters/16798-bandit) 
+	- [ ] [Bristled Moorbounder](https://www.dndbeyond.com/monsters/744304-bristled-moorbounder) 
+	- [ ] [Gloomstalker](https://www.dndbeyond.com/monsters/744314-gloomstalker) 
+	- [ ] [Hezrou](https://www.dndbeyond.com/monsters/16922-hezrou) 
+	- [ ] [Mammoth](https://www.dndbeyond.com/monsters/16950-mammoth) 
+	- [ ] [Moorbounder](https://www.dndbeyond.com/monsters/744323-moorbounder) 
+	- [ ] [Quasit](https://www.dndbeyond.com/monsters/16988-quasit) 
+	- [ ] [Riding Horse](https://www.dndbeyond.com/monsters/16997-riding-horse) 
+	- [ ] [Shadow Demon](https://www.dndbeyond.com/monsters/17131-shadow-demon) 
+	- [ ] [Skeleton](https://www.dndbeyond.com/monsters/17015-skeleton) 
+	- [ ] [Vrock](https://www.dndbeyond.com/monsters/17047-vrock) 
+	- [ ] [Will-o'-Wisp](https://www.dndbeyond.com/monsters/17060-will-o-wisp) 
+	- [ ] [Warhorse](https://www.dndbeyond.com/monsters/17049-warhorse) 
 
 ##  Select magic item rewards
 
