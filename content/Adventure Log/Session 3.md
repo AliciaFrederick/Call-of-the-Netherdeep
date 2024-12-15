@@ -73,7 +73,7 @@ cssclasses:
 - [!] R3. [Crashed Wagon](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#CrashedWagon) ([Deathwalker's Ward](https://open.spotify.com/track/5lrOBrWz0x9v8VBVrFW2Xr?si=29be5351a954406e)) 
 - [!] R5. [Feast for the Eyes](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#FeastfortheEyes) ([Umbra Hills](https://open.spotify.com/track/00IvCLIanGF6RvTdaOqQKY?si=fdedc286ef1d4ef9)) 
 - [!] R4. [Demonic Carrion](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#DemonicCarrion) ([Trouble at the Docks](https://open.spotify.com/track/1V2kQgbkaUakExHNuVrFD4?si=330567368a2b4195)) 
-- ["] [Rival Roleplay](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#FriendlyorIndifferentRivals) 
+- ["] [Rival Roleplay](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#FriendlyorIndifferentRivals) ([Giza Port](https://open.spotify.com/track/5kO7SqxzNdeP1Nz1jHtjy7?si=bcf6732dff26445a)) 
 - ["] [Emerald Loop Caravan Stop](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#EmeraldLoopCaravanStop) ([The Hills of Attika](https://open.spotify.com/track/0A6ZCAv9N2sjqVBJdilH41?si=f446a945776141ac)) 
 - ["] [Arrival at Bazzoxan](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#ArrivalatBazzoxan) ([At the Gates of Bazzoxan](https://open.spotify.com/track/64m16hoCayvjoz8xhELkli?si=fef6dfd648a942c3))
 
