@@ -59,23 +59,23 @@ cssclasses:
 
 ##  Outline potential scenes
 
-- ["] [After the Festival](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#HeroicQuest)  ([Music](https://open.spotify.com/track/0A6ZCAv9N2sjqVBJdilH41?si=f446a945776141ac)) 
-- [ ] Temple of the Luxon - Sunrise service ([Music](https://open.spotify.com/track/0pJqL2QSmybnABaFFTJtCs?si=e2f2fc83d24b4e2f))
-- [ ] On the road ([Music](https://open.spotify.com/track/1RUvr6NQlBV6Tz6sRAGt37?si=27c3621a03164aa8)) 
-- [ ] Night watch alone ([Music](https://open.spotify.com/track/0ggw2MNONhaQ8VAfEq7n2R?si=0bf584713fce4c95)) 
-- [!] R2c. [Aurora Watch Patrol](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#AuroraWatchPatrol) - Lost ([Music](https://open.spotify.com/track/0CciEmtEhsonZQsSvnkEoM?si=26dc19900a8849d6)) 
-- ["] R7. [Moorbounder Mayhem](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#MoorbounderMayhem) ([Music](https://open.spotify.com/track/1V2kQgbkaUakExHNuVrFD4?si=330567368a2b4195)) 
-- ["] R2a. [Aurora Watch Patrol](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#AuroraWatchPatrol) - Rest ([Music](https://open.spotify.com/track/0A6ZCAv9N2sjqVBJdilH41?si=f446a945776141ac)) 
+- ["] [After the Festival](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#HeroicQuest) ([The Hills of Attika](https://open.spotify.com/track/0A6ZCAv9N2sjqVBJdilH41?si=f446a945776141ac)) 
+- [ ] Temple of the Luxon - Sunrise service ([Astral Distance](https://open.spotify.com/track/0pJqL2QSmybnABaFFTJtCs?si=e2f2fc83d24b4e2f))
+- [ ] On the road ([Travelling the Road to Bazzoxan](https://open.spotify.com/track/1RUvr6NQlBV6Tz6sRAGt37?si=27c3621a03164aa8)) 
+- [ ] Night watch alone ([Night on Arakkis](https://open.spotify.com/track/0ggw2MNONhaQ8VAfEq7n2R?si=0bf584713fce4c95)) 
+- [!] R2c. [Aurora Watch Patrol](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#AuroraWatchPatrol) - Lost ([The Luxon](https://open.spotify.com/track/0CciEmtEhsonZQsSvnkEoM?si=26dc19900a8849d6)) 
+- ["] R7. [Moorbounder Mayhem](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#MoorbounderMayhem) ([Trouble at the Docks](https://open.spotify.com/track/1V2kQgbkaUakExHNuVrFD4?si=330567368a2b4195)) 
+- ["] R2a. [Aurora Watch Patrol](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#AuroraWatchPatrol) - Rest ([The Hills of Attika](https://open.spotify.com/track/0A6ZCAv9N2sjqVBJdilH41?si=f446a945776141ac)) 
 - ["] R8. [Roadside Raiders](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#RoadsideRaiders) ([Harvester Attack](https://open.spotify.com/track/11B6dTrdv0oHCJNkvNLYRp?si=c37b829c34384720)) 
 - [!] R2b. [Aurora Watch Patrol](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#AuroraWatchPatrol) - Battle ([The Aurora Watch](https://open.spotify.com/track/7liDahqqNPsgzMyz1zFWgw?si=7e832d900c3247ab)) 
 - [?] R6. [Ill Omen](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#IllOmen) ([Premonition](https://open.spotify.com/track/1XzPMXMPQRPqpPs3s8UBta?si=4beff45357f14017)) 
-- [?] R1. [A Lucky Break](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#ALuckyBreak) 
+- [?] R1. [A Lucky Break](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#ALuckyBreak) ([Reefs of Darktow](https://open.spotify.com/track/61EYzhHZ464cYSgHWmPi9Y?si=5a51a7198baf482e)) 
 - [!] R3. [Crashed Wagon](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#CrashedWagon) 
 - [!] R5. [Feast for the Eyes](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#FeastfortheEyes) 
 - [!] R4. [Demonic Carrion](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#DemonicCarrion) 
 - ["] [Rival Roleplay](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#FriendlyorIndifferentRivals) 
-- ["] [Emerald Loop Caravan Stop](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#EmeraldLoopCaravanStop) ([Music](https://open.spotify.com/track/0A6ZCAv9N2sjqVBJdilH41?si=f446a945776141ac)) 
-- ["] [Arrival at Bazzoxan](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#ArrivalatBazzoxan) ([Music](https://open.spotify.com/track/64m16hoCayvjoz8xhELkli?si=fef6dfd648a942c3))
+- ["] [Emerald Loop Caravan Stop](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#EmeraldLoopCaravanStop) ([The Hills of Attika](https://open.spotify.com/track/0A6ZCAv9N2sjqVBJdilH41?si=f446a945776141ac)) 
+- ["] [Arrival at Bazzoxan](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#ArrivalatBazzoxan) ([At the Gates of Bazzoxan](https://open.spotify.com/track/64m16hoCayvjoz8xhELkli?si=fef6dfd648a942c3))
 
 ##  Define secrets and clues
 
