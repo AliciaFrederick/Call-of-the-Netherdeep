@@ -13,6 +13,7 @@ cssclasses:
 
 %%
 - [ ] TODO
+	- [ ] Print monster stat blocks
 	- [ ] Ritual for the Luxon service
 - [ ] Starting
 	- [ ] Spotify [music](https://open.spotify.com/album/30CxXNLekWVQzo7xhowwkg) 
@@ -117,6 +118,7 @@ cssclasses:
 - [ ] [Riding Horse](https://www.dndbeyond.com/monsters/16997-riding-horse) 
 - [ ] [Shadow Demon](https://www.dndbeyond.com/monsters/17131-shadow-demon) 
 - [ ] [Skeleton](https://www.dndbeyond.com/monsters/17015-skeleton) 
+- [ ] [Veteran](https://www.dndbeyond.com/monsters/17045-veteran)
 - [ ] [Vrock](https://www.dndbeyond.com/monsters/17047-vrock) 
 - [ ] [Will-o'-Wisp](https://www.dndbeyond.com/monsters/17060-will-o-wisp) 
 - [ ] [Warhorse](https://www.dndbeyond.com/monsters/17049-warhorse) 
