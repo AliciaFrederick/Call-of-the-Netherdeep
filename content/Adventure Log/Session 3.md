@@ -63,7 +63,7 @@ cssclasses:
 - [ ] Temple of the Luxon - Sunrise service ([Music](https://open.spotify.com/track/0CciEmtEhsonZQsSvnkEoM?si=26dc19900a8849d6)) 
 - [!] R2c. [Aurora Watch Patrol](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#AuroraWatchPatrol) - Lost
 - ["] R7. [Moorbounder Mayhem](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#MoorbounderMayhem) 
-- ["] R2a. [Aurora Watch Patrol](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#AuroraWatchPatrol) - Rest
+- ["] R2a. [Aurora Watch Patrol](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#AuroraWatchPatrol) - Rest ([Music](https://open.spotify.com/track/0ggw2MNONhaQ8VAfEq7n2R?si=0bf584713fce4c95)) 
 - ["] R8. [Roadside Raiders](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#RoadsideRaiders) 
 - [!] R2b. [Aurora Watch Patrol](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#AuroraWatchPatrol) - Battle ([Music](https://open.spotify.com/track/7liDahqqNPsgzMyz1zFWgw?si=7e832d900c3247ab)) 
 - [?] R6. [Ill Omen](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#IllOmen) 
