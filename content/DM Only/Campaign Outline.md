@@ -36,8 +36,8 @@ Example - https://slyflourish.notion.site/Rime-of-the-Frostmaiden-1c8e3de45d244c
 ## Act 1: Jigow (Chapter 1)
 
 - [x] The characters compete in the Festival of Merit
-- [ ] The characters race the rivals to find the Emerald Eye (and the dormant Jewel of Three Prayers) at the Prayer Site of Sehanine
-- [ ] LEVEL 4
+- [x] The characters race the rivals to find the Emerald Eye (and the dormant Jewel of Three Prayers) at the Prayer Site of Sehanine
+- [x] LEVEL 4
 
 ## Act 2: Awakening the Jewel (Chapter 2 & 3)
 
