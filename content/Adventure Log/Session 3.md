@@ -35,9 +35,9 @@ cssclasses:
 	- Improv with characters
 	- Bell during Luxon ceremony
 	- Combat
-- [ ] Wish - What is something you want for future sessions?
+- [x] Wish - What is something you want for future sessions?
 	- Soundboard - [Syrinscape](https://syrinscape.com/)? 
-- [ ] Schedule next session
+- [x] Schedule next session
 
 %%  %%
 
