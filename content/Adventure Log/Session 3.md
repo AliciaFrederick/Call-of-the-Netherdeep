@@ -36,7 +36,7 @@ cssclasses:
 	- Bell during Luxon ceremony
 	- Combat
 - [ ] Wish - What is something you want for future sessions?
-	- Soundboard - Sirenscape?
+	- Soundboard - [Syrinscape](https://syrinscape.com/)? 
 - [ ] Schedule next session
 
 %%  %%
