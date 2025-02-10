@@ -59,8 +59,12 @@ cssclasses:
 - [ ] [[Chapter 3 - Bazzoxan#Bazzoxan Scenes|Bazzoxan Scenes]] 
 - [ ] [[Chapter 3 - Bazzoxan#Sacrifice Engines|Sacrifice Engines]] 
 - [ ] [[Chapter 3 - Bazzoxan#B1 Gate of Bazzoxan]] 
-- [ ] [[Chapter 3 - Bazzoxan#B2 Crematorium]]
-- [ ] 
+- [ ] [[Chapter 3 - Bazzoxan#B2 Crematorium]] 
+- [ ] [[Chapter 3 - Bazzoxan#B3 Infirmary]] 
+- [ ] [[Chapter 3 - Bazzoxan#B4 Gatehold Barracks]] 
+- [ ] [[Chapter 3 - Bazzoxan#B5 Dilapidated Temple]] 
+- [ ] [[Chapter 3 - Bazzoxan#B6 Wall of the Unforgotten]] 
+- [ ] [[Chapter 3 - Bazzoxan#B7 The Ready Room]] 
 
 ##  Define secrets and clues
 
