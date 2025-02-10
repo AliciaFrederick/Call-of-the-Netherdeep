@@ -1917,6 +1917,8 @@ At will: *dancing lights*
 
 To the people of Bazzoxan, Verin is a beacon of hope amid the darkness that shrouds the town. But the weight of responsibility colors Verin's otherwise bright and youthful demeanor with melancholy. He cares about the town he has sworn to protect, but he is weary of the incessant threat posed by the denizens of the Betrayers' Rise.
 
+![[Pasted image 20250209235845.png]]
+
 
 ## Xot
 *Medium Humanoid (Goliath), any alignment*

@@ -69,6 +69,7 @@ cssclasses:
 - [ ] [[Ayo Jabe]] 
 - [ ] [[Dermot Wurder]] 
 - [ ] [[Galsariad Ardyth]] 
+- [ ] [Verin Thelyss](https://5e.tools/bestiary.html#verin%20thelyss_crcotn) 
 
 ##  Choose relevant monsters
 
