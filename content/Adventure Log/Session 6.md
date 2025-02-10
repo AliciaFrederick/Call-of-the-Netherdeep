@@ -61,6 +61,8 @@ cssclasses:
 
 - [ ] Bautha Dyrr
 	- [ ] Aloysia was injured when she tried to delve into the Betrayers' Rise alone—and now she's looking for mercenaries to explore it on her behalf
+	- [ ] "Three prayers... Oh! You know, it must be that old story about the champion of three gods. Goodness gracious, I can't believe I remembered it. It's a fragment of a fragment of a legend, even in temples in Vasselheim and Ank'Harel." She clears her throat. "Long ago, a hero of the Calamity begged for aid from three different gods in his time of need. Avandra the Change Bringer was one of them, and I think Sehanine the Moon Weaver was another. And, uh, I'm afraid I don't remember anything else."
+	- [ ] "This might be a fiction, but Avandra is said to have grieved for the hero—not because he had died, but because she feared her aid forced him to give up so much of himself that he would be robbed of a future."
 - [ ] 
 
 ##  Develop fantastic locations
@@ -76,6 +78,7 @@ cssclasses:
 - [ ] Sebastian Allerton - thug worker at the Crematorium
 - [ ] Prolix Yusaf - Scholarly Agent of the Allegiance of Allsight at the Crematorium
 - [ ] Bautha Dyrr - Drow Priest at the Infirmary
+- [ ] Naevyn Tasithar - injured drow scout at the Infirmary
 
 ##  Choose relevant monsters
 
