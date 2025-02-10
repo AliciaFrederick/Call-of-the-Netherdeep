@@ -97,10 +97,10 @@ cssclasses:
 - [x] [[Dermot Wurder|Dermot]] is concerned for the PCs' well-being
 - [x] [[Galsariad Ardyth|Galsariad]] wants to learn magical secrets
 - [-] [[Irvan Wastewalker|Irvan]] is interested in the power of the jewel 
-- [ ] Aurora Watch patrol
-	- [ ] 6 drow, human, and orc [veteran](https://www.dndbeyond.com/monsters/17045-veteran) soldiers
-	- [ ] 1 drow [scout](https://www.dndbeyond.com/monsters/17007-scout) cook
-- [ ] Justice - tiefling caravan [scout](https://www.dndbeyond.com/monsters/17007-scout) with their [moorbounder]((https://www.dndbeyond.com/monsters/744323-moorbounder) Rice Pudding
+- [x] Aurora Watch patrol
+	- [x] 6 drow, human, and orc [veteran](https://www.dndbeyond.com/monsters/17045-veteran) soldiers
+	- [x] 1 drow [scout](https://www.dndbeyond.com/monsters/17007-scout) cook
+- [x] Justice - tiefling caravan [scout](https://www.dndbeyond.com/monsters/17007-scout) with their [moorbounder]((https://www.dndbeyond.com/monsters/744323-moorbounder) Rice Pudding
 - [ ] Kruzkrenner goblin family
 	- [ ] Big Yuyo ([horizonback tortoise](https://www.dndbeyond.com/monsters/744315-horizonback-tortoise)) 
 	- [ ] **Papa Drazagorr** (lawful neutral, goblin [veteran](https://www.dndbeyond.com/monsters/17045-veteran)) 
@@ -110,7 +110,7 @@ cssclasses:
 	- [ ] **Little Chespa** (chaotic good, goblin noncombatant)
 - [ ] Gaeya Iliera, a neutral good, drow [scout](https://www.dndbeyond.com/monsters/17007-scout) 
 - [ ] Tyvak and Moghra Wastewalker (chaotic good, human [berserkers](https://www.dndbeyond.com/monsters/16805-berserker)) 
-- [ ] The Acorn Sisters, Lanata and Robur, are [dryads](https://www.dndbeyond.com/monsters/16849-dryad) 
+- [x] The Acorn Sisters, Lanata and Robur, are [dryads](https://www.dndbeyond.com/monsters/16849-dryad) 
 - [ ] Two neutral [bugbear chiefs](https://www.dndbeyond.com/monsters/17119-bugbear-chief) guard the wagons 
 
 ##  Choose relevant monsters
@@ -143,16 +143,16 @@ cssclasses:
 ##  Select magic item rewards
 
 - [ ] Irvan's ring from near the gloomstalker corpse - silver with a small sapphire, worth 250 gp
-- [ ] 1d10 temp HP (24 hrs starting next morning) from the Aurora Watch cook's food
+- [x] 1d10 temp HP (24 hrs starting next morning) from the Aurora Watch cook's food
 - [ ] A [Charm of Heroism](https://www.dndbeyond.com/sources/dnd/dmg-2014/other-rewards#CharmOfHeroism) for killing all will-o'-wisps
-- [ ] A locked iron box containing 50 gp from the crashed wagon
-- [ ] A [potion of giant strength (hill)](https://www.dndbeyond.com/magic-items/4706-potion-of-hill-giant-strength)  from the crashed wagon 
-- [ ] A [+1 dagger](https://www.dndbeyond.com/magic-items/5225-dagger-1) from the udaak corpse - inscribed with the name Kierchaly Wastewalker
-- [ ] Curse - Wrath of Ruidus (disadvantage on ability checks and saving throws for 24 hours)
-- [ ] 1d10 temp HP (24 hrs starting next morning) from the mastodon kor’rundl 
-- [ ] [+1 battleaxe](https://www.dndbeyond.com/magic-items/4801-battleaxe-1) 
-- [ ] [goggles of night](https://www.dndbeyond.com/magic-items/4648-goggles-of-night) 
-- [ ] [Merchants' Wares](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#MerchantsWares) 
+- [x] A locked iron box containing 50 gp from the crashed wagon
+- [x] A [potion of giant strength (hill)](https://www.dndbeyond.com/magic-items/4706-potion-of-hill-giant-strength)  from the crashed wagon 
+- [x] A [+1 dagger](https://www.dndbeyond.com/magic-items/5225-dagger-1) from the udaak corpse - inscribed with the name Kierchaly Wastewalker
+- [x] Curse - Wrath of Ruidus (disadvantage on ability checks and saving throws for 24 hours)
+- [x] 1d10 temp HP (24 hrs starting next morning) from the mastodon kor’rundl 
+- [x] [+1 battleaxe](https://www.dndbeyond.com/magic-items/4801-battleaxe-1) 
+- [x] [goggles of night](https://www.dndbeyond.com/magic-items/4648-goggles-of-night) 
+- [x] [Merchants' Wares](https://www.dndbeyond.com/sources/dnd/cotn/the-leave-taking#MerchantsWares) 
 
 %%  %%
 
