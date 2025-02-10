@@ -399,7 +399,6 @@ As the characters examine the Betrayers' Rise and its entrance more closely, rea
 
 >Shouting erupts from the soldiers just as the colossal doors fly open. Two shadowy, winged creatures burst through the opening, immediately take flight, and screech as they dive toward you, their ebon talons extended.
 
-
 The escaped creatures are two **gloomstalkers** (see *appendix A*). The soldiers stationed outside can assist the characters in battling the gloomstalkers, or you can have them rush inside to help three gravely injured Aurora Watch soldiers (lawful good, orc **knights**) in area R1.
 
 Each gloomstalker fights until it is reduced to half its hit points or fewer, then soars away. After seeing the characters in combat against the gloomstalkers, the Aurora Watch soldiers hold the party in high regard. From now on, the characters can freely enter the Betrayers' Rise whenever they like—including right away, if they so desire. After the characters have either entered the Betrayers' Rise or returned to town, the soldiers tend to their wounded and close the doors.
