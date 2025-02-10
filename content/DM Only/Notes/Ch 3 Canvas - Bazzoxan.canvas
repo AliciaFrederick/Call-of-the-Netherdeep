@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"adcb67a95a6dd981","x":-380,"y":-340,"width":1131,"height":754,"type":"file","file":"Extras/Assets/map-3.1-Bazzoxan.jpg"},
+		{"id":"9417ae1e6f703e4d","x":-968,"y":79,"width":400,"height":229,"type":"file","file":"Extras/Assets/Xhorhas_Bazzoxan_Barracks_35x20.jpg"},
+		{"id":"c34fd84305fbc550","x":-523,"y":79,"width":400,"height":267,"type":"file","file":"Extras/Assets/Xhorhas_Bazzoxan_Crematorium_30x20.jpg"},
+		{"id":"83a77e27df427132","x":-78,"y":79,"width":400,"height":400,"type":"file","file":"Extras/Assets/Xhorhas_Bazzoxan_DilapidatedTemple_25x25.jpg"},
+		{"id":"d722c919e0c14f14","x":367,"y":79,"width":320,"height":400,"type":"file","file":"Extras/Assets/Xhorhas_Bazzoxan_Gates_20x25.jpg"},
+		{"id":"d683043b69096c7d","x":812,"y":79,"width":400,"height":400,"type":"file","file":"Extras/Assets/Xhorhas_Bazzoxan_Infirmary_20x20.jpg"},
+		{"id":"1154302b98752171","x":1257,"y":79,"width":400,"height":400,"type":"file","file":"Extras/Assets/Xhorhas_Bazzoxan_SacrificeEngine_35x35.jpg"},
+		{"id":"e019fa67900163b7","x":1702,"y":79,"width":343,"height":400,"type":"file","file":"Extras/Assets/Xhorhas_Bazzoxan_TheReadyRoom_30x35.jpg"},
+		{"id":"9fc3f314948c81b1","x":2147,"y":79,"width":400,"height":267,"type":"file","file":"Extras/Assets/Xhorhas_Bazzoxan_WallOfTheUnforgotten_15x10.jpg"}
+	],
+	"edges":[]
+}
