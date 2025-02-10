@@ -90,6 +90,8 @@ Among the most prominent features of Bazzoxan are the town's two sacrifice engin
 
 In bygone days, servants of the Betrayer Gods threw mortals into these pits to appease their evil lords. Now, the Aurora Watch herds demons and other monsters into them to avoid prolonged battles.
 
+![[Xhorhas_Bazzoxan_B0_SacrificeEngine_35x35.jpg]] 
+
 ### Populace
 
 The majority of Bazzoxan's inhabitants are members of the Aurora Watch. Also residing here are a handful of Kryn Dynasty arcanists attempting to find and seal the planar rifts that threaten the city. Dealing with these phenomena is far beyond the characters' abilities at present, and in any event they can't afford to linger in Bazzoxan, lest their rivals find the prayer site of Avandra before them. Nonetheless, this chapter provides an opportunity for you to foreshadow the devastation that the rift to the Netherdeep can cause for Ank'Harel later in the adventure.
@@ -126,6 +128,8 @@ The following locations are keyed to the map of Bazzoxan.
 #### B1: Gate of Bazzoxan
 
 The entrance to Bazzoxan is a wide gate that is opened or closed from atop its battlements by operating a series of wheels, chains, and pulleys.
+
+![[Xhorhas_Bazzoxan_B1_Gates_20x25.jpg]] 
 
 #### B2: Crematorium
 

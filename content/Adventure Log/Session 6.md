@@ -55,8 +55,10 @@ cssclasses:
 
 ##  Outline potential scenes
 
+- [ ] [[Ch 3 Canvas - Bazzoxan.canvas|Ch 3 Canvas - Bazzoxan]] 
+- [ ] [[Chapter 3 - Bazzoxan#Bazzoxan Scenes|Bazzoxan Scenes]] 
+- [ ] [[Chapter 3 - Bazzoxan#Sacrifice Engines|Sacrifice Engines]] 
 - [ ] [[Chapter 3 - Bazzoxan#Locations in Bazzoxan|Locations in Bazzoxan]] 
-- [ ] [[Chapter 3 - Bazzoxan#Bazzoxan Scenes]]
 
 ##  Define secrets and clues
 
