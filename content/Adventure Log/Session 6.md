@@ -101,6 +101,7 @@ cssclasses:
 - [ ] Bautha Dyrr - Drow Priest at the Infirmary
 - [ ] Naevyn Tasithar - injured drow scout at the Infirmary
 - [ ] Foghome - firbolg priest at the Dilapidated Temple
+- [ ] Delez and Prima Demona - drow brother-sister at the Ready Room
 
 ##  Choose relevant monsters
 
