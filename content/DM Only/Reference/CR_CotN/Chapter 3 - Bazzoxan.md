@@ -8,7 +8,7 @@ The characters can interact with the locals and investigate the town, where they
 
 At this prayer site, the characters receive another vision, unlock new properties of the *Jewel of Three Prayers*, and come face to face with their rivals once again. The outcome of this confrontation not only determines who possesses the jewel but also defines the tangled web of relationships between the characters, their rivals, and the Marquesian factions—just before the characters are swept up in a spell that transports them to Marquet.
 
-![The threshold of the Betrayers' Rise is guarded by soldiers of the Aurora Watch to keep intruders out and demons in](img/adventure/CRCotN/025-03-001.intro-splash.webp)
+![The threshold of the Betrayers' Rise is guarded by soldiers of the Aurora Watch to keep intruders out and demons in](03-001.intro-splash.jpg)
 
 ## Running This Chapter
 
@@ -33,7 +33,7 @@ This chapter begins as two Aurora Watch **guards** guide the characters from the
 >>From around the corner of a crumbling building, five twitching, skinless masses of blinking eyes and slavering mouths wriggle into view. One of them is shredding the flesh of a hapless soldier in three of its amorphous maws. Trumpets blare an alarm, and several Aurora Watch soldiers hurry into the streets. One of them, a male drow, pauses to address you. "Newcomers? No time for pleasantries—draw your weapons or get to safety! Find me at the barracks after!"
 >>
 
-![A gibbering mouther threatens two Aurora Watch soldiers](img/adventure/CRCotN/026-03-002.gibbering-mouther-threat.webp)
+![A gibbering mouther threatens two Aurora Watch soldiers](03-002.gibbering-mouther-threat.png)
 
 Five **gibbering mouthers** have sneaked into Bazzoxan and are intent on consuming anyone in their path. Opposing them are members of the Aurora Watch led by Taskhand **Verin Thelyss** (see the accompanying stat block).
 
@@ -41,7 +41,7 @@ To the people of Bazzoxan, Verin is a beacon of hope amid the darkness that shro
 
 The alarms sounding from watchtowers across the town indicate that similar attacks are happening in other areas. Civilians head for secure buildings while members of the Aurora Watch mobilize to engage the threat. Characters can tell from everyone's drawn faces and practiced movements that attacks like this occur often. The characters can either get involved in the fight or run for safety.
 
-![{@creature Verin Thelyss|CRCotN}](img/adventure/CRCotN/027-637828636927085942.webp)
+![{@creature Verin Thelyss|CRCotN}](verin-thelyss.png)
 
 ### Fight!
 
@@ -76,7 +76,7 @@ Most of the town's inhabitants are soldiers who understand that their role here 
 
 Details about locations in the town can be found in the "Locations in Bazzoxan" section later in the chapter.
 
-![Bazzoxan has an eerie beauty that is lost on most visitors and residents](img/adventure/CRCotN/028-03-003.bazzoxan-scene.webp)
+![Bazzoxan has an eerie beauty that is lost on most visitors and residents](03-003.bazzoxan-scene.png)
 
 ### Geography
 
@@ -122,7 +122,7 @@ If Ayo was injured in the encounter as a result of the characters' decision to r
 
 The following locations are keyed to the map of Bazzoxan.
 
-![Bazzoxan](img/adventure/CRCotN/029-map-3.1-Bazzoxan.webp)![Player Version](img/adventure/CRCotN/030-map-3.1-Bazzoxan-player.webp)
+![Bazzoxan](map-3.1-Bazzoxan.jpg)![Player Version](map-3.1-Bazzoxan-player.jpg)
 #### B1: Gate of Bazzoxan
 
 The entrance to Bazzoxan is a wide gate that is opened or closed from atop its battlements by operating a series of wheels, chains, and pulleys.
@@ -161,7 +161,7 @@ Lacking experience with dead bodies, Prolix turns to the characters for assistan
 
 Anyone who tinkers with the puzzle box's locking mechanism for 1 minute can make a DC 20 Intelligence check, opening the box on a success. The box contains a folded-up *spell scroll* of *bestow curse*.
 
-![{@creature Aloysia Telfan|CRCotN} and {@creature Prolix Yusaf|CRCotN}](img/adventure/CRCotN/031-03-004.aloysia-prolix.webp)
+![{@creature Aloysia Telfan|CRCotN} and {@creature Prolix Yusaf|CRCotN}](03-004.aloysia-prolix.png)
 
 ***Roleplaying Prolix.*** Once he has obtained the puzzle box, Prolix's demeanor turns from friendly to reserved. He claims that he knows how to unlock the puzzle box but insists on doing so in an isolated location to prevent the "danger" contained within from hurting anyone. A character who succeeds on a DC 10 Wisdom (Insight) check can determine that Prolix is lying and trying to sound important.
 
@@ -266,7 +266,7 @@ A character who makes a successful DC 17 Intelligence (Religion) check can piece
 
 ***Foghome the Gardener.*** A neutral good, firbolg **priest** named **Foghome** moves through the temple at all hours of the day. For more information on firbolgs, see the accompanying "Firbolgs of Exandria" sidebar.
 
-![{@creature Foghome|CRCotN} the Firbolg](img/adventure/CRCotN/032-03-005.foghome-the-firbolg.webp)
+![{@creature Foghome|CRCotN} the Firbolg](03-005.foghome-the-firbolg.png)
 
 **Foghome** is here as a guest of Taskhand **Verin Thelyss** because he has offered to help the Aurora Watch create its own food source. **Foghome** can tell the characters several things:
 
@@ -446,7 +446,7 @@ To survive the trials of the Betrayers' Rise, the characters might need to retre
 
 The following locations are keyed to the Betrayers' Rise map.
 
-![Betrayers' Rise](img/adventure/CRCotN/033-map-3.2-Betrayers-Rise.webp)![Player Version](img/adventure/CRCotN/034-map-3.2-Betrayers-Rise-player.webp)
+![Betrayers' Rise](map-3.2-Betrayers-Rise.jpg)![Player Version](map-3.2-Betrayers-Rise-player.png)
 #### R1: Entrance
 
 When the characters enter the Betrayers' Rise, read:
@@ -535,7 +535,7 @@ If the crystal canister is destroyed, the characters have no way to disable the 
 
 Opening the door to this room releases three hostile **flameskulls**—the remains of torturers who served the Betrayer Gods long ago.
 
-![Torturers who served the Betrayer Gods linger on as flameskulls](img/adventure/CRCotN/035-03-006.lingering-flameskulls.webp)
+![Torturers who served the Betrayer Gods linger on as flameskulls](03-006.lingering-flameskulls.png)
 
 >>The floor of this small room is crusted with dried blood, and the walls are lined with hooks, spiked whips, and other implements of torture or self-flagellation. Slouched in a corner is a desiccated human body in acolyte's robes.
 >>
@@ -582,7 +582,7 @@ The music has no readily identifiable source, and the four braziers are bolted t
 
 Each **dancing flame** uses the **succubus**/**incubus** stat block, with these changes:
 
-![This stained-glass mosaic is the key to escaping the Basilica of Revelry](img/adventure/CRCotN/036-03-007.stain-glass-mosaic.webp)
+![This stained-glass mosaic is the key to escaping the Basilica of Revelry](03-007.stain-glass-mosaic.png)
 
 - The flame sheds bright light in a 20-foot radius and dim light for an additional 20 feet. If it leaves the hall or is reduced to 0 hit points, it is destroyed and can't re-form for 24 hours.
 - It lacks the Shapechanger trait and the Etherealness action.
@@ -656,7 +656,7 @@ A *detect magic* spell reveals an aura of abjuration magic emanating from the ir
 
 The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Otherwise, the curse of Torog remains in effect on the creature until ended by a *remove curse* spell or similar magic, or until the creature enters area R16.
 
-![A giant wailing statue guards the path to the Prayer Site of Avandra, but learning its secret is no simple matter](img/adventure/CRCotN/037-03-008.giant-wailing-statue.webp)
+![A giant wailing statue guards the path to the Prayer Site of Avandra, but learning its secret is no simple matter](03-008.giant-wailing-statue.png)
 
 ***Arms of Torog.*** The northernmost of these three statues is 70 feet tall, the one to the east is 40 feet tall, and the one to the west is 20 feet tall. Each arm ends in an outstretched hand.
 
@@ -733,7 +733,7 @@ The only way to access this chamber is by going through the doors in the statue 
 >>The passage defies reality, distorting any sense of direction as it twists and turns, making its way through the earth to another place deep inside the Betrayers' Rise. The passage ends on the east side of a circular chamber. Its walls are covered with softly glowing amber-colored crystals that fill a crater at the room's center. At the bottom of the crater sits an altar made of the same crystal.
 >>
 
-![The key to awakening the {@item Jewel of Three Prayers|CRCotN} lies at the bottom of this crystal crater](img/adventure/CRCotN/038-03-009.crystal-crater.webp)
+![The key to awakening the {@item Jewel of Three Prayers|CRCotN} lies at the bottom of this crystal crater](03-009.crystal-crater.png)
 
 This location is the prayer site where Avandra saved Alyxian from death and granted him the ability to stand against the Betrayer Gods. The crater is roughly 30 feet deep. At its base is a cleared area about 10 feet in diameter. A creature can climb down the crater's crystal slope with a successful DC 13 Strength (Athletics) check. On a failed check, the creature slips and tumbles to the bottom, taking 10 (3d6) slashing damage from the sharp crystals.
 
