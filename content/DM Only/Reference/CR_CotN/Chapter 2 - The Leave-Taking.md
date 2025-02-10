@@ -4,7 +4,7 @@ In this chapter, the characters learn more about the events that occurred in the
 
 Most of this chapter deals with the characters' journey across the wastes and the challenges and friendly strangers they encounter along the way. Whether the rivals accompany the characters or strike out on their own depends on the relationship between the two parties and the rivals' curiosity about the *Jewel of Three Prayers*.
 
-![Five adventurers journey across the wastes of Xhorhas, watched by the moons Catha and Ruidus](img/adventure/CRCotN/018-02-001.intro-splash.webp)
+![Five adventurers journey across the wastes of Xhorhas, watched by the moons Catha and Ruidus](02-001.intro-splash.jpg)
 
 ## Running This Chapter
 
@@ -108,7 +108,7 @@ A rival captured by the party tries to escape at the earliest opportunity, perha
 
 To reach Bazzoxan, the characters must follow the Emerald Loop south before turning east onto the Hallowed Path. These dirt roads are shown on the accompanying map of Xhorhas. Although the roads are well patrolled by the Kryn Dynasty, the wastes are still dangerous: wandering scavengers, fearsome megafauna, and plenty of other threats await foolish travelers who venture too far from the road.
 
-![The Emerald Gulch](img/adventure/CRCotN/019-map-2.1-The-Emerald-Gulch.webp)![Player Version](img/adventure/CRCotN/020-map-2.1-The-Emerald-Gulch-player.webp)
+![The Emerald Gulch](map-2.1-The-Emerald-Gulch.jpg)![Player Version](map-2.1-The-Emerald-Gulch-player.jpg)
 ### Travel Pace
 
 The first leg of this journey takes the characters through the wastes of Xhorhas, a stark landscape roamed by mastodons and packs of moorbounders. In the second leg, the characters enter the valley known as the Barbed Fields, where spines of stone ranging from 10 to 30 feet tall linger as eerie reminders of the Calamity. Between the two halves of the journey is a caravan stop where the characters can rest, buy items, and interact with friendly nonplayer characters.
@@ -164,7 +164,7 @@ Characters who investigate the interior of the wagon disturb three invisible **w
 
 ***Treasure.*** After the will-o'-wisps are dealt with, a character who searches the wagon can make a DC 15 Intelligence (Investigation) check. On a success, they find a locked iron box containing 50 gp and a *potion of giant strength (hill)*. A character who lacks the proper key can use an action and *thieves' tools* to try to pick the lock, doing so with a successful DC 15 Dexterity check.
 
-![Rival adventurers camp near the bones of a mastodon in the wastes of Xhorhas](img/adventure/CRCotN/021-02-002.rival-adventurers.webp)
+![Rival adventurers camp near the bones of a mastodon in the wastes of Xhorhas](02-002.rival-adventurers.png)
 
 #### Demonic Carrion
 
@@ -210,7 +210,7 @@ Future occurrences of this encounter are with Six-Knives at the head of the grou
 
 ## Reunion with the Rivals
 
-![The spires of the Barbed Fields reach as high as thirty feet into the sky](img/adventure/CRCotN/022-02-003.spires-barbed-fields.webp)
+![The spires of the Barbed Fields reach as high as thirty feet into the sky](02-003.spires-barbed-fields.png)
 
 This encounter takes place only if the characters are trailing behind the rivals and traveling at a fast pace to catch up with them. The time of day when this encounter occurs is up to you. In the morning or around midday, the rivals are traveling. In the evening, the rivals are making camp. In the middle of the night, **Galsariad Ardyth (tier 1)** is on watch; see *appendix A* for his stat block.
 
@@ -250,7 +250,7 @@ Characters who succeed on a DC 13 Intelligence (Religion) check know that a trea
 
 The following locations are keyed to the Emerald Loop Caravan Stop map.
 
-![Emerald Loop Caravan Stop](img/adventure/CRCotN/023-map-2.2-Emerald-Loop-Caravan-Stop.webp)![Player Version](img/adventure/CRCotN/024-map-2.2-Emerald-Loop-Caravan-Stop-player.webp)
+![Emerald Loop Caravan Stop](map-2.2-Emerald-Loop-Caravan-Stop.jpg)![Player Version](map-2.2-Emerald-Loop-Caravan-Stop-player.jpg)
 #### L1: Entrance to the Clearing
 
 Read or paraphrase the following as the characters enter the caravan stop:

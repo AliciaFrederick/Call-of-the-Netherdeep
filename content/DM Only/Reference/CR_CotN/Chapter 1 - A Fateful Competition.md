@@ -69,7 +69,7 @@ A character who wins a festival contest earns one of seven different magical med
 
 The following locations are keyed to the map of Jigow. They include places where Festival of Merit contests are staged (areas J1 through J7) and other important locations that the characters might visit (areas J8 through J10).
 
-![Jigow](map-1.1-Jigow.png)![Player Version](010-map-1.1-Jigow-player.png)
+![Jigow](map-1.1-Jigow.jpg)![Player Version](map-1.1-Jigow-player.jpg)
 #### J1: Best Pies in the Jumble
 
 This contest tests the participants' perseverance and endurance. Read:
@@ -101,7 +101,7 @@ As a new member of his adventuring party, Irvan isn't keen on revealing that he'
 
 Win or lose, a character can't compete in this contest again until they complete a long rest.
 
-![{@creature Agathe Silverspoon|CRCotN} makes the best meat pies in Jigow](011-01-002.agathe-silverspoon.png)
+![{@creature Agathe Silverspoon|CRCotN} makes the best meat pies in Jigow](01-002.agathe-silverspoon.png)
 
 #### J2: One-Shot Solution
 
@@ -129,7 +129,7 @@ A character can try the maze as many times as they would like, paying the 3 sp e
 >>"It's nothing urgent," he says, "but if you find my friend Ayo, would you tell her Dermot's wondering what the plan is after the closing ceremony? She has dark hair and blue skin. She said she was going to compete in a contest by the river—I think."
 >>
 
-![{@item Medal of the Maze|CRCotN}](012-01-003.medal-of-the-maze.png)
+![{@item Medal of the Maze|CRCotN}](01-003.medal-of-the-maze.png)
 
 Ayo Jabe can be found competing in area J3.
 
@@ -370,7 +370,7 @@ The characters and their rivals follow the elders as they wade through the shall
 
 Then, Elder Ushru halts the crowd and raises his arms to address all assembled:
 
-![{@item Potion of Water Breathing}](013-01-004.potion-of-water-breathing.png)
+![{@item Potion of Water Breathing}](01-004.potion-of-water-breathing.png)
 
 >>Elder Ushru stands before the mouth of a cave and addresses you and your opponents. "You brave and valiant individuals have triumphed in many challenges this day; now, the final Test of Merit awaits you!" He pulls a palm-sized gold-and-emerald amulet from his robes, holds it aloft, and declares: "This medal's twin has been placed in the deepest cavern of the Emerald Grotto. Be the first to claim the Emerald Eye and return it to this place to be declared Jigow's Champions of Merit! Begin now!"
 >>
@@ -397,7 +397,7 @@ The Emerald Grotto is a natural cave system. Unless otherwise noted, its feature
 
 The following locations are keyed to the Emerald Grotto map.
 
-![Emerald Grotto](014-map-1.2-Emerald-Grotto.png)![Player Version](015-map-1.2-Emerald-Grotto-player.png)
+![Emerald Grotto](map-1.2-Emerald-Grotto.jpg)![Player Version](map-1.2-Emerald-Grotto-player.jpg)
 #### E1: Grotto Entrance
 
 >>The entrance to the grotto is a narrow cavern that leads to a murky pool of water.
@@ -475,7 +475,7 @@ A **giant octopus** dwells at the bottom of the pit and attacks anyone who enter
 
 ***Race Progression.*** It takes at least 1 round to traverse this chamber. Keep track of how many rounds the party spends fighting the octopus and add that number to the total. If one or more characters take the time to search the pit, add 1 round to the total.
 
-![A giant octopus waits to ambush prey in the depths of the Emerald Grotto](016-01-005.giant-octopus.png)
+![A giant octopus waits to ambush prey in the depths of the Emerald Grotto](01-005.giant-octopus.png)
 
 #### E8: Riptide Tunnel
 
@@ -565,7 +565,7 @@ What happens next depends on the characters' relationship with the rivals:
 
 ***Disputing Destiny.*** If Ayo or another one of the rivals touched the *Jewel of Three Prayers*, they are the recipients of the vision instead. The rivals fall unconscious for 1 minute, and it is up to the characters to decide what to do with them. In this scenario, which is examined further in *chapter 2*, the rivals are the "heroes" of the story, and the characters must decide if they want to aid their rivals or take back the jewel and claim their own heroic destiny.
 
-![A spectral figure not seen in ages sets the adventurers on a quest that could change the fate of the world](017-01-006.spectral-figure.png)
+![A spectral figure not seen in ages sets the adventurers on a quest that could change the fate of the world](01-006.spectral-figure.png)
 
 ## Next Steps
 
