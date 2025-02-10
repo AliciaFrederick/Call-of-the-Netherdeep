@@ -10,7 +10,7 @@ This adventure is set in Exandria, the world of *Critical Role*. Its continents 
 
 The following sections describe events, regions, and other elements of Exandria that are significant to this adventure.
 
-> ##### What Is Critical Role?
+> [!QUESTION] What Is Critical Role?
 >
 >*Critical Role* is a live-streamed show that airs on Thursday nights and stars voice actors Travis Willingham, Marisha Ray, Sam Riegel, Taliesin Jaffe, Ashley Johnson, Liam O'Brien, Laura Bailey, and Matthew Mercer. Each season is a complete Dungeons & Dragons campaign that revolves around a particular band of lovably flawed heroes, with Matthew Mercer guiding the narrative and breathing life into the world of Exandria as the show's Dungeon Master. Like any D&D game, the show is full of drama, laughter, silly voices, dice rolls, and stories that will live on in infamy.
 >
