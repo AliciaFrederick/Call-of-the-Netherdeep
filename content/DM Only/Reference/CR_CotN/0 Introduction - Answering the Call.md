@@ -59,7 +59,7 @@ A realm of despair, the Netherdeep was created when the spear of Gruumsh pierced
 
 ### Ruidus
 
-![Ruidus, the Moon of Ill Omen](img/adventure/CRCotN/000-00-001.ruidus-moon.webp)
+![Ruidus, the Moon of Ill Omen](00-001.ruidus-moon.png)
 
 Two moons hang in the sky of Exandria. One is Catha, a large, pale orb that cycles through its phases once per month. The other is Ruidus, a ghostly vermilion satellite that circles Exandria once every six months.
 
@@ -79,7 +79,7 @@ The story at the heart of this adventure begins long ago in an age shrouded in m
 
 ### Rise and Fall of the Apotheon
 
-![Alyxian was born in the full light of Ruidus and lived a cursed life because of it](img/adventure/CRCotN/001-00-002.alyxian.webp)
+![Alyxian was born in the full light of Ruidus and lived a cursed life because of it](00-002.alyxian.png)
 
 During the Founding, a time when the gods still walked the face of Exandria, the world's divine creators discovered an unidentifiable power seeping through the fabric of reality. Legends assert that this alien influence was a threat to all life on Exandria, and the gods banded together to banish it.
 
@@ -301,7 +301,7 @@ The following descriptions pertain to the rivals at the start of the adventure.
 
 ### Ayo Jabe
 
-![](img/adventure/CRCotN/002-00-003.ayo-jabe.webp)
+![](00-003.ayo-jabe.png)
 
 As the de facto leader of a new, unnamed adventuring party, Ayo Jabe has a lot of responsibility on her shoulders. She and her companions have worked odd jobs around the town of Jigow for a few weeks now, and she's starting to feel confident that they're ready for real adventure.
 
@@ -313,7 +313,7 @@ Ayo is hotheaded and appreciates people who make decisions as impulsively as she
 
 ### Dermot Wurder
 
-![](img/adventure/CRCotN/003-00-004.dermot-wurder.webp)
+![](00-004.dermot-wurder.png)
 
 When you're the twelfth son of a poor goblin family in Jigow, the only way to make a name for yourself is to become a great champion—someone who can win bragging contests in the local taverns night after night. Young Dermot Wurder, however, wasn't interested in performing feats of strength or agility that would win him a boast-worthy epithet. Fame wasn't for him, nor was the aggressiveness that becoming famous required. He was more interested in cooking, planting flowers, and sewing clothes—doing the work that kept his family together while his carefree siblings dove off waterfalls and wrestled stray dogs.
 
@@ -323,7 +323,7 @@ Dermot is fiercely protective of his friends and furiously rebukes anyone who di
 
 ### Galsariad Ardyth
 
-![](img/adventure/CRCotN/004-00-005.galsariad-ardyth.webp)
+![](00-005.galsariad-ardyth.png)
 
 Beautiful, ethereal, deathly, shadowy—all accurately describe Galsariad Ardyth, a drow in his two-hundredth year of life. He's recently taken up the study of arcane magic, and he's pursuing the life of an adventurer in hopes of improving his reputation within the Kryn Dynasty. Loquacious, snarky, and sarcastic to a fault, he's ready with a barb for any occasion—usually to mask his own insecurities.
 
@@ -333,7 +333,7 @@ Galsariad appreciates people who share his interests and are willing to spend ti
 
 ### Irvan Wastewalker
 
-![](img/adventure/CRCotN/005-00-006.irvan-wastewalker.webp)
+![](00-006.irvan-wastewalker.png)
 
 The name "Wastewalker" conjures fear on the plains of Xhorhas, as the name of a clan of Xhorhasian nomads. Irvan—Irv to his friends—was born into that clan, but he hates the name. He left his family when he was a teenager, struck out on his own across the wastes, and made his way to the city of Asarius. Even though the "City of Beasts" is renowned for danger, Irv felt at home there in a way he'd never felt with his clan.
 
@@ -343,7 +343,7 @@ He met Ayo and her friends when he traveled to Jigow to experience its contests 
 
 ### Maggie Keeneyes
 
-![](img/adventure/CRCotN/006-00-007.maggie-keeneyes.webp)
+![](00-007.maggie-keeneyes.png)
 
 People might laugh when a 12-foot-tall ogre orders a drink at a bar and says her name is Maggie, but they don't laugh for long. Some people fixate on her name, her enormous size, her muscles, or the weapon at her side. Wiser folk take notice of Maggie's bright blue eyes. All her life, people have considered Maggie a stupid meathead because of her size, but her eyes betray her intelligence. She can read others with a glance, whether in conversation or in a duel. When her eyes dart back and forth across a battlefield, they take in enough information to give her allies an advantage in the fight.
 
@@ -408,7 +408,7 @@ If the heroes surrender, Ayo is usually happy to accept that outcome. She would 
 
 You determine if the situation is dire enough for the rivals to kill the characters or take them prisoner, or if they would even refuse to accept a surrender.
 
-![In Xhorhas, a party of adventurers might include a lizardfolk paladin, a hobgoblin wizard, and a drow barbarian](img/adventure/CRCotN/007-00-008.xhorhas-adventurers.webp)
+![In Xhorhas, a party of adventurers might include a lizardfolk paladin, a hobgoblin wizard, and a drow barbarian](00-008.xhorhas-adventurers.png)
 
 ## Character Creation
 
