@@ -6,7 +6,7 @@ Infuriated by his loss to Corellon, Gruumsh swore to annihilate Cael Morrow. The
 
 Cael Morrow, the Drowned City, is the grave of thousands of Gruumsh's victims. Even Alyxian's sacrifice, which protected much of the land of Marquet at the cost of his freedom, could not save the city. Now, the center of Cael Morrow is a planar rift born from the place where Gruumsh's spear struck the earth. This rift is the gateway to the Netherdeep, the fountainhead of the corrupting element ruidium, and an object of fascination to Ank'Harel's factions. The rift will draw the characters and their rivals into conflict once more—with the chance to become heroes.
 
-![An aboleth mutated by ruidium haunts the dark waters of Cael Morrow](img/adventure/CRCotN/061-05-001.intro-splash.webp)
+![An aboleth mutated by ruidium haunts the dark waters of Cael Morrow](05-001.intro-splash.png)
 
 ## Running This Chapter
 
@@ -138,7 +138,7 @@ Cael Morrow includes many other areas beyond what this book describes. You can u
 
 The locations described below are keyed to the Cael Morrow map. This map doesn't show the sunken city in its entirety, just the areas important to the adventure. You can expand Cael Morrow by adding locations and encounters of your own design.
 
-![Cael Morrow](img/adventure/CRCotN/062-map-5.1-Cael-Morrow.webp)![Player Version](img/adventure/CRCotN/063-map-5.1-Cael-Morrow-player.webp)
+![Cael Morrow](map-5.1-Cael-Morrow.png)![Player Version](map-5.1-Cael-Morrow-player.png)
 #### M1: Stone Column
 
 A 10-foot-wide spiral staircase descends along the interior of a hollow stone column that extends down from the Maw of Cael Morrow in Ank'Harel's Sigil District (described in chapter 4).
@@ -171,7 +171,7 @@ These guards have dealt with raiders and infiltrators before. They are hostile t
 
 ***Keystone.*** The stone cube above the door to area M3 is a keystone (see "Features of Cael Morrow" earlier in the chapter). Destroying the keystone or removing it from this area causes the magical barriers that enclose area M2 to disappear. When that happens, all creatures in the corridor are engulfed by water. The barriers around area M3 remain intact.
 
-![The Allegiance of Allsight maintains an underwater base camp, from where it coordinates archaeological excavations](img/adventure/CRCotN/064-05-002.allsight-base-camp.webp)
+![The Allegiance of Allsight maintains an underwater base camp, from where it coordinates archaeological excavations](064-05-002.allsight-base-camp.png)
 
 #### M3: Allegiance Base Camp
 
@@ -186,7 +186,7 @@ Nearly inseparable, **Scribble** and **Xot** have been working together at the c
 
 If **Insight**, **Scribble**, and **Xot** become hostile toward intruders, they fight to kill. On the first turn of combat, **Insight** uses a *sending stone* to contact Headmaster Cryon in the Crystal Chateau and request aid. Twenty minutes later, ten **scholarly agents** and five **scholarly excavators** (see *appendix A* for both stat blocks) arrive by way of area M1 to secure the base camp.
 
-![Professor {@creature Insight Acuere|CRCotN}](img/adventure/CRCotN/065-05-003.professor-insight-acuere.webp)
+![Professor {@creature Insight Acuere|CRCotN}](065-05-003.professor-insight-acuere.png)
 
 ***Insight Acuere.*** The **tiefling professor** uses the **scholarly mastermind** stat block (see *appendix A*), with these changes:
 
@@ -321,7 +321,7 @@ Modify **Galeokaerda's** stat block as follows:
 
 As described in the faction story tracks in *chapter 4*, **Galeokaerda** has long posed as a professor of the Allegiance of Allsight and has become **Insight**'s friend. Now she regrets betraying her friend and secretly hopes that she can convince **Insight** to turn against the Allegiance of Allsight when **Galeokaerda** and the Consortium of the Vermilion Dream take over Cael Morrow.
 
-![{@creature Galeokaerda|CRCotN}](img/adventure/CRCotN/066-05-004.galeokaerda.webp)
+![{@creature Galeokaerda|CRCotN}](066-05-004.galeokaerda.png)
 
 If the characters are on a mission that doesn't involve **Galeokaerda**, she tells them to get lost while claiming that she's doing research for the Allegiance of Allsight. If the characters refuse to leave, she threatens to unleash her shield guardian. But if the characters call her bluff, she doesn't follow through on her threat, afraid that doing so will lead to her defeat. If the characters attack **Galeokaerda** or Crescent, however, the two of them react in kind.
 
@@ -366,7 +366,7 @@ Any character who is possessed by one of the ghosts experiences a vision of the 
 
 ### Cael Morrow Locations (M9-M17)
 
-![Divine magic keeps water from flooding the temple of Corellon in the sunken heart of Cael Morrow](img/adventure/CRCotN/067-05-005.temple-of-corellon.webp)
+![Divine magic keeps water from flooding the temple of Corellon in the sunken heart of Cael Morrow](067-05-005.temple-of-corellon.png)
 
 #### M9: Temple of the Arch Heart
 
@@ -428,7 +428,7 @@ Four **scuttling serpentmaws** (see *appendix A*) lurk amid the rubble and scutt
 
 #### M11: Kelp Forest
 
-![Two aboleth spawn guard the lair of the Alyxian Aboleth](img/adventure/CRCotN/068-05-006.aboleth-spawn-guards.webp)
+![Two aboleth spawn guard the lair of the Alyxian Aboleth](068-05-006.aboleth-spawn-guards.png)
 
 >>Once a lush garden, this area is now filled with strands of kelp that rise to a height of about thirty feet. Small shrines built of pale stone stand among the growth. Their surfaces are carved with images of the face of Corellon, serene and benevolent.
 >>
@@ -439,7 +439,7 @@ The kelp forest is the lair of the **Alyxian Aboleth** (see *appendix A*). If th
 
 ***Treasure.*** Any character who spends at least 5 minutes searching the kelp forest can make a DC 15 Intelligence (Investigation) check, finding the aboleth's accumulated treasure on a success. This hoard consists of a pouch that holds 156 gp, a *ruidium shield* (see *appendix B*), a *ruidium shortsword* (see *appendix B*), and a *brooch of shielding* still pinned to the garments of a water-bloated human corpse (the remains of an Allegiance of Allsight explorer).
 
-![{@creature Aboleth Spawn|CRCotN}](img/adventure/CRCotN/069-637828636788684355.webp)
+![{@creature Aboleth Spawn|CRCotN}](069-637828636788684355.png)
 
 #### M12: Cliffside Path
 

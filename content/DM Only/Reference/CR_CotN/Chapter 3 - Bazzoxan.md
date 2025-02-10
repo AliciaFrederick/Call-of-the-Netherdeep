@@ -446,7 +446,7 @@ To survive the trials of the Betrayers' Rise, the characters might need to retre
 
 The following locations are keyed to the Betrayers' Rise map.
 
-![Betrayers' Rise](map-3.2-Betrayers-Rise.jpg)![Player Version](map-3.2-Betrayers-Rise-player.png)
+![Betrayers' Rise](map-3.2-Betrayers-Rise.jpg)![Player Version](map-3.2-Betrayers-Rise-player.jpg)
 #### R1: Entrance
 
 When the characters enter the Betrayers' Rise, read:
@@ -582,7 +582,7 @@ The music has no readily identifiable source, and the four braziers are bolted t
 
 Each **dancing flame** uses the **succubus**/**incubus** stat block, with these changes:
 
-![This stained-glass mosaic is the key to escaping the Basilica of Revelry](03-007.stain-glass-mosaic.png)
+![This stained-glass mosaic is the key to escaping the Basilica of Revelry](03-007.stain-glass-mosaic.jpg)
 
 - The flame sheds bright light in a 20-foot radius and dim light for an additional 20 feet. If it leaves the hall or is reduced to 0 hit points, it is destroyed and can't re-form for 24 hours.
 - It lacks the Shapechanger trait and the Etherealness action.

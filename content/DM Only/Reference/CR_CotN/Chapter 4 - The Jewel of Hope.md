@@ -2,7 +2,7 @@
 
 The gloom of Bazzoxan gives way to the sunlight and warm winds of Marquet as the characters arrive in the metropolis of Ank'Harel. While they get their bearings in a new city on a new continent, the characters discover potential allies among the factions of the city and plumb the mystery of the Apotheon, an investigation that culminates in an expedition into the sunken city beneath Ank'Harel's foundations.
 
-![The spectacular desert metropolis of Ank'Harel is the most precious jewel on the continent of Marquet](img/adventure/CRCotN/039-04-001.intro-splash.webp)
+![The spectacular desert metropolis of Ank'Harel is the most precious jewel on the continent of Marquet](04-001.intro-splash.jpg)
 
 ## Running This Chapter
 
@@ -139,7 +139,7 @@ As more travelers arrived to take part in building this metropolis, unpaved road
 - **Neighborhoods.** The city is divided into eight districts: the Alluvium District, the Circlet Walk, the Guided District, the Ridge, the River District, the Sand-Herald District, the Sigil District, and the Suncut Bazaar.
 - **Geography.** Ank'Harel lies in the center of a vast desert, nestled among clay-rich mountains. Three of these peaks have been leveled off at different elevations to form the Ridge, the Guided District, and the Cerulean Palace. Canals filled with fresh water circulate through the River District, branching outward from the nexus of the oasis.
 
-![The Jewel of Hope, Ank'Harel](img/adventure/CRCotN/040-map-4.1-Ank_Harel.webp)![Player Version](img/adventure/CRCotN/041-map-4.1-Ank_Harel-player.webp)
+![The Jewel of Hope, Ank'Harel](map-4.1-Ank_Harel.jpg)![Player Version](map-4.1-Ank_Harel-player.jpg)
 ### Lodging
 
 The Ank'Harel Lodgings table gives examples of lodgings that are available in the city.
@@ -168,7 +168,7 @@ Three of the groups have a strong interest in the Apotheon and what he represent
 - **Leader.** The Allegiance is led by two headmasters: the dour **James Cryon**, a lawful neutral elf, who is also the head of the Crystal Chateau's program for the arcane arts; and the kindly **Gryz Alakritos**, a neutral good **goblin**, whose infectious enthusiasm makes him the more popular of the pair. Both use the **scholarly mastermind** stat block (see *appendix A*).
 - **Allies.** The Allegiance and the Library of the Cobalt Soul are staunch allies.
 
-![Headmasters {@creature James Cryon|CRCotN} and {@creature Gryz Alakritos|CRCotN} of the Allegiance of Allsight](img/adventure/CRCotN/042-04-002.headmasters-allsight.webp)
+![Headmasters {@creature James Cryon|CRCotN} and {@creature Gryz Alakritos|CRCotN} of the Allegiance of Allsight](04-002.headmasters-allsight.png)
 
 - **Opponents.** The Allegiance opposes the Consortium of the Vermilion Dream and the Sentinels of Memory (see "Minor Factions" later in the chapter).
 
@@ -207,7 +207,7 @@ Due to the expensive nature of its research, the Consortium is in constant need 
 
 - **Headquarters.** The Marquesian branch of the Library of the Cobalt Soul is based at the Temple of the Mentor—a temple of Ioun the Knowing Mentor—in the Guided District.
 
-![High Curator {@creature Jamil A'alithiya|CRCotN} of the Library of the Cobalt Soul](img/adventure/CRCotN/043-04-003.high-curator-jamil.webp)
+![High Curator {@creature Jamil A'alithiya|CRCotN} of the Library of the Cobalt Soul](04-003.high-curator-jamil.png)
 
 - **Leader.** At 29 years old, **Jamil A'alithiya**, a chaotic good human, is the youngest **monastic high curator** (see *appendix A*) in the history of the Cobalt Soul. He is often underestimated by his contemporaries and uses that fact to his advantage.
 - **Allies.** The Cobalt Soul maintains alliances with the Allegiance of Allsight and the Hands of Ord (see "Minor Factions" below).
@@ -289,7 +289,7 @@ Although the Veil doesn't play a role in this adventure, you can use this factio
 
 The Alluvium District is the northernmost neighborhood of Ank'Harel. Named for the rich clay mined in the cliffs that border the district, this area is a mixture of dense residential sections, sites of clay strip mining, and spacious plazas used for oral performances and artisan markets.
 
-![Alluvium District](img/adventure/CRCotN/044-04-005.alluvium-district.webp)
+![Alluvium District](04-005.alluvium-district.png)
 
 #### Alluvium Gardens
 
@@ -305,7 +305,7 @@ Eight pillars of iridescent glass, created from discarded sand and debris from t
 
 The forum is also a place where storytellers from across Exandria tell their tales. During the day, children gather around the elderly chroniclers, who relate the legends of Exandria's founding and stories of the Calamity in the oral tradition of their forebears. At night, the forum is overtaken by crowds of burgeoning writers, reading their latest works aloud and, on occasion, engaging in friendly duels of poeticism and wit.
 
-![](img/adventure/CRCotN/045-04-004.goliaths-of-exandria.webp)
+![](04-004.goliaths-of-exandria.png)
 
 > ##### Goliaths of Exandria
 >
@@ -357,7 +357,7 @@ The place is run by two former mercenaries: Irawan, a lawful good, elf **veteran
 
 The Guided District contains several houses of worship, with each of the Prime Deities represented. The district's architecture is more ornamental than in other areas of the city; many temples are adorned with intricate mosaics and crowned by minarets with gilded spires.
 
-![Guided District](img/adventure/CRCotN/046-04-006.guided-district.webp)
+![Guided District](04-006.guided-district.png)
 
 The few vagabonds to be found in Ank'Harel frequent the alleys in this district, where many temples send representatives to feed and clothe the downtrodden. The Hands of Ord also maintain a notable presence here.
 
@@ -481,7 +481,7 @@ Ord Bastion serves principally as the barracks and training center for the membe
 
 The Sigil District is one of the smaller districts in Ank'Harel but also one of the busiest. People from across the city commute here every day to study at the district's various centers of learning. From basic skills and trades to the most esoteric arcane ideals, various intellectual pursuits are represented in the Sigil District.
 
-![Sigil District](img/adventure/CRCotN/047-04-007.sigil-district.webp)
+![Sigil District](04-007.sigil-district.png)
 
 The Allegiance of Allsight is a pervasive presence in this district; many of the faction's members and affiliates are on the faculties and staffs of these schools. Institutions of learning constructed in Ank'Harel's infancy abut structures of more modern architecture, and buildings representing cultures from across Exandria are a counterpoint to the grand, Marquesian-style domes of the Crystal Chateau. At the heart of the district is the excavation that leads to Cael Morrow, the mysterious sunken city (see "Maw of Cael Morrow" below).
 
@@ -495,7 +495,7 @@ The Streets of the Sigil District map shows a small segment of the district asso
 - **S6: Lawbearer's Librams.** One of dozens of libraries in the Sigil District, this is the most extensive legal library in the city.
 - **S7: Boughs of the Wild Mother.** Students can be found studying in the shade of this courtyard's giant sycamore tree during the day. Some say a ghost lurks here at night (see "Consortium Mission 1: A Ghost in Our Midst" in the Consortium Story Track).
 
-![Streets of the Sigil District](img/adventure/CRCotN/048-map-4.2-Streets-of-the-Sigil-District.webp)![Player Version](img/adventure/CRCotN/049-map-4.2-Streets-of-the-Sigil-District-player.webp)
+![Streets of the Sigil District](map-4.2-Streets-of-the-Sigil-District.jpg)![Player Version](map-4.2-Streets-of-the-Sigil-District-player.jpg)
 #### Crystal Chateau
 
 *Elite University and Headquarters of the Allegiance of Allsight*
@@ -536,7 +536,7 @@ Academic schedules at Teres Schoolhouse are typically divided into two semesters
 
 Crimson banners, hanging flags of all colors, and cloth drapery that provides shade over the crowded streets herald the entrance to the Suncut Bazaar, the center of commerce in Ank'Harel. Awnings stretch above open-air food stalls that offer treats ranging from fresh fruit to sweet semolina cakes to warm meat carved directly off a roasting spit. Most of the densely packed stone buildings are stores that sell artisan goods and shops that buy and sell magic items and nonmagical trinkets. In the center of the district lies the palatial Luck's Run casino.
 
-![Suncut Bazaar](img/adventure/CRCotN/050-04-009.suncut-bazaar.webp)
+![Suncut Bazaar](04-009.suncut-bazaar.png)
 
 The Streets of the Suncut Bazaar map shows a small segment of the district that comes into play in the faction missions later in the chapter. It includes the following locations:
 
@@ -550,7 +550,7 @@ The Streets of the Suncut Bazaar map shows a small segment of the district that 
 - **T8: First Eclipse.** Both a tavern and the secret headquarters of the Consortium of the Vermilion Dream, this venue is described below. Its roof is where the characters appear if they used one of Aloysia's *teleportation tablets* at the end of chapter 3.
 - **T9: Courtyard.** During business hours, hungry folk line up in front of the food stalls on the west side of this courtyard while others sit around the edge of the courtyard's fountain and share gossip.
 
-![Streets of the Suncut Bazaar](img/adventure/CRCotN/051-map-4.3-Streets-of-the-Suncut-Bazaar.webp)![Player Version](img/adventure/CRCotN/052-map-4.3-Streets-of-the-Suncut-Bazaar-player.webp)
+![Streets of the Suncut Bazaar](map-4.3-Streets-of-the-Suncut-Bazaar.jpg)![Player Version](map-4.3-Streets-of-the-Suncut-Bazaar-player.jpg)
 #### Bone Garden
 
 *Purveyor of Oddities and Exceptionalities*
@@ -601,11 +601,11 @@ Colorful tapestries frame the entrance to this establishment. Beyond the thresho
 
 The "soothsayer" is a charlatan named Amkezne, a chaotic neutral, tiefling **mage**. She is a Crystal Chateau dropout who makes a living defrauding wide-eyed tourists with her mystical displays and fake enchanted trinkets. Customers who see through her act but treat her with respect can purchase any spell component worth 1,000 gp or less from Amkezne. She also has a collection of fine jewelry for sale, including five gold bracelets (25 gp each), three gem-studded gold rings (250 gp each), and two jewel-encrusted necklaces and tiaras (750 gp each). An **invisible stalker** watches over this collection and attacks anyone who tries to steal from it.
 
-![{@creature Ruidium Elephant|CRCotN} in Figurine Form](img/adventure/CRCotN/053-04-008.ruidium-elephant.webp)
+![{@creature Ruidium Elephant|CRCotN} in Figurine Form](04-008.ruidium-elephant.png)
 
 ## Faction Story Tracks
 
-![A {@item Figurine of Wondrous Power, Marble Elephant|DMG|figurine of wondrous power} corrupted by ruidium transforms into a rampaging crystalline elephant](img/adventure/CRCotN/054-04-010.corrupted-ruidium-figurine.webp)
+![A {@item Figurine of Wondrous Power, Marble Elephant|DMG|figurine of wondrous power} corrupted by ruidium transforms into a rampaging crystalline elephant](04-010.corrupted-ruidium-figurine.png)
 
 ## What Lies Beneath
 
@@ -774,7 +774,7 @@ If the characters agree to help, Prolix points them toward his friend, Bookkeepe
 
 When the characters go to the Omnival Library, Khime greets them from behind the front desk. He isn't a member of the Allegiance of Allsight, but he is willing to assist the characters by producing the following information from the library's archives:
 
-![The Maw of Cael Morrow is the only known entrance to the Drowned City](img/adventure/CRCotN/055-04-011.maw-of-cael-morrow.webp)
+![The Maw of Cael Morrow is the only known entrance to the Drowned City](04-011.maw-of-cael-morrow.png)
 
 - **Expeditions to Cael Morrow.** The records contain only one mention of a ring: in the inventory of an expedition from two months ago, which was staffed by agents Anbara Flintbreaker and Idris Lornen and led by Professor Lymmle Wist. The log indicates that the group was accosted by a thief on its way back to the surface, but mention of what was stolen is missing from the record.
 - **Sentinels of Memory.** Allegiance documents confirm that the Sentinels of Memory are a new faction, established at around the time the project to explore the sunken ruins began. The documents assert that the Sentinels of Memory believe the so-called "Under-Temple" is a prison, meant to be kept sealed and forgotten.
@@ -1057,7 +1057,7 @@ The planned heist has four stages:
 
 ***Stage 4.*** **Getaway**. Inside the vault, **Koris** dismisses her gaseous form, dumps a total of 10,000 gp into her *bag of holding*, and then uses *dust of disappearance* to become invisible. Duskwood, disguised as Nedosi, unlocks the vault from the outside, pretends to inspect the interior as the invisible **Koris** escapes, and shuts it again. Characters standing guard outside the vault hear **Koris** slip past them with a successful DC 24 Wisdom (Perception) check. Duskwood and **Koris** both leave the third floor while Ena faints in the arms of a guard downstairs to create a minor distraction. Ena then heads outside to "get some air." If the other two thieves are not stopped, the pair reunites with Ena outside the casino, and all three escape into the night with their spoils.
 
-![{@creature Koris|CRCotN} flees the scene with adventurers in pursuit](img/adventure/CRCotN/056-04-012.koris-flees.webp)
+![{@creature Koris|CRCotN} flees the scene with adventurers in pursuit](04-012.koris-flees.png)
 
 ***Aiding and Abetting.*** If any of the thieves are approached privately about their intent, they offer the characters a cut of the stolen money, amounting to 800 gp, if they let the thieves perpetrate the heist. A character who makes a successful DC 11 Wisdom (Insight) check involving any of the three thieves discerns they are earnest about this offer.
 
@@ -1149,7 +1149,7 @@ If the characters aroused Kareema's suspicions or activated the trap in the base
 
 The three Allegiance members try to incapacitate the characters and reclaim any items that were removed from the vault. If Headmaster Cryon is reduced to fewer than 25 hit points, he curses and calls for a retreat, allowing the characters to get away.
 
-![Master {@creature Aradrine the Owl|CRCotN}](img/adventure/CRCotN/057-04-013.master-aradrine-the-owl.webp)
+![Master {@creature Aradrine the Owl|CRCotN}](04-013.master-aradrine-the-owl.png)
 
 #### Returning with the Elephant
 
@@ -1366,7 +1366,7 @@ The River District Canal map shows the following locations:
 - **Q2: Trees.** Several giant cedar trees grow in this district.
 - **Q3: Canal.** This 5-foot-deep, 20-foot-wide canal is one of many such watercourses in the River District. The canals have ropes or bridges over them to make pedestrian travel through the district easier.
 
-![River District Canal](img/adventure/CRCotN/058-map-4.4-River-District-Canal.webp)![Player Version](img/adventure/CRCotN/059-map-4.4-River-District-Canal-player.webp)
+![River District Canal](map-4.4-River-District-Canal.jpg)![Player Version](map-4.4-River-District-Canal-player.jpg)
 #### Bakery by the Canal
 
 When the characters arrive at Old Man Kruuk's bakery shortly after sunset, read or paraphrase the following:
@@ -1402,7 +1402,7 @@ The lockbox holds the *ruidium shortsword* that Kruuk plans to sell (see "A Deal
 
 Kruuk plans to meet one hour after sunset with **Ashann**, a chaotic neutral, gnome **occult extollant** (see *appendix A*) working for the Consortium of the Vermilion Dream. **Ashann** carries a pouch containing five peridots (500 gp each).
 
-![{@creature Ashann|CRCotN}](img/adventure/CRCotN/060-04-014.ashann.webp)
+![{@creature Ashann|CRCotN}](04-014.ashann.png)
 
 At the appointed time, **Ashann** arrives at Kruuk's bakery. If the characters haven't neutralized him, Kruuk leads **Ashann** to the back room (area Q1e) so she can examine the *ruidium shortsword*. If he has more than one potential buyer, Kruuk holds an impromptu auction in the back room and starts the bidding at 1,000 gp. **Ashann** can't afford to pay more than 2,500 gp for the shortsword, and she attacks anyone who bids over that amount. **Ashann** surrenders if she is reduced to 10 hit points or fewer.
 
