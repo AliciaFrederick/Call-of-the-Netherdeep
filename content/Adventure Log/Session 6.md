@@ -59,6 +59,8 @@ cssclasses:
 
 ##  Define secrets and clues
 
+- [ ] Bautha Dyrr
+	- [ ] Aloysia was injured when she tried to delve into the Betrayers' Rise alone—and now she's looking for mercenaries to explore it on her behalf
 - [ ] 
 
 ##  Develop fantastic locations
@@ -70,10 +72,10 @@ cssclasses:
 - [ ] [[Dermot Wurder]] 
 - [ ] [[Galsariad Ardyth]] 
 - [ ] [Verin Thelyss](https://5e.tools/bestiary.html#verin%20thelyss_crcotn) 
-- [ ] Reynard Allerton
-- [ ] Sebastian Allerton
-- [ ] Prolix Yusaf
-- [ ] 
+- [ ] Reynard Allerton - scout worker at the Crematorium
+- [ ] Sebastian Allerton - thug worker at the Crematorium
+- [ ] Prolix Yusaf - Scholarly Agent of the Allegiance of Allsight at the Crematorium
+- [ ] Bautha Dyrr - Drow Priest at the Infirmary
 
 ##  Choose relevant monsters
 
