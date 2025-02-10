@@ -31,6 +31,6 @@
 		</tr></tbody></table>
 ## Printable Image
 
-![](img/adventure/CRCotN/115-appendix-d-fragments.webp)
+![](appendix-d-fragments.jpg)
 
 ------

@@ -49,7 +49,7 @@ The Battle Chatter table gives examples of things the rivals might say in combat
 
 ### Tier 1 Rivals
 
-![](img/adventure/CRCotN/095-08-009.tier-1-rivals.webp)
+![](08-009.tier-1-rivals.png)
 
 The tier 1 rivals are fledgling adventurers who have gained a modicum of power through their individual exploits before the beginning of this story. They are seeking to write a grand tale of their own.
 
@@ -78,7 +78,7 @@ The tier 2 rivals are learning that their adventures take them into horrific pla
 
 Their journey has forced the tier 3 rivals to make decisions, sometimes out of grim necessity, that they might have not made earlier. All five suffer from ruidium corruption (see "Ruidium" in the *introduction*). When the characters encounter them, assume that the rivals have removed all levels of exhaustion from themselves through rest or magic, but the other effects of ruidium corruption remain.
 
-![Tier 3 Rivals (Left to Right): Ayo Jabe, Dermot Wurder, Maggie Keeneyes, Irvan Wastewalker, and Galsariad Ardyth](img/adventure/CRCotN/096-08-010.tier-3-rivals.webp)
+![Tier 3 Rivals (Left to Right): Ayo Jabe, Dermot Wurder, Maggie Keeneyes, Irvan Wastewalker, and Galsariad Ardyth](08-010.tier-3-rivals.png)
 
 If instead you want to weaken the rivals to make them less of a physical threat or reinforce the danger of ruidium corruption, you can give one or more of the rivals 1d4 levels of exhaustion each. In this case, you'll need to keep track of each rival's exhaustion level and the condition's corresponding effects (see "Exhaustion" in the *Player's Handbook*).
 

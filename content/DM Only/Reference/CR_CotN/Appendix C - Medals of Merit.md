@@ -35,6 +35,6 @@ The cards in *appendix D* are meant to be given to players whose characters gain
 		</tr></tbody></table>
 ## Printable Image
 
-![](img/adventure/CRCotN/115-appendix-c-medals.webp)
+![](appendix-c-medals.jpg)
 
 ------
