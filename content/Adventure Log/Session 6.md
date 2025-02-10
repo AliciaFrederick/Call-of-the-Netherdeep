@@ -55,7 +55,8 @@ cssclasses:
 
 ##  Outline potential scenes
 
-- [ ] 
+- [ ] [[Chapter 3 - Bazzoxan#Locations in Bazzoxan|Locations in Bazzoxan]] 
+- [ ] [[Chapter 3 - Bazzoxan#Bazzoxan Scenes]]
 
 ##  Define secrets and clues
 
