@@ -70,6 +70,7 @@ cssclasses:
 - [ ] [[Dermot Wurder]] 
 - [ ] [[Galsariad Ardyth]] 
 - [ ] [Verin Thelyss](https://5e.tools/bestiary.html#verin%20thelyss_crcotn) 
+- [ ] Reynard Allerton
 
 ##  Choose relevant monsters
 
