@@ -30,8 +30,8 @@ In addition, the final confrontation in this chapter is a duel for the possessio
 
 This chapter begins as two Aurora Watch **guards** guide the characters from the gate of Bazzoxan toward the Gatehold Barracks. Read or paraphrase the following as the characters enter the town:
 
->>From around the corner of a crumbling building, five twitching, skinless masses of blinking eyes and slavering mouths wriggle into view. One of them is shredding the flesh of a hapless soldier in three of its amorphous maws. Trumpets blare an alarm, and several Aurora Watch soldiers hurry into the streets. One of them, a male drow, pauses to address you. "Newcomers? No time for pleasantries—draw your weapons or get to safety! Find me at the barracks after!"
->>
+>From around the corner of a crumbling building, five twitching, skinless masses of blinking eyes and slavering mouths wriggle into view. One of them is shredding the flesh of a hapless soldier in three of its amorphous maws. Trumpets blare an alarm, and several Aurora Watch soldiers hurry into the streets. One of them, a male drow, pauses to address you. "Newcomers? No time for pleasantries—draw your weapons or get to safety! Find me at the barracks after!"
+
 
 ![A gibbering mouther threatens two Aurora Watch soldiers](03-002.gibbering-mouther-threat.png)
 
@@ -133,10 +133,10 @@ The crematorium is a simple stone building built against the mountainside.
 
 When the characters approach the building, read or paraphrase the following:
 
->>Thick, acrid smoke billows from the chimneys of this stone building. Corpses wrapped in beige cloth are stacked in a small yard northeast of the building.
->>
->>A willowy man wearing a leather apron greets you at the entrance with surprising cheer. "New bodies for Bazzoxan, I see!" Behind him stands a giant of a man: muscular, blue-eyed, with short-cropped hair and a missing arm.
->>
+>Thick, acrid smoke billows from the chimneys of this stone building. Corpses wrapped in beige cloth are stacked in a small yard northeast of the building.
+>
+>A willowy man wearing a leather apron greets you at the entrance with surprising cheer. "New bodies for Bazzoxan, I see!" Behind him stands a giant of a man: muscular, blue-eyed, with short-cropped hair and a missing arm.
+
 
 The two men are Reynard Allerton, a chaotic good **scout**, and his bigger, older brother, Sebastian Allerton, a neutral good **thug**. Their crematorium has two furnaces, each of which can hold up to four Medium bodies or one Large body at a time. The brothers are responsible for the proper disposal of corpses. Reynard seems to be the more gregarious of the siblings, although if the characters can coax Sebastian out of his silence with a joke or a kind remark, the older brother is also revealed to be a good-natured chatterbox.
 
@@ -148,7 +148,8 @@ Characters who are helping with the pile of bodies find the source of Reynard's 
 
 Before anyone can dispose of the vrock's remains, a commotion arises nearby:
 
->>"Wait! Stop!" a voice shouts from down the street. A bookish tiefling jogs into view. A variety of archaeology tools hang at his waist along with a satchel holding his notebooks. "You can't burn that yet. I need to study it!" Reaching into the satchel, he pulls out a badge and holds it up, as if the badge alone explained his reason for being here.
+>"Wait! Stop!" a voice shouts from down the street. A bookish tiefling jogs into view. A variety of archaeology tools hang at his waist along with a satchel holding his notebooks. "You can't burn that yet. I need to study it!" Reaching into the satchel, he pulls out a badge and holds it up, as if the badge alone explained his reason for being here.
+
 
 The tiefling is **Prolix Yusaf**, a lawful neutral **scholarly agent** (see *appendix A*) from the Allegiance of Allsight. His badge displays the symbol of his faction: a scroll bearing a single, watchful eye.
 
@@ -182,8 +183,8 @@ If the characters seem eager to learn more about the jewel, Prolix mentions meet
 
 Three buildings on the perimeter of the central square have doors marked with a symbol of a hand alight with magic, identifying them as places of healing. When the characters enter one of the buildings, read or paraphrase the following:
 
->>The walls are lined with shelves that hold old books and medical supplies. The floor is crammed with narrow cots. There's a small office in the back, its door ajar, and the air reeks of medicinal poultices.
->>
+>The walls are lined with shelves that hold old books and medical supplies. The floor is crammed with narrow cots. There's a small office in the back, its door ajar, and the air reeks of medicinal poultices.
+
 
 Inside, the characters find a lawful neutral, drow **priest** chatting with a young female drow, whose Aurora Watch armor and satchel are stacked nearby. Other wounded patients—most of them asleep—fill the infirmary beds.
 
@@ -195,13 +196,13 @@ Bautha is familiar with **Prolix Yusaf** and **Aloysia Telfan**, since both indi
 
 ***Bautha and the Jewel.*** If the characters show Bautha the *Jewel of Three Prayers*, identify it by name, and ask her about it, she doesn't recognize it, but something about the name reminds her of an old tale. She thinks for a moment, then says:
 
->>"Three prayers... Oh! You know, it must be that old story about the champion of three gods. Goodness gracious, I can't believe I remembered it. It's a fragment of a fragment of a legend, even in temples in Vasselheim and Ank'Harel." She clears her throat. "Long ago, a hero of the Calamity begged for aid from three different gods in his time of need. Avandra the Change Bringer was one of them, and I think Sehanine the Moon Weaver was another. And, uh, I'm afraid I don't remember anything else."
->>
+>"Three prayers... Oh! You know, it must be that old story about the champion of three gods. Goodness gracious, I can't believe I remembered it. It's a fragment of a fragment of a legend, even in temples in Vasselheim and Ank'Harel." She clears her throat. "Long ago, a hero of the Calamity begged for aid from three different gods in his time of need. Avandra the Change Bringer was one of them, and I think Sehanine the Moon Weaver was another. And, uh, I'm afraid I don't remember anything else."
+
 
 As the characters prepare to leave the infirmary, Bautha suddenly recalls one other detail:
 
->>"This might be a fiction, but Avandra is said to have grieved for the hero—not because he had died, but because she feared her aid forced him to give up so much of himself that he would be robbed of a future."
->>
+>"This might be a fiction, but Avandra is said to have grieved for the hero—not because he had died, but because she feared her aid forced him to give up so much of himself that he would be robbed of a future."
+
 
 ***Naevyn's Request.*** As the characters make their way to the exit, the wounded member of the Aurora Watch calls for the characters to approach her cot. Her body is covered with wounds she received in the gibbering mouther attack.
 
@@ -213,8 +214,8 @@ The Aurora Watch's command center is located in the Gatehold Barracks. The compl
 
 When the characters enter this area for the first time, read or paraphrase the following:
 
->>These barracks are filled with the sounds of chatter, voices shouting orders, and clanging metal. Armored Aurora Watch soldiers go about their business, performing drills and sharpening weapons.
->>
+>These barracks are filled with the sounds of chatter, voices shouting orders, and clanging metal. Armored Aurora Watch soldiers go about their business, performing drills and sharpening weapons.
+
 
 The barracks are divided into four main sections: the war room, the mess hall, the training area, and the sleeping quarters. If Taskhand **Verin Thelyss** is expecting the characters, a soldier is waiting for them and leads them to the war room.
 
@@ -232,8 +233,8 @@ If the characters ask Verin to share his thoughts regarding Bazzoxan's connectio
 
 If the characters tell Verin that they intend to journey to the Betrayers' Rise, he asks them to proceed with caution—and to retreat if they think they're getting in over their heads, since he can't afford to send soldiers to help them. He explains:
 
->>"The Betrayers' Rise is... challenging to navigate. Its passages shift to confuse mapmakers and search parties. I think the power of the Abyss flows through it, warping the environment so no two groups follow the same path through it. Whether it's demon magic or not doesn't really matter; all I know is that if you get lost down there, my soldiers won't be able to find you."
->>
+>"The Betrayers' Rise is... challenging to navigate. Its passages shift to confuse mapmakers and search parties. I think the power of the Abyss flows through it, warping the environment so no two groups follow the same path through it. Whether it's demon magic or not doesn't really matter; all I know is that if you get lost down there, my soldiers won't be able to find you."
+
 
 ***Mess Hall.*** The mess hall, on the west side of the area, is filled with tables and plain wooden chairs. Though it's meant to be for soldiers, food here is doled out to anyone who asks. The repast consists of gruel, plain vegetables, bread, tough meat, and smoked fish.
 
@@ -258,8 +259,8 @@ What was once a flourishing, spiral-shaped temple has fallen into disrepair afte
 
 When the characters enter the area, read or paraphrase the following:
 
->>Glass crunches underfoot amid overgrown weeds. Collapsed walls have been replaced with rows of wooden shelves that hold earthenware pots. Numerous alcoves are being used as planters for stubborn flora. Just outside the far end of the enclosure, a smashed mosaic of stained glass sits in a splintered window frame next to a withered, skeletal tree.
->>
+>Glass crunches underfoot amid overgrown weeds. Collapsed walls have been replaced with rows of wooden shelves that hold earthenware pots. Numerous alcoves are being used as planters for stubborn flora. Just outside the far end of the enclosure, a smashed mosaic of stained glass sits in a splintered window frame next to a withered, skeletal tree.
+
 
 A character who makes a successful DC 17 Intelligence (Religion) check can piece together that the mosaic once depicted a woman's face on a golden disk: the iconography of Avandra the Change Bringer.
 
@@ -273,14 +274,14 @@ A character who makes a successful DC 17 Intelligence (Religion) check can piece
 - He is a follower of Melora the Wild Mother, but he recognizes the temple as a former holy place of Avandra the Change Bringer. He hopes to honor both deities by cultivating new life in the midst of the death and destruction that haunts this place.
 - While meditating the other night, he felt something surge within the earth nearby—a warm and kindly presence reminiscent of the Prime Deities. He suspects the presence is a sign that a relic of the Calamity has awakened within the Betrayers' Rise.
 
-> ##### Firbolgs of Exandria
+> [!INFO] Firbolgs of Exandria
 >
 >Firbolgs are forest-dwelling Humanoids native to the Greying Wildlands of Wildemount. They are on the tall side of Medium, and their bodies are covered with thick fur ranging in color from tones of brown and ruddy red to cool gray and blue, and occasionally in hues of pink or green. They have floppy, pointed ears and broad, pink noses.
 >
 >A firbolg nonplayer character encountered in Exandria might have one or both of the following traits:
 >
 >***Powerful Build.*** The firbolg counts as one size larger when determining its carrying capacity and the weight it can push, drag, or lift.
-
+>
 >***Speech of Beast and Leaf.*** The firbolg can communicate in a limited way with Beasts and Plants. These creatures understand the meaning of the firbolg's words, though the firbolg has no ability to understand their languages. In addition, the firbolg has advantage on Charisma checks it makes to influence a Beast or Plant.
 
 ***Foghome and the Jewel.*** If asked about the *Jewel of Three Prayers*, **Foghome** has no recollection of an item bearing that name. If he examines the jewel, he correctly senses three fragments of divine power within it, one awake and two slumbering. He also tells the characters that one of the fragments in the jewel is similar to the presence he felt within the earth while he was meditating.
@@ -289,15 +290,15 @@ A character who makes a successful DC 17 Intelligence (Religion) check can piece
 
 If the characters take him up on his offer, they receive a vision during **Foghome**'s meditation:
 
->>You see a young human, curls plastered to his brow by sweat, sinking to his knees in the garden. His eyes betray a lack of sleep, and despite the softness of his features, he looks like he has experienced more pain than any one person should bear. "They're counting on me," he whispers. "They need me, but I'm exhausted and frightened. What do I do? Please. Someone tell me—what do I do?"
->>
->>The moons race across the sky, soon replaced by the angry red sun that rises before a fateful battle. Five silhouettes approach the temple, and one claps the kneeling figure on the back. Their voices are muffled, as if coming at you through water, but you see them embrace, standing strong, before marching off to war.
->>
+>You see a young human, curls plastered to his brow by sweat, sinking to his knees in the garden. His eyes betray a lack of sleep, and despite the softness of his features, he looks like he has experienced more pain than any one person should bear. "They're counting on me," he whispers. "They need me, but I'm exhausted and frightened. What do I do? Please. Someone tell me—what do I do?"
+>
+>The moons race across the sky, soon replaced by the angry red sun that rises before a fateful battle. Five silhouettes approach the temple, and one claps the kneeling figure on the back. Their voices are muffled, as if coming at you through water, but you see them embrace, standing strong, before marching off to war.
+
 
 When the vision concludes, the characters fall prone on the ground, having momentarily passed out. **Foghome** doesn't see the vision, but he sees the characters fall unconscious and then awaken moments later. If they admit to seeing the vision, he asks them to describe it before nodding slowly and explaining he has seen the vision before. He believes the central figure in the vision to be a hero of the Calamity and recounts the old stories of Bazzoxan's origin:
 
->>"The Kryn capital of Rosohna was the Betrayer Gods' citadel of Ghor Dranas in the time before the Calamity, and the Betrayers' Rise was once a fortress protecting Ghor Dranas. In the darkest days of the Calamity, the Prime Deities and their most loyal champions laid siege to Ghor Dranas before capturing the Betrayers' Rise and routing the Betrayer Gods' forces there. Though storytellers have long since forgotten the names of many of those heroes, the force of their bonds still resonates across the land."
->>
+>"The Kryn capital of Rosohna was the Betrayer Gods' citadel of Ghor Dranas in the time before the Calamity, and the Betrayers' Rise was once a fortress protecting Ghor Dranas. In the darkest days of the Calamity, the Prime Deities and their most loyal champions laid siege to Ghor Dranas before capturing the Betrayers' Rise and routing the Betrayer Gods' forces there. Though storytellers have long since forgotten the names of many of those heroes, the force of their bonds still resonates across the land."
+
 
 If the characters ask him to elaborate, **Foghome** draws their attention to several alcoves where the plants are markedly healthier than the rest of those within the temple. Engraved on the back walls of the alcoves are the following timeworn words in Common (parts of the messages that are no longer legible are indicated by dashes):
 
@@ -309,8 +310,8 @@ If the characters ask him to elaborate, **Foghome** draws their attention to sev
 
 #### B6: Wall of the Unforgotten
 
->>A stretch of stone wall is carved with names and wreathed in dried flowers, silver necklaces, and ropes weighted with good-luck charms. The ground near the wall is cluttered with trinkets left there as offerings. A drow of the Aurora Watch prays near a corner of the wall.
->>
+>A stretch of stone wall is carved with names and wreathed in dried flowers, silver necklaces, and ropes weighted with good-luck charms. The ground near the wall is cluttered with trinkets left there as offerings. A drow of the Aurora Watch prays near a corner of the wall.
+
 
 The Wall of the Unforgotten is a memorial site for the soldiers of the Aurora Watch. The wall is crowded with names, most scratched into the surface with knives.
 
@@ -326,8 +327,8 @@ Kalym returns to duty after imparting his gifts. He has no useful information ab
 
 The Ready Room is Bazzoxan's only inn and one of the only structures in town that doesn't look like a military barracks:
 
->>A large barn with a steeply pointed roof looms over the battered structures near the center of town. Over the double door hangs a sign that bears the tavern's name, The Ready Room, in Undercommon, Orc, Goblin, and Common.
->>
+>A large barn with a steeply pointed roof looms over the battered structures near the center of town. Over the double door hangs a sign that bears the tavern's name, The Ready Room, in Undercommon, Orc, Goblin, and Common.
+
 
 The Ready Room is run by Delez and Prima Demona, a brother-and-sister team who are both lawful neutral **drow**. Delez runs the bar and the kitchen and handles most interactions with customers, while Prima manages the finances and inventory.
 
@@ -341,8 +342,8 @@ A tankard of beer costs 1 cp, while a bowl of mushy rice and overcooked fish cos
 
 The tiefling doesn't take notice of the characters unless they make contact first, at which point she performs an awkward little bow. After introducing herself, Question launches into an excited spiel:
 
->>"Tell me you feel it, too," says the tiefling with a grin. "My comrades don't, but I do. The history surrounding this place. The romance of heroes fighting against impossible odds, sacrificing everything for the sake of defending the world. All done for people who would never know them, never think of them, never be able to thank them. Simply because it was the right thing to do. And ages later, we now see the Aurora Watch somehow doing the same. And they don't even know it!"
->>
+>"Tell me you feel it, too," says the tiefling with a grin. "My comrades don't, but I do. The history surrounding this place. The romance of heroes fighting against impossible odds, sacrificing everything for the sake of defending the world. All done for people who would never know them, never think of them, never be able to thank them. Simply because it was the right thing to do. And ages later, we now see the Aurora Watch somehow doing the same. And they don't even know it!"
+
 
 Question calls this phenomenon, related to the cyclical nature of history, "mythic resonance." She believes that acts of monumental courage leave an impression on the world that lingers after all memory of the deeds has faded. Question theorizes that this has occurred in Bazzoxan, and the ancient battles of the Calamity are still echoing here today.
 
@@ -380,10 +381,10 @@ Any time while in Bazzoxan, the characters can choose to travel north to the Bet
 
 A steep, winding staircase, wide enough for four Medium creatures to walk abreast, leads to a large gate built into the facade of the Betrayers' Rise. Read or paraphrase the following when the characters come close enough to see the details of the structure:
 
->>The Betrayers' Rise is both ominous and beautiful. Its black walls are carved with intricate reliefs, many of them depicting scenes of torture. Lifelike grotesques of leering demons perch high above, peering down at you with contempt.
->>
->>An immense double door forms the entrance. This gate is made of onyx inlaid with copper and silver. Guards of the Aurora Watch stand between you and the demonic fortress.
->>
+>The Betrayers' Rise is both ominous and beautiful. Its black walls are carved with intricate reliefs, many of them depicting scenes of torture. Lifelike grotesques of leering demons perch high above, peering down at you with contempt.
+>
+>An immense double door forms the entrance. This gate is made of onyx inlaid with copper and silver. Guards of the Aurora Watch stand between you and the demonic fortress.
+
 
 The Betrayer Gods used demons to defend this fortress-temple against the Prime Deities. The scenes depicted on the fortress walls depict the Prime Deities being tormented. The outer doors are extremely heavy but well balanced and require a combined Strength of 44 to open or close.
 
@@ -393,8 +394,8 @@ The Aurora Watch has 2d6 **veterans** (drow, humans, and orcs) stationed outside
 
 As the characters examine the Betrayers' Rise and its entrance more closely, read:
 
->>Shouting erupts from the soldiers just as the colossal doors fly open. Two shadowy, winged creatures burst through the opening, immediately take flight, and screech as they dive toward you, their ebon talons extended.
->>
+>Shouting erupts from the soldiers just as the colossal doors fly open. Two shadowy, winged creatures burst through the opening, immediately take flight, and screech as they dive toward you, their ebon talons extended.
+
 
 The escaped creatures are two **gloomstalkers** (see *appendix A*). The soldiers stationed outside can assist the characters in battling the gloomstalkers, or you can have them rush inside to help three gravely injured Aurora Watch soldiers (lawful good, orc **knights**) in area R1.
 
@@ -450,13 +451,13 @@ The following locations are keyed to the Betrayers' Rise map.
 
 When the characters enter the Betrayers' Rise, read:
 
->>You stand on a bloodstained bridge that extends over a chasm of swirling silver mist. On the far side of the bridge is a closed double door of black stone inscribed with a circle containing the profile of a smiling woman. The symbol is gouged with deep marks, as if something with claws has tried, but failed, to scour it from the stone.
->>
+>You stand on a bloodstained bridge that extends over a chasm of swirling silver mist. On the far side of the bridge is a closed double door of black stone inscribed with a circle containing the profile of a smiling woman. The symbol is gouged with deep marks, as if something with claws has tried, but failed, to scour it from the stone.
+
 
 A character who succeeds on a DC 10 Intelligence (Religion) check recognizes the engraving as the symbol of Avandra the Change Bringer. If the characters have the *Jewel of Three Prayers*, add:
 
->>This double door begins to radiate faint crimson light. The light slowly pulses, as if beckoning you to touch it. The *Jewel of Three Prayers* grows warm to the touch and pulses in sync with the glowing door.
->>
+>This double door begins to radiate faint crimson light. The light slowly pulses, as if beckoning you to touch it. The *Jewel of Three Prayers* grows warm to the touch and pulses in sync with the glowing door.
+
 
 The characters can't pass through the double door leading to area R2 unless they have the *Jewel of Three Prayers*. The doors glow whenever the jewel comes within 20 feet of them. While the doors glow, they can be opened with a gentle touch; they can't be opened by any other method. If the characters don't have the jewel, they must turn back and try to acquire it from their rivals, or they can descend into the misty chasm beneath them (see "Misty Chasm" below) if they have the means to do so safely.
 
@@ -464,15 +465,15 @@ The characters can't pass through the double door leading to area R2 unless they
 
 ***Misty Chasm.*** Beneath the bridge is an 80-foot-long vertical shaft that opens into a 1,000-foot-deep chasm (see area R15) shrouded in silvery mist. Any character who listens intently hears hissing voices emanating from inside the chasm. The voices say the following in Common:
 
->>"Together. Yes, we can break them together. Come to us. Let us catch you. Let us have you. Come to us. We won't let you fall."
->>
+>"Together. Yes, we can break them together. Come to us. Let us catch you. Let us have you. Come to us. We won't let you fall."
+
 
 The shaft leading down to the chasm is too sheer to climb without the use of magic or climbing gear. Any character who falls into the chasm takes 70 (20d6) bludgeoning damage from the plunge.
 
 #### R2: Hall of Holes
 
->>The walls of this hallway are covered with carvings that depict a great battle involving mortals, celestials, and fiends. A faint whistling noise emerges from the walls, sounding almost like snoring.
->>
+>The walls of this hallway are covered with carvings that depict a great battle involving mortals, celestials, and fiends. A faint whistling noise emerges from the walls, sounding almost like snoring.
+
 
 A character who succeeds on a DC 15 Intelligence (History) check recognizes that the wall carvings depict the Battle of the Barbed Fields. This fight was a climactic battle of the Calamity, in which the devotees of the Prime Deities broke through the garrison at the Betrayers' Rise and reached the walls of Ghor Dranas. Prominently depicted in one scene is a proud, melancholy warrior with curly hair and carrying a spear and shield. By his side are two figures; a white-haired girl no more than twelve years old, and a young adult woman with hair that flows behind her, turning into a road upon which countless soldiers march. A character who makes a successful DC 10 Intelligence (Religion) check realizes that the latter two figures are common depictions of the gods Sehanine the Moon Weaver and Avandra the Change Bringer.
 
@@ -482,8 +483,8 @@ No check is needed to identify the source of the snoring sound: it comes from th
 
 #### R3: Vestibule
 
->>This chamber is empty except for a skull-shaped vase on a small, semicircular table resting against the back wall of an alcove in the north wall. Six narrower alcoves line the east and west walls. The northeast alcove seems to have once led to a hallway, but it has caved in.
->>
+>This chamber is empty except for a skull-shaped vase on a small, semicircular table resting against the back wall of an alcove in the north wall. Six narrower alcoves line the east and west walls. The northeast alcove seems to have once led to a hallway, but it has caved in.
+
 
 A character can clear the rubble blocking the northeast hallway in 1 hour; reduce the time proportionately if other characters assist. If the rubble is cleared, characters can follow the tunnel beyond it that leads to area R8.
 
@@ -510,10 +511,10 @@ Characters are deafened while in this corridor. The only sound any of them can h
 
 #### R5: Flagellant's Path
 
->>You enter a chamber that reeks of death and incense. To the west is an open archway that leads into a small side room, and to the north is a hallway flanked by two statues of swollen, worm-bodied abominations, each with three arms and the hairless head of a howling, fang-toothed man wearing a crown of black spikes.
->>
->>The hallway past the statues is lined with dozens of curved, quivering blades and ends at a double door. Mounted above the double doors is an eight-inch-tall canister made of translucent crystal.
->>
+>You enter a chamber that reeks of death and incense. To the west is an open archway that leads into a small side room, and to the north is a hallway flanked by two statues of swollen, worm-bodied abominations, each with three arms and the hairless head of a howling, fang-toothed man wearing a crown of black spikes.
+>
+>The hallway past the statues is lined with dozens of curved, quivering blades and ends at a double door. Mounted above the double doors is an eight-inch-tall canister made of translucent crystal.
+
 
 A character who succeeds on a DC 13 Intelligence (Religion) check recognizes the statues as depictions of Torog the Crawling King, god of enslavement and torture. Characters who have a passive Wisdom (Perception) score of 12 or higher notice a phrase written in Undercommon on the floor between the two statues that reads: "Revel in the pain you inflict on others. Relish the pain you suffer yourself as an offering to the Crawling King."
 
@@ -521,8 +522,8 @@ A character who succeeds on a DC 13 Intelligence (Religion) check recognizes the
 
 The first time a character takes damage from the blades, read or paraphrase the following:
 
->>A dim burgundy glow suffuses the corridor, illuminating every razor-sharp bit of metal as dark fluid begins to pour into the canister above the double door.
->>
+>A dim burgundy glow suffuses the corridor, illuminating every razor-sharp bit of metal as dark fluid begins to pour into the canister above the double door.
+
 
 ***Opening the Double Door.*** The double door at the north end of the corridor can be opened only after the crystal canister is filled with blood or demonic ichor. To meet this requirement, the bladed walls must deal a total of 70 slashing damage to creatures that have blood or demonic ichor in their bodies. A character within reach of the canister can pour blood into it; each ounce of blood poured into the canister reduces by 5 the amount of damage needed to open the doors.
 
@@ -536,8 +537,8 @@ Opening the door to this room releases three hostile **flameskulls**—the remai
 
 ![Torturers who served the Betrayer Gods linger on as flameskulls](03-006.lingering-flameskulls.png)
 
->>The floor of this small room is crusted with dried blood, and the walls are lined with hooks, spiked whips, and other implements of torture or self-flagellation. Slouched in a corner is a desiccated human body in acolyte's robes.
->>
+>The floor of this small room is crusted with dried blood, and the walls are lined with hooks, spiked whips, and other implements of torture or self-flagellation. Slouched in a corner is a desiccated human body in acolyte's robes.
+
 
 ***Treasure.*** A character who searches the corpse finds a pouch containing 22 gp and four stoppered vials that each contain 1 ounce of blood. This blood can be poured into the canister at the north end of the Flagellant's Path (see area R5 for details).
 
@@ -549,8 +550,8 @@ As the characters make their descent, the sound of distant wailing (emanating fr
 
 #### R8: Spiders' Chancel
 
->>A haunting song echoes through this half-collapsed chamber, interspersed with a clicking sound that seems to reverberate in your bones. Thick spiderwebs, giving off a pale green glow, stretch from floor to ceiling. Crawling in the webs are two giant spiders and two creatures that look like drow but with the lower bodies of monstrous spiders. Four corpses cocooned in webs rest atop the debris near the west wall.
->>
+>A haunting song echoes through this half-collapsed chamber, interspersed with a clicking sound that seems to reverberate in your bones. Thick spiderwebs, giving off a pale green glow, stretch from floor to ceiling. Crawling in the webs are two giant spiders and two creatures that look like drow but with the lower bodies of monstrous spiders. Four corpses cocooned in webs rest atop the debris near the west wall.
+
 
 The two **driders** are former drow warriors of the Aurora Watch mutated by the demonic magic of Lolth the Spider Queen. The two **giant spiders** in this area have also been tainted, changing their type to Fiend.
 
@@ -560,8 +561,8 @@ The driders and the giant spiders attack intruders on sight, pursuing those that
 
 A character who spends 10 minutes searching the small chamber finds a book buried in the debris, opened to a page that shows a drawing of a stained-glass window. Written beneath the drawing is the following mantra:
 
->>"First praise be to the Spider Queen, whose kingdom was forsaken. Next, exult the Ruiner, whose spear shook the green earth. In turn, pay homage to Oblivion and the ending of all things. And last, I give myself to the Crawling King."
->>
+>"First praise be to the Spider Queen, whose kingdom was forsaken. Next, exult the Ruiner, whose spear shook the green earth. In turn, pay homage to Oblivion and the ending of all things. And last, I give myself to the Crawling King."
+
 
 A character who can read the writing and succeeds on a DC 15 Intelligence check realizes that this is a code or instruction. (It provides the correct sequence of sigils to touch to open the stained-glass mural in area R9.)
 
@@ -571,13 +572,11 @@ A character who can read the writing and succeeds on a DC 15 Intelligence check 
 
 #### R9: Basilica of Revelry
 
->>Two rows of black stone pillars marbled with white veins support the vaulted ceiling of this hall, the floor of which is polished to a mirror-like sheen. Ornate brass braziers rest at the feet of four of the pillars, and faint music fills the hall.
->>
+>Two rows of black stone pillars marbled with white veins support the vaulted ceiling of this hall, the floor of which is polished to a mirror-like sheen. Ornate brass braziers rest at the feet of four of the pillars, and faint music fills the hall.
 
 The music has no readily identifiable source, and the four braziers are bolted to the floor. If one or more characters enter the room, read:
 
->>The four braziers ignite, their bowls filling with pale flames that coalesce into dancing, humanoid forms. The glow from the flames glints off the north wall, where a towering mosaic of stained glass depicts a maelstrom of color, within which are nine symbols. The image shifts even as you stare at it.
->>
+>The four braziers ignite, their bowls filling with pale flames that coalesce into dancing, humanoid forms. The glow from the flames glints off the north wall, where a towering mosaic of stained glass depicts a maelstrom of color, within which are nine symbols. The image shifts even as you stare at it.
 
 Each **dancing flame** uses the **succubus**/**incubus** stat block, with these changes:
 
@@ -622,10 +621,9 @@ If destroyed, the stained-glass window repairs itself after 1 hour.
 
 #### R10: Supplicant's Pit
 
->>The walls of this hallway are decorated with carvings of supine figures and chained bodies. The floor is covered by a nest of black chains.
->>
->>The sound of distant wailing comes from a dark, circular hole in the floor at the north end of the hall.
->>
+>The walls of this hallway are decorated with carvings of supine figures and chained bodies. The floor is covered by a nest of black chains.
+>
+>The sound of distant wailing comes from a dark, circular hole in the floor at the north end of the hall.
 
 A creature that enters this hall immediately feels weighed down and senses a terrible dread clawing at the back of its mind. The creature must make a DC 14 Wisdom saving throw and succeeds automatically if it is immune to the charmed or frightened condition. On a failed save, the creature falls prone and its speed is reduced to 0 as it is forced to grovel before an unseen presence. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Once a creature succeeds on the saving throw, it gains immunity to this effect for the next 24 hours.
 
@@ -641,10 +639,9 @@ From this area, the wailing in R12 is loud and impossible to ignore.
 
 #### R12: Threshold of the Excoriated
 
->>The awful wailing noise gets even louder as you approach this chamber. A beam of light from above illuminates a statue in the middle of the room. The statue, made of pale marble, is shaped like a man on his knees, arms pinioned behind his back, trussed up in chains that cut into his skin. Hooks line the corners of the figure's mouth, pulling his lips away from his teeth, and smaller barbs encircle his eyes, holding the eyelids open. All the while, hideous noise comes out of the statue's open mouth—yet still, its expression is one of ecstasy. A double door made of iron is set into the statue's chest; these surfaces have no handles.
->>
->>A triangle, each side forty feet long, is carved into the floor around the statue, surrounding it. At each of the triangle's points, a stone arm juts up from the floor with its hand outstretched.
->>
+>The awful wailing noise gets even louder as you approach this chamber. A beam of light from above illuminates a statue in the middle of the room. The statue, made of pale marble, is shaped like a man on his knees, arms pinioned behind his back, trussed up in chains that cut into his skin. Hooks line the corners of the figure's mouth, pulling his lips away from his teeth, and smaller barbs encircle his eyes, holding the eyelids open. All the while, hideous noise comes out of the statue's open mouth—yet still, its expression is one of ecstasy. A double door made of iron is set into the statue's chest; these surfaces have no handles.
+>
+>A triangle, each side forty feet long, is carved into the floor around the statue, surrounding it. At each of the triangle's points, a stone arm juts up from the floor with its hand outstretched.
 
 A *detect magic* spell reveals an aura of abjuration magic emanating from the iron doors in the statue's chest. Similar auras are apparent in the palms of the stone arms that are within the spell's range.
 
@@ -679,8 +676,7 @@ After choosing three paths, the characters emerge at one of the entrances. If th
 
 #### R14: Blood Font of the Ruiner
 
->>This chamber has a flat, fifty-foot-high ceiling, and its black stone walls are covered with deep gouges and lined with alcoves to the east and west. In the middle of the area is a circular pool filled to the brim with blood. Standing in the pool are two seven-foot-tall orcs, one pouring blood from a golden bowl over the other's head. The creatures snarl and turn to you.
->>
+>This chamber has a flat, fifty-foot-high ceiling, and its black stone walls are covered with deep gouges and lined with alcoves to the east and west. In the middle of the area is a circular pool filled to the brim with blood. Standing in the pool are two seven-foot-tall orcs, one pouring blood from a golden bowl over the other's head. The creatures snarl and turn to you.
 
 The **creatures** are two **orc war chiefs** that were once valiant soldiers of the Aurora Watch. Both have been corrupted by demonic magic and have the following changes to their statistics:
 
@@ -706,8 +702,7 @@ A short hallway connects area R14 with the chasm south of it. The archway at the
 
 Describe the stone-carved face as follows when one or more characters can see it:
 
->>A snarling face of stone is carved into the north wall of the foggy chasm, its gaping mouth forming the entrance to a hallway. Fire blazes in one of the face's eye sockets, and its fangs are stained with blood.
->>
+>A snarling face of stone is carved into the north wall of the foggy chasm, its gaping mouth forming the entrance to a hallway. Fire blazes in one of the face's eye sockets, and its fangs are stained with blood.
 
 The 1,000-foot-deep chasm swirls with fog that makes the entire area lightly obscured. The carving of Gruumsh's face is 100 feet below the opening in the ceiling to area R1 and 900 feet above the chasm's floor.
 
@@ -729,8 +724,7 @@ A creature caught in the cyclone is trapped there and takes 14 (4d6) poison dama
 
 The only way to access this chamber is by going through the doors in the statue in area R12. When the characters follow the passageway inside the statue, read:
 
->>The passage defies reality, distorting any sense of direction as it twists and turns, making its way through the earth to another place deep inside the Betrayers' Rise. The passage ends on the east side of a circular chamber. Its walls are covered with softly glowing amber-colored crystals that fill a crater at the room's center. At the bottom of the crater sits an altar made of the same crystal.
->>
+>The passage defies reality, distorting any sense of direction as it twists and turns, making its way through the earth to another place deep inside the Betrayers' Rise. The passage ends on the east side of a circular chamber. Its walls are covered with softly glowing amber-colored crystals that fill a crater at the room's center. At the bottom of the crater sits an altar made of the same crystal.
 
 ![The key to awakening the {@item Jewel of Three Prayers|CRCotN} lies at the bottom of this crystal crater](03-009.crystal-crater.png)
 
@@ -738,23 +732,21 @@ This location is the prayer site where Avandra saved Alyxian from death and gran
 
 ***Curse of the Crawling King.*** Creatures that were affected by the curse of Torog in area R12 can rid themselves of the curse by entering this area. If any of the characters were cursed when they arrived here, describe the end of the effect as follows:
 
->>Your incessant urge to kill is gone, replaced by a torrent of noise that coalesces into a threatening scream.
->>
->>"Change Bringer! Your luck shall not hold!"
->>
->>The voice echoes in your mind and then becomes silent. The sheltering embrace of Avandra's lingering presence has dispelled the curse of the Crawling King.
->>
+>Your incessant urge to kill is gone, replaced by a torrent of noise that coalesces into a threatening scream.
+>
+>"Change Bringer! Your luck shall not hold!"
+>
+>The voice echoes in your mind and then becomes silent. The sheltering embrace of Avandra's lingering presence has dispelled the curse of the Crawling King.
 
 ***The Jewel Awakens.*** If a character who has the *Jewel of Three Prayers* reaches the bottom of the crater, the jewel tugs the character in the direction of the altar, as if it wants to be placed there. If the jewel is placed on the altar, all the characters in this chamber experience the following vision:
 
->>A spectral figure blossoms forth from the amulet. This warrior, who called himself Alyxian in your previous vision, looks up at you with a faint smile and says, "You came... you followed... you can find me." The crystals around you glow brightly, and your vision goes white. Then you see a company of armored soldiers, Alyxian among them, marching into the Betrayers' Rise. Their expressions are grim. Though they do not speak, you can tell that none of them expects to come home.
->>
->>The vision shifts again, and everyone in the company of soldiers is dead except for Alyxian, who continues to fight while surrounded by the corpses of mortals and demons. He is hurled across the battlefield by the claws of a gorilla-like demon. The scene blurs, and he falls to his knees, pleading, before a simple wooden altar that bears the holy symbol of Avandra. At the end of his prayer, he's lifted to his feet by a tall young woman with light brown skin and flowing black hair.
->>
->>A foreboding voice cuts through this scene of divine intervention, and Alyxian freezes. "The Change Bringer and a mortal," the voice intones. "What brings you into my sacred, devouring darkness? Even if you save him, Change Bringer, he will suffer. He will die. He will be forgotten. All that he has worked to save will crumble and be devoured by worms. Why invite further suffering? Let go. Give in. All is futile in the end, so why..."
->>
->>As the voice trails off, Alyxian turns to face you and falls to his knees in tears. The scenery shifts, and the forsaken warrior is now underwater, amid the ruins of a sunken city. "The Crawling King spoke true," he mutters. "All was futile. All has been forgotten... and I am lost in darkness. Please, help me set it right."
->>
+>A spectral figure blossoms forth from the amulet. This warrior, who called himself Alyxian in your previous vision, looks up at you with a faint smile and says, "You came... you followed... you can find me." The crystals around you glow brightly, and your vision goes white. Then you see a company of armored soldiers, Alyxian among them, marching into the Betrayers' Rise. Their expressions are grim. Though they do not speak, you can tell that none of them expects to come home.
+>
+>The vision shifts again, and everyone in the company of soldiers is dead except for Alyxian, who continues to fight while surrounded by the corpses of mortals and demons. He is hurled across the battlefield by the claws of a gorilla-like demon. The scene blurs, and he falls to his knees, pleading, before a simple wooden altar that bears the holy symbol of Avandra. At the end of his prayer, he's lifted to his feet by a tall young woman with light brown skin and flowing black hair.
+>
+>A foreboding voice cuts through this scene of divine intervention, and Alyxian freezes. "The Change Bringer and a mortal," the voice intones. "What brings you into my sacred, devouring darkness? Even if you save him, Change Bringer, he will suffer. He will die. He will be forgotten. All that he has worked to save will crumble and be devoured by worms. Why invite further suffering? Let go. Give in. All is futile in the end, so why..."
+>
+>As the voice trails off, Alyxian turns to face you and falls to his knees in tears. The scenery shifts, and the forsaken warrior is now underwater, amid the ruins of a sunken city. "The Crawling King spoke true," he mutters. "All was futile. All has been forgotten... and I am lost in darkness. Please, help me set it right."
 
 The final scene of the vision takes place in the Drowned City of Cael Morrow; recalling the appearance of this location will help the characters as they seek more information about the Apotheon in *chapter 4*.
 
@@ -772,8 +764,7 @@ The next time the characters look at the *Jewel of Three Prayers*, they find it 
 
 The following boxed text assumes that **Aloysia Telfan** is still alive; if that's not the case, replace Aloysia with another **occult initiate** (see *appendix A*) from the Consortium of the Vermilion Dream:
 
->>Just as the vision of Alyxian fades, you become aware of the presence of intruders. Your rivals appear at the edge of the crater, along with a red-robed figure. "Well done, heroes!" says **Aloysia Telfan**. "Now, if you would simply hand over the jewel, we can all get out of here without spilling any more blood."
->>
+>Just as the vision of Alyxian fades, you become aware of the presence of intruders. Your rivals appear at the edge of the crater, along with a red-robed figure. "Well done, heroes!" says **Aloysia Telfan**. "Now, if you would simply hand over the jewel, we can all get out of here without spilling any more blood."
 
 Aloysia and the rivals did not use the same route as the characters to reach area R16. They were transported to the crater's edge by a magical force they encountered in their version of the Betrayers' Rise.
 
