@@ -6,7 +6,7 @@ The Heart of Despair is a prison of the Apotheon's own making. Nothing traps him
 - Deem the Apotheon beyond redemption and destroy him
 - Heal the Apotheon's emotional wounds and bring him peace before granting him his freedom
 
-![The Apotheon's second form, blessed with an angelic countenance, rises out of the slain corpse of his first monstrous incarnation](img/adventure/CRCotN/084-07-001.intro-splash.webp)
+![The Apotheon's second form, blessed with an angelic countenance, rises out of the slain corpse of his first monstrous incarnation](07-001.intro-splash.jpg)
 
 ## Running This Chapter
 
@@ -36,7 +36,7 @@ Rivals who follow the characters into the Heart of Despair behave in one of two 
 
 The following locations are keyed to the Heart of Despair map.
 
-![Heart of Despair](img/adventure/CRCotN/085-map-7.1-Heart-of-Despair.webp)![Player Version](img/adventure/CRCotN/086-map-7.1-Heart-of-Despair-player.webp)
+![Heart of Despair](map-7.1-Heart-of-Despair.jpg)![Player Version](map-7.1-Heart-of-Despair-player.jpg)
 #### H1: Statue of Alyxian
 
 This painted stone statue depicts Alyxian as a young man. See "Alyxian Speaks" below for more information about the statue.
@@ -117,7 +117,7 @@ Have Alyxian speak to the characters often, to convey that this is not just a dr
 
 ***Placating the Apotheon.*** Count the number of times the characters' actions in *chapter 6* placated the Apotheon. Then share this number with the players. This number indicates how many times the characters can gain advantage on their Charisma (Persuasion) checks to improve Alyxian's emotional state.
 
-![In the middle of the Heart of Despair stands a statue of Alyxian the Apotheon in his most heroic form](img/adventure/CRCotN/087-07-002.statue-of-alyxian.webp)
+![In the middle of the Heart of Despair stands a statue of Alyxian the Apotheon in his most heroic form](07-002.statue-of-alyxian.png)
 
 ### Lair Actions
 
@@ -131,13 +131,13 @@ On initiative count 20 (losing initiative ties), Alyxian can take one of the fol
 
 ***Prayers to the Gods.*** A character can use an action to pray to Avandra, Corellon, or Sehanine in the deity's prayer site. The character must succeed on a DC 15 Wisdom (Religion) check, and the check has advantage if the character is a worshiper of that god. On a successful check, the profane ruins atop the island melt away, and Alyxian can no longer use the lair action associated with that prayer site. In addition, Alyxian takes 14 (4d6) psychic damage, regardless of his current form.
 
-![Alyxian's memories of his gods' prayer sites have been defiled by ruidium, granting him otherworldly powers](img/adventure/CRCotN/088-07-003.alyxians-defiled-memories.webp)
+![Alyxian's memories of his gods' prayer sites have been defiled by ruidium, granting him otherworldly powers](07-003.alyxians-defiled-memories.png)
 
 ### Stage 1: Alyxian the Tormented
 
 Alyxian's first form is gigantic and monstrous, for it represents the most corrupted version of the Apotheon. All the pain that torments his soul is made manifest upon his flesh to such an extent that it eclipses the gentle soul within. In this form, he uses the accompanying **Alyxian the Tormented** stat block.
 
-![{@creature Alyxian the Tormented|CRCotN}](img/adventure/CRCotN/089-637828636812826040.webp)
+![{@creature Alyxian the Tormented|CRCotN}](alyxian-the-tormented.png)
 
 #### Emotional State
 
@@ -166,7 +166,7 @@ When **Alyxian the Tormented** is reduced to 0 hit points, read or paraphrase th
 
 To spare himself the pain that comes with feeling, Alyxian has hidden his emotions beneath the expressionless mask of a killer. In this form, he uses the **Alyxian the Callous** stat block.
 
-![{@creature Alyxian the Callous|CRCotN}](img/adventure/CRCotN/090-637828636800144884.webp)
+![{@creature Alyxian the Callous|CRCotN}](alyxian-the-callous.png)
 
 #### Emotional State
 
@@ -198,7 +198,7 @@ When **Alyxian the Callous** is reduced to 0 hit points, read or paraphrase the 
 
 His heroic countenance shattered, Alyxian's radiant form sloughs off, revealing an old man. In this form, he uses the **Alyxian the Dispossessed** stat block.
 
-![{@creature Alyxian the Dispossessed|CRCotN}](img/adventure/CRCotN/091-637828636804395371.webp)
+![{@creature Alyxian the Dispossessed|CRCotN}](alyxian-the-dispossessed.png)
 
 #### Emotional State
 
@@ -252,7 +252,7 @@ Upon assuming the form of **Alyxian the Absolved** (see the accompanying stat bl
 
 If the characters unanimously grant permission for **Alyxian the Absolved** to leave his self-made prison, proceed with the "Best Ending: A World That Remembered" section. If they kill **Alyxian the Absolved**, the story takes the direction described in "Neutral Ending: Alyxian at Rest."
 
-![Rid of the corruption that had consumed him for ages, {@creature Alyxian the Absolved|CRCotN|Alyxian} walks the streets of Ank'Harel as a free man.](img/adventure/CRCotN/092-07-004.alyxian-the-absolved.webp)
+![Rid of the corruption that had consumed him for ages, {@creature Alyxian the Absolved|CRCotN|Alyxian} walks the streets of Ank'Harel as a free man.](07-004.alyxian-the-absolved.png)
 
 ## Back into the Light
 
@@ -322,7 +322,7 @@ The nature of the characters' ongoing relationships with the factions of Ank'Har
 
 Characters who represented their faction vigorously and who provided resources (ruidium or otherwise) for their faction might be asked to assume positions of leadership. If either the story's neutral ending or best ending comes to pass, all ruidium is destroyed—an outcome that delights the Cobalt Soul, vexes the Allegiance of Allsight, and infuriates the Consortium of the Vermilion Dream.
 
-![](img/adventure/CRCotN/093-07-005.alyxian-with-jewel.webp)
+![](07-005.alyxian-with-jewel.png)
 
 ### What of the Rivals?
 
@@ -366,7 +366,7 @@ This adventure has chronicled Alyxian's relationship with three Prime Deities: A
 - **Corellon the Arch Heart.** Corellon might reach out to elves, spellcasters, the artistic, and the clever. Although Corellon offers direct support less often than other deities, their servants or the strange visions Corellon provides often coax adventurers into searching for forgotten secrets and spells, empowering these heroes through the fruits of discovery and inspiration. Arcane tools of this sort can be useful in overcoming any future threat.
 - **Sehanine the Moon Weaver.** Sehanine might reach out to bards, rogues, druids, clerics, and the mischievous. Her childlike form appears to such individuals in dreams. If the characters need her aid, she might send the **deva** **Perigee** to offer them support or a place of refuge.
 
-![Sehanine the Moon Weaver visits a sleeping adventurer as they dream under the light of Exandria's two moons](img/adventure/CRCotN/094-07-006.sehanine-the-moon-weaver.webp)
+![Sehanine the Moon Weaver visits a sleeping adventurer as they dream under the light of Exandria's two moons](07-006.sehanine-the-moon-weaver.png)
 
 ***Betrayer Gods.*** The Betrayer Gods might tempt adventurers (either the same group who freed Alyxian or a new band of heroes) into forming an alliance against Alyxian if the Apotheon can't be subdued any other way. The following are boons the Betrayer Gods might offer to a party—for a price:
 
