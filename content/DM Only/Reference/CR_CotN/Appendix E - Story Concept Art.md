@@ -30,6 +30,6 @@ Alyxian has two inhuman forms that make him strong but prevent anyone from heali
 
 The second is an angelic form incapable of compassion.
 
-![](127-12-010.alyxian-god-form.png)
+![](12-010.alyxian-god-form.png)
 
 ------
