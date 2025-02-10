@@ -71,6 +71,9 @@ cssclasses:
 - [ ] [[Galsariad Ardyth]] 
 - [ ] [Verin Thelyss](https://5e.tools/bestiary.html#verin%20thelyss_crcotn) 
 - [ ] Reynard Allerton
+- [ ] Sebastian Allerton
+- [ ] Prolix Yusaf
+- [ ] 
 
 ##  Choose relevant monsters
 
