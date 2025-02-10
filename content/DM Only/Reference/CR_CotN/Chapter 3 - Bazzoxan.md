@@ -141,10 +141,11 @@ When the characters approach the building, read or paraphrase the following:
 >
 >A willowy man wearing a leather apron greets you at the entrance with surprising cheer. "New bodies for Bazzoxan, I see!" Behind him stands a giant of a man: muscular, blue-eyed, with short-cropped hair and a missing arm.
 
-
 The two men are Reynard Allerton, a chaotic good **scout**, and his bigger, older brother, Sebastian Allerton, a neutral good **thug**. Their crematorium has two furnaces, each of which can hold up to four Medium bodies or one Large body at a time. The brothers are responsible for the proper disposal of corpses. Reynard seems to be the more gregarious of the siblings, although if the characters can coax Sebastian out of his silence with a joke or a kind remark, the older brother is also revealed to be a good-natured chatterbox.
 
 When the characters arrive, the brothers are burning the latest batch of corpses. Reynard promptly asks the characters to help him and his brother with their task.
+
+![[Xhorhas_Bazzoxan_B2_Crematorium_30x20.jpg]] 
 
 ***Corpse Disposal.*** As the brothers (and any characters who decide to assist them) work through the stack of corpses, Reynard becomes increasingly reluctant to continue, asking the characters to tend to the bodies and making excuses for why he should tend the fire. A character who succeeds on a DC 11 Wisdom (Insight) check can tell that he's deliberately avoiding one of the large corpses near the bottom of the pile, out of disdain and horror.
 
@@ -153,7 +154,6 @@ Characters who are helping with the pile of bodies find the source of Reynard's 
 Before anyone can dispose of the vrock's remains, a commotion arises nearby:
 
 >"Wait! Stop!" a voice shouts from down the street. A bookish tiefling jogs into view. A variety of archaeology tools hang at his waist along with a satchel holding his notebooks. "You can't burn that yet. I need to study it!" Reaching into the satchel, he pulls out a badge and holds it up, as if the badge alone explained his reason for being here.
-
 
 The tiefling is **Prolix Yusaf**, a lawful neutral **scholarly agent** (see *appendix A*) from the Allegiance of Allsight. His badge displays the symbol of his faction: a scroll bearing a single, watchful eye.
 
@@ -189,6 +189,7 @@ Three buildings on the perimeter of the central square have doors marked with a 
 
 >The walls are lined with shelves that hold old books and medical supplies. The floor is crammed with narrow cots. There's a small office in the back, its door ajar, and the air reeks of medicinal poultices.
 
+![[Xhorhas_Bazzoxan_B3_Infirmary_20x20.jpg]] 
 
 Inside, the characters find a lawful neutral, drow **priest** chatting with a young female drow, whose Aurora Watch armor and satchel are stacked nearby. Other wounded patients—most of them asleep—fill the infirmary beds.
 
@@ -202,11 +203,9 @@ Bautha is familiar with **Prolix Yusaf** and **Aloysia Telfan**, since both indi
 
 >"Three prayers... Oh! You know, it must be that old story about the champion of three gods. Goodness gracious, I can't believe I remembered it. It's a fragment of a fragment of a legend, even in temples in Vasselheim and Ank'Harel." She clears her throat. "Long ago, a hero of the Calamity begged for aid from three different gods in his time of need. Avandra the Change Bringer was one of them, and I think Sehanine the Moon Weaver was another. And, uh, I'm afraid I don't remember anything else."
 
-
 As the characters prepare to leave the infirmary, Bautha suddenly recalls one other detail:
 
 >"This might be a fiction, but Avandra is said to have grieved for the hero—not because he had died, but because she feared her aid forced him to give up so much of himself that he would be robbed of a future."
-
 
 ***Naevyn's Request.*** As the characters make their way to the exit, the wounded member of the Aurora Watch calls for the characters to approach her cot. Her body is covered with wounds she received in the gibbering mouther attack.
 
@@ -220,6 +219,7 @@ When the characters enter this area for the first time, read or paraphrase the f
 
 >These barracks are filled with the sounds of chatter, voices shouting orders, and clanging metal. Armored Aurora Watch soldiers go about their business, performing drills and sharpening weapons.
 
+![[Xhorhas_Bazzoxan_B4_Barracks_35x20.jpg]] 
 
 The barracks are divided into four main sections: the war room, the mess hall, the training area, and the sleeping quarters. If Taskhand **Verin Thelyss** is expecting the characters, a soldier is waiting for them and leads them to the war room.
 
@@ -239,7 +239,6 @@ If the characters tell Verin that they intend to journey to the Betrayers' Rise,
 
 >"The Betrayers' Rise is... challenging to navigate. Its passages shift to confuse mapmakers and search parties. I think the power of the Abyss flows through it, warping the environment so no two groups follow the same path through it. Whether it's demon magic or not doesn't really matter; all I know is that if you get lost down there, my soldiers won't be able to find you."
 
-
 ***Mess Hall.*** The mess hall, on the west side of the area, is filled with tables and plain wooden chairs. Though it's meant to be for soldiers, food here is doled out to anyone who asks. The repast consists of gruel, plain vegetables, bread, tough meat, and smoked fish.
 
 The soldiers gathered here are relaxing and sharing gossip about recent events in the town. Characters who loiter in the mess hall overhear the following pieces of information, which they can also learn by engaging any of the soldiers in conversation:
@@ -256,7 +255,6 @@ The soldiers gathered here are relaxing and sharing gossip about recent events i
 ***Sleeping Quarters.*** The sleeping quarters in the Gatehold Barracks contain small armories where the soldiers can store their weapons and equipment when they're off duty.
 
 The characters aren't permitted in this location, and there is no treasure to be found here.
-
 #### B5: Dilapidated Temple
 
 What was once a flourishing, spiral-shaped temple has fallen into disrepair after those who tended to it were driven away or slain by demons. It has been transformed into an indoor farming plot to grow Xhorhasian vegetables that don't require sunlight.
@@ -265,6 +263,7 @@ When the characters enter the area, read or paraphrase the following:
 
 >Glass crunches underfoot amid overgrown weeds. Collapsed walls have been replaced with rows of wooden shelves that hold earthenware pots. Numerous alcoves are being used as planters for stubborn flora. Just outside the far end of the enclosure, a smashed mosaic of stained glass sits in a splintered window frame next to a withered, skeletal tree.
 
+![[Xhorhas_Bazzoxan_B5_DilapidatedTemple_25x25.jpg]] 
 
 A character who makes a successful DC 17 Intelligence (Religion) check can piece together that the mosaic once depicted a woman's face on a golden disk: the iconography of Avandra the Change Bringer.
 
@@ -298,7 +297,6 @@ If the characters take him up on his offer, they receive a vision during **Fogho
 >
 >The moons race across the sky, soon replaced by the angry red sun that rises before a fateful battle. Five silhouettes approach the temple, and one claps the kneeling figure on the back. Their voices are muffled, as if coming at you through water, but you see them embrace, standing strong, before marching off to war.
 
-
 When the vision concludes, the characters fall prone on the ground, having momentarily passed out. **Foghome** doesn't see the vision, but he sees the characters fall unconscious and then awaken moments later. If they admit to seeing the vision, he asks them to describe it before nodding slowly and explaining he has seen the vision before. He believes the central figure in the vision to be a hero of the Calamity and recounts the old stories of Bazzoxan's origin:
 
 >"The Kryn capital of Rosohna was the Betrayer Gods' citadel of Ghor Dranas in the time before the Calamity, and the Betrayers' Rise was once a fortress protecting Ghor Dranas. In the darkest days of the Calamity, the Prime Deities and their most loyal champions laid siege to Ghor Dranas before capturing the Betrayers' Rise and routing the Betrayer Gods' forces there. Though storytellers have long since forgotten the names of many of those heroes, the force of their bonds still resonates across the land."
@@ -316,6 +314,7 @@ If the characters ask him to elaborate, **Foghome** draws their attention to sev
 
 >A stretch of stone wall is carved with names and wreathed in dried flowers, silver necklaces, and ropes weighted with good-luck charms. The ground near the wall is cluttered with trinkets left there as offerings. A drow of the Aurora Watch prays near a corner of the wall.
 
+![[Xhorhas_Bazzoxan_B6_WallOfTheUnforgotten_15x10.jpg]] 
 
 The Wall of the Unforgotten is a memorial site for the soldiers of the Aurora Watch. The wall is crowded with names, most scratched into the surface with knives.
 
@@ -333,6 +332,7 @@ The Ready Room is Bazzoxan's only inn and one of the only structures in town tha
 
 >A large barn with a steeply pointed roof looms over the battered structures near the center of town. Over the double door hangs a sign that bears the tavern's name, The Ready Room, in Undercommon, Orc, Goblin, and Common.
 
+![[Xhorhas_Bazzoxan_B7_TheReadyRoom_30x35.jpg]] 
 
 The Ready Room is run by Delez and Prima Demona, a brother-and-sister team who are both lawful neutral **drow**. Delez runs the bar and the kitchen and handles most interactions with customers, while Prima manages the finances and inventory.
 
@@ -347,7 +347,6 @@ A tankard of beer costs 1 cp, while a bowl of mushy rice and overcooked fish cos
 The tiefling doesn't take notice of the characters unless they make contact first, at which point she performs an awkward little bow. After introducing herself, Question launches into an excited spiel:
 
 >"Tell me you feel it, too," says the tiefling with a grin. "My comrades don't, but I do. The history surrounding this place. The romance of heroes fighting against impossible odds, sacrificing everything for the sake of defending the world. All done for people who would never know them, never think of them, never be able to thank them. Simply because it was the right thing to do. And ages later, we now see the Aurora Watch somehow doing the same. And they don't even know it!"
-
 
 Question calls this phenomenon, related to the cyclical nature of history, "mythic resonance." She believes that acts of monumental courage leave an impression on the world that lingers after all memory of the deeds has faded. Question theorizes that this has occurred in Bazzoxan, and the ancient battles of the Calamity are still echoing here today.
 
