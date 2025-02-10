@@ -2,7 +2,7 @@
 
 Leaving behind the bustling streets of Ank'Harel and the gloom of Cael Morrow, the party now navigates the dark waters of the Netherdeep. This otherworldly tomb of Alyxian's own making is similar to a demiplane or an extradimensional space connected to the Material Plane but not part of it. In other words, the Netherdeep is its own plane of existence. It is where the Apotheon's negative emotions have festered, creating labyrinthine trenches of regret, fury, yearning, and despair.
 
-![Adventurers are transported to the Netherdeep, an underwater domain warped by alien magic and the torment of the Apotheon](img/adventure/CRCotN/070-06-001.intro-splash.webp)
+![Adventurers are transported to the Netherdeep, an underwater domain warped by alien magic and the torment of the Apotheon](06-001.intro-splash.jpg)
 
 ## Running This Chapter
 
@@ -14,7 +14,7 @@ The Netherdeep is an underwater dungeon at the bottom of a lightless abyss. Spel
 
 The following sections describe the Netherdeep's recurring features, the Fragments of Suffering that the characters must acquire before they can face the Apotheon, and the main threats the characters must overcome as they make their way toward the Apotheon's prison.
 
-![The Netherdeep](img/adventure/CRCotN/071-map-6.1-The-Netherdeep.webp)![Player Version](img/adventure/CRCotN/072-map-6.1-The-Netherdeep-player.webp)
+![The Netherdeep](071-map-6.1-The-Netherdeep.jpg)![Player Version](map-6.1-The-Netherdeep-player.jpg)
 ### Netherdeep Features
 
 The following sections summarize important or recurring features of the Netherdeep.
@@ -50,7 +50,7 @@ A creature can absorb up to three Fragments of Suffering. If a creature that car
 
 If a creature that is carrying a fragment dies or enters the Heart of Despair, the fragment immediately leaves the creature and returns to its original location (noted in the Fragments of Suffering table).
 
-![Alyxian is seen in visions as a young man struggling to come to grips with his destiny](img/adventure/CRCotN/073-06-002.alyxian-young-man.webp)
+![Alyxian is seen in visions as a young man struggling to come to grips with his destiny](06-002.alyxian-young-man.png)
 
 #### Light
 
@@ -218,7 +218,7 @@ The first time the characters enter this area, read:
 
 The characters are transported to Alyxian's childhood home, a modest wooden dwelling with three rooms: a 20-foot-square room containing a kitchen and a living area, with doors leading to two 10-foot-square bedrooms. The characters appear in Alyxian's bedroom. A door off the kitchen leads outside.
 
-![Alyxian's Childhood Bedroom](img/adventure/CRCotN/074-06-003.alyxians-childhood-bedroom.webp)
+![Alyxian's Childhood Bedroom](06-003.alyxians-childhood-bedroom.png)
 
 ***Alyxian's Toys.*** A character who examines the rocking horse notices the name "Alyxian" carved on its flank in Common. Characters who want to keep one or more of Alyxian's toys can do so, and those toys remain with the characters after this vision ends. The first time a character picks up one of these toys, the Apotheon whispers, "Such a thing no longer holds a special place in my heart, but it might be worth something to you." These toys prove useful in area N6. Any character who handles a toy without gloves or similar protective gear might be subject to ruidium corruption, at your discretion (see "Ruidium" in the *introduction*).
 
@@ -396,7 +396,7 @@ The following sections describe the three women and their behavior as ghosts:
 
 - **Meri.** **Meri** has wavy, shoulder-length hair, strong arms, and sharp eyes. The resemblance to **Marisa** is unmistakable. She doesn't speak unless she is addressed by name. If a character does so and then apologizes to **Meri** on behalf of Alyxian, she says, "I died a soldier, like my mother. What happened was neither our fault nor yours. Be well, Alyxian." After speaking these words, the ghost fades away.
 
-![Three ghosts of women from Alyxian's past haunt a ruined house](img/adventure/CRCotN/075-06-004.three-ghosts.webp)
+![Three ghosts of women from Alyxian's past haunt a ruined house](06-004.three-ghosts.png)
 
 ***Placating the Apotheon's Regret.*** Alyxian is placated if one or more ghosts are laid to rest. After speaking the ghosts' names aloud, he adds, "The Crawling King's horde destroyed them, and I was not there to help. Yet they forgave me. Was that truly all it took?"
 
@@ -448,7 +448,7 @@ If the characters can't dispel the door, they can place a sentimental item from 
 
 In addition, a character who dons a suit of armor in this chamber or in area N7 can pass through the doorway ("It is time to don your armor and go to war"). A character who entered either chamber already wearing armor must first take off the armor and then put it on again before they can pass safely through the doorway.
 
-![Sword wraiths haunt a vision of the ancient past, with the Netherdeep never far away](img/adventure/CRCotN/076-06-005.sword-wraiths-vision.webp)
+![Sword wraiths haunt a vision of the ancient past, with the Netherdeep never far away](06-005.sword-wraiths-vision.png)
 
 #### N7: Battle at the Betrayers' Rise
 
@@ -632,7 +632,7 @@ The characters can rest here without being disturbed, assuming they don't mind b
 >>Natural vents spew red light and jets of bubbling water into this warm, oblong chamber. Two enormous jellyfish-like creatures, faintly illuminated by the light coming from the vents, drift in the water at opposite ends of the chamber, their tentacles swaying. Each is within easy reach of one of the tunnels leading to this chamber.
 >>
 
-![Slithering Bloodfin](img/adventure/CRCotN/077-06-006.slithering-bloodfin.webp)
+![Slithering Bloodfin](06-006.slithering-bloodfin.png)
 
 The creatures floating in the chamber are two **death embraces** (see *appendix A*). They are oblivious to what happens around them and attack only if damaged or otherwise disturbed (see "Apotheon's Fury" below). Moving around a death embrace without touching it doesn't disturb it.
 
@@ -648,7 +648,7 @@ The death embraces, if they are still present, also take damage from the boiling
 
 #### N13: Warriors of Wrath
 
-![Ruidium-encrusted statues of warriors jut from the walls of this ominous, sunken cave](img/adventure/CRCotN/078-06-007.ruidium-encrusted-statues.webp)
+![Ruidium-encrusted statues of warriors jut from the walls of this ominous, sunken cave](06-007.ruidium-encrusted-statues.png)
 
 >>Ruidium covers almost every surface of this thirty-foot-high cavern, in some places forming crystalline spikes that range from one foot to eight feet long. Life-sized, ruidium-encrusted stone statues of warriors jut from the walls, floor, and ceiling at odd angles, like jagged teeth in a diseased maw.
 >>
@@ -700,7 +700,7 @@ The character who is carrying the Fragment of Rancor gains the following benefit
 
 Give the Fragment of Rancor card (see *appendix D*) to the player whose character is carrying the fragment.
 
-![In the depths of the Netherdeep, the Apotheon's spear waits to be claimed](img/adventure/CRCotN/079-06-008.apotheons-spear.webp)
+![In the depths of the Netherdeep, the Apotheon's spear waits to be claimed](06-008.apotheons-spear.png)
 
 #### N15: Spear of the Apotheon
 
@@ -811,7 +811,7 @@ The expansion and contraction of the cavern is a natural phenomenon and can't be
 
 If asked what he means by "kind of," Theo solemnly beckons for the characters to follow him as he passes through the ruidium archway into area N18.
 
-![Two aspects of Alyxian—one a ghostly child and the other a merciless golem—shed light on the Apotheon's pain](img/adventure/CRCotN/080-06-009.two-aspects-of-alyxian.webp)
+![Two aspects of Alyxian—one a ghostly child and the other a merciless golem—shed light on the Apotheon's pain](06-009.two-aspects-of-alyxian.png)
 
 #### N18: Fragment of Melancholy
 
@@ -874,7 +874,7 @@ Whenever the characters leave one location and move to another one in the Chasm 
 
 The Chasm of Yearning encompasses areas N19 through N25 on the Netherdeep map.
 
-![The Cavern of Many Hands embodies the Apotheon's yearning to feel the gentle touch of other creatures](img/adventure/CRCotN/081-06-010.cavern-of-many-hands.webp)
+![The Cavern of Many Hands embodies the Apotheon's yearning to feel the gentle touch of other creatures](06-010.cavern-of-many-hands.png)
 
 #### N19: Cavern of Many Hands
 
@@ -977,7 +977,7 @@ The following description assumes that the characters arrive from area N20 or N2
 >>In the middle of the grotto floats a giant jellyfish-like creature with sixty-foot-long tentacles. Swarms of tiny, ugly fish flit between its translucent tentacles.
 >>
 
-![](img/adventure/CRCotN/082-06-011.swarm-sorrowfish.webp)
+![](06-011.swarm-sorrowfish.png)
 
 This fake city street is a manifestation of Alyxian's longing for a home he can love, a fact that a character can intuit with a successful DC 15 Wisdom (Insight) check.
 
@@ -1000,7 +1000,7 @@ The following boxed text assumes that the characters are coming from area N23:
 
 The blue-skinned angel is a **deva** named **Perigee**. She is a servant of the Moon Weaver who fought with Alyxian in his final battle. **Perigee** was destroyed but later re-formed at the Moon Weaver's side. For centuries thereafter, she searched for Alyxian and eventually found her way to the Netherdeep, where she became mired in despair and corrupted by ruidium. In the Celestial tongue, she accuses the characters of disturbing the Apotheon's dreams and attacks them.
 
-![{@creature Perigee|CRCotN} the Deva](img/adventure/CRCotN/083-06-012.perigree-the-deva.webp)
+![{@creature Perigee|CRCotN} the Deva](06-012.perigree-the-deva.png)
 
 A character can use an action to try to convince **Perigee** that the party wants to save Alyxian. Allow the player to roleplay this interaction, then have the character make a DC 16 Charisma (Persuasion) check, with advantage if you think the player roleplayed the interaction well. On a failed check, **Perigee** isn't swayed. On a successful check, **Perigee** does nothing on her next turn as she considers the character's words (as long as she's not attacked or threatened in the meantime). At the end of that turn, she coolly remarks that anyone who can't defeat her has little hope of besting Alyxian in the Heart of Despair. On her next turn, she resumes her attack. Each character can attempt the check only once.
 
