@@ -58,7 +58,9 @@ cssclasses:
 - [ ] [[Ch 3 Canvas - Bazzoxan.canvas|Ch 3 Canvas - Bazzoxan]] 
 - [ ] [[Chapter 3 - Bazzoxan#Bazzoxan Scenes|Bazzoxan Scenes]] 
 - [ ] [[Chapter 3 - Bazzoxan#Sacrifice Engines|Sacrifice Engines]] 
-- [ ] [[Chapter 3 - Bazzoxan#Locations in Bazzoxan|Locations in Bazzoxan]] 
+- [ ] [[Chapter 3 - Bazzoxan#B1 Gate of Bazzoxan]] 
+- [ ] [[Chapter 3 - Bazzoxan#B2 Crematorium]]
+- [ ] 
 
 ##  Define secrets and clues
 
