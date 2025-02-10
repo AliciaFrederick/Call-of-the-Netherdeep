@@ -63,7 +63,15 @@ cssclasses:
 	- [ ] Aloysia was injured when she tried to delve into the Betrayers' Rise alone—and now she's looking for mercenaries to explore it on her behalf
 	- [ ] "Three prayers... Oh! You know, it must be that old story about the champion of three gods. Goodness gracious, I can't believe I remembered it. It's a fragment of a fragment of a legend, even in temples in Vasselheim and Ank'Harel." She clears her throat. "Long ago, a hero of the Calamity begged for aid from three different gods in his time of need. Avandra the Change Bringer was one of them, and I think Sehanine the Moon Weaver was another. And, uh, I'm afraid I don't remember anything else."
 	- [ ] "This might be a fiction, but Avandra is said to have grieved for the hero—not because he had died, but because she feared her aid forced him to give up so much of himself that he would be robbed of a future."
-- [ ] 
+- [ ] Verin Thelyss
+	- [ ] An expedition from the Library of the Cobalt Soul is currently in the Betrayers' Rise with an Aurora Watch escort, researching battles of the Calamity that took place within its halls.
+	- [ ] An agent of a foreign organization calling itself the Consortium of the Vermilion Dream is staying in Bazzoxan. This agent, an elf named Aloysia, has been reprimanded for trying to bribe Aurora Watch soldiers to protect her while she searches for an ancient holy site she claims is within the Betrayers' Rise.
+	- [ ] An archaeologist named Prolix from the Allegiance of Allsight in Ank'Harel also recently arrived in Bazzoxan. He is ostensibly assisting Aurora Watch arcanists who are researching ways to seal the rift within the Betrayers' Rise. Verin suspects that the archaeologist has other motives, because he was seen earlier in the day lurking around the crematorium.
+	- [ ] Verin admits he believes the Betrayers' Rise might hold the solution to breaking the stalemate that grips the town, and he has sent out scouting parties and arcane experts to confirm that idea. None of the expeditions have been fruitful so far, and Verin can't spare any more personnel to expand the effort.
+	- [ ] "The Betrayers' Rise is... challenging to navigate. Its passages shift to confuse mapmakers and search parties. I think the power of the Abyss flows through it, warping the environment so no two groups follow the same path through it. Whether it's demon magic or not doesn't really matter; all I know is that if you get lost down there, my soldiers won't be able to find you."
+- [ ] Soldiers at the Barracks Mess Hall
+	- [ ] One member of the Cobalt Soul expedition, a tiefling named Question, went with his group up to the gate of the Betrayers' Rise but elected not to enter the place. He's holed up at the Ready Room, ready to talk about his research with anyone who will listen.
+	- [ ] 
 
 ##  Develop fantastic locations
 
