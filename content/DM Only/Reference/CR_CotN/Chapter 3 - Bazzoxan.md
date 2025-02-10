@@ -149,7 +149,6 @@ Characters who are helping with the pile of bodies find the source of Reynard's 
 Before anyone can dispose of the vrock's remains, a commotion arises nearby:
 
 >>"Wait! Stop!" a voice shouts from down the street. A bookish tiefling jogs into view. A variety of archaeology tools hang at his waist along with a satchel holding his notebooks. "You can't burn that yet. I need to study it!" Reaching into the satchel, he pulls out a badge and holds it up, as if the badge alone explained his reason for being here.
->>
 
 The tiefling is **Prolix Yusaf**, a lawful neutral **scholarly agent** (see *appendix A*) from the Allegiance of Allsight. His badge displays the symbol of his faction: a scroll bearing a single, watchful eye.
 
