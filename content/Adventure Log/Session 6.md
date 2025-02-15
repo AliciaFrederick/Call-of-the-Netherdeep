@@ -110,6 +110,7 @@ cssclasses:
 
 ##  Select magic item rewards
 
+- [ ] Spell Scroll of Greater Restoration (500 gp) 
 - [ ] 
 
 %%  %%
