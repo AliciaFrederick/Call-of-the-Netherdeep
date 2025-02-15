@@ -89,6 +89,7 @@ cssclasses:
 	- [ ] No vegetation survives for long in Bazzoxan. [Foghome](https://5e.tools/bestiary.html#foghome_crcotn) thinks this is the result of the corrupting influence of the Betrayers' Rise.
 	- [ ] He is a follower of Melora the Wild Mother, but he recognizes the temple as a former holy place of Avandra the Change Bringer. He hopes to honor both deities by cultivating new life in the midst of the death and destruction that haunts this place.
 	- [ ] While meditating the other night, he felt something surge within the earth nearby—a warm and kindly presence reminiscent of the Prime Deities. He suspects the presence is a sign that a relic of the Calamity has awakened within the Betrayers' Rise.
+- [ ] Kalym Telaarin at the Wall of the Unforgotten
 
 ##  Develop fantastic locations
 
@@ -111,7 +112,8 @@ cssclasses:
 ##  Select magic item rewards
 
 - [ ] Spell Scroll of Greater Restoration (500 gp) 
-- [ ] 
+- [ ] Small tiger's eye carving of a rabbit with the name "Naevyn" carved on the bottom
+- [ ] Mote of Possibility - A character who fails a saving throw or misses on an attack roll can use a reaction to expend their Mote of Possibility, allowing them to reroll the d20. The character must use the new roll. A Mote of Possibility vanishes from a character after 24 hours or when it is expended.
 
 %%  %%
 
