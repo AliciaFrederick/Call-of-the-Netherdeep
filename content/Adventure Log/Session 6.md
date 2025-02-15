@@ -48,6 +48,9 @@ cssclasses:
 - [ ] [[Perjeon Beachgift]] 
 - [ ] [[Aza Dirali]] 
 - [ ] [[Thrast Summittrod]] 
+- [ ] [[Ayo Jabe]] 
+- [ ] [[Dermot Wurder]] 
+- [ ] [[Galsariad Ardyth]] 
 
 ##  Create a strong start
 
@@ -92,14 +95,11 @@ cssclasses:
 - [ ] 
 ##  Outline important NPCs
 
-- [ ] [[Ayo Jabe]] 
-- [ ] [[Dermot Wurder]] 
-- [ ] [[Galsariad Ardyth]] 
-- [ ] [Verin Thelyss](https://5e.tools/bestiary.html#verin%20thelyss_crcotn) 
+- [ ] Bautha Dyrr - Drow Priest at the Infirmary
+- [ ] [Verin Thelyss](https://5e.tools/bestiary.html#verin%20thelyss_crcotn) - Leader at the Barracks
 - [ ] Reynard Allerton - scout worker at the Crematorium
 - [ ] Sebastian Allerton - thug worker at the Crematorium
 - [ ] Prolix Yusaf - Scholarly Agent of the Allegiance of Allsight at the Crematorium
-- [ ] Bautha Dyrr - Drow Priest at the Infirmary
 - [ ] Naevyn Tasithar - injured drow scout at the Infirmary
 - [ ] Foghome - firbolg priest at the Dilapidated Temple
 - [ ] Delez and Prima Demona - drow brother-sister at the Ready Room
