@@ -5,6 +5,8 @@ Wildemount: Dark Star is an adventure suitable for 4 to 5 characters of 7th leve
 
 This adventure was played on-stream with James Haeck, Orion Black, Jasmine Bhullar, Lauren Urban, and Todd Kenreck. You can watch this live play of the adventure below.
 
+![](https://youtu.be/sP-Wb2-vTp8) 
+
 ## Legacy of the Dark Star
 
 The townsfolk of Galgarad have a legend that in ancient times, the Bright Queen herself granted them an artifact called the Dark Star that would ward evil from their town. It was given to the first Keeper of Galgarad, the leader of the town, and she gathered acolytes and secreted it away in a hidden shrine to the [Luxon](https://www.dndbeyond.com/sources/egtw/story-of-wildemount#TheLuxontheFirstRadiance). None but the Keeper and her acolytes knew the true location of the Dark Star, though many have searched for it.
