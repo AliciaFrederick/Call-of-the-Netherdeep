@@ -8,10 +8,10 @@ draft: true
 date: 
 cssclasses:
 ---
+%%
 
 [Owlbear Rodeo](https://www.owlbear.rodeo/room/BaGN2KPVM902/TheHomeyLeaf)  
 
-%%
 - [ ] Starting
 	- [ ] Spotify [music](https://open.spotify.com/album/30CxXNLekWVQzo7xhowwkg) 
 	- [ ] Owlbear rodeo [scene](https://www.owlbear.rodeo/room/EiCy8X2dzjxe/TheDinkyBoat) 
@@ -20,7 +20,7 @@ cssclasses:
 	- [ ] [Campaign](https://aliciafrederick.github.io/Call-of-the-Netherdeep/) website
 	- [ ] [DM Screen](https://5e.tools/dmscreen.html#%7B%22w%22%3A5%2C%22h%22%3A3%2C%22ctc%22%3Atrue%2C%22fs%22%3Afalse%2C%22lk%22%3Afalse%2C%22ps%22%3A%5B%7B%22x%22%3A2%2C%22y%22%3A0%2C%22w%22%3A1%2C%22h%22%3A1%2C%22t%22%3A0%7D%2C%7B%22x%22%3A2%2C%22y%22%3A1%2C%22w%22%3A1%2C%22h%22%3A1%2C%22t%22%3A0%7D%2C%7B%22x%22%3A2%2C%22y%22%3A2%2C%22w%22%3A1%2C%22h%22%3A1%2C%22t%22%3A0%7D%2C%7B%22x%22%3A3%2C%22y%22%3A2%2C%22w%22%3A1%2C%22h%22%3A1%2C%22t%22%3A16%2C%22s%22%3A%7B%22state%22%3A%7B%7D%2C%22rowState%22%3A%5B%7B%22state%22%3A%7B%22name%22%3A%22Ayo%22%2C%22current%22%3A3%2C%22max%22%3A3%7D%7D%2C%7B%22state%22%3A%7B%22name%22%3A%22Dermot%22%2C%22current%22%3A3%2C%22max%22%3A3%7D%7D%2C%7B%22state%22%3A%7B%22name%22%3A%22Galsariad%22%2C%22current%22%3A3%2C%22max%22%3A3%7D%7D%5D%7D%7D%2C%7B%22x%22%3A4%2C%22y%22%3A1%2C%22w%22%3A1%2C%22h%22%3A1%2C%22t%22%3A4%2C%22c%22%3A%7B%22b%22%3A%22bookref-quick%22%2C%22c%22%3A2%2C%22h%22%3A%22Conditions%22%7D%7D%2C%7B%22x%22%3A4%2C%22y%22%3A2%2C%22w%22%3A1%2C%22h%22%3A1%2C%22t%22%3A2%7D%2C%7B%22x%22%3A0%2C%22y%22%3A0%2C%22w%22%3A2%2C%22h%22%3A3%2C%22t%22%3A13%2C%22c%22%3A%7B%22a%22%3A%22CRCotN%22%2C%22c%22%3A3%7D%7D%2C%7B%22x%22%3A3%2C%22y%22%3A0%2C%22w%22%3A1%2C%22h%22%3A2%2C%22t%22%3A51%2C%22s%22%3A%7B%7D%7D%2C%7B%22x%22%3A4%2C%22y%22%3A0%2C%22w%22%3A1%2C%22h%22%3A1%2C%22t%22%3A5%2C%22s%22%3A%7B%22s%22%3A%22NUMBER%22%2C%22d%22%3A%22DESC%22%2C%22ri%22%3Atrue%2C%22m%22%3Afalse%2C%22rg%22%3Afalse%2C%22rri%22%3Afalse%2C%22g%22%3Atrue%2C%22p%22%3Atrue%2C%22a%22%3Afalse%2C%22k%22%3Afalse%2C%22piHp%22%3Afalse%2C%22piHm%22%3Afalse%2C%22piV%22%3Atrue%2C%22piO%22%3Afalse%2C%22c%22%3A%5B%5D%2C%22cndc%22%3A%5B%5D%2C%22r%22%3A%5B%7B%22id%22%3A%2222f505f9-779b-4df7-8fb5-c69d9eb82a87%22%2C%22n%22%3A%22Veteran%22%2C%22h%22%3A58%2C%22g%22%3A58%2C%22i%22%3A18%2C%22a%22%3Atrue%2C%22s%22%3A%22MM%22%2C%22c%22%3A%5B%5D%2C%22v%22%3Afalse%2C%22o%22%3A1%2C%22k%22%3A%5B%5D%7D%2C%7B%22id%22%3A%220783e80c-86bf-4099-bce1-327d31c3f6be%22%2C%22n%22%3A%22Veteran%22%2C%22h%22%3A58%2C%22g%22%3A58%2C%22i%22%3A18%2C%22a%22%3Atrue%2C%22s%22%3A%22MM%22%2C%22c%22%3A%5B%5D%2C%22v%22%3Afalse%2C%22o%22%3A2%2C%22k%22%3A%5B%5D%7D%2C%7B%22id%22%3A%2285569208-e4f4-45de-9eb5-e804dac8f2bc%22%2C%22n%22%3A%22Gloomstalker%22%2C%22h%22%3A90%2C%22g%22%3A90%2C%22i%22%3A5%2C%22a%22%3Afalse%2C%22s%22%3A%22EGW%22%2C%22c%22%3A%5B%5D%2C%22v%22%3Afalse%2C%22o%22%3A1%2C%22k%22%3A%5B%5D%7D%2C%7B%22id%22%3A%22ac44aa28-3b66-438f-8140-17117b2352f4%22%2C%22n%22%3A%22Gloomstalker%22%2C%22h%22%3A90%2C%22g%22%3A90%2C%22i%22%3A5%2C%22a%22%3Afalse%2C%22s%22%3A%22EGW%22%2C%22c%22%3A%5B%5D%2C%22v%22%3Afalse%2C%22o%22%3A2%2C%22k%22%3A%5B%5D%7D%2C%7B%22id%22%3A%2215389608-1da7-4432-90d4-e20adaa7390c%22%2C%22n%22%3A%22Thrast%22%2C%22a%22%3Afalse%2C%22c%22%3A%5B%5D%2C%22v%22%3Afalse%2C%22o%22%3A1%2C%22k%22%3A%5B%5D%7D%2C%7B%22id%22%3A%222630c920-74ff-42cf-98e6-3504c8312159%22%2C%22n%22%3A%22Perjeon%22%2C%22a%22%3Afalse%2C%22c%22%3A%5B%5D%2C%22v%22%3Afalse%2C%22o%22%3A1%2C%22k%22%3A%5B%5D%7D%2C%7B%22id%22%3A%2240abcaf5-f76e-46ba-a825-4ab5057affcf%22%2C%22n%22%3A%22Aza%22%2C%22a%22%3Afalse%2C%22c%22%3A%5B%5D%2C%22v%22%3Afalse%2C%22o%22%3A1%2C%22k%22%3A%5B%5D%7D%5D%2C%22rdp%22%3A%5B%7B%22id%22%3A%2240abcaf5-f76e-46ba-a825-4ab5057affcf%22%2C%22n%22%3A%22Aza%22%2C%22a%22%3Afalse%2C%22c%22%3A%5B%5D%2C%22v%22%3Afalse%2C%22o%22%3A1%2C%22k%22%3A%5B%5D%7D%2C%7B%22id%22%3A%222630c920-74ff-42cf-98e6-3504c8312159%22%2C%22n%22%3A%22Perjeon%22%2C%22a%22%3Afalse%2C%22c%22%3A%5B%5D%2C%22v%22%3Afalse%2C%22o%22%3A1%2C%22k%22%3A%5B%5D%7D%2C%7B%22id%22%3A%2215389608-1da7-4432-90d4-e20adaa7390c%22%2C%22n%22%3A%22Thrast%22%2C%22a%22%3Afalse%2C%22c%22%3A%5B%5D%2C%22v%22%3Afalse%2C%22o%22%3A1%2C%22k%22%3A%5B%5D%7D%5D%2C%22n%22%3A1%7D%7D%5D%2C%22ex%22%3A%5B%5D%7D)   using [[5etools (1).json]] 
 ![[5etools.json]] 
-%%
+
 ## Log
 
 - Previously...
@@ -42,15 +42,15 @@ cssclasses:
 	- [ ] Git sync
 
 ---
-
+%%
 ##  Review the characters
 
 - [ ] [[Perjeon Beachgift]] 
 - [ ] [[Aza Dirali]] 
 - [ ] [[Thrast Summittrod]] 
-- [ ] [[Ayo Jabe]] 
-- [ ] [[Dermot Wurder]] 
-- [ ] [[Galsariad Ardyth]] 
+- [ ] [[Ayo Jabe]] - shaken
+- [ ] [[Dermot Wurder]] - worried, thrown self into Luxon teachings, won't leave Ayo
+- [ ] [[Galsariad Ardyth]] - sarcastic to the point of insulting
 
 ##  Create a strong start
 
@@ -121,14 +121,14 @@ cssclasses:
 - [ ] [Verin Thelyss](https://5e.tools/bestiary.html#verin%20thelyss_crcotn) - Leader at the Barracks - Tired, concerned
 - [ ] [[Prolix Yusaf]] - Scholarly Agent of the Allegiance of Allsight at the Crematorium - Voice: Winter from *The Nursery Nurse*, uses too many words 
 - [ ] [[Question]] - tiefling at the Ready Room - Voice: higher, curious, Phoebe from *The Magic Schoolbus* ("according to my research...")
-- [ ] [[Aloysia Telfan]] - elf at the Ready Room - deeper, RP (Judy Dench)
-- [ ] [[Bautha Dyrr]] - Drow Priest at the Infirmary - Madame Pomfrey
+- [ ] [[Aloysia Telfan]] - elf at the Ready Room - Voice: deeper, RP (Judy Dench)
+- [ ] [[Bautha Dyrr]] - Drow Priest at the Infirmary - Voice: Madame Pomfrey
 - [ ] [[Foghome]] - firbolg priest at the Dilapidated Temple - Voice: Bullwinkle
 - [ ] [[Reynard Allerton]] - scout worker at the Crematorium - Gregarious
 - [ ] [[Sebastian Allerton]] - thug worker at the Crematorium - Good-natured chatterbox
 - [ ] [[Naevyn Tasithar]] - injured drow scout at the Infirmary - Voice: weak, raspy
 - [ ] [[Delez and Prima Demona]] - drow brother-sister at the Ready Room
-- [ ] Kalym Telaarin - drow priest of the Luxon at the Wall of the Unforgotten
+- [ ] [[Kalym Telaarin]] - drow priest of the Luxon at the Wall of the Unforgotten
 
 ##  Choose relevant monsters
 
