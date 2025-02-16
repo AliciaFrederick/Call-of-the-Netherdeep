@@ -1,5 +1,5 @@
 ---
-permalink: https://www.dndbeyond.com/posts/696-encounter-of-the-week-spy-of-the-kryn-dynasty
+permalink: https://www.dndbeyond.com/posts/751-wildemount-dark-star
 ---
 Wildemount: Dark Star is an adventure suitable for 4 to 5 characters of 7th level, and takes 1 to 2 sessions to complete. It takes place in a town in the untamed and uncharted southern reaches of the Wastes of Xhorhas. Characters are encouraged to play characters skilled in the magical art of dunamancy, using the subclass options available in chapter 4 of _Explorer’s Guide to Wildemount_. Xhorhas is a land in which mortals of many different races that the neighboring Dwendalian Empire considers monstrous congregate. Your players are likewise encouraged to play characters using race options provided in that chapter as well.
 
