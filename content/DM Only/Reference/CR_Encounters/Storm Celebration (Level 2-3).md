@@ -1,5 +1,5 @@
 ---
-permalink: https://www.dndbeyond.com/posts/756-encounter-of-the-week-king-killers
+permalink: https://www.dndbeyond.com/posts/742-encounter-of-the-week-storm-celebration
 ---
 This week’s Encounter is _Storm Celebration_, bringing the adventurers to the Biting North of Wildemount, the Greying Wildlands and the orc settlement of Boroftkrah, where an oncoming storm brings a time of games and competition to the clan as they honor Kord, the Storm Lord, for as long as the storm lasts. There is a darker plot, however. A delegation of the townsfolk are loyal worshipers of the Betrayer God known as Gruumsh the Ruiner, and they have concocted a bloody scheme to turn the celebrations into a gruesome offering to their evil god.
 
