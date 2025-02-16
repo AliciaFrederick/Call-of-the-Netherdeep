@@ -1,6 +1,10 @@
 ---
 permalink: https://www.dndbeyond.com/posts/726-encounter-of-the-week-an-early-dawn
 ---
+This week’s encounter is _An Early Dawn_, and takes the characters on a wild chase through the sprawling streets of the Xhorhasian capital Rosohna.
+
+_**This encounter contains major spoilers regarding the Kryn Dynasty, including the Luxon beacons and the process of consecution, up to**_ **Critical Role** _**episode 91.**_ 
+
 ## Rosohna and the Kryn Dynasty
 
 Rosohna, capital of the Kryn Dynasty, is abutted by the darkened peaks of the Penumbra mountain range to the east, the god-scarred Barbed Fields to the north, and the nigh-impenetrable Vermaloc Wildwood to the west. Thus protected by the land of Xhorhas itself, the people of Rosohna fear no outside attack—and even if an invading army did break through, a veritable army of Aurora Watch guards stand stationed upon the city’s walls.
