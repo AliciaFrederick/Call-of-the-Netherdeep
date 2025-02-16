@@ -112,9 +112,6 @@ cssclasses:
 	- [ ] The hero died in the battle at the Betrayers' Rise and was brought back to life as a vengeful revenant by Avandra the Change Bringer. (Mostly false. Alyxian nearly died but was healed and granted further power by Avandra.)
 	- [ ] The hero wore a pendant that contained the power of three gods. This pendant is the key to acquiring the ruidium her organization seeks. (Partially true. The [Jewel of Three Prayers](https://5e.tools/items.html#jewel%20of%20three%20prayers_crcotn) holds the power of three gods and, in its Exalted State, can be used to open the rift to the Netherdeep in Cael Morrow, as described in [chapter 5](https://5e.tools/adventure.html#CRCotN,5).)
 
-##  Develop fantastic locations
-
-- [ ] 
 ##  Outline important NPCs
 
 - [ ] [Verin Thelyss](https://5e.tools/bestiary.html#verin%20thelyss_crcotn) - Leader at the Barracks - Tired, concerned
@@ -131,23 +128,23 @@ cssclasses:
 
 ##  Choose relevant monsters
 
-- [ ] Gloomstalker
-- [ ] Gibbering mouther
-- [ ] Dretch
-- [ ] Quasit
-- [ ] Manes
-- [ ] Veteran (sparring) 
+- [x] Gloomstalker
+- [x] Gibbering mouther
+- [x] Dretch
+- [x] Quasit
+- [x] Manes
+- [x] Veteran (sparring) 
 
 ##  Select magic item rewards
 
-- [ ] Spell scroll of greater restoration (500 gp) 
-- [ ] Small tiger's eye carving of a rabbit with the name "Naevyn" carved on the bottom
-- [ ] Mote of Possibility - A character who fails a saving throw or misses on an attack roll can use a reaction to expend their Mote of Possibility, allowing them to reroll the d20. The character must use the new roll. A Mote of Possibility vanishes from a character after 24 hours or when it is expended.
-- [ ] 50-100 gp for accompanying Aloysia into Betrayer's Rise
-- [ ] Eyes of the Eagle
-- [ ] 3 gaudy rings worth 2 gp each
-- [ ] Onyx cube-shaped puzzle box
-	- [ ] Spell scroll of bestow curse
+- [x] Spell scroll of greater restoration (500 gp) 
+- [x] Small tiger's eye carving of a rabbit with the name "Naevyn" carved on the bottom
+- [x] Mote of Possibility - A character who fails a saving throw or misses on an attack roll can use a reaction to expend their Mote of Possibility, allowing them to reroll the d20. The character must use the new roll. A Mote of Possibility vanishes from a character after 24 hours or when it is expended.
+- [x] Eyes of the Eagle
+- [x] 3 gaudy rings worth 2 gp each
+- [x] Onyx cube-shaped puzzle box
+- [x] Spell scroll of bestow curse
+- [x] 50-100 gp for accompanying Aloysia into Betrayer's Rise
 
 %%  %%
 
