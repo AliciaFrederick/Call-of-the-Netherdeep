@@ -119,15 +119,15 @@ cssclasses:
 ##  Outline important NPCs
 
 - [ ] [Verin Thelyss](https://5e.tools/bestiary.html#verin%20thelyss_crcotn) - Leader at the Barracks - Tired, concerned
-- [ ] Prolix Yusaf - Scholarly Agent of the Allegiance of Allsight at the Crematorium - Voice: Winter from *The Nursery Nurse*, uses too many words 
-- [ ] Question - tiefling at the Ready Room - Voice: higher, curious, Phoebe from *The Magic Schoolbus* ("according to my research...")
-- [ ] Aloysia - elf at the Ready Room - deeper, RP (Judy Dench)
-- [ ] Bautha Dyrr - Drow Priest at the Infirmary - Madame Pomfrey
-- [ ] Foghome - firbolg priest at the Dilapidated Temple - Voice: Bullwinkle
-- [ ] Reynard Allerton - scout worker at the Crematorium - Gregarious
-- [ ] Sebastian Allerton - thug worker at the Crematorium - Good-natured chatterbox
-- [ ] Naevyn Tasithar - injured drow scout at the Infirmary - Voice: weak, raspy
-- [ ] Delez and Prima Demona - drow brother-sister at the Ready Room
+- [ ] [[Prolix Yusaf]] - Scholarly Agent of the Allegiance of Allsight at the Crematorium - Voice: Winter from *The Nursery Nurse*, uses too many words 
+- [ ] [[Question]] - tiefling at the Ready Room - Voice: higher, curious, Phoebe from *The Magic Schoolbus* ("according to my research...")
+- [ ] [[Aloysia Telfan]] - elf at the Ready Room - deeper, RP (Judy Dench)
+- [ ] [[Bautha Dyrr]] - Drow Priest at the Infirmary - Madame Pomfrey
+- [ ] [[Foghome]] - firbolg priest at the Dilapidated Temple - Voice: Bullwinkle
+- [ ] [[Reynard Allerton]] - scout worker at the Crematorium - Gregarious
+- [ ] [[Sebastian Allerton]] - thug worker at the Crematorium - Good-natured chatterbox
+- [ ] [[Naevyn Tasithar]] - injured drow scout at the Infirmary - Voice: weak, raspy
+- [ ] [[Delez and Prima Demona]] - drow brother-sister at the Ready Room
 - [ ] Kalym Telaarin - drow priest of the Luxon at the Wall of the Unforgotten
 
 ##  Choose relevant monsters
