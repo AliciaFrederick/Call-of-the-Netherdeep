@@ -134,6 +134,10 @@ cssclasses:
 - [ ] Small tiger's eye carving of a rabbit with the name "Naevyn" carved on the bottom
 - [ ] Mote of Possibility - A character who fails a saving throw or misses on an attack roll can use a reaction to expend their Mote of Possibility, allowing them to reroll the d20. The character must use the new roll. A Mote of Possibility vanishes from a character after 24 hours or when it is expended.
 - [ ] 50-100 gp for accompanying Aloysia into Betrayer's Rise
+- [ ] Eyes of the Eagle
+- [ ] 3 gaudy rings worth 2 gp each
+- [ ] Onyx cube-shaped puzzle box
+	- [ ] S
 
 %%  %%
 
