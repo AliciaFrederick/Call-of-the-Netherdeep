@@ -14,8 +14,9 @@
 		{"id":"4d555eec19791edd","type":"file","file":"Extras/Assets/03-001.intro-splash.jpg","x":222,"y":-1423,"width":650,"height":863},
 		{"id":"c34fd84305fbc550","type":"file","file":"Extras/Assets/Xhorhas_Bazzoxan_B2_Crematorium_30x20.jpg","x":-500,"y":-991,"width":645,"height":430},
 		{"id":"1674e6acf5152ca8","x":1393,"y":-506,"width":280,"height":430,"type":"file","file":"Extras/Assets/verin-thelyss.png"},
-		{"id":"2f953dfe42720474","x":-920,"y":-400,"width":285,"height":489,"type":"file","file":"Extras/Assets/Pasted image 20250215193408.png"},
-		{"id":"2a039d7c942ff96b","type":"file","file":"Extras/Assets/03-004.aloysia-prolix.png","x":-920,"y":-1200,"width":285,"height":732}
+		{"id":"2f953dfe42720474","x":-920,"y":-340,"width":250,"height":429,"type":"file","file":"Extras/Assets/Pasted image 20250215193408.png"},
+		{"id":"06034a061d5d7bc6","x":-765,"y":-776,"width":225,"height":400,"type":"file","file":"Extras/Assets/03-004.prolix.png"},
+		{"id":"826d43c07fa16b79","x":-1185,"y":-587,"width":225,"height":211,"type":"file","file":"Extras/Assets/03-004.aloysia.png"}
 	],
 	"edges":[]
 }
