@@ -122,7 +122,7 @@ cssclasses:
 - [ ] Foghome - firbolg priest at the Dilapidated Temple - Voice: Bullwinkle
 - [ ] Reynard Allerton - scout worker at the Crematorium - Gregarious
 - [ ] Sebastian Allerton - thug worker at the Crematorium - Good-natured chatterbox
-- [ ] Naevyn Tasithar - injured drow scout at the Infirmary - Voice: weak, slightly higher
+- [ ] Naevyn Tasithar - injured drow scout at the Infirmary - Voice: weak, raspy
 - [ ] Delez and Prima Demona - drow brother-sister at the Ready Room
 - [ ] Kalym Telaarin - drow priest of the Luxon at the Wall of the Unforgotten
 
