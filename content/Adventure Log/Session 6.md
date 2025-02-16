@@ -55,7 +55,7 @@ cssclasses:
 ##  Create a strong start
 
 > [!QUOTE] Strong start
-> TBD
+> Verin Thelyss leads you into the Infirmary, grabbing a pamphlet off the wall as he enters. "Again, thank you for the assistance with the gibbering mouthers. Please, feel free to explore the city and meet me at the barracks later tonight. Here is the map we provide fresh soldiers to get them up to speed quickly." He hands you the pamphlet
 
 ##  Outline potential scenes
 
