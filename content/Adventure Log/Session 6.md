@@ -91,6 +91,8 @@ cssclasses:
 	- [ ] While meditating the other night, he felt something surge within the earth nearby—a warm and kindly presence reminiscent of the Prime Deities. He suspects the presence is a sign that a relic of the Calamity has awakened within the Betrayers' Rise.
 - [ ] Kalym Telaarin at the Wall of the Unforgotten
 	- [ ] When a soldier is not sure of living long enough to make friends that will hold a memorial for them, they arrange to have a keepsake of theirs placed by the wall in their honor.
+- [ ] Question at the Ready Room
+	- [ ] 
 
 ##  Develop fantastic locations
 
