@@ -119,7 +119,7 @@ cssclasses:
 
 - [ ] [Verin Thelyss](https://5e.tools/bestiary.html#verin%20thelyss_crcotn) - Leader at the Barracks - Tired, concerned
 - [ ] Prolix Yusaf - Scholarly Agent of the Allegiance of Allsight at the Crematorium - Voice: Winter from *The Nursery Nurse*, uses too many words 
-- [ ] Question - tiefling at the Ready Room - higher, French
+- [ ] Question - tiefling at the Ready Room - Voice: higher, curious, Phoebe from *The Magic Schoolbus* ("according to my research...")
 - [ ] Aloysia - elf at the Ready Room - deeper, RP (Judy Dench)
 - [ ] Bautha Dyrr - Drow Priest at the Infirmary - Madame Pomfrey
 - [ ] Foghome - firbolg priest at the Dilapidated Temple - Voice: Bullwinkle
