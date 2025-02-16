@@ -48,9 +48,9 @@ cssclasses:
 - [ ] [[Perjeon Beachgift]] 
 - [ ] [[Aza Dirali]] 
 - [ ] [[Thrast Summittrod]] 
-- [ ] [[Ayo Jabe]] - shaken
-- [ ] [[Dermot Wurder]] - worried, thrown self into Luxon teachings, won't leave Ayo
-- [ ] [[Galsariad Ardyth]] - sarcastic to the point of insulting
+- [ ] [[Ayo Jabe]] - shaken, worried she's not a good leader
+- [ ] [[Dermot Wurder]] - thrown self into Luxon teachings, won't leave Ayo
+- [ ] [[Galsariad Ardyth]] - sarcastic to the point of insulting, insecure
 
 ##  Create a strong start
 
@@ -61,6 +61,7 @@ cssclasses:
 > 
 > As he exits, you notice Ayo lying in one of the Infirmary beds, looking shaken. She is being tended to by a very worried Dermot with an angry-looking Galsariad watching over them. 
 
+%%
 ##  Outline potential scenes
 
 - [ ] [[Ch 3 Canvas - Bazzoxan.canvas|Ch 3 Canvas - Bazzoxan]] 
@@ -73,6 +74,43 @@ cssclasses:
 - [ ] [[Chapter 3 - Bazzoxan#B5 Dilapidated Temple]] 
 - [ ] [[Chapter 3 - Bazzoxan#B6 Wall of the Unforgotten]] 
 - [ ] [[Chapter 3 - Bazzoxan#B7 The Ready Room]] 
+%%
+
+##  Outline important NPCs
+
+- [ ] [Verin Thelyss](https://5e.tools/bestiary.html#verin%20thelyss_crcotn) - Leader at the Barracks - Tired, concerned
+- [ ] [[Prolix Yusaf]] - Scholarly Agent of the Allegiance of Allsight at the Crematorium - Voice: Winter from *The Nursery Nurse*, uses too many words 
+- [ ] [[Question]] - tiefling at the Ready Room - Voice: higher, curious, Phoebe from *The Magic Schoolbus* ("according to my research...")
+- [ ] [[Aloysia Telfan]] - elf at the Ready Room - Voice: deeper, RP (Judy Dench)
+- [ ] [[Bautha Dyrr]] - Drow Priest at the Infirmary - Voice: Madame Pomfrey
+- [ ] [[Foghome]] - firbolg priest at the Dilapidated Temple - Voice: Bullwinkle
+- [ ] [[Reynard Allerton]] - scout worker at the Crematorium - Gregarious
+- [ ] [[Sebastian Allerton]] - thug worker at the Crematorium - Good-natured chatterbox
+- [ ] [[Naevyn Tasithar]] - injured drow scout at the Infirmary - Voice: weak, raspy
+- [ ] [[Delez and Prima Demona]] - drow brother-sister at the Ready Room
+- [ ] [[Kalym Telaarin]] - drow priest of the Luxon at the Wall of the Unforgotten
+%%
+##  Choose relevant monsters
+
+- [x] Gloomstalker
+- [x] Gibbering mouther
+- [x] Dretch
+- [x] Quasit
+- [x] Manes
+- [x] Veteran (sparring) 
+
+##  Select magic item rewards
+
+- [x] Spell scroll of greater restoration (500 gp) 
+- [x] Small tiger's eye carving of a rabbit with the name "Naevyn" carved on the bottom
+- [x] Mote of Possibility - A character who fails a saving throw or misses on an attack roll can use a reaction to expend their Mote of Possibility, allowing them to reroll the d20. The character must use the new roll. A Mote of Possibility vanishes from a character after 24 hours or when it is expended.
+- [x] Eyes of the Eagle
+- [x] 3 gaudy rings worth 2 gp each
+- [x] Onyx cube-shaped puzzle box
+- [x] Spell scroll of bestow curse
+- [x] 50-100 gp for accompanying Aloysia into Betrayer's Rise
+
+%%  
 
 ##  Define secrets and clues
 
@@ -115,40 +153,4 @@ cssclasses:
 	- [ ] This hero participated in climactic battles across the continents of Wildemount and Marquet—including the battle at the Betrayers' Rise. (True.)
 	- [ ] The hero died in the battle at the Betrayers' Rise and was brought back to life as a vengeful revenant by Avandra the Change Bringer. (Mostly false. Alyxian nearly died but was healed and granted further power by Avandra.)
 	- [ ] The hero wore a pendant that contained the power of three gods. This pendant is the key to acquiring the ruidium her organization seeks. (Partially true. The [Jewel of Three Prayers](https://5e.tools/items.html#jewel%20of%20three%20prayers_crcotn) holds the power of three gods and, in its Exalted State, can be used to open the rift to the Netherdeep in Cael Morrow, as described in [chapter 5](https://5e.tools/adventure.html#CRCotN,5).)
-
-##  Outline important NPCs
-
-- [ ] [Verin Thelyss](https://5e.tools/bestiary.html#verin%20thelyss_crcotn) - Leader at the Barracks - Tired, concerned
-- [ ] [[Prolix Yusaf]] - Scholarly Agent of the Allegiance of Allsight at the Crematorium - Voice: Winter from *The Nursery Nurse*, uses too many words 
-- [ ] [[Question]] - tiefling at the Ready Room - Voice: higher, curious, Phoebe from *The Magic Schoolbus* ("according to my research...")
-- [ ] [[Aloysia Telfan]] - elf at the Ready Room - Voice: deeper, RP (Judy Dench)
-- [ ] [[Bautha Dyrr]] - Drow Priest at the Infirmary - Voice: Madame Pomfrey
-- [ ] [[Foghome]] - firbolg priest at the Dilapidated Temple - Voice: Bullwinkle
-- [ ] [[Reynard Allerton]] - scout worker at the Crematorium - Gregarious
-- [ ] [[Sebastian Allerton]] - thug worker at the Crematorium - Good-natured chatterbox
-- [ ] [[Naevyn Tasithar]] - injured drow scout at the Infirmary - Voice: weak, raspy
-- [ ] [[Delez and Prima Demona]] - drow brother-sister at the Ready Room
-- [ ] [[Kalym Telaarin]] - drow priest of the Luxon at the Wall of the Unforgotten
-
-##  Choose relevant monsters
-
-- [x] Gloomstalker
-- [x] Gibbering mouther
-- [x] Dretch
-- [x] Quasit
-- [x] Manes
-- [x] Veteran (sparring) 
-
-##  Select magic item rewards
-
-- [x] Spell scroll of greater restoration (500 gp) 
-- [x] Small tiger's eye carving of a rabbit with the name "Naevyn" carved on the bottom
-- [x] Mote of Possibility - A character who fails a saving throw or misses on an attack roll can use a reaction to expend their Mote of Possibility, allowing them to reroll the d20. The character must use the new roll. A Mote of Possibility vanishes from a character after 24 hours or when it is expended.
-- [x] Eyes of the Eagle
-- [x] 3 gaudy rings worth 2 gp each
-- [x] Onyx cube-shaped puzzle box
-- [x] Spell scroll of bestow curse
-- [x] 50-100 gp for accompanying Aloysia into Betrayer's Rise
-
-%%  %%
 
