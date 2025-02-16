@@ -1,13 +1,13 @@
 ---
-permalink: https://www.dndbeyond.com/posts/726-encounter-of-the-week-an-early-dawn
+permalink: https://www.dndbeyond.com/posts/697-encounter-of-the-week-vine-shine
 ---
 This week’s encounter is _Vine Shine_, and sets the characters in the splendid and colorful seaside city of Nicodranas on the Menagerie Coast. Every day, the Mother’s Lighthouse shines above the Restless Wharf, a beacon to guide lost travelers safely back to shore. But when dark overgrown vines suddenly entangle the structure, the characters must delve into the depths of the temple and restore the Wild Mother’s light.
 
-  
-
 ## Exploration Encounter: Vine Shine
 
-![](https://www.dndbeyond.com/attachments/thumbnails/7/647/400/566/mothers-lighthouse-by-galactic-jonah-galactic.jpg)_This encounter is suitable for a party of 2nd to 3rd level characters, and combines mystery investigation with combat to uncover the source of the lighthouse’s sudden plague._
+![](https://www.dndbeyond.com/attachments/thumbnails/7/647/400/566/mothers-lighthouse-by-galactic-jonah-galactic.jpg)
+
+_This encounter is suitable for a party of 2nd to 3rd level characters, and combines mystery investigation with combat to uncover the source of the lighthouse’s sudden plague._
 
 In the shadows of the Menagerie Coast, a small but insidious cult has begun to rise in power. As followers of Zehir, the Cloaked Serpent, these cultists aim to poison and corrupt Exandria to the will of this Betrayer God.
 
