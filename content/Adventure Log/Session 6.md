@@ -55,7 +55,10 @@ cssclasses:
 ##  Create a strong start
 
 > [!QUOTE] Strong start
-> Verin Thelyss leads you into the Infirmary, grabbing a pamphlet off the wall as he enters. "Again, thank you for the assistance with the gibbering mouthers. Please, feel free to explore the city and meet me at the barracks later tonight. Here is the map we provide fresh soldiers to get them up to speed quickly." He hands you the pamphlet
+> Verin Thelyss leads you into the Infirmary, grabbing a pamphlet off the wall as he enters. 
+> "Again, thank you for the assistance with the gibbering mouthers. Please, feel free to explore the city and meet me at the barracks later tonight. Here is the map we provide fresh soldiers to get them up to speed quickly." 
+> He hands you the pamphlet. 
+> "If you're willing to help even more, they'll have a new batch of bodies to burn at the Crematorium after this latest attack. Or you can head over to the Temple to see if Foghome could use you. Otherwise, the beds at the Ready Room do get snapped up quickly; I would suggest " 
 
 ##  Outline potential scenes
 
