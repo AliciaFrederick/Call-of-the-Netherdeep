@@ -99,26 +99,26 @@ cssclasses:
 - [x] Manes
 - [x] Veteran (sparring) 
 
+%%  
 ##  Select magic item rewards
 
-- [x] Spell scroll of greater restoration (500 gp) 
-- [x] Small tiger's eye carving of a rabbit with the name "Naevyn" carved on the bottom
-- [x] Mote of Possibility - A character who fails a saving throw or misses on an attack roll can use a reaction to expend their Mote of Possibility, allowing them to reroll the d20. The character must use the new roll. A Mote of Possibility vanishes from a character after 24 hours or when it is expended.
-- [x] Eyes of the Eagle
-- [x] 3 gaudy rings worth 2 gp each
-- [x] Onyx cube-shaped puzzle box
-- [x] Spell scroll of bestow curse
-- [x] 50-100 gp for accompanying Aloysia into Betrayer's Rise
+- [ ] Spell scroll of greater restoration (500 gp) 
+- [ ] Small tiger's eye carving of a rabbit with the name "Naevyn" carved on the bottom
+- [ ] Mote of Possibility - A character who fails a saving throw or misses on an attack roll can use a reaction to expend their Mote of Possibility, allowing them to reroll the d20. The character must use the new roll. A Mote of Possibility vanishes from a character after 24 hours or when it is expended.
+- [ ] Eyes of the Eagle
+- [ ] 3 gaudy rings worth 2 gp each
+- [ ] Onyx cube-shaped puzzle box
+- [ ] Spell scroll of bestow curse
+- [ ] 50-100 gp for accompanying Aloysia into Betrayer's Rise
 
-%%  
 
 ##  Define secrets and clues
 
 - [ ] Prolix Yusaf at the Crematorium
-	- [ ] Why are you here. "I'm an archaeologist, but I'm not here to perform archaeology, per se. I was sent by the Allegiance of Allsight to spy on a rival agent of the Consortium of the Vermilion Dream." Prolix says that the Allegiance doesn't know why the Consortium dispatched someone to Bazzoxan, but the reason can't be good.
-	- [ ] Who is your rival. "Aloysia. That's her name. She's looking for something in the Betrayers' Rise. She's not hard to spot. Tall, pale, dressed in red. Cold-blooded. Seems like she'd do anything to get what she wants. And what she wants is... well, that's what I'd like to know!" Prolix goes on to say that both he and Aloysia are staying at the Ready Room ([area R7](https://5e.tools/adventure.html#crcotn,3,r7%3a%20stairs%20down,0)).
-	- [ ] Do you know how to open the puzzle box or not. "Of course not! But it came from inside the temple—it must hold something important." Prolix intends to keep the box and its contents from falling into Aloysia's hands.
-	- [ ] Prolix and the Jewel. If the characters have the [Jewel of Three Prayers](https://5e.tools/items.html#jewel%20of%20three%20prayers_crcotn) and show it to Prolix, he says he doesn't know what the jewel represents, although he recognizes it as something both powerful and ancient. If the characters give him the opportunity, he draws a quick sketch of the item, jots down some notes, and invites the characters to return with him to the Crystal Chateau, his university in Ank'Harel, once their respective missions in Bazzoxan are complete. He suggests the university's libraries might have more information about the jewel's purpose.
+	- [ ] Prolix was sent by the Allegiance of Allsight to spy on a rival agent of the Consortium of the Vermilion Dream.
+	- [ ] Aloysia is looking for something in the Betrayers' Rise. She's tall, pale, dressed in red. Cold-blooded. Staying at the Ready Room.
+	- [ ] Prolix doesn't know how to open the box but thinks it must be important. He intends to keep the box and its contents from falling into Aloysia's hands.
+	- [ ] Prolix says he doesn't know what the Jewel of Three Prayers represents, although he recognizes it as something both powerful and ancient. If the characters give him the opportunity, he draws a quick sketch of the item, jots down some notes, and invites the characters to return with him to the Crystal Chateau, his university in Ank'Harel, once their respective missions in Bazzoxan are complete. He suggests the university's libraries might have more information about the jewel's purpose.
 	- [ ] If the characters seem eager to learn more about the jewel, Prolix mentions meeting a "real smartie" who is also staying at the Ready Room ([area B7](https://5e.tools/adventure.html#crcotn,3,b7%3a%20the%20ready%20room,0)). This other scholar is a tiefling named Question, who Prolix believes is visiting Bazzoxan for research as well. Prolix relates having an animated discussion with Question the other night about key historical figures of the Calamity.
 - [ ] Bautha Dyrr at the Infirmary
 	- [ ] Aloysia was injured when she tried to delve into the Betrayers' Rise alone—and now she's looking for mercenaries to explore it on her behalf
