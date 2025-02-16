@@ -115,7 +115,7 @@ cssclasses:
 
 - [ ] Reynard Allerton - scout worker at the Crematorium - Gregarious
 - [ ] Sebastian Allerton - thug worker at the Crematorium - Good-natured chatterbox
-- [ ] Bautha Dyrr - Drow Priest at the Infirmary
+- [ ] Bautha Dyrr - Drow Priest at the Infirmary - Madame Pomfrey
 - [ ] [Verin Thelyss](https://5e.tools/bestiary.html#verin%20thelyss_crcotn) - Leader at the Barracks - Tired, concerned
 - [ ] Prolix Yusaf - Scholarly Agent of the Allegiance of Allsight at the Crematorium - Voice: Winter from *The Nursery Nurse*, uses too many words 
 - [ ] Naevyn Tasithar - injured drow scout at the Infirmary - Voice: weak, slightly higher
@@ -130,14 +130,14 @@ cssclasses:
 
 ##  Select magic item rewards
 
-- [ ] Spell Scroll of Greater Restoration (500 gp) 
+- [ ] Spell scroll of greater restoration (500 gp) 
 - [ ] Small tiger's eye carving of a rabbit with the name "Naevyn" carved on the bottom
 - [ ] Mote of Possibility - A character who fails a saving throw or misses on an attack roll can use a reaction to expend their Mote of Possibility, allowing them to reroll the d20. The character must use the new roll. A Mote of Possibility vanishes from a character after 24 hours or when it is expended.
 - [ ] 50-100 gp for accompanying Aloysia into Betrayer's Rise
 - [ ] Eyes of the Eagle
 - [ ] 3 gaudy rings worth 2 gp each
 - [ ] Onyx cube-shaped puzzle box
-	- [ ] S
+	- [ ] Spell scroll of bestow curse
 
 %%  %%
 
