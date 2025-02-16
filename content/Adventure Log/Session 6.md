@@ -131,7 +131,12 @@ cssclasses:
 
 ##  Choose relevant monsters
 
-- [ ] 
+- [ ] Gloomstalker
+- [ ] Gibbering mouther
+- [ ] Dretch
+- [ ] Quasit
+- [ ] Manes
+- [ ] Veteran (sparring) 
 
 ##  Select magic item rewards
 
