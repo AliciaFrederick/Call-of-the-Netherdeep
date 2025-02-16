@@ -100,7 +100,11 @@ cssclasses:
 	- [ ] If asked about the [Jewel of Three Prayers](https://5e.tools/items.html#jewel%20of%20three%20prayers_crcotn), Question speaks of it with reverent awe, calling it a "lost Vestige." Though she doesn't know the relic's true nature, she believes the jewel was an ordinary amulet until it was filled with divine power during the Calamity. 
 	- [ ] If the characters show Question the jewel, the tiefling quivers with excitement and immediately requests a closer look. After a minute of inspection, she says that this object is the key to the mythic cycle that resonates throughout Bazzoxan. She begs the characters to contact her again if they learn more about the jewel during their stay in Bazzoxan.
 	- [ ] Question is terrified of going inside the Betrayers' Rise. She explains that after entering the temple with the other expedition members, she heard voices calling to her, which nearly caused her to run away screaming. Instead, she feigned sudden illness and returned to town after promising to make the next trip inside. She expresses concern that her compatriots have yet to return, but she holds out hope that they'll make it back out.
-- [ ] Aloysia Telfan at the Ready Room - 
+- [ ] Aloysia Telfan at the Ready Room 
+	- [ ] Fragmented historical records tell of an unidentified hero of the Calamity who hailed from the lands of Wildemount. He was born under the full moon of Ruidus and wields the vermilion moon's power. (Partially true. Alyxian was marked by Ruidus, but he creates ruidium on his own, not by drawing on the moon's power.)
+	- [ ] This hero participated in climactic battles across the continents of Wildemount and Marquet—including the battle at the Betrayers' Rise. (True.)
+	- [ ] The hero died in the battle at the Betrayers' Rise and was brought back to life as a vengeful revenant by Avandra the Change Bringer. (Mostly false. Alyxian nearly died but was healed and granted further power by Avandra.)
+	- [ ] The hero wore a pendant that contained the power of three gods. This pendant is the key to acquiring the ruidium her organization seeks. (Partially true. The [Jewel of Three Prayers](https://5e.tools/items.html#jewel%20of%20three%20prayers_crcotn) holds the power of three gods and, in its Exalted State, can be used to open the rift to the Netherdeep in Cael Morrow, as described in [chapter 5](https://5e.tools/adventure.html#CRCotN,5).)
 
 ##  Develop fantastic locations
 
@@ -116,6 +120,7 @@ cssclasses:
 - [ ] Foghome - firbolg priest at the Dilapidated Temple
 - [ ] Delez and Prima Demona - drow brother-sister at the Ready Room
 - [ ] Kalym Telaarin - drow priest of the Luxon at the Wall of the Unforgotten
+- [ ] Question - tiefling at the Ready Room
 
 ##  Choose relevant monsters
 
@@ -126,6 +131,7 @@ cssclasses:
 - [ ] Spell Scroll of Greater Restoration (500 gp) 
 - [ ] Small tiger's eye carving of a rabbit with the name "Naevyn" carved on the bottom
 - [ ] Mote of Possibility - A character who fails a saving throw or misses on an attack roll can use a reaction to expend their Mote of Possibility, allowing them to reroll the d20. The character must use the new roll. A Mote of Possibility vanishes from a character after 24 hours or when it is expended.
+- [ ] 50-100 gp for accompanying Aloysia into Betrayer's Rise
 
 %%  %%
 
