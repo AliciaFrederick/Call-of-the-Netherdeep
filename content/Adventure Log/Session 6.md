@@ -90,6 +90,7 @@ cssclasses:
 	- [ ] He is a follower of Melora the Wild Mother, but he recognizes the temple as a former holy place of Avandra the Change Bringer. He hopes to honor both deities by cultivating new life in the midst of the death and destruction that haunts this place.
 	- [ ] While meditating the other night, he felt something surge within the earth nearby—a warm and kindly presence reminiscent of the Prime Deities. He suspects the presence is a sign that a relic of the Calamity has awakened within the Betrayers' Rise.
 - [ ] Kalym Telaarin at the Wall of the Unforgotten
+	- [ ] When a soldier is not sure of living long enough to make friends that will hold a memorial for them, they arrange to have a keepsake of theirs placed by the wall in their honor.
 
 ##  Develop fantastic locations
 
@@ -104,6 +105,7 @@ cssclasses:
 - [ ] Naevyn Tasithar - injured drow scout at the Infirmary
 - [ ] Foghome - firbolg priest at the Dilapidated Temple
 - [ ] Delez and Prima Demona - drow brother-sister at the Ready Room
+- [ ] Kalym Telaarin - drow priest of the Luxon at the Wall of the Unforgotten
 
 ##  Choose relevant monsters
 
