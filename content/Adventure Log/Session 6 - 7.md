@@ -44,12 +44,12 @@ cssclasses:
 ---
 ##  Review the characters
 
-- [ ] [[Perjeon Beachgift]] 
-- [ ] [[Aza Dirali]] 
-- [ ] [[Thrast Summittrod]] 
-- [ ] [[Ayo Jabe]] - shaken, worried she's not a good leader
-- [ ] [[Dermot Wurder]] - thrown self into Luxon teachings, won't leave Ayo
-- [ ] [[Galsariad Ardyth]] - sarcastic to the point of insulting, insecure
+- [x] [[Perjeon Beachgift]] 
+- [x] [[Aza Dirali]] 
+- [x] [[Thrast Summittrod]] 
+- [x] [[Ayo Jabe]] - shaken, worried she's not a good leader
+- [x] [[Dermot Wurder]] - thrown self into Luxon teachings, won't leave Ayo
+- [x] [[Galsariad Ardyth]] - sarcastic to the point of insulting, insecure
 
 ##  Create a strong start
 
@@ -66,28 +66,28 @@ cssclasses:
 - [ ] [[Ch 3 Canvas - Bazzoxan.canvas|Ch 3 Canvas - Bazzoxan]] 
 - [ ] [[Chapter 3 - Bazzoxan#Bazzoxan Scenes|Bazzoxan Scenes]] 
 - [ ] [[Chapter 3 - Bazzoxan#Sacrifice Engines|Sacrifice Engines]] 
-- [ ] [[Chapter 3 - Bazzoxan#B1 Gate of Bazzoxan]] 
+- [x] [[Chapter 3 - Bazzoxan#B1 Gate of Bazzoxan]] 
 - [ ] [[Chapter 3 - Bazzoxan#B2 Crematorium]] 
-- [ ] [[Chapter 3 - Bazzoxan#B3 Infirmary]] 
+- [x] [[Chapter 3 - Bazzoxan#B3 Infirmary]] 
 - [ ] [[Chapter 3 - Bazzoxan#B4 Gatehold Barracks]] 
 - [ ] [[Chapter 3 - Bazzoxan#B5 Dilapidated Temple]] 
-- [ ] [[Chapter 3 - Bazzoxan#B6 Wall of the Unforgotten]] 
-- [ ] [[Chapter 3 - Bazzoxan#B7 The Ready Room]] 
+- [x] [[Chapter 3 - Bazzoxan#B6 Wall of the Unforgotten]] 
+- [x] [[Chapter 3 - Bazzoxan#B7 The Ready Room]] 
 
 
 ##  Outline important NPCs
 
 - [ ] [Verin Thelyss](https://5e.tools/bestiary.html#verin%20thelyss_crcotn) - Leader at the Barracks - Tired, concerned
 - [ ] [[Prolix Yusaf]] - Scholarly Agent of the Allegiance of Allsight at the Crematorium - Voice: Winter from *The Nursery Nurse*, uses too many words 
-- [ ] [[Question]] - tiefling at the Ready Room - Voice: higher, curious, Phoebe from *The Magic Schoolbus* ("according to my research...")
-- [ ] [[Aloysia Telfan]] - elf at the Ready Room - Voice: deeper, RP (Judy Dench)
-- [ ] [[Bautha Dyrr]] - Drow Priest at the Infirmary - Voice: Madame Pomfrey
+- [x] [[Question]] - tiefling at the Ready Room - Voice: higher, curious, Phoebe from *The Magic Schoolbus* ("according to my research...")
+- [x] [[Aloysia Telfan]] - elf at the Ready Room - Voice: deeper, RP (Judy Dench)
+- [x] [[Bautha Dyrr]] - Drow Priest at the Infirmary - Voice: Madame Pomfrey
 - [ ] [[Foghome]] - firbolg priest at the Dilapidated Temple - Voice: Bullwinkle
 - [ ] [[Reynard Allerton]] - scout worker at the Crematorium - Gregarious
 - [ ] [[Sebastian Allerton]] - thug worker at the Crematorium - Good-natured chatterbox
-- [ ] [[Naevyn Tasithar]] - injured drow scout at the Infirmary - Voice: weak, raspy
-- [ ] [[Delez and Prima Demona]] - drow brother-sister at the Ready Room
-- [ ] [[Kalym Telaarin]] - drow priest of the Luxon at the Wall of the Unforgotten
+- [x] [[Naevyn Tasithar]] - injured drow scout at the Infirmary - Voice: weak, raspy
+- [x] [[Delez and Prima Demona]] - drow brother-sister at the Ready Room
+- [x] [[Kalym Telaarin]] - drow priest of the Luxon at the Wall of the Unforgotten
 
 ##  Choose relevant monsters
 
@@ -102,8 +102,8 @@ cssclasses:
 ##  Select magic item rewards
 
 - [ ] Spell scroll of greater restoration (500 gp) 
-- [ ] Small tiger's eye carving of a rabbit with the name "Naevyn" carved on the bottom
-- [ ] Mote of Possibility - A character who fails a saving throw or misses on an attack roll can use a reaction to expend their Mote of Possibility, allowing them to reroll the d20. The character must use the new roll. A Mote of Possibility vanishes from a character after 24 hours or when it is expended.
+- [x] Small tiger's eye carving of a rabbit with the name "Naevyn" carved on the bottom
+- [x] Mote of Possibility - A character who fails a saving throw or misses on an attack roll can use a reaction to expend their Mote of Possibility, allowing them to reroll the d20. The character must use the new roll. A Mote of Possibility vanishes from a character after 24 hours or when it is expended.
 - [ ] Eyes of the Eagle
 - [ ] 3 gaudy rings worth 2 gp each
 - [ ] Onyx cube-shaped puzzle box
@@ -139,17 +139,17 @@ cssclasses:
 - [x] Kalym Telaarin at the Wall of the Unforgotten
 	- [x] When a soldier is not sure of living long enough to make friends that will hold a memorial for them, they arrange to have a keepsake of theirs placed by the wall in their honor.
 - [ ] Question at the Ready Room
-	- [ ] Question is eager to show characters her sketchbook. She explains that her drawings are based on research she conducted in the archives of the Cobalt Soul in Ank'Harel, the city where she has lived for the past five years. On the pages of the sketchbook, characters can see the following drawings:
+	- [x] Question is eager to show characters her sketchbook. She explains that her drawings are based on research she conducted in the archives of the Cobalt Soul in Ank'Harel, the city where she has lived for the past five years. On the pages of the sketchbook, characters can see the following drawings:
 		- [x] A sketch of an island bathed in the moonlight of Catha and Ruidus, both full. The island is covered with trees, marble pillars, and crystal shards and resembles the final chamber in the Emerald Grotto.
 		- [x] A rough drawing of what appears to be a more elaborate version of the [Jewel of Three Prayers](https://5e.tools/items.html#jewel%20of%20three%20prayers_crcotn). It is larger and has three delicate spires inlaid with stones.
 		- [x] A rubbing of a symbol that depicts a long-haired woman peering into the distance. A character who makes a successful DC 12 Intelligence (Religion) check identifies this as the holy symbol of Avandra the Change Bringer. Question explains that this rubbing was taken from a wall carving in the Betrayers' Rise (see [area R1](https://5e.tools/adventure.html#crcotn,3,r1%3a%20entrance,0) later in the chapter).
 		- [x] A folk ballad, written in Undercommon, that speaks of an unnamed "halfway god," a champion who was given so much power by three of the Prime Deities during the Calamity that he became nearly divine himself.
-	- [ ] If asked about the [Jewel of Three Prayers](https://5e.tools/items.html#jewel%20of%20three%20prayers_crcotn), Question speaks of it with reverent awe, calling it a "lost Vestige." Though she doesn't know the relic's true nature, she believes the jewel was an ordinary amulet until it was filled with divine power during the Calamity. 
+	- [x] If asked about the [Jewel of Three Prayers](https://5e.tools/items.html#jewel%20of%20three%20prayers_crcotn), Question speaks of it with reverent awe, calling it a "lost Vestige." Though she doesn't know the relic's true nature, she believes the jewel was an ordinary amulet until it was filled with divine power during the Calamity. 
 	- [ ] If the characters show Question the jewel, the tiefling quivers with excitement and immediately requests a closer look. After a minute of inspection, she says that this object is the key to the mythic cycle that resonates throughout Bazzoxan. She begs the characters to contact her again if they learn more about the jewel during their stay in Bazzoxan.
-	- [ ] Question is terrified of going inside the Betrayers' Rise. She explains that after entering the temple with the other expedition members, she heard voices calling to her, which nearly caused her to run away screaming. Instead, she feigned sudden illness and returned to town after promising to make the next trip inside. She expresses concern that her compatriots have yet to return, but she holds out hope that they'll make it back out.
-- [ ] Aloysia Telfan at the Ready Room 
-	- [ ] Fragmented historical records tell of an unidentified hero of the Calamity who hailed from the lands of Wildemount. He was born under the full moon of Ruidus and wields the vermilion moon's power. (Partially true. Alyxian was marked by Ruidus, but he creates ruidium on his own, not by drawing on the moon's power.)
-	- [ ] This hero participated in climactic battles across the continents of Wildemount and Marquet—including the battle at the Betrayers' Rise. (True.)
-	- [ ] The hero died in the battle at the Betrayers' Rise and was brought back to life as a vengeful revenant by Avandra the Change Bringer. (Mostly false. Alyxian nearly died but was healed and granted further power by Avandra.)
-	- [ ] The hero wore a pendant that contained the power of three gods. This pendant is the key to acquiring the ruidium her organization seeks. (Partially true. The [Jewel of Three Prayers](https://5e.tools/items.html#jewel%20of%20three%20prayers_crcotn) holds the power of three gods and, in its Exalted State, can be used to open the rift to the Netherdeep in Cael Morrow, as described in [chapter 5](https://5e.tools/adventure.html#CRCotN,5).)
+	- [x] Question is terrified of going inside the Betrayers' Rise. She explains that after entering the temple with the other expedition members, she heard voices calling to her, which nearly caused her to run away screaming. Instead, she feigned sudden illness and returned to town after promising to make the next trip inside. She expresses concern that her compatriots have yet to return, but she holds out hope that they'll make it back out.
+- [x] Aloysia Telfan at the Ready Room 
+	- [x] Fragmented historical records tell of an unidentified hero of the Calamity who hailed from the lands of Wildemount. He was born under the full moon of Ruidus and wields the vermilion moon's power. (Partially true. Alyxian was marked by Ruidus, but he creates ruidium on his own, not by drawing on the moon's power.)
+	- [x] This hero participated in climactic battles across the continents of Wildemount and Marquet—including the battle at the Betrayers' Rise. (True.)
+	- [x] The hero died in the battle at the Betrayers' Rise and was brought back to life as a vengeful revenant by Avandra the Change Bringer. (Mostly false. Alyxian nearly died but was healed and granted further power by Avandra.)
+	- [x] The hero wore a pendant that contained the power of three gods. This pendant is the key to acquiring the ruidium her organization seeks. (Partially true. The [Jewel of Three Prayers](https://5e.tools/items.html#jewel%20of%20three%20prayers_crcotn) holds the power of three gods and, in its Exalted State, can be used to open the rift to the Netherdeep in Cael Morrow, as described in [chapter 5](https://5e.tools/adventure.html#CRCotN,5).)
 
