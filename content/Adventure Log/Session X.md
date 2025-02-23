@@ -67,14 +67,19 @@ cssclasses:
 ##  Outline important NPCs
 
 - [ ] [Alyxian](https://www.dndbeyond.com/sources/dnd/cotn/answering-the-call#RoleplayingtheApotheon) 
-- [ ] [[Aloysia]]
+- [ ] [[Aloysia Telfan]] 
 - [ ] [[Ayo Jabe]] 
 - [ ] [[Dermot Wurder]] 
 - [ ] [[Galsariad Ardyth]] 
 
 ##  Choose relevant monsters
 
-- [ ] 
+- [ ] Quasit
+- [ ] Chasme
+- [ ] Barlgura
+- [ ] Shadow demon
+- [ ] Manes
+- [ ] Gloomstalker
 
 ##  Select magic item rewards
 
