@@ -74,16 +74,25 @@ cssclasses:
 
 ##  Choose relevant monsters
 
-- [ ] Quasit
-- [ ] Chasme
-- [ ] Barlgura
-- [ ] Shadow demon
-- [ ] Manes
-- [ ] Gloomstalker
+- [ ] Gibbering mouthers
+- [ ] 
+- [ ] Reinforcements
+	- [ ] Quasit
+	- [ ] Chasme
+	- [ ] Barlgura
+	- [ ] Shadow demon
+	- [ ] Manes
+	- [ ] Gloomstalker
 
 ##  Select magic item rewards
 
 - [ ] 
 
-%%  %%
+%% 
+## TODO
+
+- [ ] Create Abyssal writing for R3
+- [ ] 
+
+%%
 
