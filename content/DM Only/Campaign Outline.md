@@ -43,8 +43,8 @@ Example - https://slyflourish.notion.site/Rime-of-the-Frostmaiden-1c8e3de45d244c
 
 - [x] The characters journey to Bazzoxan to learn more about the Jewel
 - [x] LEVEL 5
-- [ ] The characters explore Bazzoxan, defeating a pair of gloomstalkers as they arrive at Betrayer's Rise
-- [ ] LEVEL 6
+- [x] The characters explore Bazzoxan, defeating a pair of gloomstalkers as they arrive at Betrayer's Rise
+- [x] LEVEL 6
 - [ ] The characters work their way through Betrayer's Rise to find the Prayer Site of Avandra
 - [ ] LEVEL 7
 
