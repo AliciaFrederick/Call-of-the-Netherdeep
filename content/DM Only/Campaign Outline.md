@@ -41,8 +41,8 @@ Example - https://slyflourish.notion.site/Rime-of-the-Frostmaiden-1c8e3de45d244c
 
 ## Act 2: Awakening the Jewel (Chapter 2 & 3)
 
-- [ ] The characters journey to Bazzoxan to learn more about the Jewel
-- [ ] LEVEL 5
+- [x] The characters journey to Bazzoxan to learn more about the Jewel
+- [x] LEVEL 5
 - [ ] The characters explore Bazzoxan, defeating a pair of gloomstalkers as they arrive at Betrayer's Rise
 - [ ] LEVEL 6
 - [ ] The characters work their way through Betrayer's Rise to find the Prayer Site of Avandra
