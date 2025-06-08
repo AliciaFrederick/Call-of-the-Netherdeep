@@ -58,6 +58,13 @@ cssclasses:
 	- [ ] Orc War Chiefs
 	- [ ] Vrock
 	- [ ] Aloysia & Rivals
+- [ ] Reinforcements
+	- [ ] Quasit
+	- [ ] Chasme
+	- [ ] Barlgura
+	- [ ] Shadow demon
+	- [ ] Manes
+	- [ ] Gloomstalker
 - [ ] Expansion
 	- [ ] Shadow Demons
 	- [ ] Ochre Jellies
@@ -69,10 +76,3 @@ cssclasses:
 	- [ ] Chasmes
 	- [ ] Glabrezu
 	- [ ] Balor
-- [ ] Reinforcements
-	- [ ] Quasit
-	- [ ] Chasme
-	- [ ] Barlgura
-	- [ ] Shadow demon
-	- [ ] Manes
-	- [ ] Gloomstalker
