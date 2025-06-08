@@ -80,6 +80,17 @@ cssclasses:
 	- [ ] Orc War Chiefs
 	- [ ] Vrock
 	- [ ] Aloysia & Rivals
+- [ ] Expansion
+	- [ ] Shadow Demons
+	- [ ] Ochre Jellies
+	- [ ] Yochlol - Giant Spider
+	- [ ] Yochlol - Drow Aurora Watch
+	- [ ] Invisible Barlguras
+	- [ ] Nightmares
+	- [ ] Ropers
+	- [ ] Chasmes
+	- [ ] Glabrezu
+	- [ ] Balor
 - [ ] Reinforcements
 	- [ ] Quasit
 	- [ ] Chasme
@@ -90,12 +101,12 @@ cssclasses:
 
 ##  Select magic item rewards
 
-- [ ] Cloak of Protection
-- [ ] Cracked Driftglobe
-- [ ] Longsword of Vengeance
-- [ ] Teleportation Tablets
-- [ ] Bag of 22 gp 
-- [ ] Four 1 oz vials of blood
+- [ ] R06 - Bag of 22 gp 
+- [ ] R06 - Four 1 oz vials of blood
+- [ ] R08 - Longsword of Vengeance
+- [ ] R15 - Cloak of Protection
+- [ ] R15 - Cracked Driftglobe
+- [ ] R16 - Teleportation Tablets
 
 %% 
 ## TODO
