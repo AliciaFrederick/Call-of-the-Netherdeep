@@ -8,23 +8,31 @@ draft: true
 date: 
 cssclasses:
 ---
-## Setup
-
-- [ ] [5e Tools](https://5e.tools/dmscreen.html) with [[5etools - BetrayersRise.json]] 
-- [ ] Spotify [music](https://open.spotify.com/album/30CxXNLekWVQzo7xhowwkg) 
-## Cooldown
-
-- [ ] Star - What is one thing you liked about the session?
-- [ ] Wish - What is something you want for future sessions?
-- [ ] Schedule next session
-
----
 
 ##  Review the characters
 
 - [ ] [[Perjeon Beachgift]] 
 - [ ] [[Aza Dirali]] 
 - [ ] [[Thrast Summittrod]] 
+
+---
+
+## Cooldown
+
+- [ ] Star - What is one thing you liked about the session?
+- [ ] Wish - What is something you want for future sessions?
+- [ ] Schedule next session
+
+## Setup
+
+- [ ] [5e Tools](https://5e.tools/dmscreen.html) with [[5etools - BetrayersRise.json]] 
+- [ ] Spotify [Playlist](https://open.spotify.com/playlist/0U59cZNc3Lzt2LRxGaOS4l) 
+	- Smoke Fills the Room - Monks singing, tension
+	- The Luxon - Tension
+	- At the Gates of Bazzoxan - Mysterious and creepy
+	- The Whispered One - Scary battle
+	- Neo-Somnovem Incarnate - Heroic battle
+	- Above the Living Rooftops - Metal battle
 
 ##  Create a strong start
 
@@ -34,24 +42,7 @@ cssclasses:
 > OR
 > 
 > You stand on a bloodstained bridge that extends over a chasm of swirling silver mist. On the far side of the bridge is a closed double door of black stone inscribed with a circle containing the profile of a smiling woman. The symbol is gouged with deep marks, as if something with claws has tried, but failed, to scour it from the stone.
-> 
-> [Playlist](https://open.spotify.com/playlist/0U59cZNc3Lzt2LRxGaOS4l) 
-> 
-> - Smoke Fills the Room - Monks singing, tension
-> - At the Gates of Bazzoxan - Mysterious and creepy
-> - The Luxon - Tension
-> - The Whispered One - Scary battle
-> - Neo-Somnovem Incarnate - Heroic battle
-> - Above the Living Rooftops - Metal battle
-
-##  Outline potential scenes
-
-- [ ] 
-
-##  Define secrets and clues
-
-- [ ] 
-
+ 
 ##  Outline important NPCs
 
 - [ ] [Alyxian](https://www.dndbeyond.com/sources/dnd/cotn/answering-the-call#RoleplayingtheApotheon) 
