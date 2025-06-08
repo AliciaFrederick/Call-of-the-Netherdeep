@@ -9,16 +9,14 @@ date:
 cssclasses:
 ---
 
-[Owlbear Rodeo](https://www.owlbear.rodeo/room/BaGN2KPVM902/TheHomeyLeaf)  
-
+- [ ] [5e Tools](https://5e.tools/dmscreen.html) with [[5etools - BetrayersRise.json]] 
+- [ ] Spotify [music](https://open.spotify.com/album/30CxXNLekWVQzo7xhowwkg) 
 %%
-- [ ] Starting
-	- [ ] Spotify [music](https://open.spotify.com/album/30CxXNLekWVQzo7xhowwkg) 
-	- [ ] Owlbear rodeo [scene](https://www.owlbear.rodeo/room/EiCy8X2dzjxe/TheDinkyBoat) 
-	- [ ] [D&D Beyond](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#FestivalofMerit) adventure
-	- [ ] [Discord](https://discord.com/channels/@me/1289679259560050811) chat
-	- [ ] [Campaign](https://aliciafrederick.github.io/Call-of-the-Netherdeep/) website
-%%
+- [ ] [Owlbear Rodeo](https://www.owlbear.rodeo/room/BaGN2KPVM902/TheHomeyLeaf) - Player view
+- [ ] Owlbear rodeo [scene](https://www.owlbear.rodeo/room/EiCy8X2dzjxe/TheDinkyBoat) - DM view
+- [ ] [D&D Beyond](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#FestivalofMerit) adventure
+- [ ] [Discord](https://discord.com/channels/@me/1289679259560050811) chat
+- [ ] [Campaign](https://aliciafrederick.github.io/Call-of-the-Netherdeep/) website
 
 ## Log
 
@@ -30,9 +28,6 @@ cssclasses:
 - [ ] Star - What is one thing you liked about the session?
 - [ ] Wish - What is something you want for future sessions?
 - [ ] Schedule next session
-
-%%  %%
-
 - [ ] After
 	- [ ] Clean up log
 	- [ ] Comment out prep notes
@@ -48,6 +43,7 @@ cssclasses:
 - [ ] [[Aza Dirali]] 
 - [ ] [[Thrast Summittrod]] 
 
+%%
 ##  Create a strong start
 
 > [!QUOTE] Strong start
@@ -111,7 +107,7 @@ cssclasses:
 %% 
 ## TODO
 
-- [ ] Create Abyssal writing for R3
+- [x] Create Abyssal writing for R3
 - [ ] 
 
 %%
