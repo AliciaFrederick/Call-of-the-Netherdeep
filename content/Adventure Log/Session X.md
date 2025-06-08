@@ -37,11 +37,12 @@ cssclasses:
 > 
 > [Playlist](https://open.spotify.com/playlist/0U59cZNc3Lzt2LRxGaOS4l) 
 > 
-> - Smoke Fills the Room - Creepy vibes
+> - Smoke Fills the Room - Monks singing, tension
+> - At the Gates of Bazzoxan - Mysterious and creepy
+> - The Luxon - Tension
 > - The Whispered One - Scary battle
 > - Neo-Somnovem Incarnate - Heroic battle
-> - At the Gates of Bazzoxan - Mysterious and creepy
-> - Above the
+> - Above the Living Rooftops - Metal battle
 
 ##  Outline potential scenes
 
