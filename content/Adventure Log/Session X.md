@@ -36,7 +36,12 @@ cssclasses:
 > You stand on a bloodstained bridge that extends over a chasm of swirling silver mist. On the far side of the bridge is a closed double door of black stone inscribed with a circle containing the profile of a smiling woman. The symbol is gouged with deep marks, as if something with claws has tried, but failed, to scour it from the stone.
 > 
 > [Playlist](https://open.spotify.com/playlist/0U59cZNc3Lzt2LRxGaOS4l) 
-> - Smoke Fills the Room
+> 
+> - Smoke Fills the Room - Creepy vibes
+> - The Whispered One - Scary battle
+> - Neo-Somnovem Incarnate - Heroic battle
+> - At the Gates of Bazzoxan - Mysterious and creepy
+> - Above the
 
 ##  Outline potential scenes
 
