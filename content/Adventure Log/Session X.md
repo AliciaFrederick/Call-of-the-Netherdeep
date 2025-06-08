@@ -68,14 +68,18 @@ cssclasses:
 
 - [ ] [Alyxian](https://www.dndbeyond.com/sources/dnd/cotn/answering-the-call#RoleplayingtheApotheon) 
 - [ ] [[Aloysia Telfan]] 
-- [ ] [[Ayo Jabe]] 
-- [ ] [[Dermot Wurder]] 
-- [ ] [[Galsariad Ardyth]] 
 
 ##  Choose relevant monsters
 
-- [ ] Gibbering mouthers
-- [ ] Main 
+- [ ] Main group
+	- [ ] Gibbering mouthers
+	- [ ] Flameskulls
+	- [ ] Driders
+	- [ ] Giant Spiders
+	- [ ] Dancing Flames
+	- [ ] Orc War Chiefs
+	- [ ] Vrock
+	- [ ] Aloysia & Rivals
 - [ ] Reinforcements
 	- [ ] Quasit
 	- [ ] Chasme
@@ -86,7 +90,12 @@ cssclasses:
 
 ##  Select magic item rewards
 
-- [ ] 
+- [ ] Cloak of Protection
+- [ ] Cracked Driftglobe
+- [ ] Longsword of Vengeance
+- [ ] Teleportation Tablets
+- [ ] Bag of 22 gp 
+- [ ] Four 1 oz vials of blood
 
 %% 
 ## TODO
