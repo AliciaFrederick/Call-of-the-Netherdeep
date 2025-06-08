@@ -75,7 +75,7 @@ cssclasses:
 ##  Choose relevant monsters
 
 - [ ] Gibbering mouthers
-- [ ] 
+- [ ] Main 
 - [ ] Reinforcements
 	- [ ] Quasit
 	- [ ] Chasme
