@@ -8,32 +8,15 @@ draft: true
 date: 
 cssclasses:
 ---
+## Setup
 
 - [ ] [5e Tools](https://5e.tools/dmscreen.html) with [[5etools - BetrayersRise.json]] 
 - [ ] Spotify [music](https://open.spotify.com/album/30CxXNLekWVQzo7xhowwkg) 
-%%
-- [ ] [Owlbear Rodeo](https://www.owlbear.rodeo/room/BaGN2KPVM902/TheHomeyLeaf) - Player view
-- [ ] Owlbear rodeo [scene](https://www.owlbear.rodeo/room/EiCy8X2dzjxe/TheDinkyBoat) - DM view
-- [ ] [D&D Beyond](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#FestivalofMerit) adventure
-- [ ] [Discord](https://discord.com/channels/@me/1289679259560050811) chat
-- [ ] [Campaign](https://aliciafrederick.github.io/Call-of-the-Netherdeep/) website
-
-## Log
-
-- Previously...
-- 
-
 ## Cooldown
 
 - [ ] Star - What is one thing you liked about the session?
 - [ ] Wish - What is something you want for future sessions?
 - [ ] Schedule next session
-- [ ] After
-	- [ ] Clean up log
-	- [ ] Comment out prep notes
-	- [ ] Uncheck draft
-	- [ ] Update [[index]] with next session date
-	- [ ] Git sync
 
 ---
 
@@ -43,11 +26,16 @@ cssclasses:
 - [ ] [[Aza Dirali]] 
 - [ ] [[Thrast Summittrod]] 
 
-%%
 ##  Create a strong start
 
 > [!QUOTE] Strong start
-> TBD
+> The Betrayers' Rise is both ominous and beautiful. Its black walls are carved with intricate reliefs, many of them depicting scenes of torture. Lifelike grotesques of leering demons perch high above, peering down at you with contempt.
+> 
+> An immense double door forms the entrance. This gate is made of onyx inlaid with copper and silver. Guards of the Aurora Watch stand between you and the demonic fortress.
+> 
+> Shouting erupts from the soldiers just as the colossal doors fly open. Two shadowy, winged creatures burst through the opening, immediately take flight, and screech as they dive toward you, their ebon talons extended.
+> 
+> You stand on a bloodstained bridge that extends over a chasm of swirling silver mist. On the far side of the bridge is a closed double door of black stone inscribed with a circle containing the profile of a smiling woman. The symbol is gouged with deep marks, as if something with claws has tried, but failed, to scour it from the stone.
 
 ##  Outline potential scenes
 
@@ -57,9 +45,6 @@ cssclasses:
 
 - [ ] 
 
-##  Develop fantastic locations
-
-- [ ] 
 ##  Outline important NPCs
 
 - [ ] [Alyxian](https://www.dndbeyond.com/sources/dnd/cotn/answering-the-call#RoleplayingtheApotheon) 
