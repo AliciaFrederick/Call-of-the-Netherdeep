@@ -29,13 +29,14 @@ cssclasses:
 ##  Create a strong start
 
 > [!QUOTE] Strong start
-> The Betrayers' Rise is both ominous and beautiful. Its black walls are carved with intricate reliefs, many of them depicting scenes of torture. Lifelike grotesques of leering demons perch high above, peering down at you with contempt.
-> 
-> An immense double door forms the entrance. This gate is made of onyx inlaid with copper and silver. Guards of the Aurora Watch stand between you and the demonic fortress.
-> 
 > Shouting erupts from the soldiers just as the colossal doors fly open. Two shadowy, winged creatures burst through the opening, immediately take flight, and screech as they dive toward you, their ebon talons extended.
 > 
+> OR
+> 
 > You stand on a bloodstained bridge that extends over a chasm of swirling silver mist. On the far side of the bridge is a closed double door of black stone inscribed with a circle containing the profile of a smiling woman. The symbol is gouged with deep marks, as if something with claws has tried, but failed, to scour it from the stone.
+> 
+> [Playlist](https://open.spotify.com/playlist/0U59cZNc3Lzt2LRxGaOS4l) 
+> - Smoke Fills the Room
 
 ##  Outline potential scenes
 
