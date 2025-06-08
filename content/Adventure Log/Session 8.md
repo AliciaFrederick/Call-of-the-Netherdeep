@@ -12,6 +12,7 @@ cssclasses:
 ## Setup
 
 - [ ] [5e Tools](https://5e.tools/dmscreen.html) with [[5etools - BetrayersRise.json]] 
+- [ ] Safety Tools
 - [ ] Spotify [Playlist](https://open.spotify.com/playlist/0U59cZNc3Lzt2LRxGaOS4l) 
 	- Smoke Fills the Room - Monks singing, tension
 	- The Luxon - Tension
