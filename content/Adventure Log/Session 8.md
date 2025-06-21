@@ -52,10 +52,10 @@ cssclasses:
 - [ ] Main group
 	- [x] Gibbering mouthers
 	- [-] Flameskulls
-	- [ ] Driders
-	- [ ] Giant Spiders
-	- [ ] Dancing Flames
-	- [ ] Orc War Chiefs
+	- [-] Driders
+	- [-] Giant Spiders
+	- [x] Dancing Flames
+	- [-] Orc War Chiefs
 	- [ ] Vrock
 	- [ ] Aloysia & Rivals
 - [ ] Reinforcements
@@ -76,3 +76,8 @@ cssclasses:
 	- [ ] Chasmes
 	- [ ] Glabrezu
 	- [ ] Balor
+
+## Scene
+
+- [ ] Rivals teleport in - Aloysia paid them to follow, Question warned them Aloysia was bad news
+- [ ] 
