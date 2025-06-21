@@ -40,9 +40,9 @@ cssclasses:
  
 ##  Select magic item rewards
 
-- [ ] R06 - Bag of 22 gp 
-- [ ] R06 - Four 1 oz vials of blood
-- [ ] R08 - Longsword of Vengeance
+- [-] R06 - Bag of 22 gp 
+- [-] R06 - Four 1 oz vials of blood
+- [-] R08 - Longsword of Vengeance
 - [ ] R15 - Cloak of Protection
 - [ ] R15 - Cracked Driftglobe
 - [ ] R16 - Teleportation Tablets
@@ -50,8 +50,8 @@ cssclasses:
 ##  Choose relevant monsters
 
 - [ ] Main group
-	- [ ] Gibbering mouthers
-	- [ ] Flameskulls
+	- [x] Gibbering mouthers
+	- [-] Flameskulls
 	- [ ] Driders
 	- [ ] Giant Spiders
 	- [ ] Dancing Flames
