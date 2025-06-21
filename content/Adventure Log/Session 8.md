@@ -79,5 +79,5 @@ cssclasses:
 
 ## Scene
 
-- [ ] Rivals teleport in - Aloysia paid them to follow, Question warned them Aloysia was bad news
+- [ ] Rivals teleport in with Question - Aloysia paid the riv to follow, Question warned them Aloysia was bad news
 - [ ] 
