@@ -68,7 +68,14 @@ cssclasses:
 	- [ ] Opalite Forum - Entertainment Square
 	- [ ] Sa'Irah Mines - Clay Strip Mines
 - [ ] Cerulean Palace
-- [ ] The Circlet Wal
+- [ ] The Circlet Walk
+	- [ ] Lyrean Linen - Front for the Black Market
+	- [ ] Step Aside - Inn and Tavern
+- [ ] Guided District
+	- [ ] Blessing Well - Holy Site
+	- [ ] Crossings of Eventide - Necropolis
+	- [ ] Temple of the Mentor - Temple to Ioun and HQ of the Cobalt Soul
+	- [ ] Tower of Memory - HQ of the Sentinels of Memory
 ##  Outline important NPCs
 
 - [ ] Allegiance of Allsight - _"To peer into the past is to illuminate the future."_ 
