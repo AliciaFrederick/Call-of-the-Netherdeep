@@ -79,11 +79,24 @@ cssclasses:
 		- [ ] Safehouse - "Pardon my steps as I pass through"
 - [ ] Guided District
 	- [ ] Blessing Well - Holy Site
-	- [ ] Crossings of Eventide - Necropolis
+	- [ ] Crossings of Eventide - Necropolis, Temple to the Duskmaven
 	- [ ] Temple of the Mentor - Temple to Ioun and HQ of the Cobalt Soul
 		- [ ] Iwo Zalarre (half-orc monastic operative)
 	- [ ] Tower of Memory - HQ of the Sentinels of Memory
 		- [ ] Watcher Byron (gnome veteran) 
+- [ ] The Ridge
+	- [ ] Alsfarin Union Shipyard
+	- [ ] Sunfilre Forge
+- [ ] River District
+	- [ ] Life Dome
+	- [ ] Old Man Kruuk's
+	- [ ] Steam Gardens
+- [ ] Sand Herald District
+	- [ ] Bowl of Judgment
+	- [ ] Indala Skyport
+	- [ ] Ord Bastion
+- [ ] Sigil District
+	- [ ] 
 ##  Outline important NPCs
 
 - [ ] Allegiance of Allsight - _"To peer into the past is to illuminate the future."_ 
