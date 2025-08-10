@@ -67,10 +67,12 @@ cssclasses:
 	- [ ] Alluvium Gardens - Arboretum
 	- [ ] Opalite Forum - Entertainment Square
 	- [ ] Sa'Irah Mines - Clay Strip Mines
+		- [ ] Zala Keencutter (tiefling thug) 
 - [ ] Cerulean Palace
 - [ ] The Circlet Walk
 	- [ ] Lyrean Linen - Front for the Black Market
-		- [ ] Bas and 
+		- [ ] Bas and Kovra Lyrean (half-elf bandits) 
+		- [ ] Ask for cloth dyed "Whitestone green" to access suude (narcotic) and other black market concoctions
 	- [ ] Step Aside - Inn and Tavern
 		- [ ] Irawan (elf veteran, retired Scarbearer)
 		- [ ] Calinao (elf druid, retired Scarbearer) 
