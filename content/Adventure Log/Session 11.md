@@ -64,31 +64,32 @@ cssclasses:
 ##  Develop fantastic locations
 
 - [ ] Alluvium District
-	- [ ] Alluvium Gardens - Arboretum
-	- [ ] Opalite Forum - Entertainment Square
-	- [ ] Sa'Irah Mines - Clay Strip Mines
+	- [ ] Alluvium Gardens - *Arboretum*
+	- [ ] Opalite Forum - *Entertainment Square*
+	- [ ] Sa'Irah Mines - *Clay Strip Mines*
 		- [ ] Zala Keencutter (tiefling thug) 
 - [ ] Cerulean Palace
 - [ ] The Circlet Walk
-	- [ ] Lyrean Linen - Front for the Black Market
+	- [ ] Lyrean Linen - *Front for the Black Market*
 		- [ ] Bas and Kovra Lyrean (half-elf bandits) 
 		- [ ] Ask for cloth dyed "Whitestone green" to access suude (narcotic) and other black market concoctions
-	- [ ] Step Aside - Inn and Tavern
+	- [ ] Step Aside - *Inn and Tavern*
 		- [ ] Irawan (elf veteran, retired Scarbearer)
 		- [ ] Calinao (elf druid, retired Scarbearer) 
 		- [ ] Safehouse - "Pardon my steps as I pass through"
 - [ ] Guided District
-	- [ ] Blessing Well - Holy Site
-	- [ ] Crossings of Eventide - Necropolis, Temple to the Duskmaven
-	- [ ] Temple of the Mentor - Temple to Ioun and HQ of the Cobalt Soul
+	- [ ] Blessing Well - *Holy Site*
+	- [ ] Crossings of Eventide - *Necropolis, Temple to the Duskmaven*
+	- [ ] Temple of the Mentor - *Temple to Ioun and HQ of the Cobalt Soul*
 		- [ ] Iwo Zalarre (half-orc monastic operative)
-	- [ ] Tower of Memory - HQ of the Sentinels of Memory
+	- [ ] Tower of Memory - *HQ of the Sentinels of Memory*
 		- [ ] Watcher Byron (gnome veteran) 
 - [ ] The Ridge
-	- [ ] Alsfarin Union Shipyard
+	- [ ] Alsfarin Union Shipyard - _Skyship Conglomerate_
 	- [ ] Sunfilre Forge
+		- [ ] Rohaya Tak (half-elf commoner) 
 - [ ] River District
-	- [ ] Life Dome
+	- [ ] Life Dome - _Nexus of the Canals_
 	- [ ] Old Man Kruuk's
 	- [ ] Steam Gardens
 - [ ] Sand Herald District
@@ -96,7 +97,15 @@ cssclasses:
 	- [ ] Indala Skyport
 	- [ ] Ord Bastion
 - [ ] Sigil District
-	- [ ] 
+	- [ ] Crystal Chateau
+	- [ ] Maw of Cael Morrow
+	- [ ] Omnival Library
+	- [ ] Teres Schoolhouse
+- [ ] Suncut Bazaar
+	- [ ] Bone Garden
+	- [ ] First Eclipse
+	- [ ] Luck's Run
+	- [ ] Mystic Pursuits
 ##  Outline important NPCs
 
 - [ ] Allegiance of Allsight - _"To peer into the past is to illuminate the future."_ 
