@@ -63,7 +63,12 @@ cssclasses:
 
 ##  Develop fantastic locations
 
-- [ ] 
+- [ ] Alluvium District
+	- [ ] Alluvium Gardens - Arboretum
+	- [ ] Opalite Forum - Entertainment Square
+	- [ ] Sa'Irah Mines - Clay Strip Mines
+- [ ] Cerulean Palace
+- [ ] The Circlet Wal
 ##  Outline important NPCs
 
 - [ ] Allegiance of Allsight - _"To peer into the past is to illuminate the future."_ 
@@ -82,8 +87,9 @@ cssclasses:
 - [ ] Scarbearers - _"We do not break."_ 
 	- [ ] Quartermaster Croog Lynn (goliath gladiator)
 - [ ] Sentinels of Memory - _"Let the past die in peace."_ 
-	- [ ] Watcher Trast
+	- [ ] Watcher Trast (elf priest)
 - [ ] The Veil - _"Welcome to the other side."_ 
+	- [ ] Ilena Hapayhari (human assassin pirate)
 
 ##  Choose relevant monsters
 
