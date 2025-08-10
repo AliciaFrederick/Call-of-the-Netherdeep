@@ -66,11 +66,15 @@ cssclasses:
 - [ ] 
 ##  Outline important NPCs
 
-- [ ] [Alyxian](https://www.dndbeyond.com/sources/dnd/cotn/answering-the-call#RoleplayingtheApotheon) 
-- [ ] [[Ayo Jabe]] 
-- [ ] [[Dermot Wurder]] 
-- [ ] [[Galsariad Ardyth]] 
-- [ ] [[Irvan Wastewalker]] 
+- [ ] Allegiance of Allsight
+	- [ ] James Cryon (elf scholarly mastermind)
+	- [ ] Gryz Alacritos (goblin scholarly mastermind)
+- [ ] Consortium of the Vermilion Dream
+	- [ ] Aradrine the Owl (goliath occult silvertongue)
+	- [ ] Dendarron the Sun Bear
+	- [ ] Larthul the Wolf
+	- [ ] Khelkur the Gull
+	- [ ] 
 
 ##  Choose relevant monsters
 
