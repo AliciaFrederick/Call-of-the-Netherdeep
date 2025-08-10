@@ -43,9 +43,9 @@ cssclasses:
 - [-] R06 - Bag of 22 gp 
 - [-] R06 - Four 1 oz vials of blood
 - [-] R08 - Longsword of Vengeance
-- [ ] R15 - Cloak of Protection
-- [ ] R15 - Cracked Driftglobe
-- [ ] R16 - Teleportation Tablets
+- [-] R15 - Cloak of Protection
+- [-] R15 - Cracked Driftglobe
+- [x] R16 - Teleportation Tablets
 
 ##  Choose relevant monsters
 
@@ -77,7 +77,7 @@ cssclasses:
 	- [ ] Glabrezu
 	- [ ] Balor
 
-## Scene
+## Scenes
 
-- [ ] Rivals teleport in with Question - Aloysia paid the rivals to follow, Question warned them Aloysia was bad news
+- [x] Rivals teleport in with Question - Aloysia paid the rivals to follow, Question warned them Aloysia was bad news
 - [ ] 
