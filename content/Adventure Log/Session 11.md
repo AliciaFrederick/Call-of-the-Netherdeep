@@ -78,9 +78,12 @@ cssclasses:
 - [ ] Library of the Cobalt Soul - _"Reason. Knowledge. Truth."_ 
 	- [ ] Jamil A'alithiya (human monastic high curator)
 - [ ] Hands of Ord - _"By the code of Ord, we stand vigilant."_ 
+	- [ ] Ironhand Sem (minotaur) 
 - [ ] Scarbearers - _"We do not break."_ 
-- [ ] Sentinels of Memory - 
-- [ ] The Veil - 
+	- [ ] Quartermaster Croog Lynn (goliath gladiator)
+- [ ] Sentinels of Memory - _"Let the past die in peace."_ 
+	- [ ] Watcher Trast
+- [ ] The Veil - _"Welcome to the other side."_ 
 
 ##  Choose relevant monsters
 
