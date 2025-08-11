@@ -70,7 +70,7 @@ cssclasses:
 		- [ ] Zala Keencutter (tiefling thug) 
 - [ ] Cerulean Palace
 - [ ] The Circlet Walk
-	- [ ] Lyrean Linen - *Front for the Black Market*
+	- [ ] Lyrean Linen - *Dye Shop, Front for the Black Market*
 		- [ ] Bas and Kovra Lyrean (half-elf bandits) 
 		- [ ] Ask for cloth dyed "Whitestone green" to access suude (narcotic) and other black market concoctions
 	- [ ] Step Aside - *Inn and Tavern*
@@ -90,8 +90,10 @@ cssclasses:
 		- [ ] Rohaya Tak (half-elf commoner) 
 - [ ] River District
 	- [ ] Life Dome - _Nexus of the Canals_
-	- [ ] Old Man Kruuk's
-	- [ ] Steam Gardens
+		- [ ] Carliale Kroogan (gnome scholarly excavator) 
+	- [ ] Old Man Kruuk's - _Bakery and Fence for Stolen Goods_ 
+		- [ ] Old Man Kruuk (half-orc bandit captain) 
+	- [ ] Steam Gardens - _Arboretum and Bathhouse_ 
 - [ ] Sand Herald District
 	- [ ] Bowl of Judgment
 	- [ ] Indala Skyport
