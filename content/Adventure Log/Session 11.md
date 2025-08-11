@@ -103,7 +103,10 @@ cssclasses:
 	- [ ] Crystal Chateau - _Elite University and HQ of the Allegiance of Allsight_ 
 		- [ ] Jor Raashid (halfling scholarly agent) 
 	- [ ] Maw of Cael Morrow - _Excavation Site Entrance_ 
+		- [ ] Hakzome (orc scholarly excavator) 
+		- [ ] 5 Scarbearer veterans
 	- [ ] Omnival Library - _Public Library_ 
+		- [ ] Bookkeeper Khime (orc mage) 
 	- [ ] Teres Schoolhouse - _University_ 
 - [ ] Suncut Bazaar
 	- [ ] Bone Garden
