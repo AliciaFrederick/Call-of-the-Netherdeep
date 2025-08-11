@@ -95,14 +95,16 @@ cssclasses:
 		- [ ] Old Man Kruuk (half-orc bandit captain) 
 	- [ ] Steam Gardens - _Arboretum and Bathhouse_ 
 - [ ] Sand Herald District
-	- [ ] Bowl of Judgment
-	- [ ] Indala Skyport
-	- [ ] Ord Bastion
+	- [ ] Bowl of Judgment - _Combat Tournament Arena_ 
+		- [ ] Sheed Caltor (orc noble)
+	- [ ] Indala Skyport - _Skyship Port_
+	- [ ] Ord Bastion - _Headquarters of the Hands of Ord_ 
 - [ ] Sigil District
-	- [ ] Crystal Chateau
-	- [ ] Maw of Cael Morrow
-	- [ ] Omnival Library
-	- [ ] Teres Schoolhouse
+	- [ ] Crystal Chateau - _Elite University and HQ of the Allegiance of Allsight_ 
+		- [ ] Jor Raashid (halfling scholarly agent) 
+	- [ ] Maw of Cael Morrow - _Excavation Site Entrance_ 
+	- [ ] Omnival Library - _Public Library_ 
+	- [ ] Teres Schoolhouse - _University_ 
 - [ ] Suncut Bazaar
 	- [ ] Bone Garden
 	- [ ] First Eclipse
