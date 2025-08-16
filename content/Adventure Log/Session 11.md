@@ -113,10 +113,11 @@ cssclasses:
 		- [ ] Rerosha (human acolyte, nonverbal) and Akhil (sassy gray parrot) 
 	- [ ] First Eclipse - _Tavern and Headquarters of the Consortium of the Vermilion Dream_ 
 		- [ ] Satzrak Runestrider (blue dragonborn occult extollant)
+		- [ ] First Eclipse - Knock 3 times on the cask with a red crescent moon to reach the Consortium meeting room
 	- [ ] Luck's Run - _World-Renowned Casino_ 
 		- [ ] Adima Shemsilver (halfling noble) - helps fund the Veil 
 	- [ ] Mystic Pursuits - _Arcane Shop_ 
-		- [ ] 
+		- [ ] Amkezne (tiefling mage "soothsayer" charlatan) 
 ##  Outline important NPCs
 
 - [ ] Allegiance of Allsight - _"To peer into the past is to illuminate the future."_ 
