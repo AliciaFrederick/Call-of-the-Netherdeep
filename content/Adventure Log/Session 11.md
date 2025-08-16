@@ -109,8 +109,10 @@ cssclasses:
 		- [ ] Bookkeeper Khime (orc mage) 
 	- [ ] Teres Schoolhouse - _University_ 
 - [ ] Suncut Bazaar
-	- [ ] Bone Garden
+	- [ ] Bone Garden - _Purveyor of Oddities and Exceptionalities_ 
+		- [ ] Rerosha (human acolyte, nonverbal) and Akhil (sassy gray parrot) 
 	- [ ] First Eclipse
+		- [ ] 
 	- [ ] Luck's Run
 	- [ ] Mystic Pursuits
 ##  Outline important NPCs
