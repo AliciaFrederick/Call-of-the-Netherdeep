@@ -9,16 +9,15 @@ date:
 cssclasses:
 ---
 
+%%
 [Owlbear Rodeo](https://www.owlbear.rodeo/room/BaGN2KPVM902/TheHomeyLeaf)  
 
-%%
 - [ ] Starting
 	- [ ] Spotify [music](https://open.spotify.com/album/30CxXNLekWVQzo7xhowwkg) 
 	- [ ] Owlbear rodeo [scene](https://www.owlbear.rodeo/room/EiCy8X2dzjxe/TheDinkyBoat) 
 	- [ ] [D&D Beyond](https://www.dndbeyond.com/sources/dnd/cotn/a-fateful-competition#FestivalofMerit) adventure
 	- [ ] [Discord](https://discord.com/channels/@me/1289679259560050811) chat
 	- [ ] [Campaign](https://aliciafrederick.github.io/Call-of-the-Netherdeep/) website
-%%
 
 ## Log
 
@@ -49,6 +48,7 @@ cssclasses:
 - [ ] [[Thrast Summittrod]] 
 - [ ] [[Thekar Forgesun]] 
 
+%%
 ##  Create a strong start
 
 > [!QUOTE] Strong start
@@ -75,11 +75,10 @@ cssclasses:
 	- [ ] First Eclipse - Knock 3 times on the cask with a red crescent moon to reach the Consortium meeting room
 	- [ ] Lyrean Linen - Ask for cloth dyed "Whitestone green" to access suude (narcotic) and other black market concoctions
 	- [ ] Step Aside - Say "pardon my steps as I pass through" to gain access to the safehouse
-- [ ] Mission 1
+- [ ] Missions
 	- [ ] The elephant figurine was infected with ruidium during its time in Cael Morrow, and that substance has warped its magical properties. 
 	- [ ] The "ghost" is [Shira](https://5e.tools/bestiary.html#shira_crcotn), a shy, anxious 15-year-old human with innate spellcasting ability. Fearing for the safety of those around her as she learns to control her powers, [Shira](https://5e.tools/bestiary.html#shira_crcotn) has taken to using the shrine as a nighttime hiding place. She mimics the behavior of a spirit to frighten away others. 
 	- [ ] [Laurin Ophidas](https://5e.tools/bestiary.html#laurin%20ophidas_crcotn) is a disgraced member of the Cerberus Assembly, an organization of spellcasters in the Dwendalian Empire in Wildemount. He fled from that organization after stealing a [staff of the adder](https://5e.tools/items.html#staff%20of%20the%20adder_dmg) from a superior. Convinced that the assembly's assassins are pursuing him, Ophidas is trying to locate other Zehir cultists in the city who will protect him. His search is not going well. 
-- [ ] Mission 2
 	- [ ] The rumors of a second entrance to Cael Morrow were planted by Lymmle Wist, a member of the Sentinels of Memory, in an effort to ambush the characters and wipe out those who would bring Cael Morrow back into living memory.
 
 ##  Develop fantastic locations
@@ -142,23 +141,23 @@ cssclasses:
 
 - [ ] Allegiance of Allsight - _"To peer into the past is to illuminate the future."_ 
 	- [x] James Cryon (elf scholarly mastermind)
-	- [x] Gryz Alacritos (goblin scholarly mastermind)
+	- [ ] Gryz Alacritos (goblin scholarly mastermind)
 - [ ] Consortium of the Vermilion Dream - _"Seek the stories others fear to know."_ 
-	- [x] Aradrine the Owl (goliath occult silvertongue)
-	- [x] Dendarron the Sun Bear (halfling occult silvertongue)
-	- [x] Larthul the Wolf (human occult silvertongue)
-	- [x] Khelkur the Gull (dwarf occult silvertongue)
-	- [x] Vrill the Moth (elf occult silvertongue)
+	- [ ] Aradrine the Owl (goliath occult silvertongue)
+	- [ ] Dendarron the Sun Bear (halfling occult silvertongue)
+	- [ ] Larthul the Wolf (human occult silvertongue)
+	- [ ] Khelkur the Gull (dwarf occult silvertongue)
+	- [ ] Vrill the Moth (elf occult silvertongue)
 - [ ] Library of the Cobalt Soul - _"Reason. Knowledge. Truth."_ 
-	- [x] Jamil A'alithiya (human monastic high curator)
+	- [ ] Jamil A'alithiya (human monastic high curator)
 - [ ] Hands of Ord - _"By the code of Ord, we stand vigilant."_ 
-	- [x] Ironhand Sem (minotaur) 
+	- [ ] Ironhand Sem (minotaur) 
 - [ ] Scarbearers - _"We do not break."_ 
-	- [x] Quartermaster Croog Lynn (goliath gladiator)
+	- [ ] Quartermaster Croog Lynn (goliath gladiator)
 - [ ] Sentinels of Memory - _"Let the past die in peace."_ 
-	- [x] Watcher Trast (elf priest)
+	- [ ] Watcher Trast (elf priest)
 - [ ] The Veil - _"Welcome to the other side."_ 
-	- [x] Ilena Hapayhari (human assassin pirate)
+	- [ ] Ilena Hapayhari (human assassin pirate)
 
 ##  Choose relevant monsters
 
