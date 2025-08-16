@@ -63,6 +63,7 @@ cssclasses:
 - [ ] Mission 1
 	- [ ] [Allegiance Mission 1: Deliver the Figurine](https://5e.tools/adventure.html#crcotn,4,allegiance%20mission%201%3a%20deliver%20the%20figurine,0) - Suncut Bazaar
 		- [ ] Ruidium Elephant
+			- [ ] figurine of wondrous power (marble elephant) 
 	- [ ] [Consortium Mission 1: A Ghost in our Midst](https://5e.tools/adventure.html#crcotn,4,consortium%20mission%201%3a%20a%20ghost%20in%20our%20midst,0)  - Suncut Bazaar > Sigil District
 		- [ ] Shira
 	- [ ] [Cobalt Soul Mission 1: The Cultist of Zehir](https://5e.tools/adventure.html#crcotn,4,cobalt%20soul%20mission%201%3a%20the%20cultist%20of%20zehir,0) - Sigil District 
@@ -73,14 +74,20 @@ cssclasses:
 		- [ ] 2 x Invisible Stalker
 	- [ ] [Consortium Mission 2: When Luck Runs Out](https://5e.tools/adventure.html#crcotn,4,consortium%20mission%202%3a%20when%20luck%20runs%20out,0) - Suncut Bazaar
 		- [ ] Veteran
+			- [ ] earring of message
 		- [ ] 4 x Guard
 		- [ ] 10 x Commoner
 		- [ ] Koris (tiefling assassin)
+			- [ ] potion of gaseous form
+			- [ ] dust of disappearance
+			- [ ] bag of holding
 		- [ ] Ena (human berserker)
 		- [ ] Duskwood (half-elf spy)
+			- [ ] hat of disguise
 	- [ ] [Cobalt Soul Mission 2: Half-Baked Scheme](https://5e.tools/adventure.html#crcotn,4,cobalt%20soul%20mission%202%3a%20half-baked%20scheme,0) - River District 
 		- [ ] Ashann
 		- [ ] Bandit Captain
+			- [ ] ruidium sword
 
 ##  Define secrets and clues
 
