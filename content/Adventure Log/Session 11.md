@@ -62,7 +62,7 @@ cssclasses:
 
 - [ ] Allegiance
 	- [ ] [Allegiance Mission 1: Deliver the Figurine](https://5e.tools/adventure.html#crcotn,4,allegiance%20mission%201%3a%20deliver%20the%20figurine,0) - Suncut Bazaar
-		- [ ] Ruidium Elephant
+		- [x] Ruidium Elephant
 			- [ ] figurine of wondrous power (marble elephant) 
 	- [ ] [Allegiance Mission 2: Search the Life Dome](https://5e.tools/adventure.html#crcotn,4,allegiance%20mission%202%3a%20search%20the%20life%20dome,0) - River District
 		- [ ] 2 x Invisible Stalker
@@ -78,8 +78,8 @@ cssclasses:
 			- [ ] potion of gaseous form
 			- [ ] dust of disappearance
 			- [ ] bag of holding
-		- [ ] Berserker
-		- [ ] Spy
+		- [ ] Berserker (Ena - human)
+		- [ ] Spy (Duskwood - half-elf)
 			- [ ] hat of disguise
 - [ ] Cobalt Soul
 	- [ ] [Cobalt Soul Mission 1: The Cultist of Zehir](https://5e.tools/adventure.html#crcotn,4,cobalt%20soul%20mission%201%3a%20the%20cultist%20of%20zehir,0) - Sigil District 
