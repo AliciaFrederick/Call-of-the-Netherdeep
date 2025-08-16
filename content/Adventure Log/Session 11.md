@@ -52,7 +52,7 @@ cssclasses:
 ##  Create a strong start
 
 > [!QUOTE] Strong start
-> The chilly air and gloomy clouds of Bazzoxan are replaced by dry heat and a brilliant blue sky. You are standing on a rooftop overlooking a bazaar. Beneath your feet is a teleportation circle, from which the glow of magic is slowly subsiding.
+> The chilly air and gloomy chambers of the Betrayer's Rise are replaced by dry heat and a brilliant blue sky. You are standing on a rooftop overlooking a bazaar. Beneath your feet is a teleportation circle, from which the glow of magic is slowly subsiding.
 > 
 > After a few moments of blinking the bright afternoon sun out of your eyes, the Sending Stone heats again in your palm. Question's voice returns - "The curators won't let me bring the horses through the library, but Taskhand Thelyss said he could use them. He paid for them and assured me they will be taken care of." 
 > 
@@ -78,7 +78,7 @@ cssclasses:
 	- [ ] The "ghost" is [Shira](https://5e.tools/bestiary.html#shira_crcotn), a shy, anxious 15-year-old human with innate spellcasting ability. Fearing for the safety of those around her as she learns to control her powers, [Shira](https://5e.tools/bestiary.html#shira_crcotn) has taken to using the shrine as a nighttime hiding place. She mimics the behavior of a spirit to frighten away others. 
 	- [ ] [Laurin Ophidas](https://5e.tools/bestiary.html#laurin%20ophidas_crcotn) is a disgraced member of the Cerberus Assembly, an organization of spellcasters in the Dwendalian Empire in Wildemount. He fled from that organization after stealing a [staff of the adder](https://5e.tools/items.html#staff%20of%20the%20adder_dmg) from a superior. Convinced that the assembly's assassins are pursuing him, Ophidas is trying to locate other Zehir cultists in the city who will protect him. His search is not going well. 
 - [ ] Mission 2
-	- [ ] the rumors of a second entrance to Cael Morrow were planted by Lymmle Wist, a member of the Sentinels of Memory who has infiltrated the Allegiance of Allsight. The characters are walking into an ambush—an effort by the Sentinels of Memory to wipe out those who would bring Cael Morrow back into living memory.
+	- [ ] The rumors of a second entrance to Cael Morrow were planted by Lymmle Wist, a member of the Sentinels of Memory, in an effort to ambush the characters and wipe out those who would bring Cael Morrow back into living memory.
 
 ##  Develop fantastic locations
 
