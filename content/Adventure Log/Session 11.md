@@ -60,8 +60,7 @@ cssclasses:
 
 ##  Outline potential scenes
 
-### Allegiance
-
+Allegiance
 - [ ] [Allegiance Mission 1: Deliver the Figurine](https://5e.tools/adventure.html#crcotn,4,allegiance%20mission%201%3a%20deliver%20the%20figurine,0) - Suncut Bazaar
 	- [ ] Ruidium Elephant
 		- [ ] figurine of wondrous power (marble elephant) 
@@ -164,6 +163,7 @@ cssclasses:
 	- [ ] Mystic Pursuits - _Arcane Shop_ 
 		- [ ] Amkezne (tiefling mage "soothsayer" charlatan) 
 		- [ ] invisible stalker
+
 ##  Outline important NPCs
 
 - [ ] Allegiance of Allsight - _"To peer into the past is to illuminate the future."_ 
