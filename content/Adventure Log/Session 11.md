@@ -56,14 +56,14 @@ cssclasses:
 
 ##  Outline potential scenes
 
-- [ ] 
+- [ ] Cobalt Soul Mission 1: The C
 
 ##  Define secrets and clues
 
 - [ ] First Eclipse - Knock 3 times on the cask with a red crescent moon to reach the Consortium meeting room
 - [ ] Lyrean Linen - Ask for cloth dyed "Whitestone green" to access suude (narcotic) and other black market concoctions
 - [ ] Step Aside - Say "pardon my steps as I pass through" to gain access to the safehouse
-- [ ] 
+- [ ] [Laurin Ophidas](https://5e.tools/bestiary.html#laurin%20ophidas_crcotn) is a disgraced member of the Cerberus Assembly, an organization of spellcasters in the Dwendalian Empire in Wildemount. He fled from that organization after stealing a [staff of the adder](https://5e.tools/items.html#staff%20of%20the%20adder_dmg) from a superior. Convinced that the assembly's assassins are pursuing him, Ophidas is trying to locate other Zehir cultists in the city who will protect him. His search is not going well.
 
 ##  Develop fantastic locations
 
