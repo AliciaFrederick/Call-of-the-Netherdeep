@@ -56,7 +56,8 @@ cssclasses:
 
 ##  Outline potential scenes
 
-- [ ] Cobalt Soul Mission 1: The C
+- [ ] [Cobalt Soul Mission 1: The Cultist of Zehir](https://5e.tools/adventure.html#crcotn,4,cobalt%20soul%20mission%201%3a%20the%20cultist%20of%20zehir,0) 
+- [ ] [Allegiance Mission 1: Deliver the Figurine](https://5e.tools/adventure.html#crcotn,4,allegiance%20mission%201%3a%20deliver%20the%20figurine,0) 
 
 ##  Define secrets and clues
 
