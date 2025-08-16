@@ -5,6 +5,7 @@ permalink:
 aliases:
   - Brenna
   - Thrast
+  - Vannie
 tags: 
 draft: false
 date: 

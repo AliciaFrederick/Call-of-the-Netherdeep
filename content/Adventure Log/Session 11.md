@@ -47,6 +47,7 @@ cssclasses:
 - [ ] [[Perjeon Beachgift]] 
 - [ ] [[Aza Dirali]] 
 - [ ] [[Thrast Summittrod]] 
+- [ ] [[Thekar]] 
 
 ##  Create a strong start
 
