@@ -59,6 +59,9 @@ cssclasses:
 
 ##  Define secrets and clues
 
+- [ ] First Eclipse - Knock 3 times on the cask with a red crescent moon to reach the Consortium meeting room
+- [ ] Lyrean Linen - Ask for cloth dyed "Whitestone green" to access suude (narcotic) and other black market concoctions
+- [ ] Step Aside - Say "pardon my steps as I pass through" to gain access to the safehouse
 - [ ] 
 
 ##  Develop fantastic locations
@@ -69,14 +72,13 @@ cssclasses:
 	- [ ] Sa'Irah Mines - *Clay Strip Mines*
 		- [ ] Zala Keencutter (tiefling thug) 
 - [ ] Cerulean Palace
+	- [ ] J'mon Sa Ord (ancient brass dragon) 
 - [ ] The Circlet Walk
 	- [ ] Lyrean Linen - *Dye Shop, Front for the Black Market*
 		- [ ] Bas and Kovra Lyrean (half-elf bandits) 
-		- [ ] Ask for cloth dyed "Whitestone green" to access suude (narcotic) and other black market concoctions
 	- [ ] Step Aside - *Inn and Tavern*
 		- [ ] Irawan (elf veteran, retired Scarbearer)
 		- [ ] Calinao (elf druid, retired Scarbearer) 
-		- [ ] Safehouse - "Pardon my steps as I pass through"
 - [ ] Guided District
 	- [ ] Blessing Well - *Holy Site*
 	- [ ] Crossings of Eventide - *Necropolis, Temple to the Duskmaven*
@@ -113,7 +115,6 @@ cssclasses:
 		- [ ] Rerosha (human acolyte, nonverbal) and Akhil (sassy gray parrot) 
 	- [ ] First Eclipse - _Tavern and Headquarters of the Consortium of the Vermilion Dream_ 
 		- [ ] Satzrak Runestrider (blue dragonborn occult extollant)
-		- [ ] First Eclipse - Knock 3 times on the cask with a red crescent moon to reach the Consortium meeting room
 	- [ ] Luck's Run - _World-Renowned Casino_ 
 		- [ ] Adima Shemsilver (halfling noble) - helps fund the Veil 
 	- [ ] Mystic Pursuits - _Arcane Shop_ 
