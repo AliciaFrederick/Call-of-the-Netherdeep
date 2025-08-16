@@ -52,7 +52,8 @@ cssclasses:
 ##  Create a strong start
 
 > [!QUOTE] Strong start
-> TBD
+> The chilly air and gloomy clouds of Bazzoxan are replaced by dry heat and a brilliant blue sky. You are standing on a rooftop overlooking a bazaar. Beneath your feet is a teleportation circle, from which the glow of magic is slowly subsiding.
+> After a few moments of blinking the bright morning sun out of your eyes, the Sending s
 
 ##  Outline potential scenes
 
