@@ -9,8 +9,13 @@
 	- [ ] Larthul the Wolf (human occult silvertongue)
 	- [ ] Khelkur the Gull (dwarf occult silvertongue)
 	- [ ] Vrill the Moth (elf occult silvertongue)
+	- [ ] Aloysia (half-elf occult initiate)
+	- [ ] Satzrak Runestrider (blue dragonbord occult extollant)
+	- [ ] Ashann (gnome occult )
 - [ ] Library of the Cobalt Soul - _"Reason. Knowledge. Truth."_ 
 	- [ ] Jamil A'alithiya (human monastic high curator)
+	- [ ] Iwo Zalarre
+	- [ ] Question
 - [ ] Hands of Ord - _"By the code of Ord, we stand vigilant."_ 
 	- [ ] Ironhand Sem (minotaur) 
 - [ ] Scarbearers - _"We do not break."_ 
