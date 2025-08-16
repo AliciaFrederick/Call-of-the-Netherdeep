@@ -66,7 +66,8 @@ cssclasses:
 	- [ ] [Cobalt Soul Mission 1: The Cultist of Zehir](https://5e.tools/adventure.html#crcotn,4,cobalt%20soul%20mission%201%3a%20the%20cultist%20of%20zehir,0) - Sigil District
 - [ ] Mission 2
 	- [ ] [Allegiance Mission 2: Search the Life Dome](https://5e.tools/adventure.html#crcotn,4,allegiance%20mission%202%3a%20search%20the%20life%20dome,0) - River District
-	- [ ] [Consortium Mission 2: When Luck Runs Out](https://5e.tools/adventure.html#crcotn,4,consortium%20mission%202%3a%20when%20luck%20runs%20out,0) - 
+	- [ ] [Consortium Mission 2: When Luck Runs Out](https://5e.tools/adventure.html#crcotn,4,consortium%20mission%202%3a%20when%20luck%20runs%20out,0) - Suncut Bazaar
+	- [ ] 
 
 ##  Define secrets and clues
 
