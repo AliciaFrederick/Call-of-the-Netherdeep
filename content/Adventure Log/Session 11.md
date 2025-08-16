@@ -54,7 +54,9 @@ cssclasses:
 > [!QUOTE] Strong start
 > The chilly air and gloomy clouds of Bazzoxan are replaced by dry heat and a brilliant blue sky. You are standing on a rooftop overlooking a bazaar. Beneath your feet is a teleportation circle, from which the glow of magic is slowly subsiding.
 > 
-> After a few moments of blinking the bright afternoon sun out of your eyes, the Sending Stone heats again in your palm. Question's voice returns - "The curators won't let me bring the horses through the library, but Taskhand Thelyss said he could use them. He paid for them and assured me they will be taken care of. I'll bring the money to you in the morning, I need to catch up with my supervisor first. Try the Step Aside tavern in the Circlet Walk! They have great food and comfy beds!" 
+> After a few moments of blinking the bright afternoon sun out of your eyes, the Sending Stone heats again in your palm. Question's voice returns - "The curators won't let me bring the horses through the library, but Taskhand Thelyss said he could use them. He paid for them and assured me they will be taken care of. 
+> 
+> I'll bring the money to you in the morning, I need to catch up with my supervisor first. Try the Step Aside tavern in the Circlet Walk! They have great food and comfy beds!" 
 
 ##  Outline potential scenes
 
