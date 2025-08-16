@@ -54,15 +54,18 @@ cssclasses:
 > [!QUOTE] Strong start
 > The chilly air and gloomy clouds of Bazzoxan are replaced by dry heat and a brilliant blue sky. You are standing on a rooftop overlooking a bazaar. Beneath your feet is a teleportation circle, from which the glow of magic is slowly subsiding.
 > 
-> After a few moments of blinking the bright afternoon sun out of your eyes, the Sending Stone heats again in your palm. Question's voice returns - "The curators won't let me bring the horses through the library, but Taskhand Thelyss said he could use them. He paid for them and assured me they will be taken care of. 
+> After a few moments of blinking the bright afternoon sun out of your eyes, the Sending Stone heats again in your palm. Question's voice returns - "The curators won't let me bring the horses through the library, but Taskhand Thelyss said he could use them. He paid for them and assured me they will be taken care of." 
 > 
-> I'll bring the money to you in the morning, I need to catch up with my supervisor first. Try the Step Aside tavern in the Circlet Walk! They have great food and comfy beds!" 
+> "I'll bring the money to you in the morning, I need to catch up with my supervisor first. Try the Step Aside tavern in the Circlet Walk! They have great food and comfy beds!" 
 
 ##  Outline potential scenes
 
-- [ ] [Cobalt Soul Mission 1: The Cultist of Zehir](https://5e.tools/adventure.html#crcotn,4,cobalt%20soul%20mission%201%3a%20the%20cultist%20of%20zehir,0) - Sigil District
-- [ ] [Allegiance Mission 1: Deliver the Figurine](https://5e.tools/adventure.html#crcotn,4,allegiance%20mission%201%3a%20deliver%20the%20figurine,0) - Suncut Bazaar
-- [ ] [Consortium Mission 1: A Ghost in our Midst](https://5e.tools/adventure.html#crcotn,4,consortium%20mission%201%3a%20a%20ghost%20in%20our%20midst,0)  - Suncut Bazaar > Sigil District
+- [ ] Mission 1
+	- [ ] [Allegiance Mission 1: Deliver the Figurine](https://5e.tools/adventure.html#crcotn,4,allegiance%20mission%201%3a%20deliver%20the%20figurine,0) - Suncut Bazaar
+	- [ ] [Consortium Mission 1: A Ghost in our Midst](https://5e.tools/adventure.html#crcotn,4,consortium%20mission%201%3a%20a%20ghost%20in%20our%20midst,0)  - Suncut Bazaar > Sigil District
+	- [ ] [Cobalt Soul Mission 1: The Cultist of Zehir](https://5e.tools/adventure.html#crcotn,4,cobalt%20soul%20mission%201%3a%20the%20cultist%20of%20zehir,0) - Sigil District
+- [ ] Mission 2
+	- [ ] [Allegiance Mission 2: Search the Life Dome](https://5e.tools/adventure.html#crcotn,4,allegiance%20mission%202%3a%20search%20the%20life%20dome,0) 
 
 ##  Define secrets and clues
 
