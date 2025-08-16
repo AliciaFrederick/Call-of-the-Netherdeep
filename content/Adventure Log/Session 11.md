@@ -69,12 +69,16 @@ cssclasses:
 
 ##  Define secrets and clues
 
-- [ ] First Eclipse - Knock 3 times on the cask with a red crescent moon to reach the Consortium meeting room
-- [ ] Lyrean Linen - Ask for cloth dyed "Whitestone green" to access suude (narcotic) and other black market concoctions
-- [ ] Step Aside - Say "pardon my steps as I pass through" to gain access to the safehouse
-- [ ] [Laurin Ophidas](https://5e.tools/bestiary.html#laurin%20ophidas_crcotn) is a disgraced member of the Cerberus Assembly, an organization of spellcasters in the Dwendalian Empire in Wildemount. He fled from that organization after stealing a [staff of the adder](https://5e.tools/items.html#staff%20of%20the%20adder_dmg) from a superior. Convinced that the assembly's assassins are pursuing him, Ophidas is trying to locate other Zehir cultists in the city who will protect him. His search is not going well.
-- [ ] The elephant figurine was infected with ruidium during its time in Cael Morrow, and that substance has warped its magical properties.
-- [ ] 
+- [ ] Exploring
+	- [ ] First Eclipse - Knock 3 times on the cask with a red crescent moon to reach the Consortium meeting room
+	- [ ] Lyrean Linen - Ask for cloth dyed "Whitestone green" to access suude (narcotic) and other black market concoctions
+	- [ ] Step Aside - Say "pardon my steps as I pass through" to gain access to the safehouse
+- [ ] Mission 1
+	- [ ] The elephant figurine was infected with ruidium during its time in Cael Morrow, and that substance has warped its magical properties. 
+	- [ ] The "ghost" is [Shira](https://5e.tools/bestiary.html#shira_crcotn), a shy, anxious 15-year-old human with innate spellcasting ability. Fearing for the safety of those around her as she learns to control her powers, [Shira](https://5e.tools/bestiary.html#shira_crcotn) has taken to using the shrine as a nighttime hiding place. She mimics the behavior of a spirit to frighten away others. 
+	- [ ] [Laurin Ophidas](https://5e.tools/bestiary.html#laurin%20ophidas_crcotn) is a disgraced member of the Cerberus Assembly, an organization of spellcasters in the Dwendalian Empire in Wildemount. He fled from that organization after stealing a [staff of the adder](https://5e.tools/items.html#staff%20of%20the%20adder_dmg) from a superior. Convinced that the assembly's assassins are pursuing him, Ophidas is trying to locate other Zehir cultists in the city who will protect him. His search is not going well. 
+- [ ] Mission 2
+	- [ ] the rumors of a second entrance to Cael Morrow were planted by Lymmle Wist, a member of the Sentinels of Memory who has infiltrated the Allegiance of Allsight. The characters are walking into an ambush—an effort by the Sentinels of Memory to wipe out those who would bring Cael Morrow back into living memory.
 
 ##  Develop fantastic locations
 
