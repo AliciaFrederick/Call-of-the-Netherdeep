@@ -111,9 +111,10 @@ cssclasses:
 - [ ] Suncut Bazaar
 	- [ ] Bone Garden - _Purveyor of Oddities and Exceptionalities_ 
 		- [ ] Rerosha (human acolyte, nonverbal) and Akhil (sassy gray parrot) 
-	- [ ] First Eclipse
-		- [ ] 
-	- [ ] Luck's Run
+	- [ ] First Eclipse - _Tavern and Headquarters of the Consortium of the Vermilion Dream_ 
+		- [ ] Satzrak Runestrider (blue dragonborn occult extollant)
+	- [ ] Luck's Run - _World-Renowned Casino_ 
+		- [ ] Adima Shemsilver (halfling noble) - helps fund the Veil 
 	- [ ] Mystic Pursuits
 ##  Outline important NPCs
 
