@@ -1,1 +1,2 @@
-- [ ] [[5etools - BetrayersRise.json]] 
+- [x] [[5etools - BetrayersRise.json]] 
+- [ ] [[5etools - AnkHarel.json]] 

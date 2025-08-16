@@ -87,60 +87,60 @@ cssclasses:
 	- [ ] Alluvium Gardens - *Arboretum*
 	- [ ] Opalite Forum - *Entertainment Square*
 	- [ ] Sa'Irah Mines - *Clay Strip Mines*
-		- [x] Zala Keencutter (tiefling thug) 
+		- [ ] Zala Keencutter (tiefling thug) 
 - [ ] Cerulean Palace
-	- [x] J'mon Sa Ord (ancient brass dragon) 
+	- [ ] J'mon Sa Ord (ancient brass dragon) 
 - [ ] The Circlet Walk
 	- [ ] Lyrean Linen - *Dye Shop, Front for the Black Market*
-		- [x] Bas and Kovra Lyrean (half-elf bandits) 
+		- [ ] Bas and Kovra Lyrean (half-elf bandits) 
 	- [ ] Step Aside - *Inn and Tavern*
-		- [x] Irawan (elf veteran, retired Scarbearer)
-		- [x] Calinao (elf druid, retired Scarbearer) 
+		- [ ] Irawan (elf veteran, retired Scarbearer)
+		- [ ] Calinao (elf druid, retired Scarbearer) 
 - [ ] Guided District
 	- [ ] Blessing Well - *Holy Site*
 	- [ ] Crossings of Eventide - *Necropolis, Temple to the Duskmaven*
 	- [ ] Temple of the Mentor - *Temple to Ioun and HQ of the Cobalt Soul*
-		- [x] Iwo Zalarre (half-orc monastic operative)
+		- [ ] Iwo Zalarre (half-orc monastic operative)
 	- [ ] Tower of Memory - *HQ of the Sentinels of Memory*
-		- [x] Watcher Byron (gnome veteran) 
+		- [ ] Watcher Byron (gnome veteran) 
 - [ ] The Ridge
 	- [ ] Alsfarin Union Shipyard - _Skyship Conglomerate_
 	- [ ] Sunfilre Forge
-		- [x] Rohaya Tak (half-elf commoner) 
+		- [ ] Rohaya Tak (half-elf commoner) 
 - [ ] River District
 	- [ ] Life Dome - _Nexus of the Canals_
-		- [x] Carliale Kroogan (gnome scholarly excavator) 
+		- [ ] Carliale Kroogan (gnome scholarly excavator) 
 	- [ ] Old Man Kruuk's - _Bakery and Fence for Stolen Goods_ 
-		- [x] Old Man Kruuk (half-orc bandit captain) 
+		- [ ] Old Man Kruuk (half-orc bandit captain) 
 	- [ ] Steam Gardens - _Arboretum and Bathhouse_ 
 - [ ] Sand Herald District
 	- [ ] Bowl of Judgment - _Combat Tournament Arena_ 
-		- [x] Sheed Caltor (orc noble)
+		- [ ] Sheed Caltor (orc noble)
 	- [ ] Indala Skyport - _Skyship Port_
 	- [ ] Ord Bastion - _Headquarters of the Hands of Ord_ 
 - [ ] Sigil District
 	- [ ] Crystal Chateau - _Elite University and HQ of the Allegiance of Allsight_ 
-		- [x] Jor Raashid (halfling scholarly agent) 
+		- [ ] Jor Raashid (halfling scholarly agent) 
 	- [ ] Maw of Cael Morrow - _Excavation Site Entrance_ 
-		- [x] Hakzome (orc scholarly excavator) 
+		- [ ] Hakzome (orc scholarly excavator) 
 		- [ ] 5 Scarbearer veterans
 	- [ ] Omnival Library - _Public Library_ 
-		- [x] Bookkeeper Khime (orc mage) 
+		- [ ] Bookkeeper Khime (orc mage) 
 	- [ ] Teres Schoolhouse - _University_ 
 - [ ] Suncut Bazaar
 	- [ ] Bone Garden - _Purveyor of Oddities and Exceptionalities_ 
-		- [x] Rerosha (human acolyte, nonverbal) and Akhil (sassy gray parrot - raven stat block) 
+		- [ ] Rerosha (human acolyte, nonverbal) and Akhil (sassy gray parrot - raven stat block) 
 	- [ ] First Eclipse - _Tavern and Headquarters of the Consortium of the Vermilion Dream_ 
-		- [x] Satzrak Runestrider (blue dragonborn occult extollant)
+		- [ ] Satzrak Runestrider (blue dragonborn occult extollant)
 	- [ ] Luck's Run - _World-Renowned Casino_ 
-		- [x] Adima Shemsilver (halfling noble) - helps fund the Veil 
+		- [ ] Adima Shemsilver (halfling noble) - helps fund the Veil 
 	- [ ] Mystic Pursuits - _Arcane Shop_ 
-		- [x] Amkezne (tiefling mage "soothsayer" charlatan) 
-		- [x] invisible stalker
+		- [ ] Amkezne (tiefling mage "soothsayer" charlatan) 
+		- [ ] invisible stalker
 ##  Outline important NPCs
 
 - [ ] Allegiance of Allsight - _"To peer into the past is to illuminate the future."_ 
-	- [x] James Cryon (elf scholarly mastermind)
+	- [ ] James Cryon (elf scholarly mastermind)
 	- [ ] Gryz Alacritos (goblin scholarly mastermind)
 - [ ] Consortium of the Vermilion Dream - _"Seek the stories others fear to know."_ 
 	- [ ] Aradrine the Owl (goliath occult silvertongue)
