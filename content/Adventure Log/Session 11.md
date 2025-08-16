@@ -67,7 +67,7 @@ cssclasses:
 - [ ] Mission 2
 	- [ ] [Allegiance Mission 2: Search the Life Dome](https://5e.tools/adventure.html#crcotn,4,allegiance%20mission%202%3a%20search%20the%20life%20dome,0) - River District
 	- [ ] [Consortium Mission 2: When Luck Runs Out](https://5e.tools/adventure.html#crcotn,4,consortium%20mission%202%3a%20when%20luck%20runs%20out,0) - Suncut Bazaar
-	- [ ] 
+	- [ ] [Cobalt Soul Mission 2: Half-Baked Scheme](https://5e.tools/adventure.html#crcotn,4,cobalt%20soul%20mission%202%3a%20half-baked%20scheme,0) - River District
 
 ##  Define secrets and clues
 
