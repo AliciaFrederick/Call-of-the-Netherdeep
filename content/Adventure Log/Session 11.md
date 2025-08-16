@@ -69,6 +69,9 @@ cssclasses:
 	- [ ] [Cobalt Soul Mission 1: The Cultist of Zehir](https://5e.tools/adventure.html#crcotn,4,cobalt%20soul%20mission%201%3a%20the%20cultist%20of%20zehir,0) - Sigil District 
 		- [ ] 5 x Knight
 		- [ ] Laurin Ophidas
+			- [ ] staff of the adder 
+		- [ ] Iwo
+			- [ ] sending stones
 - [ ] Mission 2
 	- [ ] [Allegiance Mission 2: Search the Life Dome](https://5e.tools/adventure.html#crcotn,4,allegiance%20mission%202%3a%20search%20the%20life%20dome,0) - River District
 		- [ ] 2 x Invisible Stalker
@@ -87,7 +90,7 @@ cssclasses:
 	- [ ] [Cobalt Soul Mission 2: Half-Baked Scheme](https://5e.tools/adventure.html#crcotn,4,cobalt%20soul%20mission%202%3a%20half-baked%20scheme,0) - River District 
 		- [ ] Ashann
 		- [ ] Bandit Captain
-			- [ ] ruidium sword
+			- [ ] ruidium shortsword
 
 ##  Define secrets and clues
 
@@ -179,6 +182,7 @@ cssclasses:
 - [ ] The Veil - _"Welcome to the other side."_ 
 	- [ ] Ilena Hapayhari (human assassin pirate)
 
+%%
 ##  Choose relevant monsters
 
 - [x] https://5e.tools/bestiary.html 
@@ -187,5 +191,5 @@ cssclasses:
 
 - [x] https://5e.tools/items.html
 
-%%  %%
+  %%
 
