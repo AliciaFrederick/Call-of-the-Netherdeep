@@ -11,7 +11,7 @@
 	- [ ] Vrill the Moth (elf occult silvertongue)
 	- [ ] Aloysia (half-elf occult initiate)
 	- [ ] Satzrak Runestrider (blue dragonbord occult extollant)
-	- [ ] Ashann (gnome occult )
+	- [ ] Ashann (gnome occult extollant)
 - [ ] Library of the Cobalt Soul - _"Reason. Knowledge. Truth."_ 
 	- [ ] Jamil A'alithiya (human monastic high curator)
 	- [ ] Iwo Zalarre
