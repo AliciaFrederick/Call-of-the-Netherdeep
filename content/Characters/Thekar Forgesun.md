@@ -4,6 +4,7 @@ description:
 permalink: 
 aliases:
   - Brownie
+  - Thekar
 tags: 
 draft: true
 date: 
