@@ -115,7 +115,8 @@ cssclasses:
 		- [ ] Satzrak Runestrider (blue dragonborn occult extollant)
 	- [ ] Luck's Run - _World-Renowned Casino_ 
 		- [ ] Adima Shemsilver (halfling noble) - helps fund the Veil 
-	- [ ] Mystic Pursuits
+	- [ ] Mystic Pursuits - _Arcane Shop_ 
+		- [ ] 
 ##  Outline important NPCs
 
 - [ ] Allegiance of Allsight - _"To peer into the past is to illuminate the future."_ 
