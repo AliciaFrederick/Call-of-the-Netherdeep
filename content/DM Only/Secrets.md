@@ -12,4 +12,4 @@
 - [x] Where does Perjeon's treasure map lead?
 - [x] Who is Aza's bandit rival?
 - [x] How will Perjeon's former shipmate spy rival come into play?
-- [ ] Who is out for Thrast's blood?
+- [x] Who is out for Thrast's blood?

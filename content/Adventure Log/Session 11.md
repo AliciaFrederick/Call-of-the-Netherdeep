@@ -161,11 +161,11 @@ cssclasses:
 
 ##  Choose relevant monsters
 
-- [ ] 
+- [x] https://5e.tools/bestiary.html 
 
 ##  Select magic item rewards
 
-- [ ] 
+- [x] https://5e.tools/items.html
 
 %%  %%
 
