@@ -65,32 +65,32 @@ cssclasses:
 		- [x] Ruidium Elephant
 			- [ ] figurine of wondrous power (marble elephant) 
 	- [ ] [Allegiance Mission 2: Search the Life Dome](https://5e.tools/adventure.html#crcotn,4,allegiance%20mission%202%3a%20search%20the%20life%20dome,0) - River District
-		- [x] 2 x Invisible Stalker
+		- [ ] 2 x Invisible Stalker
 - [ ] Consortium
 	- [ ] [Consortium Mission 1: A Ghost in our Midst](https://5e.tools/adventure.html#crcotn,4,consortium%20mission%201%3a%20a%20ghost%20in%20our%20midst,0)  - Suncut Bazaar > Sigil District
-		- [x] Shira
+		- [ ] Shira
 	- [ ] [Consortium Mission 2: When Luck Runs Out](https://5e.tools/adventure.html#crcotn,4,consortium%20mission%202%3a%20when%20luck%20runs%20out,0) - Suncut Bazaar
-		- [x] Veteran
+		- [ ] Veteran
 			- [ ] earring of message
-		- [x] 4 x Guard
-		- [x] 10 x Commoner
-		- [x] Koris (tiefling assassin)
+		- [ ] 4 x Guard
+		- [ ] 10 x Commoner
+		- [ ] Koris (tiefling assassin)
 			- [ ] potion of gaseous form
 			- [ ] dust of disappearance
 			- [ ] bag of holding
-		- [x] Berserker (Ena - human)
-		- [x] Spy (Duskwood - half-elf)
+		- [ ] Berserker (Ena - human)
+		- [ ] Spy (Duskwood - half-elf)
 			- [ ] hat of disguise
 - [ ] Cobalt Soul
 	- [ ] [Cobalt Soul Mission 1: The Cultist of Zehir](https://5e.tools/adventure.html#crcotn,4,cobalt%20soul%20mission%201%3a%20the%20cultist%20of%20zehir,0) - Sigil District 
-		- [x] 5 x Knight
-		- [x] Laurin Ophidas
+		- [ ] 5 x Knight
+		- [ ] Laurin Ophidas
 			- [ ] staff of the adder 
 		- [ ] Iwo (no mini)
 			- [ ] sending stones
 	- [ ] [Cobalt Soul Mission 2: Half-Baked Scheme](https://5e.tools/adventure.html#crcotn,4,cobalt%20soul%20mission%202%3a%20half-baked%20scheme,0) - River District 
-		- [x] Ashann
-		- [x] Bandit Captain
+		- [ ] Ashann
+		- [ ] Bandit Captain
 			- [ ] ruidium shortsword
 
 ##  Define secrets and clues
@@ -105,84 +105,9 @@ cssclasses:
 	- [ ] [Laurin Ophidas](https://5e.tools/bestiary.html#laurin%20ophidas_crcotn) is a disgraced member of the Cerberus Assembly, an organization of spellcasters in the Dwendalian Empire in Wildemount. He fled from that organization after stealing a [staff of the adder](https://5e.tools/items.html#staff%20of%20the%20adder_dmg) from a superior. Convinced that the assembly's assassins are pursuing him, Ophidas is trying to locate other Zehir cultists in the city who will protect him. His search is not going well. 
 	- [ ] The rumors of a second entrance to Cael Morrow were planted by Lymmle Wist, a member of the Sentinels of Memory, in an effort to ambush the characters and wipe out those who would bring Cael Morrow back into living memory.
 
-##  Develop fantastic locations
+[[Ank'Harel Locations]] 
 
-- [ ] Alluvium District
-	- [ ] Alluvium Gardens - *Arboretum*
-	- [ ] Opalite Forum - *Entertainment Square*
-	- [ ] Sa'Irah Mines - *Clay Strip Mines*
-		- [ ] Zala Keencutter (tiefling thug) 
-- [ ] Cerulean Palace
-	- [ ] J'mon Sa Ord (ancient brass dragon) 
-- [ ] The Circlet Walk
-	- [ ] Lyrean Linen - *Dye Shop, Front for the Black Market*
-		- [ ] Bas and Kovra Lyrean (half-elf bandits) 
-	- [ ] Step Aside - *Inn and Tavern*
-		- [ ] Irawan (elf veteran, retired Scarbearer)
-		- [ ] Calinao (elf druid, retired Scarbearer) 
-- [ ] Guided District
-	- [ ] Blessing Well - *Holy Site*
-	- [ ] Crossings of Eventide - *Necropolis, Temple to the Duskmaven*
-	- [ ] Temple of the Mentor - *Temple to Ioun and HQ of the Cobalt Soul*
-		- [ ] Iwo Zalarre (half-orc monastic operative)
-	- [ ] Tower of Memory - *HQ of the Sentinels of Memory*
-		- [ ] Watcher Byron (gnome veteran) 
-- [ ] The Ridge
-	- [ ] Alsfarin Union Shipyard - _Skyship Conglomerate_
-	- [ ] Sunfilre Forge
-		- [ ] Rohaya Tak (half-elf commoner) 
-- [ ] River District
-	- [ ] Life Dome - _Nexus of the Canals_
-		- [ ] Carliale Kroogan (gnome scholarly excavator) 
-	- [ ] Old Man Kruuk's - _Bakery and Fence for Stolen Goods_ 
-		- [ ] Old Man Kruuk (half-orc bandit captain) 
-	- [ ] Steam Gardens - _Arboretum and Bathhouse_ 
-- [ ] Sand Herald District
-	- [ ] Bowl of Judgment - _Combat Tournament Arena_ 
-		- [ ] Sheed Caltor (orc noble)
-	- [ ] Indala Skyport - _Skyship Port_
-	- [ ] Ord Bastion - _Headquarters of the Hands of Ord_ 
-- [ ] Sigil District
-	- [ ] Crystal Chateau - _Elite University and HQ of the Allegiance of Allsight_ 
-		- [ ] Jor Raashid (halfling scholarly agent) 
-	- [ ] Maw of Cael Morrow - _Excavation Site Entrance_ 
-		- [ ] Hakzome (orc scholarly excavator) 
-		- [ ] 5 Scarbearer veterans
-	- [ ] Omnival Library - _Public Library_ 
-		- [ ] Bookkeeper Khime (orc mage) 
-	- [ ] Teres Schoolhouse - _University_ 
-- [ ] Suncut Bazaar
-	- [ ] Bone Garden - _Purveyor of Oddities and Exceptionalities_ 
-		- [ ] Rerosha (human acolyte, nonverbal) and Akhil (sassy gray parrot - raven stat block) 
-	- [ ] First Eclipse - _Tavern and Headquarters of the Consortium of the Vermilion Dream_ 
-		- [ ] Satzrak Runestrider (blue dragonborn occult extollant)
-	- [ ] Luck's Run - _World-Renowned Casino_ 
-		- [ ] Adima Shemsilver (halfling noble) - helps fund the Veil 
-	- [ ] Mystic Pursuits - _Arcane Shop_ 
-		- [ ] Amkezne (tiefling mage "soothsayer" charlatan) 
-		- [ ] invisible stalker
-
-##  Outline important NPCs
-
-- [ ] Allegiance of Allsight - _"To peer into the past is to illuminate the future."_ 
-	- [ ] James Cryon (elf scholarly mastermind)
-	- [ ] Gryz Alacritos (goblin scholarly mastermind)
-- [ ] Consortium of the Vermilion Dream - _"Seek the stories others fear to know."_ 
-	- [ ] Aradrine the Owl (goliath occult silvertongue)
-	- [ ] Dendarron the Sun Bear (halfling occult silvertongue)
-	- [ ] Larthul the Wolf (human occult silvertongue)
-	- [ ] Khelkur the Gull (dwarf occult silvertongue)
-	- [ ] Vrill the Moth (elf occult silvertongue)
-- [ ] Library of the Cobalt Soul - _"Reason. Knowledge. Truth."_ 
-	- [ ] Jamil A'alithiya (human monastic high curator)
-- [ ] Hands of Ord - _"By the code of Ord, we stand vigilant."_ 
-	- [ ] Ironhand Sem (minotaur) 
-- [ ] Scarbearers - _"We do not break."_ 
-	- [ ] Quartermaster Croog Lynn (goliath gladiator)
-- [ ] Sentinels of Memory - _"Let the past die in peace."_ 
-	- [ ] Watcher Trast (elf priest)
-- [ ] The Veil - _"Welcome to the other side."_ 
-	- [ ] Ilena Hapayhari (human assassin pirate)
+[[Ank'Harel Factions]] 
 
 %%
 ##  Choose relevant monsters
@@ -194,4 +119,3 @@ cssclasses:
 - [x] https://5e.tools/items.html
 
   %%
-
