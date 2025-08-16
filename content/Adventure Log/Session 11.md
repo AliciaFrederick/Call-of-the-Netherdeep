@@ -53,7 +53,7 @@ cssclasses:
 
 > [!QUOTE] Strong start
 > The chilly air and gloomy clouds of Bazzoxan are replaced by dry heat and a brilliant blue sky. You are standing on a rooftop overlooking a bazaar. Beneath your feet is a teleportation circle, from which the glow of magic is slowly subsiding.
-> After a few moments of blinking the bright morning sun out of your eyes, the Sending s
+> After a few moments of blinking the bright morning sun out of your eyes, the Sending Stone heats again in your palm. Question's voice returns - "The curators won't let me bring the horses through the library, but Taskhand Thelyss said he could use them. He gave me "
 
 ##  Outline potential scenes
 
