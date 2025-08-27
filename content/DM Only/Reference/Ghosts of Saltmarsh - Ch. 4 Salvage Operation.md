@@ -1,14 +1,12 @@
 # Chapter 4: Salvage Operation
 
-![](img/adventure/GoS/030-04-01-chapter-4.webp)
+![[030-04-01-chapter-4.webp]] 
 
 When a ship missing for years is spotted adrift at sea, its one-time owner sees a final chance to recover a lost fortune. But what the former owner cannot know is that the ship has a new master—a wretched druid, driven mad by cannibalism and attended by a horde of venomous pets.
 
 *Salvage Operation* is a D&D adventure designed for four to six 4th-level characters.
 
-![](img/adventure/GoS/031-04-02-salvage-operation.webp)
-
-> ##### About the Original
+>[!NOTE] About the Original
 >
 >Drawn from *Dungeon* 123, Mike Mearls's 2005 adventure "Salvage Operation" is a rare tale that takes place entirely at sea. This grim story features an epic assault by a titanic octopus and a race to escape a sinking, monster-infested ship. Decrepitude and decay (along with a bit of demon worship) persist throughout this unusual dungeon crawl, with the characters' courage being tested just as much as the seaworthiness of the *Emperor of the Waves*!
 >
@@ -39,7 +37,7 @@ The climax of the adventure is a race against time as the octopus returns for a 
 
 In order for the characters to receive their payment from Aubreck, they must bring back a heavy box from the cargo hold—potentially forcing them to choose between making a quick escape and accomplishing their mission.
 
-> ##### Placing the Adventure
+> [!NOTE] Placing the Adventure
 >
 >*Salvage Operation* was written to take place in a coastal region of any campaign setting. Aubreck's history as a once-powerful merchant makes a port city or a large port town the best starting place for the adventure.
 >
@@ -62,7 +60,7 @@ The noble is worried that someone else might claim the ship's goods as salvage i
 
 Aubreck describes the box as made of shiny blue metal. It is packed inside a wooden crate branded with a large letter *A*. The crate can easily be pried or broken open, but the box can't be opened except with a password known only to Aubreck. It contains all of Aubreck's deeds and promissory notes, still sealed in waterproof wrappings. The notes are drawn from a lawful good temple that will pay them out only after the original owner of the assets gives permission, and their value will enable Aubreck to rebuild his business once he redeems them for himself.
 
-> ##### Trouble Along the Way
+> [!NOTE] Trouble Along the Way
 >
 >The journey to the derelict takes 1d4 + 3 days. If you want to spice up the trip, then about halfway through it a group of sahuagin stumble upon *Soul of Winter* and attempt to board it.
 >
@@ -98,8 +96,8 @@ The main deck of *Emperor of the Waves* is likely the first part of the ship the
 
 #### 1. Main Deck
 
->>The *Emperor*'s upper decks slope gently down toward the ship's port side. The forecastle and quarterdeck are empty, and short wooden stumps are all that remain of the ship's masts. The double doors leading to cabins fore and aft appear intact, as does the metal grate in the deck that offers access to the lower decks. Aside from the rhythmic creak of the ship's badly weathered timbers, all seems quiet.
->>
+> [!QUOTE] Read Aloud
+>The *Emperor*'s upper decks slope gently down toward the ship's port side. The forecastle and quarterdeck are empty, and short wooden stumps are all that remain of the ship's masts. The double doors leading to cabins fore and aft appear intact, as does the metal grate in the deck that offers access to the lower decks. Aside from the rhythmic creak of the ship's badly weathered timbers, all seems quiet.
 
 This area is unoccupied. The doors to fore and aft are not locked (but see area 3), and the ship's wheel turns easily and freely. A character who makes a successful DC 10 Intelligence check determines that the wheel is no longer connected to the ship's rudder, and it can't be used to steer the ship until the vessel undergoes extensive repairs.
 
@@ -109,8 +107,8 @@ Through the grate set into the deck can be seen a ladder extending down to area 
 
 #### 2. Altar to Lolth
 
->>A rough stone altar dominates this cabin. Strange markings cover its surface, dried mud cakes the floor around it, and humanoid skulls ring the wall above, each mounted on a wooden spike. The corners of this room are piled with garbage and debris—crudely cut wooden logs, smashed furniture, torn sacks, shattered crates, and small piles of dried palm fronds. A staircase descends from the southeast corner, and an acrid odor fills the air.
->>
+> [!QUOTE] Read Aloud
+>A rough stone altar dominates this cabin. Strange markings cover its surface, dried mud cakes the floor around it, and humanoid skulls ring the wall above, each mounted on a wooden spike. The corners of this room are piled with garbage and debris—crudely cut wooden logs, smashed furniture, torn sacks, shattered crates, and small piles of dried palm fronds. A staircase descends from the southeast corner, and an acrid odor fills the air.
 
 This chamber was once the captain's cabin. Now it's a shrine to Lolth, the demon queen of spiders. The skulls are cracked, weathered, and obviously old.
 
@@ -138,7 +136,7 @@ Combat in this area arouses the hungry vermin in the decks below. Beginning 1d4 
 
 The cabins beneath the main deck are home to the druid Krell—and to the murderous creatures under his control.
 
-> ##### Webs Aboard Ship
+> [!NOTE] Webs Aboard Ship
 >
 >Except where otherwise noted, the lower deck of the *Emperor* is filled with sheets of webbing. Areas filled with webbing are lightly obscured. Ranged attacks made against creatures in areas filled with webbing are made with disadvantage. In addition, the creatures found aboard the ship are adept at hiding among the webs. As an action, any such creature can attempt Dexterity (Stealth) checks to hide from any character that it is more than 5 feet away from. Many of these creatures begin encounters having already tried to hide; make checks as appropriate to determine each creature's success at evading detection.
 >
