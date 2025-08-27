@@ -89,7 +89,9 @@ The captain orders two sailors to ferry the characters to the *Emperor* in a row
 
 *Soul of Winter* comes no closer than 500 feet to the derelict. After taking the characters up to the ship, the sailors move 200 feet away from the *Emperor* and hold their position, waiting for the characters to reappear on the upper deck with the treasure from below.
 
-![Map 4.1: Emperor of the Waves](img/adventure/GoS/032-27-dm.webp)![Player Version](img/adventure/GoS/033-27-pc.webp)
+![[032-27-dm.webp]] 
+![[033-27-pc.webp]] 
+
 ### Upper Deck
 
 The main deck of *Emperor of the Waves* is likely the first part of the ship the characters explore—and will be the last stage of their desperate escape.
@@ -161,8 +163,8 @@ If the characters enter this passageway from area 10 instead of from area 4, the
 
 #### 6. Food Storage
 
->>Thick webbing chokes this room, partially covering strung-up bones, shriveled limbs of humanoids and animals, and other gruesome remains. Four human-sized bundles hang within the mass of webbing, a little less than ten feet into the room, while small spiders scurry everywhere.
->>
+> [!QUOTE] Read Aloud
+>Thick webbing chokes this room, partially covering strung-up bones, shriveled limbs of humanoids and animals, and other gruesome remains. Four human-sized bundles hang within the mass of webbing, a little less than ten feet into the room, while small spiders scurry everywhere.
 
 A character who watches the webbed bundles for a few moments and succeeds on a DC 10 Wisdom (Perception) check notices that they occasionally shudder and twitch in a way not caused by the motion of the *Emperor*. Within are four **maw demons** (see *appendix C*), servitors drawn from the Abyss by the fiendish magic coursing through the webs here. Krell and the other cultists spent many hours here sanctifying the webs and offering rites to Lolth, and the goddess has rewarded them with these servitors. Krell has yet to free them, because he worries he is not currently strong enough to command them.
 
@@ -172,8 +174,8 @@ Each cocoon can be torn open with a successful DC 12 Strength (Athletics) check,
 
 #### 7. Krell's Cabin
 
->>Palm fronds are piled up in one corner of this room to make a crude bed. Nearby, a stone-tipped wooden spear and an oblong shield lean against the wall. The shield bears the symbol of a humanoid skull with spiders crawling from its eye sockets. Two weathered humanoid skulls hang from wooden pegs on the wall.
->>
+> [!QUOTE] Read Aloud
+>Palm fronds are piled up in one corner of this room to make a crude bed. Nearby, a stone-tipped wooden spear and an oblong shield lean against the wall. The shield bears the symbol of a humanoid skull with spiders crawling from its eye sockets. Two weathered humanoid skulls hang from wooden pegs on the wall.
 
 This room serves as **Krell Grohlg**'s personal chamber. Unlike most of the lower deck, it is not covered in sheets of webs. Ever since the attack by the octopus killed the other cultists a few days ago, he has abandoned this room and spends most of his time praying in area 10.
 
@@ -181,22 +183,24 @@ Any character who inspects the bed finds several well-gnawed humanoid bones mixe
 
 #### 8. First Mate's Cabin
 
->>The smashed wreckage of a bed, dresser, and desk covers the floor of this room. Thick webs extend from floor to ceiling, making it impossible to clearly see the walls beyond. Hundreds of tiny spiders move through the webs.
->>
+> [!QUOTE] Read Aloud
+>The smashed wreckage of a bed, dresser, and desk covers the floor of this room. Thick webs extend from floor to ceiling, making it impossible to clearly see the walls beyond. Hundreds of tiny spiders move through the webs.
 
 All parts of this room are engulfed in sheets of webs. The cabin contains nothing of interest, and the spiders pose no threat.
 
 #### 9. Spider Chambers
 
->>This room is filled with smashed furniture, crushed wooden boxes, and other debris, all covered with thick layers of spiderwebs.
->>
+> [!QUOTE] Read Aloud
+>This room is filled with smashed furniture, crushed wooden boxes, and other debris, all covered with thick layers of spiderwebs.
+>
 
 When the door to either of these web-filled rooms is opened, hundreds of tiny spiders scuttle for cover. These areas contain nothing of interest.
 
 #### 10. Unholy Shrine
 
->>The floor of this chamber is covered with runes written in blood. A circle has been carved into the floor's wooden planks and spiderwebs cover the walls and ceiling. Two humanoid-sized bundles attached to the ceiling writhe as hundreds of tiny spiders swarm over them.
->>
+> [!QUOTE] Read Aloud
+>The floor of this chamber is covered with runes written in blood. A circle has been carved into the floor's wooden planks and spiderwebs cover the walls and ceiling. Two humanoid-sized bundles attached to the ceiling writhe as hundreds of tiny spiders swarm over them.
+>
 
 **Krell Grohlg**, the last survivor of the cultists who escaped the island, sequestered himself here after the first octopus attack. He attacks at the first sign of intruders—if dying for Lolth is to be his fate, he seeks to slay as many characters as possible.
 
@@ -215,14 +219,15 @@ The phase spider spends its time in the Border Ethereal. It attempts to ambush K
 
 ***Treasure.*** All the cultists' ceremonial objects and treasure are stored in a wooden box along the port wall. The box contains *spell scrolls* of *gust of wind* and *protection from poison*, a *potion of heroism*, a *potion of water breathing*, a *cloak of protection*, 507 gp, and 199 sp.
 
-![](img/adventure/GoS/034-04-04-unholy-shrine-p92.webp)
+![[034-04-04-unholy-shrine-p92.webp]] 
 
 #### 11. Galley
 
 The door here is damaged and held shut by rusty iron spikes. It must be forced open with a successful DC 15 Strength (Athletics) check or chopped apart (AC 15, 12 hit points, immunity to psychic and poison damage).
 
->>Judging from the stove along one wall of this room, this was once the galley. Now the area is cluttered with bones and debris. Badly damaged metal knives and other cookware hang from hooks in the ceiling, while the choking stench of rotting flesh fills the air. A stairway leads up near the stern. Tiny spiders crawl over everything.
->>
+> [!QUOTE] Read Aloud
+>Judging from the stove along one wall of this room, this was once the galley. Now the area is cluttered with bones and debris. Badly damaged metal knives and other cookware hang from hooks in the ceiling, while the choking stench of rotting flesh fills the air. A stairway leads up near the stern. Tiny spiders crawl over everything.
+>
 
 The cultists kept this area free of webs and used it for food storage. Then, after their supplies ran low, several of them barricaded themselves in this room to seize control of the remaining supplies. In response, the rest of the cultists stormed the area, slew the rebels, and added their corpses to the ship's larder. All that's left now of all the rebels are scraps, as the lone survivor (Krell) has consumed the last of them.
 
@@ -230,8 +235,9 @@ The cultists kept this area free of webs and used it for food storage. Then, aft
 
 #### 12. Cargo Hold
 
->>This deck runs the length of the ship and features no bulkheads or walls. Dark, murky seawater fills it to a depth of three feet, sloshing against old, moldering crates piled against the ship's port hull.
->>
+> [!QUOTE] Read Aloud
+>This deck runs the length of the ship and features no bulkheads or walls. Dark, murky seawater fills it to a depth of three feet, sloshing against old, moldering crates piled against the ship's port hull.
+>
 
 The water that fills this area is difficult terrain for Medium characters. Small characters must swim while in the cargo hold.
 
@@ -334,7 +340,7 @@ Any surviving ghasts in area 12 move to area 1. Unlike the other creatures aboar
 
 Monsters in area 1 attempt to avoid the seawater. In their frenzy, they attack any characters who emerge from below. If Krell is present, he spots the rowboat heading for the ship and attempts to seize it once it arrives. He tries to swim beneath it, hide, and then emerge to ambush the sailors aboard it.
 
-![](img/adventure/GoS/035-04-05-octopus-p95.webp)
+![[035-04-05-octopus-p95.webp]] 
 
 #### Round 4
 
