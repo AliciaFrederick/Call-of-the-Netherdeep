@@ -13,3 +13,8 @@
 - [x] Who is Aza's bandit rival?
 - [x] How will Perjeon's former shipmate spy rival come into play?
 - [x] Who is out for Thrast's blood?
+
+## iDEAS
+
+- Cobalt Soul know Jmon Sa'Ord is a dragon and they have a beacon
+- Thekar's 
