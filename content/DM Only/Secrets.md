@@ -17,15 +17,19 @@
 ## Ideas
 
 - Dermot and Galsariad are worried about being so far away from a beacon
-- Cobalt Soul knows Jmon Sa'Ord is a dragon and they had a beacon which was recently stolen
-- Keys from the Golden Vault: Vidorant's Vault - Retrieve Jmon's stolen beacon from The Veil (Ilena)
-- Ilena pretends to be friendly and make a bargain
-	- Ghosts of Saltmarsh - Salvage Operation se teleportation tablets to get to the coast)
-	- Betrays them before she realizes what she wants is not there
-		- Perjeon's dad scuttled the ship and hid the treasure
-	- Need Perjeon's map to find the treasure
-		- Magic item that talks - genie lamp, sentient sword, etc. 
-		- Ruined temple in the desert 
+- Cobalt Soul knows Jmon Sa'Ord is a dragon and they had a beacon which was recently stolen 
+	- Retrieve Jmon's stolen beacon from The Veil (Ilena)
+		- Keys from the Golden Vault: Vidorant's Vault
+	- Ilena pretends to be friendly and make a bargain
+		- Ghosts of Saltmarsh - Salvage Operation 
+			- Use teleportation tablets to get to the coast
+			- Ghost ship used to be owned by Perjeon's dad
+		- Ilena will betray them before she realizes what she wants is not there
+			- Perjeon's dad scuttled the ship and hid the treasure
+		- Need Perjeon's map to find the treasure
+			- Magic item that talks - genie lamp, sentient sword, etc. 
+			- Ruined temple in the desert 
 - Thekar's community evacuated before the volcano erupted
 	- Descendants fractured as they searched for a new homeland
-	- Some became the duergar and others went to Uthodurn
+	- Some went to the Underdark and became the duergar 
+	- Others went to Uthodurn 
