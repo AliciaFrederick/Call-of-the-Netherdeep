@@ -14,13 +14,13 @@
 - [x] How will Perjeon's former shipmate spy rival come into play?
 - [x] Who is out for Thrast's blood?
 
-## iDEAS
+## Ideas
 
-- Cobalt Soul knows Jmon Sa'Ord is a dragon and they have a beacon
-- Thekar's descendants fractured and some became the duergar and others went to Uthodurn
+- Cobalt Soul knows Jmon Sa'Ord is a dragon and they had a beacon which was recently stolen
 - Vidorant's Vault - Retrieve Jmon's stolen beacon from The Veil (Ilena)
 - Ilena pretends to be friendly to find the ghost ship
 	- Betrays them before she realizes what she wants is not there
 	- Need the treasure map to find it
 		- Magic item that talks - genie lamp, sentient sword, etc. 
 		- Ruined temple in the desert 
+- Thekar's descendants fractured and some became the duergar and others went to Uthodurn

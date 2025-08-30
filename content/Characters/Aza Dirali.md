@@ -29,6 +29,7 @@ https://www.dndbeyond.com/characters/133482772
 | Favorite Food               | Dampfnudel—a regal steamed roll served in sweet custard or with savory potatoes                                                                                                                                                                                                     |
 | Mysterious Secret           | I woke up one night to find one of my siblings perched on my chest, staring into my eyes. They said, “The time is soon,” and then giggled and ran off. When I asked them, they had no memory of the event.                                                                          |
 | Prophecy                    | I will steal a holy relic of the [[Kryn Dynasty]], making me a target for anyone who desires its power.                                                                                                                                                                             |
+|                             |                                                                                                                                                                                                                                                                                     |
 
 %% DM Notes
 
