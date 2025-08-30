@@ -18,7 +18,7 @@
 
 - Dermot and Galsariad are worried about being so far away from a beacon
 - Cobalt Soul knows Jmon Sa'Ord is a dragon and they had a beacon which was recently stolen
-- Vidorant's Vault - Retrieve Jmon's stolen beacon from The Veil (Ilena)
+- Keys from the Golden Vault: Vidorant's Vault - Retrieve Jmon's stolen beacon from The Veil (Ilena)
 - Ilena pretends to be friendly to find the ghost ship
 	- Betrays them before she realizes what she wants is not there
 	- Need the treasure map to find it
