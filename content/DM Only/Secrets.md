@@ -17,4 +17,7 @@
 ## iDEAS
 
 - Cobalt Soul know Jmon Sa'Ord is a dragon and they have a beacon
-- Thekar's 
+- Thekar's descendants fractured and some became the duergar and others went to Uthodurn
+- Ilena pretends to be friendly to find the ghost ship
+	- Betrays them before she realizes what she wants is not there
+	- Need the treasure map to find it
