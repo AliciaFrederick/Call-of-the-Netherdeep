@@ -21,3 +21,6 @@
 - Ilena pretends to be friendly to find the ghost ship
 	- Betrays them before she realizes what she wants is not there
 	- Need the treasure map to find it
+		- Beacon?
+		- Magic item that talks - genie lamp, sentient sword, etc. 
+		- Ruined temple in the desert 
