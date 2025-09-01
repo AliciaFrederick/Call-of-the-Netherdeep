@@ -91,7 +91,7 @@ If the check succeeds by 5 or more, the character also learns one of the followi
 - The location of a switch to disable one trap (either the pit trap in area T3 or the statues in area T6)
 - The guard rotation (detailed in "Vault Guards")
 
-![Map 8.1: Players' Map](img/adventure/KftGV/061-08-003.players-map.webp)
+![[061-08-003.players-map.webp]]
 
 ### Surveilling the Target
 
@@ -105,8 +105,8 @@ While no one in the Silver Fingers Society would dare help Vidorant right now, s
 
 If the characters scout the vault before the heist, read or paraphrase the following:
 
+> [!QUOTE] Read Aloud
 >The vault stands in a rundown neighborhood, but the street and alleyways around the vault are unobstructed. Small windows glint from high on the vault's stone walls. Two guards keep watch on the second-floor balcony, while another guard patrols around the structure at ground level.
->
 
 Vidorant's vault is an unmarked building on the city outskirts in an area with moderate foot traffic. The neighboring buildings stand at least 20 feet from the vault and don't share walls with it. Nearby businesses include a jewelry store, a lumberyard, a brewery, and a forge. Several other nearby buildings are empty and are ideal locations for a stakeout.
 
@@ -197,11 +197,13 @@ If the characters neutralize all nine interior guards, the party has the run of 
 
 The following locations are keyed to map 8.2.
 
-![Map 8.2: DM's Map](img/adventure/KftGV/062-map-8.02-dms-map.webp)![Player Version](img/adventure/KftGV/063-map-8.02-dms-map-player.webp)
+![[062-map-8.02-dms-map.webp]] 
+![[063-map-8.02-dms-map-player.webp]] 
+
 #### T1: Lobby
 
+> [!QUOTE] Read Aloud
 >This beautifully decorated lobby has stone floors polished to a mirror finish. To the west, a large statue depicts a human woman wielding a bow and arrow. To the east, two comfortable chairs accompany a small table. A double door leads outside to the north, and two doors on the south wall lead into the vault.
->
 
 ***Guards.*** Two guards watch the unlocked front door while sitting in the lobby's chairs. Though suspicious of people trying to get in, they're accustomed to confused people occasionally entering the unmarked building.
 
@@ -209,8 +211,9 @@ The following locations are keyed to map 8.2.
 
 #### T2: Break Room
 
+> [!QUOTE] Read Aloud
 >This break room smells faintly of sweat and greasy food. Scuffed wooden furniture and a large couch provide comfort for off-duty guards.
->
+
 
 The room includes a table and chairs for eating, a couch and several chairs for lounging, and a privy. A trunk on the east wall contains a dozen spare guard uniforms.
 
@@ -220,8 +223,8 @@ The room includes a table and chairs for eating, a couch and several chairs for 
 
 #### T3: Gem Room
 
+> [!QUOTE] Read Aloud
 >This room contains open crates of gems sorted by color and type. Most are neatly faceted, though a few remain uncut.
->
 
 ***Guards.*** This room is part of the guard rotation. Roll to determine if a guard is present (as described in "Interior Security").
 
@@ -237,8 +240,8 @@ A character who searches the floor for traps and succeeds on a DC 15 Wisdom (Per
 
 #### T4: Scrolls and Potions Room
 
+> [!QUOTE] Read Aloud
 >This room has four short bookshelves, each bearing eight glass vials of liquid. Several open barrels hold rolled-up sheets of parchment.
->
 
 ***Guards.*** This room is part of the guard rotation. Roll to determine if a guard is present (as described in "Interior Security").
 
@@ -250,8 +253,8 @@ The sheets of parchment in the barrels include *spell scrolls* for each of the f
 
 #### T5: Documents Room
 
+> [!QUOTE] Read Aloud
 >This room holds two large iron safes.
->
 
 ***Guards.*** This room is part of the guard rotation. Roll to determine if a guard is present (as described in "Interior Security").
 
@@ -270,6 +273,7 @@ None of the documents in the safe have intrinsic monetary value, though they cou
 
 #### T6: Gallery
 
+> [!QUOTE] Read Aloud
 >Landscape paintings cover the walls of this room. In the center of the floor stand two marble statues of a human man and woman, both holding musical instruments. One statue faces the door to the south, and the other faces the door to the west.
 >
 
@@ -285,6 +289,7 @@ As an action, a character can search a trapped area and make a DC 15 Intelligenc
 
 #### T7: Armory
 
+> [!QUOTE] Read Aloud
 >Three suits of armor stand against the walls with swords in hand, watching over this armory. Three large chests sit along the south wall.
 >
 
@@ -296,6 +301,7 @@ The two easternmost suits of armor are **helmed horrors**. They attack creatures
 
 #### T8: Zoo
 
+> [!QUOTE] Read Aloud
 >This room contains five large cages holding unusual creatures. It smells of fur and feathers. Chirps, grunts, and howls fill the air.
 >
 
@@ -305,6 +311,7 @@ The two easternmost suits of armor are **helmed horrors**. They attack creatures
 
 #### T9: Library
 
+> [!QUOTE] Read Aloud
 >This room smells strongly of incense and paper. It has several bookshelves filled with antique books. A large, embroidered rug covers the floor.
 >
 
@@ -326,6 +333,7 @@ If a creature steps on the rug without saying the password, "quixotic," the rune
 
 #### T10: Pit
 
+> [!QUOTE] Read Aloud
 >A ten-foot-wide pit with spikes at the bottom divides this room from east to west. A sturdy-looking stone bridge spans the pit. The room is dimly lit by a flickering lamp on the north wall. Near it, a double door leads west. On the south side of the pit is a spiral metal staircase going up.
 >
 
@@ -337,6 +345,7 @@ Guards don't patrol this room. If the **invisible stalker** was summoned in the 
 
 #### T11a–b: Stairwell
 
+> [!QUOTE] Read Aloud
 >A spiral metal staircase ascends gracefully, connecting the first and second floors. A flickering lamp casts dim light on the stairs.
 >
 
@@ -344,6 +353,7 @@ Guards don't patrol this area.
 
 #### T12: Balcony
 
+> [!QUOTE] Read Aloud
 >On the second floor's large balcony, a table and chairs allow for dining while enjoying a lovely view of the city. The view is unimpeded by a low railing. To the east, a rope ladder hangs from the balcony to the ground fifteen feet below. A double door leads into the building.
 >
 
@@ -357,6 +367,7 @@ A creature that falls off the balcony can catch the railing with a successful DC
 
 #### T13: Vidorant's Quarters
 
+> [!QUOTE] Read Aloud
 >The north half of these luxurious living quarters holds a study area with a fine desk and two beautiful paintings of night festivals. A delicate curtain opening to the south reveals a sleeping area. The bed is piled high with sumptuous linens. This area also holds a sturdy wooden wardrobe and a privy.
 >
 
@@ -368,10 +379,11 @@ Guards don't patrol this room, the eastern door of which is unlocked. Though Vid
 
 ***Treasure.*** The two paintings of night festivals are worth 250 gp each.
 
-![Disguised as a vault guard, an adventurer sets his sights on the precious Ruby Diadem of Erlynn Blessedore](img/adventure/KftGV/064-08-004.ruby-diadem.webp)
+![[064-08-004.ruby-diadem.webp]]
 
 #### T14: Strong Room
 
+> [!QUOTE] Read Aloud
 >This room contains four large metal cabinets.
 >
 
@@ -393,6 +405,7 @@ This room's main door, situated in the middle of the west wall, is locked (DC 18
 
 Characters can avoid the trap by entering the room through a secret door in the northwest corner (see area T14).
 
+> [!QUOTE] Read Aloud
 >This room has marble flooring and ivory-colored wallpaper with silver accents. The room contains seven glass cases on pedestals, each enclosing a small item.
 >
 
@@ -422,13 +435,15 @@ If Vidorant (chaotic neutral, elf **assassin**) is alerted to the theft by an al
 
 If Vidorant intercepts the characters, she makes a surprising offer:
 
+> [!QUOTE] Read Aloud
 >An elf woman with sleek black hair approaches you with a smile. "You've done well. Not just any thieves could make it to my personal vault. I congratulate you. I'm sure this means the Silver Fingers placed a bounty on that ruby diadem—Goldenbeard's been furious about that thing for years. But if you'll allow me a moment, perhaps I can make you a better offer?"
 >
 
 If the characters refuse to hear her deal, Vidorant attacks them. If they agree to listen to her deal, she continues speaking:
 
-![](img/bestiary/KftGV/065-08-005.nixylanna-vidorant.webp)
+![[065-08-005.nixylanna-vidorant.webp]]
 
+> [!QUOTE] Read Aloud
 >"I could try to dispatch you—and I might succeed—but more thieves will keep trying to interfere with my business. Instead, what if you went back and told everyone my vault was impenetrable and I thoroughly defeated you? It would head off a lot of trouble. In exchange, I'll give you this." She pulls a delicate ring from her finger. "It's worth more to you than the diadem—after all, it's part of how I've become such a famous thief. Goldenbeard is planning to take the diadem for himself, right? He's still mad about our heist all those years ago. But this ring you can keep. Tell whatever story you like about where you got it, as long as it's not from me. You get rich, I look strong, and no one's the wiser."
 >
 
@@ -450,8 +465,8 @@ If the characters fool him or were simply unable to recover the diadem, Goldenbe
 
 If the characters found the blackmail material regarding Goldenbeard in Vidorant's safe and they bring it up with him, his face goes blank and he responds:
 
+> [!QUOTE] Read Aloud
 >"I see. She couldn't reveal that without implicating herself, but you have no such hesitation. I have no comment on its truth—but it would be messy if revealed. I am willing to buy this from you."
->
 
 He offers the characters 1,000 gp for the original copy of Vidorant's blackmail material. A character who succeeds on a DC 17 Charisma (Intimidation or Persuasion) check convinces him to increase his payment to 2,000 gp.
 
