@@ -32,4 +32,4 @@
 - [ ] Thekar's community evacuated before the volcano erupted
 	- [ ] Descendants fractured as they searched for a new homeland
 	- [ ] Some went to the Underdark and became the duergar 
-	- [ ] Others went to Uthodurn 
+	- [ ] Others went to [Uthodurn](https://5e.tools/book.html#egw,4,uthodurn,0) (founded by dwarves nearly 800 years ago, opened to elven refugees from Molaesmyr nearly 300 years ago) 
