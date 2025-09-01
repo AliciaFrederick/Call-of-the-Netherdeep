@@ -1,10 +1,10 @@
 ## Secrets and Clues
 
-- [ ] The leader of Ank'Harel, J'mon Sa Ord, is a dragon 
+- [ ] The leader of Ank'Harel, J'mon Sa Ord, is a dragon. This is known by Jamil A'alithiya.
 - [ ] J'mon works with the Cobalt Soul to locate and obtain rare magical artifacts for their horde/private collection, under the pretense of protecting them and keeping them out of the wrong hands. 
-- [ ] The dragon horde contains a Luxon beacon. 
-- [ ] Perjeon's treasure map leads to a dragon horde, and his former shipmate wants the map for himself. 
-- [ ] Perjeon wants to buy an airship and needs a connection to the builders in Ank'Harel, along with 100,000 gp. Once he knows his map leads to a horde, he'll be tempted to follow it. 
+- [ ] J'mon's horde contains a Luxon beacon. This is known by Jamil A'alithiya. 
+- [ ] Ilena recently stole the beacon.
+- [ ] Perjeon's treasure map leads to a desert ruin, and his former shipmate Ilena wants the map for herself. 
 - [ ] Aza wants to steal a beacon of the Luxon. She will find one if she joins Perjeon to search for the horde, but her rival is working with Perjeon's rival. 
 - [ ] Thrast will speak to the dragon and provoke its wrath when it learns a beacon has been stolen by their accomplice.
 
