@@ -59,7 +59,8 @@ cssclasses:
 	- [ ] Ashann
 	- [ ] Bandit Captain
 		- [ ] ruidium shortsword
-- [ ] 
+- [ ] [Cobalt Soul Mission 3: Elephant Uproar](https://5e.tools/adventure.html#crcotn,-1,cobalt%20soul%20mission%203%3a%20elephant%20uproar,0) - Suncut Bazaar
+	- [ ] 
 
 ##  Define secrets and clues
 
