@@ -45,12 +45,12 @@ Example - https://slyflourish.notion.site/Rime-of-the-Frostmaiden-1c8e3de45d244c
 - [x] LEVEL 5
 - [x] The characters explore Bazzoxan, defeating a pair of gloomstalkers as they arrive at Betrayer's Rise
 - [x] LEVEL 6
-- [ ] The characters work their way through Betrayer's Rise to find the Prayer Site of Avandra
-- [ ] LEVEL 7
+- [x] The characters work their way through Betrayer's Rise to find the Prayer Site of Avandra
+- [x] LEVEL 7
 
 ## Act 3: Ank'Harel (Chapter 4)
 
-- [ ] The characters arrive in Ank'Harel and explore the city
+- [x] The characters arrive in Ank'Harel and explore the city
 - [ ] The characters choose a faction and complete 2 missions to earn full membership into the group
 - [ ] The characters complete a 3rd mission to learn about the corrupting element ruidium, the existence of the Drowned City of Cael Morrow, and the existence of the Netherdeep.
 - [ ] LEVEL 8
