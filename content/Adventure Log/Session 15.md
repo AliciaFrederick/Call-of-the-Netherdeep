@@ -59,6 +59,7 @@ cssclasses:
 	- [ ] Ashann
 	- [ ] Bandit Captain
 		- [ ] ruidium shortsword
+- [ ] 
 
 ##  Define secrets and clues
 
@@ -73,18 +74,22 @@ cssclasses:
 
 ##  Develop fantastic locations
 
+- [[Ank'Harel Locations]] 
 - [ ] 
+
 ##  Outline important NPCs
 
+- [[Ank'Harel Factions]] 
 - [ ] 
 
 ##  Choose relevant monsters
 
-- [ ] 
+- [ ] https://5e.tools/bestiary.html 
 
 ##  Select magic item rewards
 
-- [ ] 
+- [ ] https://5e.tools/items.html
 
-%%  %%
+%%
+%%
 
