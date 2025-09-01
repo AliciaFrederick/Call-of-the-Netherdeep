@@ -8,7 +8,7 @@ draft: true
 date: 
 cssclasses:
 ---
-![[map-00-exandria.webp]] 
+![[map-00-exandria.jpg]]  
 ![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/00-Poster-Map-9000.jpg) 
 ![[map-1.1-Jigow.jpg]] 
 ![[map-1.2-Emerald-Grotto.jpg]] 
