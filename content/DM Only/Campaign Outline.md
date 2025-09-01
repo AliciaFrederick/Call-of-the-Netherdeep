@@ -13,25 +13,16 @@ Example - https://slyflourish.notion.site/Rime-of-the-Frostmaiden-1c8e3de45d244c
 %%
 ## Fronts 
 
-### [[Alyxian]] the Apotheon
-
-- **Goal**: To escape his self-inflicted torment by any means necessary.
-
-### [[Allegiance of Allsight]] 
-
-- **Goal**: Control the source of Ruidium
-
-### [[Consortium of the Vermilion Dream]] 
-
-- **Goal**: Control the source of Ruidium
-
-### [[Library of the Cobalt Soul]] 
-
-- **Goal**: Destroy the source of Ruidium
-
-### [[Rivals - Tier 1]] 
-
-- **Goals**: See page for details
+- [[Alyxian]] the Apotheon
+	- **Goal**: To escape his self-inflicted torment by any means necessary.
+-  [[Allegiance of Allsight]] 
+	- **Goal**: Control the source of Ruidium
+-  [[Consortium of the Vermilion Dream]] 
+	- **Goal**: Control the source of Ruidium
+-  [[Library of the Cobalt Soul]] 
+	- **Goal**: Destroy the source of Ruidium
+-  [[Rivals - Tier 1]] 
+	- **Goals**: See page for details
 
 ## Act 1: Jigow (Chapter 1)
 
