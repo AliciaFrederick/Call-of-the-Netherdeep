@@ -1,6 +1,7 @@
 ## Secrets and Clues
 
-- [ ] The leader of Ank'Harel is a dragon who works with the Cobalt Soul to locate and obtain rare magical artifacts for their horde/private collection, under the pretense of protecting them and keeping them out of the wrong hands. 
+- [ ] The leader of Ank'Harel, J'mon Sa Ord, is a dragon 
+- [ ] J'mon works with the Cobalt Soul to locate and obtain rare magical artifacts for their horde/private collection, under the pretense of protecting them and keeping them out of the wrong hands. 
 - [ ] The dragon horde contains a Luxon beacon. 
 - [ ] Perjeon's treasure map leads to a dragon horde, and his former shipmate wants the map for himself. 
 - [ ] Perjeon wants to buy an airship and needs a connection to the builders in Ank'Harel, along with 100,000 gp. Once he knows his map leads to a horde, he'll be tempted to follow it. 
