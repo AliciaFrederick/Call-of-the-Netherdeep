@@ -65,8 +65,8 @@ Example - https://slyflourish.notion.site/Rime-of-the-Frostmaiden-1c8e3de45d244c
 	- [ ] 1 - A Ghost in our Midst - The characters must visit the Shrine of the Wild Mother at night to find evidence of a ghost, then attempt to befriend it.
 	- [ ] 2 - When Luck Runs Out - The characters must take on a job guarding the Luck’s Run casino from a small gang of would-be thieves.
 	- [ ] 3 - Elephant in the Room - The characters must steal a [figurine of wondrous power](https://www.dndbeyond.com/magic-items/4834-figurine-of-wondrous-power-marble-elephant) from the Allegiance of Allsight and deliver it to Aradrine the Owl.
-- [[Library of the Cobalt Soul]] - Evelyn from The Mummy
-	- [ ] 1 - The Cultist of Zehir - The characters must follow a suspicious scholar and ascertain his intentions toward Ank’Harel and the Library of the Cobalt Soul.
+- [*] [[Library of the Cobalt Soul]] - Evelyn from The Mummy
+	- [x] 1 - The Cultist of Zehir - The characters must follow a suspicious scholar and ascertain his intentions toward Ank’Harel and the Library of the Cobalt Soul.
 	- [ ] 2 - Half-Baked Scheme - The characters must investigate a local baker who might be selling dangerous magic items to Ank’Harel’s worst elements.
 	- [ ] 3 - Elephant Uproar - The characters must battle magical elephants, then make their way to the headquarters of the Consortium of the Vermilion Dream.
 
@@ -85,7 +85,7 @@ Example - https://slyflourish.notion.site/Rime-of-the-Frostmaiden-1c8e3de45d244c
 - Consortium of the Vermilion Dream
 	- [ ] 4 - Key to the Netherdeep - The characters must rendezvous with a spy in Cael Morrow and help find a lost key that allows passage through a rift to the Netherdeep.
 	- [ ] 5 - Slay the Aboleth - The characters must return to Cael Morrow and slay an aboleth that haunts the sunken city—an aboleth that believes it is a hero of legend.
-- Library of the Cobalt Soul
+- [*] Library of the Cobalt Soul
 	- [ ] 4 - Allegiance Alliance - The characters must rendezvous with an Allegiance of Allsight professor in Cael Morrow, earn her trust, and find a lost key.
 	- [ ] 5 - Enemy of Our Enemies - The characters must return to Cael Morrow and deal with an aboleth that haunts the sunken city—perhaps by making friends with it.
 
@@ -104,7 +104,7 @@ Example - https://slyflourish.notion.site/Rime-of-the-Frostmaiden-1c8e3de45d244c
 	- [ ] 6 - Secure the Netherdeep (doomed to fail) - The characters must help the Allegiance control the flow of ruidium by cementing an alliance with the true power of the Netherdeep.
 - Consortium of the Vermilion Dream
 	- [ ] 6 - Ruidium Monopoly (doomed to fail) - The characters must enter the Netherdeep, find the source of ruidium, and help the Consortium gain a monopoly on the substance.
-- Library of the Cobalt Soul
+- [*] Library of the Cobalt Soul
 	- [ ] 6 - Destroy the Netherdeep (slay or redeem Alyxian) - The characters must destroy the Netherdeep. Only by doing so can they keep ruidium out of the hands of rival factions.
 
 %% DM Notes
