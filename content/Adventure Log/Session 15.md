@@ -62,8 +62,14 @@ cssclasses:
 
 ##  Define secrets and clues
 
-- [ ] Ilena is following Perjeon
-- [ ] Ilena stole a Beacon from J'mon
+- [ ] Backstories & Prophecies
+	- [ ] Ilena is following Perjeon
+	- [ ] Ilena stole a Beacon from J'mon
+- [ ] Exploring
+	- [ ] First Eclipse - Knock 3 times on the cask with a red crescent moon to reach the Consortium meeting room
+	- [ ] Step Aside - Say "pardon my steps as I pass through" to gain access to the safehouse
+- [ ] Missions
+	- [ ] 
 
 ##  Develop fantastic locations
 
