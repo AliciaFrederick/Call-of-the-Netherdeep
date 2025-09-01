@@ -4,7 +4,7 @@
 - [ ] The leader of Ank'Harel, J'mon Sa Ord, is a dragon. This is known by Jamil A'alithiya.
 - [ ] J'mon works with the Cobalt Soul to locate and obtain rare magical artifacts for their horde/private collection, under the pretense of protecting them and keeping them out of the wrong hands. 
 - [ ] J'mon's horde contains a Luxon beacon. This is known by Jamil A'alithiya. 
-- [ ] The Veil (Ilena) recently stole J'mon's beacon. 
+- [ ] The Veil (Vidorant, killed by Ilena) recently stole J'mon's beacon. 
 - [ ] Perjeon's treasure map leads to a desert ruin, and his former shipmate Ilena wants the map for herself. 
 
 ## Questions
