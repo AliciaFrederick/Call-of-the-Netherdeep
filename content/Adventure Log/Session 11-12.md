@@ -85,9 +85,9 @@ cssclasses:
 	- [ ] [Cobalt Soul Mission 1: The Cultist of Zehir](https://5e.tools/adventure.html#crcotn,4,cobalt%20soul%20mission%201%3a%20the%20cultist%20of%20zehir,0) - Sigil District 
 		- [x] 5 x Knight
 		- [x] Laurin Ophidas
-			- [ ] staff of the adder 
+			- [x] staff of the adder 
 		- [x] Iwo (no mini)
-			- [ ] sending stones
+			- [x] sending stones
 	- [ ] [Cobalt Soul Mission 2: Half-Baked Scheme](https://5e.tools/adventure.html#crcotn,4,cobalt%20soul%20mission%202%3a%20half-baked%20scheme,0) - River District 
 		- [x] Ashann
 		- [x] Bandit Captain
@@ -97,12 +97,12 @@ cssclasses:
 
 - [ ] Exploring
 	- [ ] First Eclipse - Knock 3 times on the cask with a red crescent moon to reach the Consortium meeting room
-	- [ ] Lyrean Linen - Ask for cloth dyed "Whitestone green" to access suude (narcotic) and other black market concoctions
+	- [x] Lyrean Linen - Ask for cloth dyed "Whitestone green" to access suude (narcotic) and other black market concoctions
 	- [ ] Step Aside - Say "pardon my steps as I pass through" to gain access to the safehouse
 - [ ] Missions
 	- [ ] The elephant figurine was infected with ruidium during its time in Cael Morrow, and that substance has warped its magical properties. 
 	- [ ] The "ghost" is [Shira](https://5e.tools/bestiary.html#shira_crcotn), a shy, anxious 15-year-old human with innate spellcasting ability. Fearing for the safety of those around her as she learns to control her powers, [Shira](https://5e.tools/bestiary.html#shira_crcotn) has taken to using the shrine as a nighttime hiding place. She mimics the behavior of a spirit to frighten away others. 
-	- [ ] [Laurin Ophidas](https://5e.tools/bestiary.html#laurin%20ophidas_crcotn) is a disgraced member of the Cerberus Assembly, an organization of spellcasters in the Dwendalian Empire in Wildemount. He fled from that organization after stealing a [staff of the adder](https://5e.tools/items.html#staff%20of%20the%20adder_dmg) from a superior. Convinced that the assembly's assassins are pursuing him, Ophidas is trying to locate other Zehir cultists in the city who will protect him. His search is not going well. 
+	- [x] [Laurin Ophidas](https://5e.tools/bestiary.html#laurin%20ophidas_crcotn) is a disgraced member of the Cerberus Assembly, an organization of spellcasters in the Dwendalian Empire in Wildemount. He fled from that organization after stealing a [staff of the adder](https://5e.tools/items.html#staff%20of%20the%20adder_dmg) from a superior. Convinced that the assembly's assassins are pursuing him, Ophidas is trying to locate other Zehir cultists in the city who will protect him. His search is not going well. 
 	- [ ] The rumors of a second entrance to Cael Morrow were planted by Lymmle Wist, a member of the Sentinels of Memory, in an effort to ambush the characters and wipe out those who would bring Cael Morrow back into living memory.
 
 %%
