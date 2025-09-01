@@ -55,7 +55,10 @@ cssclasses:
 
 ##  Outline potential scenes
 
-- [ ] 
+- [ ] [Cobalt Soul Mission 2: Half-Baked Scheme](https://5e.tools/adventure.html#crcotn,4,cobalt%20soul%20mission%202%3a%20half-baked%20scheme,0) - River District 
+	- [ ] Ashann
+	- [ ] Bandit Captain
+		- [ ] ruidium shortsword
 
 ##  Define secrets and clues
 
