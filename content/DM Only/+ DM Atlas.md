@@ -9,6 +9,7 @@ date:
 cssclasses:
 ---
 ![[map-00-exandria.jpg]]  
+![[map-00-exandria-airships.jpg]] 
 ![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/00-Poster-Map-9000.jpg) 
 ![[map-1.1-Jigow.jpg]] 
 ![[map-1.2-Emerald-Grotto.jpg]] 
