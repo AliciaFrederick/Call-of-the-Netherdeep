@@ -66,11 +66,8 @@ cssclasses:
 - [ ] 
 ##  Outline important NPCs
 
-- [ ] [Alyxian](https://www.dndbeyond.com/sources/dnd/cotn/answering-the-call#RoleplayingtheApotheon) 
-- [ ] [[Ayo Jabe]] 
-- [ ] [[Dermot Wurder]] 
-- [ ] [[Galsariad Ardyth]] 
-- [ ] [[Irvan Wastewalker]] 
+- [ ] [[Ilena]] - Cobalt Soul's contact within the Veil
+- [ ] [[Vidorant]] - The owner of the vault 
 
 ##  Choose relevant monsters
 
