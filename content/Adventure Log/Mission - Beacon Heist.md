@@ -67,7 +67,7 @@ cssclasses:
 ##  Outline important NPCs
 
 - [ ] [[Ilena|Ilena Hapayhari]] - Cobalt Soul's contact within the Veil
-- [ ] [[Vidorant|Nixylanna Vidorant]] - The owner of the vault 
+- [ ] [[Vidorant|Nixylanna Vidorant]] - The owner of the vault and Ilena's former partner
 
 ##  Choose relevant monsters
 
