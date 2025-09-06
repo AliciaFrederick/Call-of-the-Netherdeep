@@ -51,7 +51,7 @@ cssclasses:
 ##  Create a strong start
 
 > [!QUOTE] Strong start
-> Greetings, operatives. An ancient artifact on loan from the Bright Queen was recently stolen from J'mon Sa Ord by the local crime syndicate known as The Veil. We believe the artifact to be in the possession of master thief [Nixylanna Vidorant](https://5e.tools/bestiary.html#nixylanna%20vidorant_kftgv). J'mon would like to recover the artifact with the utmost discretion. This quest, should you choose to undertake it, requires you to infiltrate Vidorant's vault and recover the artifact. Start by meeting with [[Ilena|Ilena Hapayhari]]. Good luck, operatives. 
+> Greetings, operatives. An ancient artifact on loan from the Bright Queen was recently stolen from J'mon Sa Ord and we believe the artifact to be in the possession of master thief [Nixylanna Vidorant](https://5e.tools/bestiary.html#nixylanna%20vidorant_kftgv). J'mon would like to recover the artifact with the utmost discretion. This quest, should you choose to undertake it, requires you to infiltrate Vidorant's vault and recover the artifact. Start by meeting with [[Ilena|Ilena Hapayhari]]. Good luck, operatives. 
 
 ##  Outline potential scenes
 
@@ -86,4 +86,6 @@ cssclasses:
 ## Ideas
 
 - [ ] Tea shop name
+- [ ] Adventure background
+- [ ] What Ilena knows
 - [ ] 
