@@ -11,6 +11,9 @@ cssclasses:
 %%
 Example - https://slyflourish.notion.site/Rime-of-the-Frostmaiden-1c8e3de45d244c9e94b426b81c632498 
 %%
+
+Present year: 835 PD - [Calendar and Time](https://5e.tools/book.html#egw,1,calendar%20and%20time,0) 
+
 ## Fronts 
 
 - [[Alyxian]] the Apotheon
