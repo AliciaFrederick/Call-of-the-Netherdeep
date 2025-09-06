@@ -9,7 +9,8 @@ draft: true
 date: 
 cssclasses:
 ---
-![[Nixylanna Vidorant.webp]]
+
+![[065-08-005.nixylanna-vidorant 1.png]] 
 ![[Pasted image 20250906133341.png]] 
 ![[065-08-005.nixylanna-vidorant 1.webp]]
 %% DM Notes
