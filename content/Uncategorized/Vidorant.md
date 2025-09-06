@@ -10,7 +10,7 @@ date:
 cssclasses:
 ---
 
-![[065-08-005.nixylanna-vidorant 1.png]] 
+![[065-08-005.nixylanna-vidorant-headshot.png]] 
 ![[Pasted image 20250906133341.png]] 
 ![[065-08-005.nixylanna-vidorant 1.webp]]
 %% DM Notes
