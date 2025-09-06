@@ -51,7 +51,7 @@ cssclasses:
 ##  Create a strong start
 
 > [!QUOTE] Strong start
-> TBD
+> Greetings, operatives. An ancient artifact on loan from the Bright Queen was recently stolen from J'mon Sa Ord by the local crime syndicate known as The Veil. We believe the artifact to be in the possession of master thief [Nixylanna Vidorant](https://5e.tools/bestiary.html#nixylanna%20vidorant_kftgv). J'mon would like to recover the artifact with . This quest, should you choose to undertake it, requires you to infiltrate Vidorant's vault and recover the diadem. Start by meeting with Goldenbeard. Good luck, operatives.
 
 ##  Outline potential scenes
 
