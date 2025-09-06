@@ -55,7 +55,11 @@ cssclasses:
 
 ##  Outline potential scenes
 
-- [ ] 
+- [ ] Meeting [[Ilena]] 
+- [ ] Preparation
+- [ ] The Vault
+- [ ] Vidorant arrives
+- [ ] Conclusion
 
 ##  Define secrets and clues
 
@@ -79,3 +83,7 @@ cssclasses:
 
 %%  %%
 
+## Ideas
+
+- [ ] Tea shop name
+- [ ] 
