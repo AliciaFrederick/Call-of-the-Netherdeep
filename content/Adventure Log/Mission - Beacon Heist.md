@@ -99,9 +99,13 @@ cssclasses:
 	- [ ] "The vault stands in a rundown neighborhood, but the street and alleyways around the vault are unobstructed. Small windows glint from high on the vault's stone walls. Two guards keep watch on the second-floor balcony, while another guard patrols around the structure at ground level."
 		- [ ] The vault is an unmarked building in an area with moderate foot traffic. 
 		- [ ] Guard uniforms—dark blue with gold stitching
+	- [ ] Before heist
 		- [ ] General exterior layout, including the locations of the main door, balcony door, and windows. 
 		- [ ] Within 30ft of south side - Animal noises (from T8)
 			- [ ] DC 15 Investigation or Perception - Secret door (to T3)
+		- [ ] Watch >4hrs - 2 guards are always on duty on the balcony
+			- [ ] They use the rope ladder hanging down to ground level
+			- [ ] Interior and exterior guard rotation
 	- [ ] The neighboring buildings stand at least 20 feet from the vault and don't share walls with it. 
 		- [ ] Nearby businesses include a jewelry store, a lumberyard, a brewery, and a forge. Several other nearby buildings are empty.
 
