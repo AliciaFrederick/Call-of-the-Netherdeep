@@ -76,6 +76,7 @@ Weeks after her takeover of the Veil, Ilena made an even bigger move against Vid
 
 - [ ] Meeting [[Ilena]] 
 	- [ ] "A human woman with copper skin and curly black hair greets you in the back room of the tavern, a polite smile gracing her face. She introduces herself as Ilena and offers you tea. After everyone is served, she casually stirs her own cup and tastes a spoonful before taking a larger sip."
+	- [ ] What Ilena knows (see secrets below)
 - [ ] Preparation (see secrets below)
 	- [ ] Gathering Intelligence
 	- [ ] Surveilling the Target
