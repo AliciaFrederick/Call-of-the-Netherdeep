@@ -8,10 +8,10 @@ draft: true
 date: 
 cssclasses:
 ---
+%%
 
 [Owlbear Rodeo](https://www.owlbear.rodeo/room/BaGN2KPVM902/TheHomeyLeaf)  
 
-%%
 - [ ] Starting
 	- [ ] Spotify [music](https://open.spotify.com/album/30CxXNLekWVQzo7xhowwkg) 
 	- [ ] Owlbear rodeo [scene](https://www.owlbear.rodeo/room/EiCy8X2dzjxe/TheDinkyBoat) 
@@ -38,16 +38,17 @@ cssclasses:
 	- [ ] Uncheck draft
 	- [ ] Update [[index]] with next session date
 	- [ ] Git sync
-%%
 
 ---
 
 ##  Review the characters
 
-- [ ] [[Perjeon Beachgift]] 
 - [ ] [[Aza Dirali]] 
+- [ ] [[Perjeon Beachgift]] 
+- [ ] [[Thekar Forgesun]] 
 - [ ] [[Thrast Summittrod]] 
 
+%%
 ##  Create a strong start
 
 > [!QUOTE] Strong start
@@ -72,11 +73,12 @@ cssclasses:
 	- [ ] "I'll sweeten the deal. You let me keep the beacon and return the most valuable items you stole, and I'll give you both the ring and my gloves." 
 - [ ] Conclusion
 	- [ ] Return the beacon to the Cobalt Soul 
-		- [ ] Rare magic item - https://5e.tools/items.html 
+		- [ ] One Rare magic item - https://5e.tools/items.html 
 		- [ ] Audience with J'mon Sa Ord
 		- [ ] Monastic robe
 		- [ ] Can buy at the Temple of the Mentor: a [spell scroll](https://5e.tools/items.html#spell%20scroll_dmg) of [detect magic](https://5e.tools/spells.html#detect%20magic_phb) (10 gp), a [spell scroll](https://5e.tools/items.html#spell%20scroll_dmg) of [divination](https://5e.tools/spells.html#divination_phb) (125 gp), a [spell scroll](https://5e.tools/items.html#spell%20scroll_dmg) of [commune](https://5e.tools/spells.html#commune_phb) (250 gp), and a pair of [sending stones](https://5e.tools/items.html#sending%20stones_dmg) (250 gp). 
-	- [ ] Return the beacon to Ilena - Double cross, escape to Shammel -> Ghosts of Saltmarsh
+	- [ ] Return the beacon to Ilena 
+		- [ ] Double cross, escape to Shammel -> Ghosts of Saltmarsh
 	- [ ] Keep - DC 16 Deception to convince anyone of a failed mission
 		- [ ] Fail to convince Ilena - sends the Veil after them
 		- [ ] Fail to convince Iwo - Cobalt Soul kicks them out
@@ -126,9 +128,6 @@ cssclasses:
 			- [ ] They use the rope ladder hanging down to ground level
 			- [ ] Interior and exterior guard rotation
 
-##  Develop fantastic locations
-
-- [ ] https://5e.tools/adventure.html#kftgv,8,the%20vault,0 
 ##  Outline important NPCs
 
 - [ ] [[Ilena|Ilena Hapayhari]] - Cobalt Soul's contact within the Veil
@@ -144,6 +143,10 @@ cssclasses:
 |5|Kavton Bouldersight (neutral halfling), a jocular man who sells stolen goods|
 |6|Breelen Fibblezot (chaotic neutral gnome), a cheerful woman who fidgets constantly|
 
+%%
+##  Develop fantastic locations
+
+- [ ] https://5e.tools/adventure.html#kftgv,8,the%20vault,0   
 ##  Choose relevant monsters
 
 - [ ] https://5e.tools/bestiary.html 
@@ -153,7 +156,6 @@ cssclasses:
 - [ ] https://5e.tools/items.html
 - [ ] https://5e.tools/spells.html
 
-%%  %%
 
 ## Ideas
 
@@ -163,3 +165,4 @@ cssclasses:
 ![[061-08-003.players-map.jpg]] 
 ![[062-map-8.02-dms-map.jpg]] 
 ![[063-map-8.02-dms-map-player.jpg]] 
+%%
