@@ -67,6 +67,8 @@ cssclasses:
 	- [ ] Casing the Joint
 - [ ] The Vault
 - [ ] Vidorant arrives
+	- [ ] An elf woman with sleek black hair approaches you with a smile. "You've done well. Not just any thieves could make it to my personal vault. I congratulate you. I'm sure this means the Cobalt Soul placed a bounty on that crystal—J'mon Sa Ord must be furious. But if you'll allow me a moment, perhaps I can make you a better offer?"
+	- [ ] "I could try to dispatch you—and I might succeed—but more thieves will keep trying to interfere with my business. Instead, what if you went back and told everyone my vault was impenetrable and I thoroughly defeated you? It would head off a lot of trouble. In exchange, I'll give you this." She pulls a delicate ring from her finger. "It's worth more to you than the diadem—after all, it's part of how I've become such a famous thief. Ilena is planning to take the diadem for himself, right? He's still mad about our heist all those years ago. But this ring you can keep. Tell whatever story you like about where you got it, as long as it's not from me. You get rich, I look strong, and no one's the wiser."
 - [ ] Conclusion
 
 ##  Define secrets and clues
@@ -111,13 +113,12 @@ cssclasses:
 
 ##  Develop fantastic locations
 
-- [ ] 
+- [ ] https://5e.tools/adventure.html#kftgv,8,the%20vault,0 
 ##  Outline important NPCs
 
 - [ ] [[Ilena|Ilena Hapayhari]] - Cobalt Soul's contact within the Veil
 - [ ] [[Vidorant|Nixylanna Vidorant]] - The owner of the vault and Ilena's former partner
 - [ ] Former Guards
-
 
 |d6|Ex-Guard|
 |---|---|
@@ -130,11 +131,12 @@ cssclasses:
 
 ##  Choose relevant monsters
 
-- [ ] 
+- [ ] https://5e.tools/bestiary.html 
 
 ##  Select magic item rewards
 
-- [ ] 
+- [ ] https://5e.tools/items.html
+- [ ] https://5e.tools/spells.html
 
 %%  %%
 
