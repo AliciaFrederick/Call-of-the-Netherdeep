@@ -95,8 +95,13 @@ cssclasses:
 		- [ ] a smiling elf woman who bears a striking resemblance to Vidorant but is noticeably younger. 
 - [ ] Casing the Joint (vault in the Suncut Bazaar)
 	- [ ] "The vault stands in a rundown neighborhood, but the street and alleyways around the vault are unobstructed. Small windows glint from high on the vault's stone walls. Two guards keep watch on the second-floor balcony, while another guard patrols around the structure at ground level."
-	- [ ] 
-	- [ ] 
+		- [ ] The vault is an unmarked building in an area with moderate foot traffic. 
+		- [ ] Guard uniforms—dark blue with gold stitching
+		- [ ] General exterior layout, including the locations of the main door, balcony door, and windows. 
+		- [ ] Within 30ft of south side - you hear animal noises
+			- [ ] DC 15 Investigation or Percen
+	- [ ] The neighboring buildings stand at least 20 feet from the vault and don't share walls with it. 
+		- [ ] Nearby businesses include a jewelry store, a lumberyard, a brewery, and a forge. Several other nearby buildings are empty.
 
 ##  Develop fantastic locations
 
