@@ -86,16 +86,15 @@ Weeks after her takeover of the Veil, Ilena made an even bigger move against Vid
 	- [ ] "I could try to dispatch you—and I might succeed—but more thieves will keep trying to interfere with my business. Instead, what if you went back and told everyone my vault was impenetrable and I thoroughly defeated you? It would head off a lot of trouble. In exchange, I'll give you this." She pulls a delicate ring from her finger. "It's worth more to you than the dagger—after all, it's part of how I've become such a famous thief. Ilena is planning to take the dagger for herself, right? She's still mad about our heist all those years ago. But this ring you can keep. Tell whatever story you like about where you got it, as long as it's not from me. You get rich, I look strong, and no one's the wiser." 
 	- [ ] "I'll sweeten the deal. You let me keep the dagger, the beacon, and return the most valuable items you stole, and I'll give you both the ring and my gloves." 
 - [ ] Conclusion
+	- [ ] Return the dagger to Ilena 
+		- [ ] She knows about the beacon and steals it
+		- [ ] Double cross, escape to Shammel -> Ghosts of Saltmarsh
 	- [ ] Return the beacon to the Cobalt Soul 
 		- [ ] One Rare magic item - https://5e.tools/items.html 
 		- [ ] Audience with J'mon Sa Ord
 		- [ ] Monastic robe
 		- [ ] Can buy at the Temple of the Mentor: a [spell scroll](https://5e.tools/items.html#spell%20scroll_dmg) of [detect magic](https://5e.tools/spells.html#detect%20magic_phb) (10 gp), a [spell scroll](https://5e.tools/items.html#spell%20scroll_dmg) of [divination](https://5e.tools/spells.html#divination_phb) (125 gp), a [spell scroll](https://5e.tools/items.html#spell%20scroll_dmg) of [commune](https://5e.tools/spells.html#commune_phb) (250 gp), and a pair of [sending stones](https://5e.tools/items.html#sending%20stones_dmg) (250 gp). 
-	- [ ] Return the dagger to Ilena 
-		- [ ] She knows about the beacon and steals it
-		- [ ] Double cross, escape to Shammel -> Ghosts of Saltmarsh
-	- [ ] Keep - DC 16 Deception to convince anyone of a failed mission
-		- [ ] Fail to convince Ilena - sends the Veil after them
+	- [ ] Keep the beacon - DC 16 Deception to convince anyone of a failed mission
 		- [ ] Fail to convince Iwo - Cobalt Soul kicks them out
 		- [ ] Succeed to convince Iwo (or actually failed the mission) - Disappointed but still on good terms
 	- [ ] Blackmail Ilena 
@@ -107,12 +106,9 @@ Weeks after her takeover of the Veil, Ilena made an even bigger move against Vid
 - [ ] What Ilena knows
 	- [ ] Reward: 2,000 gp
 	- [ ] "It's a pleasure to meet you all. I'm sure you've heard of my organization, the Veil. Only the most elite thieves in the world qualify for membership." 
-	- [ ] "You may have heard that [Nixylanna Vidorant](https://5e.tools/bestiary.html#nixylanna%20vidorant_kftgv), my former partner, is no longer with the Veil. We've withdrawn all protection from her and her property." 
-	- [ ] "As such, I can provide access to several of her former guards while you are gathering intelligence for your mission."
-	- [ ] "You may also wish to surveil Vidorant herself at her mansion in the Sand-Herald District, or stake out the vault nearby in the Suncut Bazaar." 
-	- [ ] "Your target is a magical artifact, a glowing crystal in the shape of a dodecahedron with a golden metal frame."
-	- [ ] "You can keep a few things for yourself from her collection, but I'd advise against too much distraction. Once you have the beacon, bring it to me so my appraisal team can confirm it's not a fake before we hand it back to the Cobalt Soul."
-	- [ ] "Nixylanna has been a problem for me for a long time because she is very good at what she does. Remember, no matter what she says: you cannot trust her."
+	- [ ] "You may have heard that [Nixylanna Vidorant](https://5e.tools/bestiary.html#nixylanna%20vidorant_kftgv), my former partner, is no longer with the Veil. We've withdrawn all protection from her and her property, and we now have room in the society for new members." 
+	- [ ] "As such, I present to you a challenge. Whoever brings me the Silvered Dagger from Nixylanna's personal vault will become a member of the Veil. As my family was murdered by a scoundrel wielding it, I've wanted the dagger returned to me for years." 
+	- [ ] "You can keep a few things for yourself from her collection, but I'd advise against too much distraction. Nixylanna has been a problem for me for a long time because she is very good at what she does. Remember, no matter what she says: you cannot trust her."
 - [ ] Gathering Intelligence (what the ex-guards know) - DC 12 Persuasion, 10 gp to reduce to 7
 	- [ ] The basic layout of the vault's second floor, as shown on [[061-08-003.players-map.jpg|map 8.1]] 
 	- [ ] The location of the secret door between [area T3](https://5e.tools/adventure.html#kftgv,8,t3%3a%20gem%20room,0) and the building's exterior
