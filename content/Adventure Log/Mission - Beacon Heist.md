@@ -51,15 +51,15 @@ cssclasses:
 ##  Create a strong start
 
 > [!QUOTE] Strong start
-> Greetings, operatives. An ancient artifact on loan from the Bright Queen was recently stolen from J'mon Sa Ord and we believe the artifact to be in the possession of master thief [Nixylanna Vidorant](https://5e.tools/bestiary.html#nixylanna%20vidorant_kftgv). J'mon would like to recover the artifact with the utmost discretion. This quest, should you choose to undertake it, requires you to infiltrate Vidorant's vault and recover the artifact. Start by meeting with [[Ilena|Ilena Hapayhari]]. Good luck, operatives. 
+> Greetings, operatives. An ancient artifact on loan from the Bright Queen was recently stolen from J'mon Sa Ord and we believe the artifact to be in the possession of master thief [Nixylanna Vidorant](https://5e.tools/bestiary.html#nixylanna%20vidorant_kftgv). J'mon would like to recover the artifact with the utmost discretion. This quest, should you choose to undertake it, requires you to infiltrate Vidorant's vault and recover the artifact. Start by meeting with [[Ilena|Ilena Hapayhari]] in the Spoke and Wheel. Good luck, operatives. 
 
 ##  Outline potential scenes
 
-- [ ] Meeting [[Ilena]] 
+- [ ] Meeting [[Ilena]] - A human woman with copper skin and curly black hair greets you in the back room of the Spoke and Wheel, a polite smile gracing her face. She introduces herself as Ilena and offers you tea. After everyone is served, she casually stirs her own cup and tastes the spoon before taking a larger sip.
 - [ ] Preparation
 	- [ ] Gathering Intelligence (see secrets below)
 	- [ ] Surveilling the Target
-	- [ ] Casing the Joint
+	- [ ] Casing the Joint - "The vault stands in a rundown neighborhood, but the street and alleyways around the vault are unobstructed. Small windows glint from high on the vault's stone walls. Two guards keep watch on the second-floor balcony, while another guard patrols around the structure at ground level."
 - [ ] The Vault
 - [ ] Vidorant arrives
 - [ ] Conclusion
@@ -69,7 +69,7 @@ cssclasses:
 - [ ] What Ilena knows
 	- [ ] Reward: 2,000 gp
 	- [ ] ...
-- [ ] Gathering Intelligence (what the ex-guards know) - DC 12 Persuasion, 10 gp to reduce by 5
+- [ ] Gathering Intelligence (what the ex-guards know) - DC 12 Persuasion, 10 gp to reduce to 7
 	- [ ] The basic layout of the vault's second floor, as shown on [[061-08-003.players-map.jpg|map 8.1]] 
 	- [ ] The location of the secret door between [area T3](https://5e.tools/adventure.html#kftgv,8,t3%3a%20gem%20room,0) and the building's exterior
 	- [ ] The password to bypass the conjuration rune in [area T9](https://5e.tools/adventure.html#kftgv,8,t9%3a%20library,0): "quixotic"
