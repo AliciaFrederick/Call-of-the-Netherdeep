@@ -73,6 +73,7 @@ cssclasses:
 - [ ] Conclusion
 	- [ ] Return the beacon to the Cobalt Soul - Entry boons
 	- [ ] Return the beacon to Ilena - Double cross, escape to Shammel -> Ghosts of Saltmarsh
+	- [ ] Keep - DC 16 De
 
 ##  Define secrets and clues
 
@@ -82,8 +83,9 @@ cssclasses:
 	- [ ] "You may have heard that [Nixylanna Vidorant](https://5e.tools/bestiary.html#nixylanna%20vidorant_kftgv), my former partner, is no longer with the Veil. We've withdrawn all protection from her and her property." 
 	- [ ] "As such, I can provide access to several of her former guards while you are gathering intelligence for your mission."
 	- [ ] "You may also wish to surveil Vidorant herself at her mansion in the Sand-Herald District, or stake out the vault nearby in the Suncut Bazaar." 
-	- [ ] "Your target is a magical artifact, a glowing crystal in the shape of a dodecahedron with a golden metal frame. Bring it to me so my appraisal team "
-	- [ ] "You can keep a few things for yourself from her collection, but I'd advise against too much distraction. Nixylanna has been a problem for me for a long time because she is very good at what she does. And remember: you cannot trust her."
+	- [ ] "Your target is a magical artifact, a glowing crystal in the shape of a dodecahedron with a golden metal frame."
+	- [ ] "You can keep a few things for yourself from her collection, but I'd advise against too much distraction. Once you have the beacon, bring it to me so my appraisal team can confirm it's not a fake before we hand it back to the Cobalt Soul."
+	- [ ] "Nixylanna has been a problem for me for a long time because she is very good at what she does. Remember, no matter what she says: you cannot trust her."
 - [ ] Gathering Intelligence (what the ex-guards know) - DC 12 Persuasion, 10 gp to reduce to 7
 	- [ ] The basic layout of the vault's second floor, as shown on [[061-08-003.players-map.jpg|map 8.1]] 
 	- [ ] The location of the secret door between [area T3](https://5e.tools/adventure.html#kftgv,8,t3%3a%20gem%20room,0) and the building's exterior
