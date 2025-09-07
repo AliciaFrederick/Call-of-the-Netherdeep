@@ -51,11 +51,12 @@ cssclasses:
 ##  Create a strong start
 
 > [!QUOTE] Strong start
-> Greetings, operatives. An ancient artifact on loan from the Bright Queen was recently stolen from J'mon Sa Ord and we believe the artifact to be in the possession of master thief [Nixylanna Vidorant](https://5e.tools/bestiary.html#nixylanna%20vidorant_kftgv). J'mon would like to recover the artifact with the utmost discretion. This quest, should you choose to undertake it, requires you to infiltrate Vidorant's vault and recover the artifact. Start by meeting with [[Ilena|Ilena Hapayhari]] in the Spoke and Wheel. Good luck, operatives. 
+> Greetings, operatives. An ancient artifact on loan from the Bright Queen was recently stolen from J'mon Sa Ord and we believe the artifact to be in the possession of master thief [Nixylanna Vidorant](https://5e.tools/bestiary.html#nixylanna%20vidorant_kftgv). J'mon would like to recover the artifact with the utmost discretion. This quest, should you choose to undertake it, requires you to infiltrate Vidorant's vault and recover the artifact. Start by meeting with [[Ilena|Ilena Hapayhari]] in the Step Aside. Good luck, operatives. 
 
 ##  Outline potential scenes
 
-- [ ] Meeting [[Ilena]] - A human woman with copper skin and curly black hair greets you in the back room of the Spoke and Wheel, a polite smile gracing her face. She introduces herself as Ilena and offers you tea. After everyone is served, she casually stirs her own cup and tastes the spoon before taking a larger sip.
+- [ ] Meeting [[Ilena]] 
+	- [ ] "A human woman with copper skin and curly black hair greets you in the back room of the tavern, a polite smile gracing her face. She introduces herself as Ilena and offers you tea. After everyone is served, she casually stirs her own cup and tastes the spoon before taking a larger sip."
 - [ ] Preparation
 	- [ ] Gathering Intelligence (see secrets below)
 	- [ ] Surveilling the Target
