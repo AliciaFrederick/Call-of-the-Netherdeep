@@ -66,9 +66,11 @@ Weeks after her takeover of the Veil, Ilena made an even bigger move against Vid
 > [!QUOTE] Strong start
 > While enjoying breakfast in your bastion within the Circlet Walk, a sending crystal in the wall glows turquoise and Iwo's voice emanates from it.
 > 
-> "Greetings, operatives. An ancient artifact on loan from the Bright Queen was recently stolen from J'mon Sa Ord. We believe the artifact to be in the possession of master thief [Nixylanna Vidorant](https://5e.tools/bestiary.html#nixylanna%20vidorant_kftgv). The Cobalt Soul has been tasked with recovering the artifact discreetly, and we find value in allying with the Veil for this purpose. This quest, should you choose to undertake it, requires you to infiltrate Vidorant's vault and recover the artifact." 
+> "Greetings, operatives. An ancient artifact on loan from the Bright Queen was recently stolen from J'mon Sa Ord. We believe the artifact to be in the possession of master thief [Nixylanna Vidorant](https://5e.tools/bestiary.html#nixylanna%20vidorant_kftgv). The Cobalt Soul has been tasked with recovering the artifact discreetly, and the we believe best approach is undercover within the Veil. This quest, should you choose to undertake it, requires you to infiltrate Vidorant's vault and recover the artifact." 
 > 
-> "Start by posing as aspiring members of the Veil and meeting with [[Ilena|Ilena Hapayhari]]. in the Step Aside tavern - tell the barkeep "pardon my steps as I pass through" to gain access to the back room. She promised a favor to any existing or aspiring member of the Veil who steals a Silvered Dagger from Vidorant's vault and delivers it to her. Good luck, operatives." 
+> "Start by posing as aspiring members of the Veil and meeting with [[Ilena|Ilena Hapayhari]]. She promised a favor to any existing or aspiring member of the Veil who steals a Silvered Dagger from Vidorant's vault and delivers it to her. The beacon will likely be near the dagger, and as Vidorant's former partner, she will have valuable intelligence you can leverage.
+> 
+> "She is meeting aspirants in the Step Aside tavern - tell the barkeep 'pardon my steps as I pass through' to gain access to the back room. Good luck, operatives." 
 
 ##  Outline potential scenes
 
