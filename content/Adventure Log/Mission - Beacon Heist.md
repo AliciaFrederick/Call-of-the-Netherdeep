@@ -51,17 +51,18 @@ cssclasses:
 ##  Create a strong start
 
 > [!QUOTE] Strong start
-> While enjoying breakfast in your bastion within the Circlet Walk, a sending crystal in the wall glows turquoise and you hear Iwo's voice
-> Greetings, operatives. An ancient artifact on loan from the Bright Queen was recently stolen from J'mon Sa Ord and we believe the artifact to be in the possession of master thief [Nixylanna Vidorant](https://5e.tools/bestiary.html#nixylanna%20vidorant_kftgv). J'mon has asked the Cobalt Soul to recover the artifact with the utmost discretion. This quest, should you choose to undertake it, requires you to infiltrate Vidorant's vault and recover the artifact. Start by meeting with [[Ilena|Ilena Hapayhari]] in the Step Aside tavern. Good luck, operatives. 
+> While enjoying breakfast in your bastion within the Circlet Walk, a sending crystal in the wall glows turquoise and Iwo's voice emanates from it.
+> 
+> "Greetings, operatives. An ancient artifact on loan from the Bright Queen was recently stolen from J'mon Sa Ord. J'mon has asked the Cobalt Soul to recover the artifact with the utmost discretion. We believe the artifact to be in the possession of master thief [Nixylanna Vidorant](https://5e.tools/bestiary.html#nixylanna%20vidorant_kftgv). This quest, should you choose to undertake it, requires you to infiltrate Vidorant's vault and recover the artifact. Start by meeting with [[Ilena|Ilena Hapayhari]] in the Step Aside tavern. Good luck, operatives." 
 
 ##  Outline potential scenes
 
 - [ ] Meeting [[Ilena]] 
 	- [ ] "A human woman with copper skin and curly black hair greets you in the back room of the tavern, a polite smile gracing her face. She introduces herself as Ilena and offers you tea. After everyone is served, she casually stirs her own cup and tastes the spoon before taking a larger sip."
-- [ ] Preparation
-	- [ ] Gathering Intelligence (see secrets below)
+- [ ] Preparation (see secrets below)
+	- [ ] Gathering Intelligence
 	- [ ] Surveilling the Target
-	- [ ] Casing the Joint - "The vault stands in a rundown neighborhood, but the street and alleyways around the vault are unobstructed. Small windows glint from high on the vault's stone walls. Two guards keep watch on the second-floor balcony, while another guard patrols around the structure at ground level."
+	- [ ] Casing the Joint
 - [ ] The Vault
 - [ ] Vidorant arrives
 - [ ] Conclusion
@@ -88,6 +89,8 @@ cssclasses:
 		- [ ] an unkempt halfling man with patched clothing
 		- [ ] a smiling elf woman who bears a striking resemblance to Vidorant but is noticeably younger. 
 - [ ] Casing the Joint (vault in the Suncut Bazaar)
+	- [ ] "The vault stands in a rundown neighborhood, but the street and alleyways around the vault are unobstructed. Small windows glint from high on the vault's stone walls. Two guards keep watch on the second-floor balcony, while another guard patrols around the structure at ground level."
+	- [ ] 
 	- [ ] 
 
 ##  Develop fantastic locations
@@ -98,6 +101,7 @@ cssclasses:
 - [ ] [[Ilena|Ilena Hapayhari]] - Cobalt Soul's contact within the Veil
 - [ ] [[Vidorant|Nixylanna Vidorant]] - The owner of the vault and Ilena's former partner
 - [ ] Former Guards
+
 
 |d6|Ex-Guard|
 |---|---|
