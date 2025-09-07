@@ -57,6 +57,9 @@ cssclasses:
 
 - [ ] Meeting [[Ilena]] 
 - [ ] Preparation
+	- [ ] Gathering Intelligence (see secrets below)
+	- [ ] Surveilling the Target
+	- [ ] Casing the Joint
 - [ ] The Vault
 - [ ] Vidorant arrives
 - [ ] Conclusion
@@ -66,7 +69,7 @@ cssclasses:
 - [ ] What Ilena knows
 	- [ ] Reward: 2,000 gp
 	- [ ] ...
-- [ ] What the guards know
+- [ ] What the guards know - DC 12 Persuasion, 10 gp to reduce by 5
 	- [ ] The basic layout of the vault's second floor, as shown on [[061-08-003.players-map.jpg|map 8.1]] 
 	- [ ] The location of the secret door between [area T3](https://5e.tools/adventure.html#kftgv,8,t3%3a%20gem%20room,0) and the building's exterior
 	- [ ] The password to bypass the conjuration rune in [area T9](https://5e.tools/adventure.html#kftgv,8,t9%3a%20library,0): "quixotic"
@@ -80,6 +83,16 @@ cssclasses:
 
 - [ ] [[Ilena|Ilena Hapayhari]] - Cobalt Soul's contact within the Veil
 - [ ] [[Vidorant|Nixylanna Vidorant]] - The owner of the vault and Ilena's former partner
+- [ ] Former Guards
+
+|d6|Ex-Guard|
+|---|---|
+|1|Turolga Flathelm (neutral dwarf), a gruff woman who has a soft spot for stray cats|
+|2|Ballidyr Josephon (neutral human), a pompous man who refers to himself in the third person|
+|3|Jeniana Damaritz (lawful neutral human), an aloof woman who talks to only the most well-dressed of the characters|
+|4|Pelten Kiwaris (chaotic neutral human), a gregarious person who invites the characters to join them at a party|
+|5|Kavton Bouldersight (neutral halfling), a jocular man who sells stolen goods|
+|6|Breelen Fibblezot (chaotic neutral gnome), a cheerful woman who fidgets constantly|
 
 ##  Choose relevant monsters
 
