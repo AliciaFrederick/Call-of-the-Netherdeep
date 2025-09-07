@@ -53,7 +53,7 @@ cssclasses:
 > [!QUOTE] Strong start
 > While enjoying breakfast in your bastion within the Circlet Walk, a sending crystal in the wall glows turquoise and Iwo's voice emanates from it.
 > 
-> "Greetings, operatives. An ancient artifact on loan from the Bright Queen was recently stolen from J'mon Sa Ord. J'mon has asked the Cobalt Soul to recover the artifact with the utmost discretion. We believe the artifact to be in the possession of master thief [Nixylanna Vidorant](https://5e.tools/bestiary.html#nixylanna%20vidorant_kftgv). This quest, should you choose to undertake it, requires you to infiltrate Vidorant's vault and recover the artifact. Start by meeting with [[Ilena|Ilena Hapayhari]] in the Step Aside tavern. Good luck, operatives." 
+> "Greetings, operatives. An ancient artifact on loan from the Bright Queen was recently stolen from J'mon Sa Ord. J'mon has asked the Cobalt Soul to recover the artifact with the utmost discretion, and we see value in working with the V. We believe the artifact to be in the possession of master thief [Nixylanna Vidorant](https://5e.tools/bestiary.html#nixylanna%20vidorant_kftgv). This quest, should you choose to undertake it, requires you to infiltrate Vidorant's vault and recover the artifact. Start by meeting with [[Ilena|Ilena Hapayhari]] in the Step Aside tavern. Good luck, operatives." 
 
 ##  Outline potential scenes
 
@@ -71,9 +71,9 @@ cssclasses:
 
 - [ ] What Ilena knows
 	- [ ] Reward: 2,000 gp
-	- [ ] "It's a pleasure to meet you all. I'm sure you've heard of my organization, the Veil. Only the most elite thieves in the world qualify for membership. 
-	- [ ] "You may have heard that [Nixylanna Vidorant](https://5e.tools/bestiary.html#nixylanna%20vidorant_kftgv), my former partner, is no longer with the Veil. We've withdrawn all protection from her and her property. 
-	- [ ] "As such, I present to you a challenge. Whoever brings me the Ruby Diadem of Erlynn Blessedore from Nixylanna's personal vault will become a member of the society. As my family is descended from Queen Erlynn, we've wanted the diadem returned to us for years.
+	- [ ] "It's a pleasure to meet you all. I'm sure you've heard of my organization, the Veil. Only the most elite thieves in the world qualify for membership." 
+	- [ ] "You may have heard that [Nixylanna Vidorant](https://5e.tools/bestiary.html#nixylanna%20vidorant_kftgv), my former partner, is no longer with the Veil. We've withdrawn all protection from her and her property." 
+	- [ ] "Your target is a magical artifact, a glowing crystal in the shape of a dodecahedron with a golden metal frame."
 	- [ ] "As such, I can provide access to several of her former guards who should be able to provide you with useful information whilst planning your approach."
 	- [ ] "You can keep a few things for yourself from her collection, but I'd advise against too much distraction. Nixylanna has been a problem for me for a long time because she is very good at what she does. And remember: you cannot trust her."
 - [ ] Gathering Intelligence (what the ex-guards know) - DC 12 Persuasion, 10 gp to reduce to 7
