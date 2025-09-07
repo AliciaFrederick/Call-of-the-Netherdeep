@@ -88,4 +88,8 @@ cssclasses:
 - [ ] Tea shop name
 - [ ] Adventure background
 - [ ] What Ilena knows
-- [ ] 
+
+![[Vidorant's Vault - Dossier.pdf]] 
+![[061-08-003.players-map.jpg]] 
+![[062-map-8.02-dms-map.jpg]] 
+![[063-map-8.02-dms-map-player.jpg]] 
