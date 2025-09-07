@@ -53,12 +53,12 @@ cssclasses:
 > [!QUOTE] Strong start
 > While enjoying breakfast in your bastion within the Circlet Walk, a sending crystal in the wall glows turquoise and Iwo's voice emanates from it.
 > 
-> "Greetings, operatives. An ancient artifact on loan from the Bright Queen was recently stolen from J'mon Sa Ord. J'mon has asked the Cobalt Soul to recover the artifact with the utmost discretion, and we see value in working with the V. We believe the artifact to be in the possession of master thief [Nixylanna Vidorant](https://5e.tools/bestiary.html#nixylanna%20vidorant_kftgv). This quest, should you choose to undertake it, requires you to infiltrate Vidorant's vault and recover the artifact. Start by meeting with [[Ilena|Ilena Hapayhari]] in the Step Aside tavern. Good luck, operatives." 
+> "Greetings, operatives. An ancient artifact on loan from the Bright Queen was recently stolen from J'mon Sa Ord. We believe the artifact to be in the possession of master thief [Nixylanna Vidorant](https://5e.tools/bestiary.html#nixylanna%20vidorant_kftgv). The Cobalt Soul has been tasked with recovering the artifact discreetly, and we find value in allying with the Veil for this purpose. This quest, should you choose to undertake it, requires you to infiltrate Vidorant's vault and recover the artifact. Start by meeting with [[Ilena|Ilena Hapayhari]] in the Step Aside tavern. Good luck, operatives." 
 
 ##  Outline potential scenes
 
 - [ ] Meeting [[Ilena]] 
-	- [ ] "A human woman with copper skin and curly black hair greets you in the back room of the tavern, a polite smile gracing her face. She introduces herself as Ilena and offers you tea. After everyone is served, she casually stirs her own cup and tastes the spoon before taking a larger sip."
+	- [ ] "A human woman with copper skin and curly black hair greets you in the back room of the tavern, a polite smile gracing her face. She introduces herself as Ilena and offers you tea. After everyone is served, she casually stirs her own cup and tastes a spoonful before taking a larger sip."
 - [ ] Preparation (see secrets below)
 	- [ ] Gathering Intelligence
 	- [ ] Surveilling the Target
