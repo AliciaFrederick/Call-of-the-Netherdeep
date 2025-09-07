@@ -69,8 +69,10 @@ cssclasses:
 - [ ] Vidorant arrives
 	- [ ] An elf woman with sleek black hair approaches you with a smile. "You've done well. Not just any thieves could make it to my personal vault. I congratulate you. I'm sure this means the Cobalt Soul placed a bounty on that crystal—J'mon Sa Ord must be furious. But if you'll allow me a moment, perhaps I can make you a better offer?"
 	- [ ] "I could try to dispatch you—and I might succeed—but more thieves will keep trying to interfere with my business. Instead, what if you went back and told everyone my vault was impenetrable and I thoroughly defeated you? It would head off a lot of trouble. In exchange, I'll give you this." She pulls a delicate ring from her finger. "It's worth more to you than the beacon—after all, it's part of how I've become such a famous thief. Ilena is planning to take the beacon for herself, right? She's still mad about our heist all those years ago. But this ring you can keep. Tell whatever story you like about where you got it, as long as it's not from me. You get rich, I look strong, and no one's the wiser." 
-	- [ ] "I'll sweeten the deal. You let me keep the beacon and return the most valuable items you stole, and I'll give you both the ring and my"
+	- [ ] "I'll sweeten the deal. You let me keep the beacon and return the most valuable items you stole, and I'll give you both the ring and my gloves." 
 - [ ] Conclusion
+	- [ ] Return the beacon to the Cobalt Soul - Entry boons
+	- [ ] Return the beacon to Ilena - Double cross, escape to Shammel -> Ghosts of Saltmarsh
 
 ##  Define secrets and clues
 
@@ -80,7 +82,7 @@ cssclasses:
 	- [ ] "You may have heard that [Nixylanna Vidorant](https://5e.tools/bestiary.html#nixylanna%20vidorant_kftgv), my former partner, is no longer with the Veil. We've withdrawn all protection from her and her property." 
 	- [ ] "As such, I can provide access to several of her former guards while you are gathering intelligence for your mission."
 	- [ ] "You may also wish to surveil Vidorant herself at her mansion in the Sand-Herald District, or stake out the vault nearby in the Suncut Bazaar." 
-	- [ ] "Your target is a magical artifact, a glowing crystal in the shape of a dodecahedron with a golden metal frame."
+	- [ ] "Your target is a magical artifact, a glowing crystal in the shape of a dodecahedron with a golden metal frame. Bring it to me so my appraisal team "
 	- [ ] "You can keep a few things for yourself from her collection, but I'd advise against too much distraction. Nixylanna has been a problem for me for a long time because she is very good at what she does. And remember: you cannot trust her."
 - [ ] Gathering Intelligence (what the ex-guards know) - DC 12 Persuasion, 10 gp to reduce to 7
 	- [ ] The basic layout of the vault's second floor, as shown on [[061-08-003.players-map.jpg|map 8.1]] 
