@@ -73,7 +73,13 @@ cssclasses:
 - [ ] Conclusion
 	- [ ] Return the beacon to the Cobalt Soul - Entry boons
 	- [ ] Return the beacon to Ilena - Double cross, escape to Shammel -> Ghosts of Saltmarsh
-	- [ ] Keep - DC 16 De
+	- [ ] Keep - DC 16 Deception to convince anyone of a failed mission
+		- [ ] Fail to convince Ilena - sends the Veil after them
+		- [ ] Fail to convince Iwo - Cobalt Soul kicks them out
+		- [ ] Succeed (or actually failed the mission) - Disappointed but still on good terms
+	- [ ] Blackmail Ilena 
+		- [ ] "I see. She couldn't reveal that without implicating herself, but you have no such hesitation. I have no comment on its truth—but it would be messy if revealed. I am willing to buy this from you." 
+		- [ ] 1,000 gp (DC 17 Intimidation or Persuasion - 2,000 gp)
 
 ##  Define secrets and clues
 
