@@ -75,7 +75,7 @@ cssclasses:
 	- [ ] Reward: 2,000 gp
 	- [ ] "It's a pleasure to meet you all. I'm sure you've heard of my organization, the Veil. Only the most elite thieves in the world qualify for membership." 
 	- [ ] "You may have heard that [Nixylanna Vidorant](https://5e.tools/bestiary.html#nixylanna%20vidorant_kftgv), my former partner, is no longer with the Veil. We've withdrawn all protection from her and her property." 
-	- [ ] "As such, I will provide access to several of her former guards who should be able to assist with gathering intelligence for your mission."
+	- [ ] "As such, I can provide access to several of her former guards while you are gathering intelligence for your mission."
 	- [ ] "You may also wish to surveil Vidorant herself at her mansion in the Sand-Herald District, or stake out the vault nearby in the Suncut Bazaar." 
 	- [ ] "Your target is a magical artifact, a glowing crystal in the shape of a dodecahedron with a golden metal frame."
 	- [ ] "You can keep a few things for yourself from her collection, but I'd advise against too much distraction. Nixylanna has been a problem for me for a long time because she is very good at what she does. And remember: you cannot trust her."
