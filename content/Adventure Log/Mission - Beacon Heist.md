@@ -69,13 +69,13 @@ cssclasses:
 - [ ] What Ilena knows
 	- [ ] Reward: 2,000 gp
 	- [ ] ...
-- [ ] What the guards know - DC 12 Persuasion, 10 gp to reduce by 5
+- [ ] Gathering Intelligence (what the ex-guards know) - DC 12 Persuasion, 10 gp to reduce by 5
 	- [ ] The basic layout of the vault's second floor, as shown on [[061-08-003.players-map.jpg|map 8.1]] 
 	- [ ] The location of the secret door between [area T3](https://5e.tools/adventure.html#kftgv,8,t3%3a%20gem%20room,0) and the building's exterior
 	- [ ] The password to bypass the conjuration rune in [area T9](https://5e.tools/adventure.html#kftgv,8,t9%3a%20library,0): "quixotic"
 	- [ ] The location of a switch to disable one trap (either the pit trap in area T3 or the statues in [area T6](https://5e.tools/adventure.html#kftgv,8,t6%3a%20gallery,0))
 	- [ ] The guard rotation (detailed in "[Vault Guards](https://5e.tools/adventure.html#kftgv,8,vault%20guards,0)") 
-- [ ] Surveillance (mansion in the Sand-Herald District)
+- [ ] Surveilling the Target (mansion in the Sand-Herald District)
 	- [ ] Vidorant 
 		- [ ] a tall elf woman with sleek black hair
 		- [ ] usually wears black clothes accented with tasteful but clearly valuable silver jewelry
@@ -85,6 +85,8 @@ cssclasses:
 		- [ ] a sneering human man carrying a large leather case
 		- [ ] an unkempt halfling man with patched clothing
 		- [ ] a smiling elf woman who bears a striking resemblance to Vidorant but is noticeably younger. 
+- [ ] Casing the Joint (vault in the Suncut Bazaar)
+	- [ ] 
 
 ##  Develop fantastic locations
 
