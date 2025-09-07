@@ -71,7 +71,11 @@ cssclasses:
 
 - [ ] What Ilena knows
 	- [ ] Reward: 2,000 gp
-	- [ ] ...
+	- [ ] "It's a pleasure to meet you all. I'm sure you've heard of my organization, the Veil. Only the most elite thieves in the world qualify for membership. 
+	- [ ] "You may have heard that [Nixylanna Vidorant](https://5e.tools/bestiary.html#nixylanna%20vidorant_kftgv), my former partner, is no longer with the Veil. We've withdrawn all protection from her and her property. 
+	- [ ] "As such, I present to you a challenge. Whoever brings me the Ruby Diadem of Erlynn Blessedore from Nixylanna's personal vault will become a member of the society. As my family is descended from Queen Erlynn, we've wanted the diadem returned to us for years.
+	- [ ] "As such, I can provide access to several of her former guards who should be able to provide you with useful information whilst planning your approach."
+	- [ ] "You can keep a few things for yourself from her collection, but I'd advise against too much distraction. Nixylanna has been a problem for me for a long time because she is very good at what she does. And remember: you cannot trust her."
 - [ ] Gathering Intelligence (what the ex-guards know) - DC 12 Persuasion, 10 gp to reduce to 7
 	- [ ] The basic layout of the vault's second floor, as shown on [[061-08-003.players-map.jpg|map 8.1]] 
 	- [ ] The location of the secret door between [area T3](https://5e.tools/adventure.html#kftgv,8,t3%3a%20gem%20room,0) and the building's exterior
