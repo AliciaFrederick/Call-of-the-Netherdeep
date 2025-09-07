@@ -53,7 +53,9 @@ cssclasses:
 > [!QUOTE] Strong start
 > While enjoying breakfast in your bastion within the Circlet Walk, a sending crystal in the wall glows turquoise and Iwo's voice emanates from it.
 > 
-> "Greetings, operatives. An ancient artifact on loan from the Bright Queen was recently stolen from J'mon Sa Ord. We believe the artifact to be in the possession of master thief [Nixylanna Vidorant](https://5e.tools/bestiary.html#nixylanna%20vidorant_kftgv). The Cobalt Soul has been tasked with recovering the artifact discreetly, and we find value in allying with the Veil for this purpose. This quest, should you choose to undertake it, requires you to infiltrate Vidorant's vault and recover the artifact. Start by meeting with [[Ilena|Ilena Hapayhari]] in the Step Aside tavern. Good luck, operatives." 
+> "Greetings, operatives. An ancient artifact on loan from the Bright Queen was recently stolen from J'mon Sa Ord. We believe the artifact to be in the possession of master thief [Nixylanna Vidorant](https://5e.tools/bestiary.html#nixylanna%20vidorant_kftgv). The Cobalt Soul has been tasked with recovering the artifact discreetly, and we find value in allying with the Veil for this purpose. This quest, should you choose to undertake it, requires you to infiltrate Vidorant's vault and recover the artifact." 
+> 
+> "Start by meeting with [[Ilena|Ilena Hapayhari]] in the Step Aside tavern - tell the barkeep "pardon my steps as I pass through" to gain access to the back room. Good luck, operatives." 
 
 ##  Outline potential scenes
 
@@ -98,8 +100,8 @@ cssclasses:
 		- [ ] The vault is an unmarked building in an area with moderate foot traffic. 
 		- [ ] Guard uniforms—dark blue with gold stitching
 		- [ ] General exterior layout, including the locations of the main door, balcony door, and windows. 
-		- [ ] Within 30ft of south side - you hear animal noises
-			- [ ] DC 15 Investigation or Percen
+		- [ ] Within 30ft of south side - Animal noises (from T8)
+			- [ ] DC 15 Investigation or Perception - Secret door (to T3)
 	- [ ] The neighboring buildings stand at least 20 feet from the vault and don't share walls with it. 
 		- [ ] Nearby businesses include a jewelry store, a lumberyard, a brewery, and a forge. Several other nearby buildings are empty.
 

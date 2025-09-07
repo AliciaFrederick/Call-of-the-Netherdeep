@@ -65,8 +65,8 @@ cssclasses:
 ##  Define secrets and clues
 
 - [ ] Backstories & Prophecies
-	- [ ] Vidorant, the late leader of the Veil, stole a Beacon from J'mon
-	- [ ] Ilena recently killed Vidorant and took over the Veil
+	- [ ] Vidorant, the former leader of the Veil, stole a Beacon from J'mon
+	- [ ] Ilena recently deposed Vidorant and took over the Veil
 	- [ ] Ilena has noticed Perjeon in Marquet and is having him followed
 - [ ] Exploring
 	- [ ] First Eclipse - Knock 3 times on the cask with a red crescent moon to reach the Consortium meeting room
