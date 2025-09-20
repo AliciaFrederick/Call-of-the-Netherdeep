@@ -16,6 +16,8 @@ A human woman with copper skin and curly raven hair; assassin and ruthless pirat
 
 %% DM Notes
 
-
+- Her father was the Pirate King and was recently assassinated
+	- [ ] By Ilena? Someone else?
+	- [ ] 
 
 %%
