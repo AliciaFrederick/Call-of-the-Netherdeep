@@ -82,23 +82,23 @@ Weeks after her takeover of the Veil, Ilena made an even bigger move against Vid
 	- [x] Surveilling the Target
 	- [x] Casing the Joint
 - [x] The Vault
-- [ ] Vidorant arrives
+- [-] Vidorant arrives
 	- [ ] An elf woman with sleek black hair approaches you with a smile. "You've done well. Not just any thieves could make it to my personal vault. I congratulate you. I'm sure this means the Veil placed a bounty on that dagger—Ilena must be furious. But if you'll allow me a moment, perhaps I can make you a better offer?"
 	- [ ] "I could try to dispatch you—and I might succeed—but more thieves will keep trying to interfere with my business. Instead, what if you went back and told everyone my vault was impenetrable and I thoroughly defeated you? It would head off a lot of trouble. In exchange, I'll give you this." She pulls a delicate ring from her finger. "It's worth more to you than the dagger—after all, it's part of how I've become such a famous thief. Ilena is planning to take the dagger for herself, right? She's still mad about our heist all those years ago. But this ring you can keep. Tell whatever story you like about where you got it, as long as it's not from me. You get rich, I look strong, and no one's the wiser." 
 	- [ ] "I'll sweeten the deal. You let me keep the dagger, the beacon, and return the most valuable items you stole, and I'll give you both the ring and my gloves." 
 - [ ] Conclusion
-	- [ ] Return the dagger to Ilena 
-		- [ ] She knows about the beacon and steals it
-		- [ ] Double cross, escape to Shammel -> Ghosts of Saltmarsh
+	- [x] Return the dagger to Ilena 
+		- [x] She knows about the beacon and steals it
+		- [x] Double cross, escape to Shammel -> Ghosts of Saltmarsh
 	- [ ] Return the beacon to the Cobalt Soul 
 		- [ ] One Rare magic item - https://5e.tools/items.html 
 		- [ ] Audience with J'mon Sa Ord
 		- [ ] Monastic robe
 		- [ ] Can buy at the Temple of the Mentor: a [spell scroll](https://5e.tools/items.html#spell%20scroll_dmg) of [detect magic](https://5e.tools/spells.html#detect%20magic_phb) (10 gp), a [spell scroll](https://5e.tools/items.html#spell%20scroll_dmg) of [divination](https://5e.tools/spells.html#divination_phb) (125 gp), a [spell scroll](https://5e.tools/items.html#spell%20scroll_dmg) of [commune](https://5e.tools/spells.html#commune_phb) (250 gp), and a pair of [sending stones](https://5e.tools/items.html#sending%20stones_dmg) (250 gp). 
-	- [ ] Keep the beacon - DC 16 Deception to convince anyone of a failed mission
+	- [-] Keep the beacon - DC 16 Deception to convince anyone of a failed mission
 		- [ ] Fail to convince Iwo - Cobalt Soul kicks them out
 		- [ ] Succeed to convince Iwo (or actually failed the mission) - Disappointed but still on good terms
-	- [ ] Blackmail Ilena 
+	- [-] Blackmail Ilena 
 		- [ ] "I see. She couldn't reveal that without implicating herself, but you have no such hesitation. I have no comment on its truth—but it would be messy if revealed. I am willing to buy this from you." 
 		- [ ] 1,000 gp (DC 17 Intimidation or Persuasion - 2,000 gp)
 
@@ -143,8 +143,8 @@ Weeks after her takeover of the Veil, Ilena made an even bigger move against Vid
 ##  Outline important NPCs
 
 - [x] [[Ilena|Ilena Hapayhari]] - Cobalt Soul's contact within the Veil and Perjeon's former shipmate
-- [ ] [[Vidorant|Nixylanna Vidorant]] - The owner of the vault and Ilena's former partner
-- [ ] Former Guards
+- [x] [[Vidorant|Nixylanna Vidorant]] - The owner of the vault and Ilena's former partner
+- [x] Former Guards
 
 |d6|Ex-Guard|
 |---|---|
