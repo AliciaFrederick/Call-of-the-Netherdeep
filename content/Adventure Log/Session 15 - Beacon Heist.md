@@ -74,14 +74,14 @@ Weeks after her takeover of the Veil, Ilena made an even bigger move against Vid
 
 ##  Outline potential scenes
 
-- [ ] Meeting [[Ilena]] 
-	- [ ] "A human woman with copper skin and curly black hair greets you in the back room of the tavern, a polite smile gracing her face. She introduces herself as Ilena and offers you tea. After everyone is served, she casually stirs her own cup and tastes a spoonful before taking a larger sip."
-	- [ ] What Ilena knows (see secrets below)
-- [ ] Preparation (see secrets below)
-	- [ ] Gathering Intelligence
-	- [ ] Surveilling the Target
-	- [ ] Casing the Joint
-- [ ] The Vault
+- [x] Meeting [[Ilena]] 
+	- [x] "A human woman with copper skin and curly black hair greets you in the back room of the tavern, a polite smile gracing her face. She introduces herself as Ilena and offers you tea. After everyone is served, she casually stirs her own cup and tastes a spoonful before taking a larger sip."
+	- [x] What Ilena knows (see secrets below)
+- [x] Preparation (see secrets below)
+	- [x] Gathering Intelligence
+	- [x] Surveilling the Target
+	- [x] Casing the Joint
+- [x] The Vault
 - [ ] Vidorant arrives
 	- [ ] An elf woman with sleek black hair approaches you with a smile. "You've done well. Not just any thieves could make it to my personal vault. I congratulate you. I'm sure this means the Veil placed a bounty on that dagger—Ilena must be furious. But if you'll allow me a moment, perhaps I can make you a better offer?"
 	- [ ] "I could try to dispatch you—and I might succeed—but more thieves will keep trying to interfere with my business. Instead, what if you went back and told everyone my vault was impenetrable and I thoroughly defeated you? It would head off a lot of trouble. In exchange, I'll give you this." She pulls a delicate ring from her finger. "It's worth more to you than the dagger—after all, it's part of how I've become such a famous thief. Ilena is planning to take the dagger for herself, right? She's still mad about our heist all those years ago. But this ring you can keep. Tell whatever story you like about where you got it, as long as it's not from me. You get rich, I look strong, and no one's the wiser." 
@@ -104,19 +104,19 @@ Weeks after her takeover of the Veil, Ilena made an even bigger move against Vid
 
 ##  Define secrets and clues
 
-- [ ] What Ilena knows
-	- [ ] "It's a pleasure to meet you all. I'm sure you've heard of my organization, the Veil. Only the most elite thieves in the world qualify for membership." 
-	- [ ] "You may have heard that [Nixylanna Vidorant](https://5e.tools/bestiary.html#nixylanna%20vidorant_kftgv), my former partner, is no longer with the Veil. We've withdrawn all protection from her and her property, and we now have room in the society for new members." 
-	- [ ] "As such, I present to you a challenge. Whoever brings me the Silvered Dagger from Nixylanna's personal vault will become a member of the Veil. As my family was murdered by a scoundrel wielding it, I've wanted the dagger returned to me for years." 
-	- [ ] "You can keep a few things for yourself from her collection, but I'd advise against too much distraction. Nixylanna has been a problem for me for a long time because she is very good at what she does. Remember, no matter what she says: you cannot trust her."
-	- [ ] Reward: 2,000 gp
-- [ ] Gathering Intelligence (what the ex-guards know) - DC 12 Persuasion, 10 gp to reduce to 7
-	- [ ] The basic layout of the vault's second floor, as shown on [[061-08-003.players-map.jpg|map 8.1]] 
-	- [ ] The location of the secret door between [area T3](https://5e.tools/adventure.html#kftgv,8,t3%3a%20gem%20room,0) and the building's exterior
-	- [ ] The password to bypass the conjuration rune in [area T9](https://5e.tools/adventure.html#kftgv,8,t9%3a%20library,0): "quixotic"
-	- [ ] The location of a switch to disable one trap (either the pit trap in area T3 or the statues in [area T6](https://5e.tools/adventure.html#kftgv,8,t6%3a%20gallery,0))
-	- [ ] The guard rotation (detailed in "[Vault Guards](https://5e.tools/adventure.html#kftgv,8,vault%20guards,0)") 
-- [ ] Surveilling the Target (mansion in the Sand-Herald District)
+- [x] What Ilena knows
+	- [x] "It's a pleasure to meet you all. I'm sure you've heard of my organization, the Veil. Only the most elite thieves in the world qualify for membership." 
+	- [x] "You may have heard that [Nixylanna Vidorant](https://5e.tools/bestiary.html#nixylanna%20vidorant_kftgv), my former partner, is no longer with the Veil. We've withdrawn all protection from her and her property, and we now have room in the society for new members." 
+	- [x] "As such, I present to you a challenge. Whoever brings me the Silvered Dagger from Nixylanna's personal vault will become a member of the Veil. As my family was murdered by a scoundrel wielding it, I've wanted the dagger returned to me for years." 
+	- [x] "You can keep a few things for yourself from her collection, but I'd advise against too much distraction. Nixylanna has been a problem for me for a long time because she is very good at what she does. Remember, no matter what she says: you cannot trust her."
+	- [x] Reward: 2,000 gp
+- [x] Gathering Intelligence (what the ex-guards know) - DC 12 Persuasion, 10 gp to reduce to 7
+	- [x] The basic layout of the vault's second floor, as shown on [[061-08-003.players-map.jpg|map 8.1]] 
+	- [x] The location of the secret door between [area T3](https://5e.tools/adventure.html#kftgv,8,t3%3a%20gem%20room,0) and the building's exterior
+	- [x] The password to bypass the conjuration rune in [area T9](https://5e.tools/adventure.html#kftgv,8,t9%3a%20library,0): "quixotic"
+	- [x] The location of a switch to disable one trap (either the pit trap in area T3 or the statues in [area T6](https://5e.tools/adventure.html#kftgv,8,t6%3a%20gallery,0))
+	- [x] The guard rotation (detailed in "[Vault Guards](https://5e.tools/adventure.html#kftgv,8,vault%20guards,0)") 
+- [x] Surveilling the Target (mansion in the Sand-Herald District)
 	- [ ] Vidorant 
 		- [ ] a tall elf woman with sleek black hair
 		- [ ] usually wears black clothes accented with tasteful but clearly valuable silver jewelry
@@ -126,7 +126,7 @@ Weeks after her takeover of the Veil, Ilena made an even bigger move against Vid
 		- [ ] a sneering human man carrying a large leather case
 		- [ ] an unkempt halfling man with patched clothing
 		- [ ] a smiling elf woman who bears a striking resemblance to Vidorant but is noticeably younger. 
-- [ ] Casing the Joint (vault in the Suncut Bazaar)
+- [x] Casing the Joint (vault in the Suncut Bazaar)
 	- [ ] "The vault stands in a rundown neighborhood, but the street and alleyways around the vault are unobstructed. Small windows glint from high on the vault's stone walls. Two guards keep watch on the second-floor balcony, while another guard patrols around the structure at ground level."
 		- [ ] The vault is an unmarked building in an area with moderate foot traffic. 
 		- [ ] The neighboring buildings stand at least 20 feet from the vault and don't share walls with it. 
@@ -142,7 +142,7 @@ Weeks after her takeover of the Veil, Ilena made an even bigger move against Vid
 
 ##  Outline important NPCs
 
-- [ ] [[Ilena|Ilena Hapayhari]] - Cobalt Soul's contact within the Veil
+- [x] [[Ilena|Ilena Hapayhari]] - Cobalt Soul's contact within the Veil and Perjeon's former shipmate
 - [ ] [[Vidorant|Nixylanna Vidorant]] - The owner of the vault and Ilena's former partner
 - [ ] Former Guards
 
