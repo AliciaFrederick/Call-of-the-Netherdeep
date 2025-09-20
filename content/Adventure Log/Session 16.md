@@ -47,6 +47,7 @@ cssclasses:
 - [ ] [[Perjeon Beachgift]] 
 - [ ] [[Aza Dirali]] 
 - [ ] [[Thrast Summittrod]] 
+- [ ] [[Thekar Forgesun]] 
 
 ##  Create a strong start
 
@@ -65,12 +66,10 @@ cssclasses:
 ##  Define secrets and clues
 
 - [ ] Backstories & Prophecies
-	- [ ] Vidorant, the former leader of the Veil, stole a Beacon from J'mon
-	- [ ] Ilena recently deposed Vidorant and took over the Veil
-	- [ ] Ilena has noticed Perjeon in Marquet and is having him followed
+	- [ ] Vidorant knows the Beacon was stolen from the Vault by someone linked to Ilena
+	- [ ] Ilena absconded with the Beacon and is heading to Shammel -> Ghosts of Saltmarsh
 - [ ] Exploring
 	- [ ] First Eclipse - Knock 3 times on the cask with a red crescent moon to reach the Consortium meeting room
-	- [ ] Step Aside - Say "pardon my steps as I pass through" to gain access to the safehouse
 - [ ] Missions
 	- [ ] 
 
