@@ -56,18 +56,44 @@ cssclasses:
 
 ##  Outline potential scenes
 
-- [ ] [Cobalt Soul Mission 2: Half-Baked Scheme](https://5e.tools/adventure.html#crcotn,4,cobalt%20soul%20mission%202%3a%20half-baked%20scheme,0) - River District 
+- [-] [Cobalt Soul Mission 2: Half-Baked Scheme](https://5e.tools/adventure.html#crcotn,4,cobalt%20soul%20mission%202%3a%20half-baked%20scheme,0) - River District 
 	- [ ] Ashann
 	- [ ] Bandit Captain
 		- [ ] ruidium shortsword
 - [ ] [Cobalt Soul Mission 3: Elephant Uproar](https://5e.tools/adventure.html#crcotn,-1,cobalt%20soul%20mission%203%3a%20elephant%20uproar,0) - Suncut Bazaar
-	- [ ] 
+- [x] Ank'Harel Chase
+- [x] Interrogation
+	- [x] The beacon was passed off to another member of the Veil
+		- [x] Halfling assassin (Steve), Human thug (John) 
+	- [x] Planning to meet at the skyport and leave Ank'Harel for Shamal 
+	- [x] She wants revenge against the Pirate King for killing her father
+	- [x] Something she needs is in a shipwreck off the coast of Marquet
+	- [x] Perjeon's father was captured and is being held hostage by the Veil. 
+		- [x] If Ilena doesn't check in every day, they will kill him.
+	- [x] Bargain: Will hand over the beacon after she uses it
+- [x] Failed Mission
+	- [x] J'mon is angry, Iwo stressed, because they lost the beacon 
+	- [x] Ilena escaped on a small sky ship heading across the desert to the sea port  
+	- [x] Sending rivals as a backup crew 
+- [ ] NEXT TIME: 
+	- [ ] Random encounters for the desert, possible sky ship battle 
+		- [ ] Sand storm 
+		- [ ] Sand worm 
+		- [ ] Roc? 
+		- [ ] Harpies? 
+		- [ ] Air elementals 
+		- [ ] Sky ship chase 
+		- [ ] Rivals
+		- [ ] Sky ship battle 
+		- [ ] Capture Irina - convince them to help with Salvage Operation
+	- [ ] Find ship combat rules 
+	- [ ] Print more ship maps 
 
 ##  Define secrets and clues
 
 - [ ] Backstories & Prophecies
 	- [ ] Vidorant knows the Beacon was stolen from the Vault by someone linked to Ilena
-	- [ ] Ilena absconded with the Beacon and is heading to Shammel -> Ghosts of Saltmarsh
+	- [x] Ilena absconded with the Beacon and is heading to Shammel -> Ghosts of Saltmarsh
 - [ ] Exploring
 	- [ ] First Eclipse - Knock 3 times on the cask with a red crescent moon to reach the Consortium meeting room
 - [ ] Missions
