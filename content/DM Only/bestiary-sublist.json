@@ -1,0 +1,181 @@
+{
+	"fileType": "bestiary-sublist",
+	"siteVersion": "2.12.0",
+	"items": [
+		{
+			"h": "anubian_tob1-2023",
+			"c": 2
+		},
+		{
+			"h": "accursed%20defiler_tob1-2023",
+			"c": 1
+		},
+		{
+			"h": "air%20elemental_mm",
+			"c": 1
+		},
+		{
+			"h": "cactid_tob1-2023",
+			"c": 1
+		},
+		{
+			"h": "camel_mm",
+			"c": 1
+		},
+		{
+			"h": "citrullus_tob1-2023",
+			"c": 1
+		},
+		{
+			"h": "corrupted%20ushabti_tob1-2023",
+			"c": 1
+		},
+		{
+			"h": "dau_tob1-2023",
+			"c": 1
+		},
+		{
+			"h": "death%20dog_mm",
+			"c": 1
+		},
+		{
+			"h": "desert%20giant_tob1-2023",
+			"c": 1
+		},
+		{
+			"h": "dune%20mimic_tob1-2023",
+			"c": 1
+		},
+		{
+			"h": "dust%20mephit_mm",
+			"c": 1
+		},
+		{
+			"h": "edimmu_tob1-2023",
+			"c": 1
+		},
+		{
+			"h": "flying%20snake_mm",
+			"c": 1
+		},
+		{
+			"h": "giant%20scorpion_mm",
+			"c": 1
+		},
+		{
+			"h": "giant%20vulture_mm",
+			"c": 1
+		},
+		{
+			"h": "gray%20thirster_tob1-2023",
+			"c": 1
+		},
+		{
+			"h": "gynosphinx_mm",
+			"c": 1
+		},
+		{
+			"h": "lamia_mm",
+			"c": 1
+		},
+		{
+			"h": "medusa_mm",
+			"c": 1
+		},
+		{
+			"h": "mirager_tob1-2023",
+			"c": 1
+		},
+		{
+			"h": "mummy_mm",
+			"c": 1
+		},
+		{
+			"h": "night%20scorpion_tob1-2023",
+			"c": 1
+		},
+		{
+			"h": "oozasis_tob1-2023",
+			"c": 1
+		},
+		{
+			"h": "owl%20harpy_tob1-2023",
+			"c": 1
+		},
+		{
+			"h": "phase%20spider_mm",
+			"c": 1
+		},
+		{
+			"h": "pseudodragon_mm",
+			"c": 1
+		},
+		{
+			"h": "revenant_mm",
+			"c": 1
+		},
+		{
+			"h": "roc_mm",
+			"c": 1
+		},
+		{
+			"h": "sand%20hag_tob1-2023",
+			"c": 1
+		},
+		{
+			"h": "sand%20silhouette_tob1-2023",
+			"c": 1
+		},
+		{
+			"h": "sand%20spider_tob1-2023",
+			"c": 1
+		},
+		{
+			"h": "sandwyrm_tob1-2023",
+			"c": 1
+		},
+		{
+			"h": "sathaq%20worm_tob1-2023",
+			"c": 1
+		},
+		{
+			"h": "swarm%20of%20manabane%20scarabs_tob1-2023",
+			"c": 1
+		},
+		{
+			"h": "tusked%20skyfish_tob1-2023",
+			"c": 1
+		},
+		{
+			"h": "ushabti_tob1-2023",
+			"c": 1
+		},
+		{
+			"h": "venomous%20mummy_tob1-2023",
+			"c": 1
+		},
+		{
+			"h": "vesiculosa_tob1-2023",
+			"c": 1
+		},
+		{
+			"h": "vos'skyriss%20serpentfolk_tdcsr",
+			"c": 1
+		},
+		{
+			"h": "vos'skyriss%20serpentfolk%20ghost_tdcsr",
+			"c": 1
+		},
+		{
+			"h": "wight_mm",
+			"c": 1
+		}
+	],
+	"sources": [
+		"ToB1-2023",
+		"MM",
+		"TDCSR"
+	],
+	"name": "Desert",
+	"saveId": "330e6a2f-0b3d-442f-a117-174ed31be452"
+}
