@@ -62,6 +62,7 @@ cssclasses:
 		- [ ] ruidium shortsword
 - [ ] [Cobalt Soul Mission 3: Elephant Uproar](https://5e.tools/adventure.html#crcotn,-1,cobalt%20soul%20mission%203%3a%20elephant%20uproar,0) - Suncut Bazaar
 - [x] Ank'Harel Chase
+- [x] Capture Irina - convince them to help with Salvage Operation
 - [x] Interrogation
 	- [x] The beacon was passed off to another member of the Veil
 		- [x] Halfling assassin (Steve), Human thug (John) 
@@ -75,19 +76,8 @@ cssclasses:
 	- [x] J'mon is angry, Iwo stressed, because they lost the beacon 
 	- [x] Ilena escaped on a small sky ship heading across the desert to the sea port  
 	- [x] Sending rivals as a backup crew 
-- [ ] NEXT TIME: 
-	- [ ] Random encounters for the desert, possible sky ship battle 
-		- [ ] Sand storm 
-		- [ ] Sand worm 
-		- [ ] Roc? 
-		- [ ] Harpies? 
-		- [ ] Air elementals 
-		- [ ] Sky ship chase 
-		- [ ] Rivals
-		- [ ] Sky ship battle 
-		- [ ] Capture Irina - convince them to help with Salvage Operation
-	- [ ] Find ship combat rules 
-	- [ ] Print more ship maps 
+	- [x] Find ship combat rules 
+	- [x] Print more ship maps 
 
 ##  Define secrets and clues
 
