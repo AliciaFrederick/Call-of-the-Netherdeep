@@ -68,7 +68,9 @@ cssclasses:
 		- [ ] 2. Sand storm 
 		- [x] 3. Sand worm burrowing through the dunes
 		- [ ] 4. Ancient brass dragon in the distance
-- [ ] 
+- [ ] Shamal
+	- [ ] Jeweled Crab Inn
+	- [ ] 
 
 ##  Define secrets and clues
 
