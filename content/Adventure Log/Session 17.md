@@ -70,6 +70,7 @@ cssclasses:
 		- [ ] 4. Ancient brass dragon in the distance
 - [ ] Shamal
 	- [ ] Jeweled Crab Inn
+	- [ ] "Watch out for falling Durians"
 	- [ ] 
 
 ##  Define secrets and clues
