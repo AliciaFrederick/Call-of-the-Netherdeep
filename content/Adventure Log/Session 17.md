@@ -82,8 +82,12 @@ cssclasses:
 
 - [ ] Ilena's crew
 	- [ ] Steve - halfling
-	- [ ] TBD - large human thug
-	- [ ] TBD - 
+	- [ ] Anya - large human woman thug 
+- [ ] Ship crew
+	- [ ] Evie - Captain (human woman)
+	- [ ] Slovynn - First mate (tiefling NB)
+	- [ ] Fritz - Bosun (male gnome)
+	- [ ] Wanda - Quartermaster (female air genasi)
 
 ##  Choose relevant monsters
 
