@@ -55,19 +55,20 @@ cssclasses:
 
 ##  Outline potential scenes
 
-- [ ] Random combat encounters for the desert: 
-	- [ ] Air elementals 
-	- [ ] Dust mephit + Edimmu
-	- [ ] Giant vulture
-	- [ ] Owl harpies 
-	- [ ] Roc 
-	- [ ] Storm giant quintessent
-	- [ ] Vulture
-- [ ] Random exploration encounters for the desert:
-	- [ ] Sand storm 
-	- [ ] Sand worm burrowing through the dunes
-	- [ ] Ancient brass dragon in the distance
-	- [ ] Rivals
+- [ ] 2 days by air
+	- [ ] Random combat encounters for the desert: 
+		- [ ] Air elementals 
+		- [ ] Dust mephit + Edimmu
+		- [ ] Giant vulture
+		- [ ] Owl harpies 
+		- [ ] Roc 
+		- [ ] Storm giant quintessent
+		- [ ] Vulture
+	- [ ] Random exploration encounters for the desert:
+		- [ ] Sand storm 
+		- [ ] Sand worm burrowing through the dunes
+		- [ ] Ancient brass dragon in the distance
+		- [ ] Rivals
 - [ ] 
 
 ##  Define secrets and clues
