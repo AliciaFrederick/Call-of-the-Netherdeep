@@ -73,6 +73,7 @@ cssclasses:
 ##  Define secrets and clues
 
 - [ ] Where is the beacon? - Steve - Pocket dimension
+- [x] The cannon blast that hurt Ilena killed her mom on the enemy ship
 - [ ] 
 
 ##  Develop fantastic locations
