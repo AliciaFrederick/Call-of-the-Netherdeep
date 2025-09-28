@@ -83,7 +83,7 @@ cssclasses:
 - [ ] Ilena's crew
 	- [ ] Steve - halfling
 	- [ ] Anya - large human woman thug 
-- [ ] Ship crew
+- [ ] Ship crew - Glittering Shroud
 	- [ ] Evie - Captain (human woman)
 	- [ ] Slovynn - First mate (tiefling NB)
 	- [ ] Fritz - Bosun (male gnome)
