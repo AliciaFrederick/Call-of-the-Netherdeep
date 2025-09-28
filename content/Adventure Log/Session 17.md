@@ -57,7 +57,7 @@ cssclasses:
 
 - [ ] Random combat encounters for the desert: 
 	- [ ] Air elementals 
-	- [ ] Dust mephit
+	- [ ] Dust mephit + Edimmu
 	- [ ] Giant vulture
 	- [ ] Owl harpies 
 	- [ ] Roc 
