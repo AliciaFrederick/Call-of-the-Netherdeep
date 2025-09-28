@@ -65,10 +65,11 @@ cssclasses:
 		- [ ] Storm giant quintessent
 		- [ ] Vulture
 	- [ ] Random exploration encounters for the desert:
+		- [ ] Clear weather
 		- [ ] Sand storm 
 		- [ ] Sand worm burrowing through the dunes
 		- [ ] Ancient brass dragon in the distance
-		- [ ] Rivals
+		- [ ] Encounter
 - [ ] 
 
 ##  Define secrets and clues
