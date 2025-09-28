@@ -59,14 +59,14 @@ cssclasses:
 	- [ ] Random combat encounters for the desert (d6): 
 		- [ ] 1. Air elementals 
 		- [ ] 2. Dust mephit + Edimmu
-		- [ ] 3. Giant vulture + vultures
+		- [x] 3. Giant vulture + vultures
 		- [ ] 4. Owl harpies 
 		- [ ] 5. Roc 
 		- [ ] 6. Storm giant quintessent
 	- [ ] Random weather for the desert (d4):
-		- [ ] 1. Clear weather + encounter
+		- [x] 1. Clear weather + encounter
 		- [ ] 2. Sand storm 
-		- [ ] 3. Sand worm burrowing through the dunes
+		- [x] 3. Sand worm burrowing through the dunes
 		- [ ] 4. Ancient brass dragon in the distance
 - [ ] 
 
