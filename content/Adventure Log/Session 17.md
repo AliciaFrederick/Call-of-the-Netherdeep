@@ -56,10 +56,13 @@ cssclasses:
 ##  Outline potential scenes
 
 - [ ] Random encounters for the desert: 
+	- [ ] Air elementals 
+	- [ ] Ancient brass dragon in the distance
+	- [ ] Dust mephit
+	- [ ] Giant vult
 	- [ ] Sand storm 
 	- [ ] Roc 
 	- [ ] Harpies 
-	- [ ] Air elementals 
 	- [ ] Rivals
 	- [ ] Sand worm 
 	- [ ] Sky ship chase 
