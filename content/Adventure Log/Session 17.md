@@ -72,6 +72,7 @@ cssclasses:
 
 ##  Define secrets and clues
 
+- [ ] Where is the beacon? - Steve - Pocket dimension
 - [ ] 
 
 ##  Develop fantastic locations
@@ -79,11 +80,10 @@ cssclasses:
 - [ ] 
 ##  Outline important NPCs
 
-- [ ] [Alyxian](https://www.dndbeyond.com/sources/dnd/cotn/answering-the-call#RoleplayingtheApotheon) 
-- [ ] [[Ayo Jabe]] 
-- [ ] [[Dermot Wurder]] 
-- [ ] [[Galsariad Ardyth]] 
-- [ ] [[Irvan Wastewalker]] 
+- [ ] Ilena's crew
+	- [ ] Steve - halfling
+	- [ ] TBD - large human thug
+	- [ ] TBD - 
 
 ##  Choose relevant monsters
 
