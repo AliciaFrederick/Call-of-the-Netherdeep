@@ -106,11 +106,11 @@ cssclasses:
 
 ## Story Prompt
 
-I am running a D&D campaign with my adult friends. Create a storybook using the below character descriptions and session notes. Pay close attention to the characters' appearances.
+I am running a D&D campaign with my adult friends. Using a fantasy comic art style, create a storybook using the below information. Pay close attention to the characters' appearances.
 
 ### Setting 
 
-Critical Role's Exandria, on the continent of Marquet. The characters begin in the oasis city of Ank'Harel in the center of the Rumedan Desert, and travel vi
+Critical Role's Exandria, on the continent of Marquet. The characters begin in the oasis city of Ank'Harel in the center of the Rumedan Desert, and end up in Shamal, a coastal city on the north eastern side of the continent.
 
 ### Characters
 
