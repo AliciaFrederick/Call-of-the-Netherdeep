@@ -180,27 +180,43 @@ Critical Role's Exandria, on the continent of Marquet. The characters begin in t
 
 ### Session Notes 
 
-Wanda (quartermaster, female genasi) welcomes everyone to the skyship (The Glittering Shroud). She takes us to the guest rooms. There is a two day travel across the desert to Shamal from Ank'Harel. Aza casts Leomand's tiny hut for us all to sleep in so we don’t have to take watches. Thekar does not join us and stays up doing some detailed stone working on the severed hand of a statue instead. He spots 5 rats. 
+Wanda (quartermaster, female genasi) welcomes everyone to the skyship (The Glittering Shroud). She takes us to the guest rooms. There is a two day travel across the desert to Shamal from Ank'Harel. Aza casts Leomand's tiny hut for us all to sleep in so we don’t have to take watches. Thekar does not join us and stays up doing some detailed stone working on the severed hand of a statue instead. He spots 5 rats. 
 
-We wake up. There is a sandworm down below. It doesn’t bother us. Perjeon investigates the ship. There are three barrels of apples. He counts 6 apples. No sign of Perjeon’s father, who is being held in an unknown location as leverage by Ilena. Ilena joins our breakfast below deck and is mean to Perjeon. She tells us once we get to Shamal the airship will continue on to Tal'Dorei; we will have to get a sea ship. Ilena has a contact in Shamal who knows someone who survived the shipwreck. 
+We wake up. There is a sandworm down below. It doesn’t bother us. Perjeon investigates the ship. There are three barrels of apples. He counts 6 apples. No sign of Perjeon’s father, who is being held in an unknown location as leverage by Ilena. Ilena joins our breakfast below deck and is mean to Perjeon. She tells us once we get to Shamal the airship will continue on to Tal'Dorei; we will have to get a sea ship. Ilena has a contact in Shamal who knows someone who survived the shipwreck. 
 
-The cook suggests we spend time fishing for sky fish. She gives Perjeon the key to the armory. Nothing that cool in the armory. Perjeon takes 4 fishing poles. He goes fishin’. He catches a few fish. Thrast joins in the fishin’ fun. Thrast catches 6 fish. Aza makes sure we have grog to drink. Ilena is chilling in the hold. Thekar is doing more stonework. Aza gets their fortune read. Danger, Blood, getting arrested? Thrast gets their fortune read. Need more experience. 
+The cook suggests we spend time fishing for sky fish. She gives Perjeon the key to the armory. Nothing that cool in the armory. Perjeon takes 4 fishing poles. He goes fishin’. He catches a few fish. Thrast joins in the fishin’ fun. Thrast catches 6 fish. Aza makes sure we have grog to drink. Ilena is chilling in the hold. Thekar is doing more stonework. Aza gets their fortune read. Danger, Blood, getting arrested? Thrast gets their fortune read. Need more experience. 
 
-A bunch of giant vultures show up. Perjeon and Thrast shoot some crossbow bolts at them, then Aza roasts all of them at once with a well-timed fireball. 
+The next day, a bunch of giant vultures show up. Perjeon and Thrast shoot some crossbow bolts at them, then Aza roasts all of them at once with a well-timed fireball. 
 
 We go to speak with Steve, Ilena pays him well, includes insurance. Steve implies that he used to work for Ilena’s father. We find out from Steve that the day Ilena was injured, her father was boarding another ship to negotiate the release of her mother, who was being held captive. The same cannon blast that injured Ilena killed her mother on the other ship, and was fired after the call for parley.
 
+  
+
 Perjeon goes to sulk in his room. He was the one who over-packed and misfired that cannon while Ilena was standing too close. He knew he had injured Ilena, but the news of her mother's death, and the fact that parley had already been called, were previously unknown to him. Now he understands why Ilena is so angry with him.
 
-The rest of the group goes to speak with Anya. Thrast gains the respect of Anya through a strong handshake. Anya has tattoos. She reveals that Ilena had done her a favor in the past and that is why Anya works for Ilena. 
+  
 
-We arrive at Shamal, there is no skyport so we have to land a bit outside of town along a road. We get off the skyship. There is a walled city with a gate that has a line of people and camels being checked by guards. Ilena gives the guards a slip of paper and they let us through. It’s late. Ilena takes us to the Jeweled Crab (inn) for the night. We sleep. 
+The rest of the group goes to speak with Anya. Thrast gains the respect of Anya through a strong handshake. Anya has tattoos. She reveals that Ilena had done her a favor in the past and that is why Anya works for Ilena. 
 
-When we wake up Ilena is gone, but Steve and Anya are eating breakfast. We join them. We buy some potions. Ilena meets up with us again. 
+  
 
-We go to see Ilena’s contact. We go to sit in a booth and a person appears next to Ilena that looks like her. It’s her sister, Natalia. Perjeon is threatened by Ilena and forced to produce the map that he took from his father’s records. Ilena’s sister has an overlay that matches with the map that tells us where the shipwreck and the temple is located. Perjeon apologizes to Ilena and Natalia for what happened with the cannon in the past. Natalia forgives him, but Ilena is not ready to release her anger towards him. 
+We arrive at Shamal, there is no skyport so we have to land a bit outside of town along a road. We get off the skyship. There is a walled city with a gate that has a line of people and camels being checked by guards. Ilena gives the guards a slip of paper and they let us through. It’s late. Ilena takes us to the Jeweled Crab (inn) for the night. We sleep. 
 
-We board to the ship that Ilena has booked passage on and set sail. 
+  
+
+When we wake up Ilena is gone, but Steve and Anya are eating breakfast. We join them. We buy some potions. Ilena meets up with us again. 
+
+  
+
+We go to see Ilena’s contact. We go to sit in a booth and a person appears next to Ilena that looks like her. It’s her sister, Natalia. Perjeon is threatened by Ilena and forced to produce the map that he took from his father’s records. Ilena’s sister has an overlay that matches with the map that tells us where the shipwreck and the temple is located.
+
+  
+
+Perjeon asks to speak with Ilena and Natalia alone. He apologizes to them for what happened with the cannon in the past. Natalia forgives him, but Ilena is not ready to release her anger towards him. 
+
+  
+
+We board to the ship that Ilena has booked passage on and set sail.
 
 %%
 
