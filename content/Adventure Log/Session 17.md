@@ -143,18 +143,22 @@ cssclasses:
 	- Class: Cleric of the Matron of Ravens, the goddess of death
 	- Background: Member of the Cobalt Soul and Aza's adoptive sister
 - Thekar, a male mountain dwarf 
-	- Hair: Sandy blonde
+	- Hair: Sandy blonde, very bushy, tied in a half-up ponytail. Long beard and mustache with several small braids.
 	- Skin: weathered white
 	- Eyes: icy blue
 	- Clothing: Tight weathered leather that used to be dyed black
 	- Weapons and/or armor: 
-	- Class: rogue who was turned to stone hundreds of years ago. He was discovered by the party in an evil temple and revived. He has light but weathered skin and bushy, sandy colored hair, eyebrows, beard and mustache, with clever eyes the color of a clear winter sky. He wears weathered leather armor that used to be black, climbing gear with teal accents, and he carries a light crossbow on his back, war hammer in his hand, and a grappling hook on his belt.
-	- Background: 
+		- Black leather climbing gear with teal accents
+		- Light crossbow
+		- pick hammer
+		- grappling hook
+	- Class: rogue 
+	- Background: Cave delving. Turned to stone hundreds of years ago. Discovered by Aza, Thrast, and Perjeon in an evil temple and revived.
 - Ilena 
-	- Hair: 
-	- Skin: 
-	- Eyes: 
-	- Clothing: 
+	- Hair: Curly black
+	- Skin: Copper
+	- Eyes: Hazel
+	- Clothing: White linen 
 	- Weapons and/or armor: 
 	- Role: 
 	- Background: 
