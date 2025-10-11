@@ -106,7 +106,7 @@ cssclasses:
 
 ## Story Prompt
 
-I am running a D&D campaign with my adult friends. Using a fantasy comic art style, create a storybook using the below information. Pay close attention to the characters' appearances.
+I am running a D&D campaign with my adult friends. Using a fantasy comic art style, using the below information, create a storybook about Perjeon and Ilena, including flashbacks to their past adventures as good friends, and the present revelation that Perjeon accidentally killed her mother. Pay close attention to the characters' appearances.
 
 ### Setting 
 
