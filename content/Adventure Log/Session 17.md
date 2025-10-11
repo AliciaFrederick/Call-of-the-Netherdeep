@@ -124,13 +124,14 @@ cssclasses:
 		- dagger
 	- Background: Pirate turned legitimate merchant sailor
 - Aza, a female tiefling 
-	- Hair: 
-	- Skin: 
-	- Eyes: 
-	- Clothing: 
+	- Hair: black
+	- Skin: white
+	- Eyes: teal
+	- Clothing: Wizard robes, teal with red accents
 	- Weapons and/or armor: 
-	- Role: quandrix wizard. She has white skin and black hair. She wears long teal robes with red accents.
-	- Background: 
+		- Quarterstaff
+	- Class: Quandrix wizard. 
+	- Background: Member of the Cobalt Soul and Thrast's adoptive sister
 - Thrast, a nonbinary hill dwarf/wereraven
 	- Hair: black, tied up in a topknot, with a short chinstrap beard
 	- Skin: mahogany
@@ -139,15 +140,15 @@ cssclasses:
 	- Weapons and/or armor: 
 		- Silver breastplate
 		- Warhammer
-	- Role: Cleric of the Matron of Ravens, the goddess of death
-	- Background: Aza's adoptive sister
+	- Class: Cleric of the Matron of Ravens, the goddess of death
+	- Background: Member of the Cobalt Soul and Aza's adoptive sister
 - Thekar, a male mountain dwarf 
-	- Hair: 
-	- Skin: 
-	- Eyes: 
-	- Clothing: 
+	- Hair: Sandy blonde
+	- Skin: weathered white
+	- Eyes: icy blue
+	- Clothing: Tight weathered leather that used to be dyed black
 	- Weapons and/or armor: 
-	- Role: rogue who was turned to stone hundreds of years ago. He was discovered by the party in an evil temple and revived. He has light but weathered skin and bushy, sandy colored hair, eyebrows, beard and mustache, with clever eyes the color of a clear winter sky. He wears weathered leather armor that used to be black, climbing gear with teal accents, and he carries a light crossbow on his back, war hammer in his hand, and a grappling hook on his belt.
+	- Class: rogue who was turned to stone hundreds of years ago. He was discovered by the party in an evil temple and revived. He has light but weathered skin and bushy, sandy colored hair, eyebrows, beard and mustache, with clever eyes the color of a clear winter sky. He wears weathered leather armor that used to be black, climbing gear with teal accents, and he carries a light crossbow on his back, war hammer in his hand, and a grappling hook on his belt.
 	- Background: 
 - Ilena 
 	- Hair: 
