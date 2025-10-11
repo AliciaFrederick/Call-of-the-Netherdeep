@@ -113,17 +113,40 @@ cssclasses:
 	- Skin: white, tanned by the sun
 	- Eyes: blue
 	- Clothing: 
-		- He wears a 16th century inspired frock coat, blue with gold accents, and 
+		- 16th century inspired frock coat, blue with gold accents
+		- White wool trousers
+		- Brown leather boots with gold accents
+		- Brown belt
+	- Class: Echo knight fighter
 	- Weapons: 
 		- raper
 		- short sword
-		- dagger belted at his waist.
-	- Role: Echo knight fighter with a sailor background.
-- Aza, a female tiefling quandrix wizard. She has white skin and black hair. She wears long teal robes with red accents.
-
-- Thrast, a nonbinary hill dwarf cleric of the Matron of Ravens, and Aza's adoptive sister. They have skin the color of mahogany, black hair tied up in a topknot, and a chinstrap beard. They wear black clothes with purple accents and a silver breastplate, and they carry a Warhammer.
-
-- Thekar, a male mountain dwarf rogue who was turned to stone hundreds of years ago. He was discovered by the party in an evil temple and revived. He has light but weathered skin and bushy, sandy colored hair, eyebrows, beard and mustache, with clever eyes the color of a clear winter sky. He wears weathered leather armor that used to be black, climbing gear with teal accents, and he carries a light crossbow on his back, war hammer in his hand, and a grappling hook on his belt.
+		- dagger
+	- Background: Pirate turned legitimate merchant sailor
+- Aza, a female tiefling 
+	- Hair: 
+	- Skin: 
+	- Eyes: 
+	- Clothing: 
+	- Weapons: 
+	- Role: quandrix wizard. She has white skin and black hair. She wears long teal robes with red accents.
+	- Background: 
+- Thrast, a nonbinary hill dwarf, and 
+	- Hair: 
+	- Skin: 
+	- Eyes: 
+	- Clothing: 
+	- Weapons: 
+	- Role: Cleric of the Matron of Ravens, the goddess of  They have skin the color of mahogany, black hair tied up in a topknot, and a chinstrap beard. They wear black clothes with purple accents and a silver breastplate, and they carry a Warhammer.
+	- Background: Aza's adoptive sister
+- Thekar, a male mountain dwarf 
+	- Hair: 
+	- Skin: 
+	- Eyes: 
+	- Clothing: 
+	- Weapons: 
+	- Role: rogue who was turned to stone hundreds of years ago. He was discovered by the party in an evil temple and revived. He has light but weathered skin and bushy, sandy colored hair, eyebrows, beard and mustache, with clever eyes the color of a clear winter sky. He wears weathered leather armor that used to be black, climbing gear with teal accents, and he carries a light crossbow on his back, war hammer in his hand, and a grappling hook on his belt.
+	- Background: 
 
   
 
