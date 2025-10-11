@@ -108,11 +108,20 @@ cssclasses:
 
 ### Characters
 
-- Perjeon, a male half-elf echo knight fighter with a sailor background. He has blonde hair, white skin tanned by the sun, and blue eyes. He wears a 16th century inspired frock coat, blue with gold accents, and he wears a raper, short sword, and dagger belted at his waist.
-
+- Perjeon, a male half-elf
+	- Hair: blonde 
+	- Skin: white, tanned by the sun
+	- Eyes: blue
+	- Clothing: 
+		- He wears a 16th century inspired frock coat, blue with gold accents, and 
+	- Weapons: 
+		- raper
+		- short sword
+		- dagger belted at his waist.
+	- Role: Echo knight fighter with a sailor background.
 - Aza, a female tiefling quandrix wizard. She has white skin and black hair. She wears long teal robes with red accents.
 
-- Thrast, a nonbinary hill dwarf cleric of the Matron of Ravens, and Aza's adoptive sister. They have skin the color of mahogany, a chinstrap beard, and black hair tied up in a topknot. They wear black clothes with purple accents and a silver breastplate, and they carry a Warhammer.
+- Thrast, a nonbinary hill dwarf cleric of the Matron of Ravens, and Aza's adoptive sister. They have skin the color of mahogany, black hair tied up in a topknot, and a chinstrap beard. They wear black clothes with purple accents and a silver breastplate, and they carry a Warhammer.
 
 - Thekar, a male mountain dwarf rogue who was turned to stone hundreds of years ago. He was discovered by the party in an evil temple and revived. He has light but weathered skin and bushy, sandy colored hair, eyebrows, beard and mustache, with clever eyes the color of a clear winter sky. He wears weathered leather armor that used to be black, climbing gear with teal accents, and he carries a light crossbow on his back, war hammer in his hand, and a grappling hook on his belt.
 
