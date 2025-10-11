@@ -106,9 +106,13 @@ cssclasses:
 
 ## Story Prompt
 
-### Characters
+I am running a D&D campaign with my adult friends. Create a storybook using the below character descriptions and session notes. Pay close attention to the characters' appearances.
 
-#### Player Characters
+### Setting 
+
+Critical Role's Exandria, on the continent of Marquet. The characters begin in the oasis city of Ank'Harel in the center of the Rumedan Desert, and travel vi
+
+### Characters
 
 - Perjeon, a male half-elf
 	- Hair: blonde 
@@ -156,9 +160,6 @@ cssclasses:
 		- grappling hook
 	- Class: rogue 
 	- Background: Cave delving. Turned to stone hundreds of years ago. Discovered by Aza, Thrast, and Perjeon in an evil temple and revived.
-
-#### Non-Player Characters
-
 - Ilena 
 	- Hair: Curly black
 	- Skin: Copper
@@ -176,6 +177,8 @@ cssclasses:
 		- rogue assassin
 	- Background: 
 		- Pirate who used to sail with Perjeon; head of the thieves' guild in the desert oasis city of Ank'Harel on the continent of Marquet
+
+### Session Notes 
 
 Wanda (quartermaster, female genasi) welcomes everyone to the skyship (The Glittering Shroud). She takes us to the guest rooms. There is a two day travel across the desert to the coastal city of Shamal from their current location in the oasis city of Ank'Harel. Aza casts tiny hut for us all to sleep in so we don’t have to take watches. Thekar does not join us and stays up does some detailed stone working on the hand of a statue instead. He spots 5 rats. 
 
@@ -195,7 +198,9 @@ We arrive at Shamal, there is no skyport so we have to land a bit outside of tow
 
 When we wake up Ilena is gone, but Steve and Anya are eating breakfast. We join them. We buy some potions. Ilena meets up with us again. 
 
-We go to see Ilena’s contact. We go to sit in a booth and a person appears next to Ilena that looks like her. It’s her sister, Natalia. Perjeon is threatened by Ilena and forced to produce the map that he took from his father’s records. Ilena’s sister has an overlay that matches with the map that tells us where the shipwreck and the temple is located. Perjeon apologizes to Ilena and Natalia for what happened with the cannon in the past. Natalia forgives him, but Ilena is not ready to  her anger towards him. We go to the boat that Ilena has booked passage on.
+We go to see Ilena’s contact. We go to sit in a booth and a person appears next to Ilena that looks like her. It’s her sister, Natalia. Perjeon is threatened by Ilena and forced to produce the map that he took from his father’s records. Ilena’s sister has an overlay that matches with the map that tells us where the shipwreck and the temple is located. Perjeon apologizes to Ilena and Natalia for what happened with the cannon in the past. Natalia forgives him, but Ilena is not ready to release her anger towards him. 
+
+We board to the ship that Ilena has booked passage on.
 
 %%
 
