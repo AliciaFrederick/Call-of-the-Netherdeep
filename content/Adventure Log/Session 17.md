@@ -110,7 +110,7 @@ I am running a D&D campaign with my adult friends. Using a fantasy comic art sty
 
 ### Setting 
 
-Critical Role's Exandria, on the continent of Marquet. The characters begin in the oasis city of Ank'Harel in the center of the Rumedan Desert, and end up in Shamal, a coastal city on the north eastern side of the continent.
+Critical Role's Exandria, on the continent of Marquet. The characters begin in the oasis city of Ank'Harel in the center of the Rumedan Desert, and end up in Shamal, a coastal city on the north eastern side of the continent, with an arabian aesthetic.
 
 ### Characters
 
@@ -131,9 +131,9 @@ Critical Role's Exandria, on the continent of Marquet. The characters begin in t
 	- Background: Pirate turned legitimate merchant sailor. Used to sail with Ilena.
 - Aza, a female tiefling 
 	- Hair: black
-	- Skin: white
+	- Skin: light caucasian
 	- Eyes: teal
-	- Clothing: Wizard robes, teal with red accents
+	- Clothing: teal and red wizard robes
 	- Weapons and/or armor: 
 		- Quarterstaff
 	- Class: Quandrix wizard. 
@@ -180,7 +180,7 @@ Critical Role's Exandria, on the continent of Marquet. The characters begin in t
 
 ### Session Notes 
 
-Wanda (quartermaster, female genasi) welcomes everyone to the skyship (The Glittering Shroud). She takes us to the guest rooms. There is a two day travel across the desert to the coastal city of Shamal from their current location in the oasis city of Ank'Harel. Aza casts tiny hut for us all to sleep in so we don’t have to take watches. Thekar does not join us and stays up does some detailed stone working on the hand of a statue instead. He spots 5 rats. 
+Wanda (quartermaster, female genasi) welcomes everyone to the skyship (The Glittering Shroud). She takes us to the guest rooms. There is a two day travel across the desert to Shamal from Ank'Harel. Aza casts Leomand's tiny hut for us all to sleep in so we don’t have to take watches. Thekar does not join us and stays up doing some detailed stone working on the severed hand of a statue instead. He spots 5 rats. 
 
 We wake up. There is a sandworm down below. It doesn’t bother us. Perjeon investigates the ship. There are three barrels of apples. He counts 6 apples. No sign of Perjeon’s father, who is being held in an unknown location as leverage by Ilena. Ilena joins our breakfast and is mean to Perjeon. She tells us once we get to Shamal the airship will continue on to Tal'Dorei; we will have to get a sea ship. Ilena has a contact in Shamal who knows someone who survived the shipwreck. 
 
