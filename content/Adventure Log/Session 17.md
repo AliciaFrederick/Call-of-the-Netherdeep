@@ -106,7 +106,7 @@ cssclasses:
 
 ## Story Prompt
 
-I am running a D&D campaign with my adult friends. Using a fantasy comic art style, using the below information, create a storybook about Perjeon and Ilena, including flashbacks to their past adventures as good friends, and the present revelation that Perjeon accidentally killed her mother. Pay close attention to the characters' appearances.
+I am running a D&D campaign with my adult friends. Using a fantasy comic art style, and the below information, create a storybook about Perjeon and Ilena, including flashbacks to their past adventures on the high seas as good friends, and the revelation that Perjeon accidentally killed her mother. Pay close attention to the characters' appearances.
 
 ### Setting 
 
@@ -176,7 +176,7 @@ Critical Role's Exandria, on the continent of Marquet. The characters begin in t
 	- Role: 
 		- rogue assassin
 	- Background: 
-		- Pirate who used to sail with Perjeon; head of the thieves' guild in the desert oasis city of Ank'Harel on the continent of Marquet
+		- Pirate who used to sail with Perjeon; she knows he killed her mother. Currently head of the thieves' guild in Ank'Harel.
 
 ### Session Notes 
 
