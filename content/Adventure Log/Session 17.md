@@ -124,7 +124,7 @@ cssclasses:
 		- raper
 		- short sword
 		- dagger
-	- Background: Pirate turned legitimate merchant sailor
+	- Background: Pirate turned legitimate merchant sailor. Used to sail with Ilena.
 - Aza, a female tiefling 
 	- Hair: black
 	- Skin: white
@@ -175,7 +175,7 @@ cssclasses:
 	- Role: 
 		- rogue assassin
 	- Background: 
-		- pirate, head of the thieves' guild in the desert oasis city of Ank'Harel on the continent of Marquet
+		- Pirate who used to sail with Perjeon; head of the thieves' guild in the desert oasis city of Ank'Harel on the continent of Marquet
 
 Wanda (quartermaster, female genasi) welcomes everyone to the skyship (The Glittering Shroud). She takes us to the guest rooms. There is a two day travel to Shamal from Ank'Harel. Aza casts tiny hut for us all to sleep in so we don’t have to take watches. Thekar does not join us and stays up does some detailed stone working on the hand of a statue instead. He spots 5 rats. 
 
@@ -187,7 +187,11 @@ A bunch of giant vultures show up. Perjeon and Thrast shoot some crossbow bolts 
 
 We go to speak with Steve, Ilena pays him well, includes insurance. Steve implies that he used to work for Ilena’s father. We find out from Steve that the day Ilena was injured, her father was boarding another ship to negotiate the release of her mother, who was being held captive. The same cannon blast that injured Ilena killed her mother on the other ship, and was fired after the call for parley.
 
-Perjeon goes to sulk in his room. The rest of the group goes to speak with Anya. Thrast gains the respect of Anya through a strong handshake. Anya has tattoos. She reveals that Ilena had done her a favor in the past and that is why Anya works for Ilena. We arrive at Shamal, there is no skyport so we have to land a bit outside of town along a road. We get off the skyship. There is a walled city with a gate that has a line of people being checked by guards. Ilena gives the guards a slip of paper and they let us through. It’s late. Ilena takes us to the Jeweled Crab (inn) for the night. We sleep. When we wake up Ilena is gone, but Steve and Anya are eating breakfast. We join them. We buy some potions. Ilena meets up with us again. We go to see Ilena’s contact. We go to sit in a booth and a person appears next to Ilena that looks like her. It’s her sister. Perjeon is compelled to produce the map that he took from his father’s records. Ilena’s sister has an overlay that matches with the map that tells us where the shipwreck and the temple is located. Natalia is Ilena’s sister’s name. Perjeon apologizes to Ilena and Natalia. We go to the boat that Ilena has booked passage on.
+Perjeon goes to sulk in his room. He was the one who over-packed and misfired that cannon while Ilena was standing too close. He knew he had injured Ilena, but the news of her mother's death, and the fact that parley had already been called, were previously unknown to him. Now he understands why Ilena is so angry with him.
+
+The rest of the group goes to speak with Anya. Thrast gains the respect of Anya through a strong handshake. Anya has tattoos. She reveals that Ilena had done her a favor in the past and that is why Anya works for Ilena. 
+
+We arrive at Shamal, there is no skyport so we have to land a bit outside of town along a road. We get off the skyship. There is a walled city with a gate that has a line of people being checked by guards. Ilena gives the guards a slip of paper and they let us through. It’s late. Ilena takes us to the Jeweled Crab (inn) for the night. We sleep. When we wake up Ilena is gone, but Steve and Anya are eating breakfast. We join them. We buy some potions. Ilena meets up with us again. We go to see Ilena’s contact. We go to sit in a booth and a person appears next to Ilena that looks like her. It’s her sister. Perjeon is compelled to produce the map that he took from his father’s records. Ilena’s sister has an overlay that matches with the map that tells us where the shipwreck and the temple is located. Natalia is Ilena’s sister’s name. Perjeon apologizes to Ilena and Natalia. We go to the boat that Ilena has booked passage on.
 
 %%
 
