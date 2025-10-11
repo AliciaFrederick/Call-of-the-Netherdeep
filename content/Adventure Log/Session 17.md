@@ -177,7 +177,7 @@ cssclasses:
 	- Background: 
 		- Pirate who used to sail with Perjeon; head of the thieves' guild in the desert oasis city of Ank'Harel on the continent of Marquet
 
-Wanda (quartermaster, female genasi) welcomes everyone to the skyship (The Glittering Shroud). She takes us to the guest rooms. There is a two day travel to Shamal from Ank'Harel. Aza casts tiny hut for us all to sleep in so we don’t have to take watches. Thekar does not join us and stays up does some detailed stone working on the hand of a statue instead. He spots 5 rats. 
+Wanda (quartermaster, female genasi) welcomes everyone to the skyship (The Glittering Shroud). She takes us to the guest rooms. There is a two day travel across the desert to the coastal city of Shamal from their current location in the oasis city of Ank'Harel. Aza casts tiny hut for us all to sleep in so we don’t have to take watches. Thekar does not join us and stays up does some detailed stone working on the hand of a statue instead. He spots 5 rats. 
 
 We wake up. There is a sandworm down below. It doesn’t bother us. Perjeon investigates the ship. There are three barrels of apples. He counts 6 apples. No sign of Perjeon’s father, who is being held in an unknown location as leverage by Ilena. Ilena joins our breakfast and is mean to Perjeon. She tells us once we get to Shamal the airship will continue on to Tal'Dorei; we will have to get a sea ship. Ilena has a contact in Shamal who knows someone who survived the shipwreck. 
 
@@ -191,7 +191,11 @@ Perjeon goes to sulk in his room. He was the one who over-packed and misfired th
 
 The rest of the group goes to speak with Anya. Thrast gains the respect of Anya through a strong handshake. Anya has tattoos. She reveals that Ilena had done her a favor in the past and that is why Anya works for Ilena. 
 
-We arrive at Shamal, there is no skyport so we have to land a bit outside of town along a road. We get off the skyship. There is a walled city with a gate that has a line of people being checked by guards. Ilena gives the guards a slip of paper and they let us through. It’s late. Ilena takes us to the Jeweled Crab (inn) for the night. We sleep. When we wake up Ilena is gone, but Steve and Anya are eating breakfast. We join them. We buy some potions. Ilena meets up with us again. We go to see Ilena’s contact. We go to sit in a booth and a person appears next to Ilena that looks like her. It’s her sister. Perjeon is compelled to produce the map that he took from his father’s records. Ilena’s sister has an overlay that matches with the map that tells us where the shipwreck and the temple is located. Natalia is Ilena’s sister’s name. Perjeon apologizes to Ilena and Natalia. We go to the boat that Ilena has booked passage on.
+We arrive at Shamal, there is no skyport so we have to land a bit outside of town along a road. We get off the skyship. There is a walled city with a gate that has a line of people and camels being checked by guards. Ilena gives the guards a slip of paper and they let us through. It’s late. Ilena takes us to the Jeweled Crab (inn) for the night. We sleep. 
+
+When we wake up Ilena is gone, but Steve and Anya are eating breakfast. We join them. We buy some potions. Ilena meets up with us again. 
+
+We go to see Ilena’s contact. We go to sit in a booth and a person appears next to Ilena that looks like her. It’s her sister, Natalia. Perjeon is threatened by Ilena and forced to produce the map that he took from his father’s records. Ilena’s sister has an overlay that matches with the map that tells us where the shipwreck and the temple is located. Perjeon apologizes to Ilena and Natalia for what happened with the cannon in the past. Natalia forgives him, but Ilena is not ready to  her anger towards him. We go to the boat that Ilena has booked passage on.
 
 %%
 
