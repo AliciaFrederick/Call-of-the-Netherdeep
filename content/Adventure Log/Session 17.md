@@ -106,7 +106,7 @@ cssclasses:
 
 ## Story Prompt
 
-I am running a D&D campaign with my adult friends. Using a fantasy comic art style, and the below information, create a storybook about Perjeon and Ilena, including flashbacks to their past adventures on the high seas as good friends, and the revelation that Perjeon accidentally killed her mother. Pay close attention to the characters' appearances.
+I am running a D&D campaign with my adult friends. Using a fantasy comic art style, and the below information, create a storybook about Perjeon and Ilena, including flashbacks to their past adventures on the high seas as good friends, and the revelation that Perjeon accidentally caused her mother's death. Pay close attention to the characters' appearances.
 
 ### Setting 
 
@@ -188,7 +188,7 @@ The cook suggests we spend time fishing for sky fish. She gives Perjeon the key 
 
 The next day, a bunch of giant vultures show up. Perjeon and Thrast shoot some crossbow bolts at them, then Aza roasts all of them at once with a well-timed fireball. 
 
-We go to speak with Steve, Ilena pays him well, includes insurance. Steve implies that he used to work for Ilena’s father. We find out from Steve that the day Ilena was injured, her father was boarding another ship to negotiate the release of her mother, who was being held captive. The same cannon blast that injured Ilena killed her mother on the other ship, and was fired after the call for parley.
+We go to speak with Steve, Ilena pays him well, includes insurance. Steve implies that he used to work for Ilena’s father. We find out from Steve that the day Ilena was injured, her father was boarding another ship to negotiate the release of her mother, who was being held captive. The same cannon blast that injured Ilena struck her mother on the other ship, who passed away in her father's arms.
 
 Perjeon goes to sulk in his room. He was the one who over-packed and misfired that cannon while Ilena was standing too close. He knew he had injured Ilena, but the news of her mother's death, and the fact that parley had already been called, were previously unknown to him. Now he understands why Ilena is so angry with him.
 
